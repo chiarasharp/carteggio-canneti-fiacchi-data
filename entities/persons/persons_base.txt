@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="">
+   <!-- ID da compilare -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher><orgName></orgName></publisher>
+            <pubPlace></pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="genre">correspondance</title>
+            <editor key=""></editor>
+            <editor key=""></editor>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unchecked">
+         <change when-iso="" who="">creato</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person>
+               <idno type="CLASS"></idno>
+               <idno type="POLORAV"></idno>
+               <idno type="VIAF"></idno>
+               <idno type="ISNI"></idno>
+               <idno type="GND"></idno>
+               <persName type="reg">
+                  <forename></forename>
+                  <forename"></forename>
+                  <surname></surname>
+               </persName>
+               <birth>
+                  <date when-iso=""/>
+                  <placeName key=""></placeName>
+               </birth>
+               <death>
+                  <date when-iso=""/>
+                  <placeName key=""></placeName>
+               </death>
+               <sex value=""/>
+               <occupation></occupation>
+               <residence when-iso="">
+                  <placeName key=""></placeName>
+               </residence>
+               <residence when-iso="">
+                  <placeName key=""></placeName>
+               </residence>
+               <note>…</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+

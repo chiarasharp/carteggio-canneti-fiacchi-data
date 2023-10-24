@@ -2,12 +2,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ECF01001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="">
    <!-- ID da compilare -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mariangelo Fiacchi</title>
+            <title>Pietro Canneti</title>
          </titleStmt>
          <publicationStmt>
             <publisher><orgName></orgName></publisher>
@@ -27,30 +27,40 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unchecked">
-         <change when-iso="2023-11-06" who="#keychiaramanca">creato</change>
+         <change when-iso="2023-11-06" who="">creato</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPerson>
             <person>
-               <idno type="CLASS">6872</idno>
-               <idno type="POLO_RAV">882127</idno>
+               <idno type="CLASS">205</idno>
+               <idno type="POLORAV">249641</idno>
+               <idno type="VIAF">88842923</idno>
+               <idno type="ISNI">0000000062132368</idno>
+               <idno type="GND">1057568929</idno>
                <persName type="reg">
-                  <surname>Mariangelo</surname>,
-                  <forename>Fiacchi</forename>
+                  <forename type="religious">Pietro</forename>
+                  <forename type="birth">Giambattista</forename>
+                  <surname>Canneti</surname>
                </persName>
                <birth>
-                  <date when-iso="1688"/>
+                  <date when-iso="1659-11-21"/>
+                  <placeName key="">Cremona</placeName>
                </birth>
                <death>
-                  <date when-iso="1777"/>
+                  <date when-iso="1730-10-01"/>
+                  <placeName key="">Faenza</placeName>
                </death>
                <sex value="m"/>
                <occupation>monaco</occupation>
                <occupation>bibliotecario</occupation>
-               <residence when-iso="...">
-                  <placeName key="#keyravenna">Ravenna</placeName>
+               <occupation>poeta</occupation>
+               <residence when-iso="">
+                  <placeName key="">Ravenna</placeName>
+               </residence>
+               <residence when-iso="">
+                  <placeName key="">Fabriano</placeName>
                </residence>
                <note>…</note>
             </person>
@@ -58,3 +68,4 @@
       </body>
    </text>
 </TEI>
+
