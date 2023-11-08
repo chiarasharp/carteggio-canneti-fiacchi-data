@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="idlettera">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="B1C0001">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,9 +34,7 @@
             <editor key=""></editor>
             <editor key=""></editor>
          </seriesStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
+         <sourceDesc><p>SOme source info</p></sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile sameAs="linkbiblio">
@@ -49,7 +47,7 @@
          <div type="transcription">
             <pb n="1"/>
             <opener>
-               <salute><rs type="person" key="#ECF01001">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+               <salute><rs type="person" ref="#">Molto Reverendo Padre mio Osservandissimo</rs></salute>
                <date when-iso="1720">1720.</date>
                21
             </opener>
@@ -57,22 +55,23 @@
             <p>
                Se non fossero effetti di amore, ch’è passione di natura timida, e sollecita, <rs>VP</rs> averebbe motivo di abominare i miei pronostici, ed io vorrei seco gareggiare in detestarli. 
                Perché non sempre possono esser felici, e purtroppo si vanno avverando, lasciamoli da parte. 
-               Questo è indubitato ch’è necessaria a lei tuttavia una buona, e continua cautela per un pezzo avvenire, non fermandosi né pur l’inverno intiere le giornate nell’aria micidiale di Classe, ove basterà di quando in quando, ed anche ogni giorno dare, senza fermarvisi un’occhiata, e lasciarvi la direzione di quanto anderà occorrendo fino al compimento dell’opera. 
-               Ebbi lettera da Pesaro del Padre Lettore Guiccioli, che altri avvisi mi prometteva del suo avvicinamento, con dubbio però che la stagione fosse per impedire il progresso oltre a Fossombrone. 
-               Quest’ultimo ordinario nulla più mi ha recato di nuovo; e lunedì ho necessità di partire indispensabilmente da Fabriano. 
-               Temo pertanto di non rivedere il Reverendissimo Galamini, né il Padre Lettore, se essi almeno giunti qua non si prendono l’incomodo di passare a Valdicastro, ove alcuni affari mi terranno confinato.
+               Questo è indubitato ch’è necessaria a lei tuttavia una buona, e continua cautela per un pezzo avvenire, non fermandosi né pur l’inverno intiere le giornate nell’aria micidiale di <orgName ref="#O_CL">Classe</orgName>, ove basterà di quando in quando, ed anche ogni giorno dare, senza fermarvisi un’occhiata, e lasciarvi la direzione di quanto anderà occorrendo fino al compimento dell’opera. 
+               Ebbi lettera da <placeName ref="#PL_PE">Pesaro</placeName> del <persName ref="">Padre Lettore Guiccioli</persName>, che altri avvisi mi prometteva del suo avvicinamento, con dubbio però che la stagione fosse per impedire il progresso oltre a Fossombrone. 
+               Quest’ultimo ordinario nulla più mi ha recato di nuovo; e lunedì ho necessità di partire indispensabilmente da <placeName ref="#PL_FB">Fabriano</placeName>. 
+               Temo pertanto di non rivedere il <persName ref="">Reverendissimo Galamini</persName>, né il <rs ref="">Padre Lettore</rs>, se essi almeno giunti qua non si prendono l’incomodo di passare a <orgName ref="#O_AV">Valdicastro</orgName>, ove alcuni affari mi terranno confinato.
             </p>
             <p>
-               La ringrazio della spedizione fatta al Reverendissimo Tassis. Si faccia rimborsare la spesa del porto dal Padre Lettore al di lui ritorno.
+               La ringrazio della spedizione fatta al <persName ref="">Reverendissimo Tassis</persName>. Si faccia rimborsare la spesa del porto dal <rs ref="">Padre Lettore</rs> al di lui ritorno.
             </p>
             
             <p>
-               <persName key="#ECF010001">?.?. Mariangelo Fiacchi</persName> / ? <placeName key="ECF02001">Ravenna</placeName>
+               <persName ref="#PR_MF">?.?. Mariangelo Fiacchi</persName> / ? <placeName ref="#PL_RV">Ravenna</placeName>
             </p>
             
             <pb n="2"/>
             
-            <p>per il Padre Maestro Greco, oltre i quattro Tomi del Lirano più volte accennati e il Plinio del Jenson, vi sarà da servirlo della Bibbia del medesimo stampatore Venetijs 1476, che stimo sia della stessa edizione della nostra bellissima in pergamena, se non che questa è in carta, ben conservata, con una miniaturina dell’Eterno Padre in principio, e tutte le lettere iniziali miniate senz’oro, di rosso e azzurro. Così può acquistare il Plinio, e la Bibbia da lui sospirati. 
+            <p>per il Padre Maestro Greco, oltre i quattro Tomi del Lirano più volte accennati e il Plinio del Jenson, vi sarà da servirlo della Bibbia del medesimo stampatore Venetijs 1476, che stimo sia della stessa edizione della nostra bellissima in pergamena, se non che questa è in carta, ben conservata, con una miniaturina dell’Eterno Padre in principio, e tutte le lettere iniziali miniate senz’oro, di rosso e azzurro. 
+               Così può acquistare il Plinio, e la Bibbia da lui sospirati. 
                Potremo ancor dargli cotesto Quaresimale di Roberto de Licio, avendone io avuto ora un altro dell’istessa stampa di Cremona, alquanto più ornato, e più bello. 
                Ho di nuovo acquistato due esemplari del Maestro delle Sentenze, uno stampato da Vendelino de Spira in Venezia 1477 in 4to grande; ed uno Ms. in pergamena in foglio avanti il 1400. 
                Nel Fontanini alla pag. 50, ove del Giraldi si rip[…] la sola Tragedia Orbecche, ho aggiunto in margine: Le Tragedie di Gio. Batt. Giraldi Cintio, cioè Orbecche, Altile, Didone, Antivalomeni, Cleopatra, Arrenopia, Eufimia, Epitia, Selene in Venezia appresso Giulio Cesare Cagnaccini 1583 in 8vo. 

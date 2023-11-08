@@ -1,0 +1,20 @@
+<org xml:id="O_..." type="" sameAs="http://viaf.org/viaf/">
+      <orgName xml:lang="it">...</orgName>
+      <idno type="GND">...</idno>
+      <idno type="ISNI">...</idno>
+      <idno type="VIAF">...</idno>
+      <idno type="geonames"></idno>
+      <desc></desc>
+      <location>
+         <country key=".."/>
+         <geo>...</geo>
+         <address>
+            <street></street>
+            <postCode></postCode>
+            <settlement ref=""></settlement>
+         </address>
+      </location>
+      <event when-iso="">
+         <ab>founded</ab>
+      </event>
+   </org>

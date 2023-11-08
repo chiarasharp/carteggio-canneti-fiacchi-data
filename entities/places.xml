@@ -1,0 +1,47 @@
+<listPlace xml:id="I_PL" xmlns="http://www.tei-c.org/ns/1.0">
+   <place xml:id="PL_CR" type="settlement" sameAs="https://www.geonames.org/3177838/">
+      <placeName>Cremona</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.13325, 10.02129</geo>
+      </location>
+      <idno type="GND">4010700-0</idno>
+      <idno type="geonames">3177838</idno>
+   </place>
+   <place xml:id="PL_RV" type="settlement" sameAs="https://www.geonames.org/3169561/">
+      <placeName>Ravenna</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.41344 12.20121</geo>
+      </location>
+      <idno type="GND">4048629-1</idno>
+      <idno type="geonames">3169561</idno>
+   </place>
+   <place xml:id="PL_PE" type="settlement" sameAs="https://www.geonames.org/3171173">
+      <placeName>Pesaro</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.90921 12.9164</geo>
+      </location>
+      <idno type="GND">4115912-3</idno>
+      <idno type="geonames">3171173</idno>
+   </place>
+   <place xml:id="PL_FB" type="settlement" sameAs="https://www.geonames.org/3177315/">
+      <placeName>Fabriano</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.33941 12.90327</geo>
+      </location>
+      <idno type="GND">...</idno>
+      <idno type="geonames">3177315</idno>
+   </place>
+   <place xml:id="PL_FN" type="settlement" sameAs="https://www.geonames.org/3177300/">
+      <placeName>Faenza</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.29007 11.87948</geo>
+      </location>
+      <idno type="GND">4091999-7</idno>
+      <idno type="geonames">3177300</idno>
+   </place>
+</listPlace>

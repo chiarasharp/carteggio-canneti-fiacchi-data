@@ -1,0 +1,61 @@
+<listPerson xml:id="I_PR" type="cited-person" xmlns="http://www.tei-c.org/ns/1.0">
+   <person xml:id="PR_PC" sameAs="http://viaf.org/viaf/88842923">
+      <persName xml:lang="it">
+         <forename type="religious">Pietro</forename>
+         <forename type="birth">Giambattista</forename>
+         <surname>Canneti</surname>
+      </persName>
+      <idno type="CLASS">205</idno>
+      <idno type="POLORAV">249641</idno>
+      <idno type="VIAF">88842923</idno>
+      <idno type="ISNI">0000000062132368</idno>
+      <idno type="GND">1057568929</idno>
+      <birth>
+         <date when-iso="1659-11-21"/>
+         <placeName ref="">Cremona</placeName>
+      </birth>
+      <death>
+         <date when-iso="1730-10-01"/>
+         <placeName ref="#PL_FN">Faenza</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>bibliotecario</occupation>
+      <occupation>poeta</occupation>
+      <residence when-iso="">
+         <placeName ref="#PL_RV">Ravenna</placeName>
+      </residence>
+      <residence when-iso="">
+         <placeName ref="#PL_FB">Fabriano</placeName>
+      </residence>
+   </person>
+   <person xml:id="PR_MF">
+      <persName xml:lang="it">
+         <forename>Mariangelo</forename>
+         <surname>Fiacchi</surname>
+      </persName>
+      <idno type="CLASS">6872</idno>
+      <idno type="POLORAV">882127</idno>
+      <birth>
+         <date when-iso="1688"/>
+      </birth>
+      <death>
+         <date when-iso="1777"/>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>bibliotecario</occupation>
+      <residence when-iso="">
+         <placeName ref="#PL_RV">Ravenna</placeName>
+      </residence>
+   </person>
+   <person xml:id="PR_CG">
+      <persName xml:lang="it">
+         <forename>Casimiro</forename>
+         <surname>Galamini</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>Abate di Classe</occupation>
+   </person>
+</listPerson>

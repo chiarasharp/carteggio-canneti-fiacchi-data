@@ -1,0 +1,9 @@
+<place xml:id="PL_..." type="settlement" sameAs="https://www.geonames.org/...">
+      <placeName>...</placeName>
+      <location>
+         <country key=".."/>
+         <geo>...</geo>
+      </location>
+      <idno type="GND">...</idno>
+      <idno type="geonames">...</idno>
+</place>

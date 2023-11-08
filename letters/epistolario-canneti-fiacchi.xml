@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus version="3.3.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ECF">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="it">Epistolario Canneti Fiacchi</title>
+            <author ref="#PR_PC">Pietro Canneti</author>
+            <author ref="#PR_MF">Mariangelo Fiacchi</author>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref=""></persName>
+               <persName ref=""></persName>
+               <persName ref=""></persName>
+            </respStmt>
+            <respStmt>
+               <resp>Marking</resp>
+               <persName ref="">Chiara Manca</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited</resp>
+               <persName ref=""></persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <pubPlace>Ravenna</pubPlace>
+            <date when-iso=""/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="genre">Lettere</title>
+            <idno type="ISSN"></idno>
+            <editor ref=""></editor>
+            <editor ref=""></editor>
+         </seriesStmt>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Raccolta di lettere fra Pietro Canneti e Mariangelo Fiacchi, conservate alla Biblioteca Classense di Ravenna.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="it"/>
+         </langUsage>
+         <settingDesc>
+            <xi:include href="../entities/places.xml"/>
+         </settingDesc>
+         <particDesc>
+            <xi:include href="../entities/persons/cited-persons.xml"/>
+            <xi:include href="../entities/persons/staff.xml"/>
+            <xi:include href="../entities/orgs.xml"/>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc status="unfinished">
+         <change when-iso="2023-11-07" who="#S_CM">created</change>
+      </revisionDesc>
+   </teiHeader>
+   <xi:include href="busta_11/B1C0001.xml"/>
+</teiCorpus>
