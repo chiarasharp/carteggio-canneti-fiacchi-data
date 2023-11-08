@@ -1,4 +1,4 @@
-<person xml:id="PR_..." sameAs="http://viaf.org/viaf/...">
+<person xml:id="DLCL_CF_PC..." sameAs="http://viaf.org/viaf/...">
       <persName xml:lang="">
          <forename>...</forename>
          <surname>...</surname>

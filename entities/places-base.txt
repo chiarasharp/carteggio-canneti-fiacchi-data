@@ -1,4 +1,4 @@
-<place xml:id="PL_..." type="settlement" sameAs="https://www.geonames.org/...">
+<place xml:id="DLCL_CF_L..." type="settlement" sameAs="https://www.geonames.org/...">
       <placeName>...</placeName>
       <location>
          <country key=".."/>

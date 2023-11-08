@@ -1,5 +1,5 @@
-<listPlace xml:id="I_PL" xmlns="http://www.tei-c.org/ns/1.0">
-   <place xml:id="PL_CR" type="settlement" sameAs="https://www.geonames.org/3177838/">
+<listPlace xml:id="DLCL_CF_L" xmlns="http://www.tei-c.org/ns/1.0">
+   <place xml:id="DLCL_CF_L0001" type="settlement" sameAs="https://www.geonames.org/3177838/">
       <placeName>Cremona</placeName>
       <location>
          <country key="IT"/>
@@ -8,7 +8,7 @@
       <idno type="GND">4010700-0</idno>
       <idno type="geonames">3177838</idno>
    </place>
-   <place xml:id="PL_RV" type="settlement" sameAs="https://www.geonames.org/3169561/">
+   <place xml:id="DLCL_CF_L0002" type="settlement" sameAs="https://www.geonames.org/3169561/">
       <placeName>Ravenna</placeName>
       <location>
          <country key="IT"/>
@@ -17,7 +17,7 @@
       <idno type="GND">4048629-1</idno>
       <idno type="geonames">3169561</idno>
    </place>
-   <place xml:id="PL_PE" type="settlement" sameAs="https://www.geonames.org/3171173">
+   <place xml:id="DLCL_CF_L0003" type="settlement" sameAs="https://www.geonames.org/3171173">
       <placeName>Pesaro</placeName>
       <location>
          <country key="IT"/>
@@ -26,7 +26,7 @@
       <idno type="GND">4115912-3</idno>
       <idno type="geonames">3171173</idno>
    </place>
-   <place xml:id="PL_FB" type="settlement" sameAs="https://www.geonames.org/3177315/">
+   <place xml:id="DLCL_CF_L0004" type="settlement" sameAs="https://www.geonames.org/3177315/">
       <placeName>Fabriano</placeName>
       <location>
          <country key="IT"/>
@@ -35,7 +35,7 @@
       <idno type="GND">...</idno>
       <idno type="geonames">3177315</idno>
    </place>
-   <place xml:id="PL_FN" type="settlement" sameAs="https://www.geonames.org/3177300/">
+   <place xml:id="DLCL_CF_L0005" type="settlement" sameAs="https://www.geonames.org/3177300/">
       <placeName>Faenza</placeName>
       <location>
          <country key="IT"/>
@@ -43,5 +43,13 @@
       </location>
       <idno type="GND">4091999-7</idno>
       <idno type="geonames">3177300</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0006" type="settlement" sameAs="https://www.geonames.org/3179933">
+      <placeName>Case di Ribano</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.38333 11.48333</geo>
+      </location>
+      <idno type="geonames">3179933</idno>
    </place>
 </listPlace>

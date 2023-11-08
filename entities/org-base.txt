@@ -1,4 +1,4 @@
-<org xml:id="O_..." type="" sameAs="http://viaf.org/viaf/">
+<org xml:id="DLCL_CF_O..." type="" sameAs="http://viaf.org/viaf/">
       <orgName xml:lang="it">...</orgName>
       <idno type="GND">...</idno>
       <idno type="ISNI">...</idno>
