@@ -9,7 +9,7 @@
       <desc>Biblioteca storica del comune di <placeName ref="#DLCL_CF_L0002">Ravenna</placeName></desc>
       <location>
          <country key="IT"/>
-         <geo>44.41453 12.19994</geo>
+         <geo>44.41453, 12.19994</geo>
          <address>
             <street>Via Alfredo Baccarini 3</street>
             <postCode>48121</postCode>
@@ -39,5 +39,21 @@
          </ab>
          
       </event>
+   </org>
+   <org xml:id="DLCL_CF_O0003" type="abbey" sameAs="https://viaf.org/viaf/139009097/">
+      <orgName xml:lang="it">Abbazia di Santa Maria del Monte</orgName>
+      <idno type="GND">1019278-5</idno>
+      <idno type="ISNI">0000000122014508</idno>
+      <idno type="VIAF">139009097</idno>
+      <desc></desc>
+      <location source="https://it.wikipedia.org/wiki/Abbazia_di_Santa_Maria_del_Monte">
+         <country key="it"/>
+         <geo>44.1319, 12.2551</geo>
+         <address>
+            <street>Via del Monte 999</street>
+            <postCode>47521</postCode>
+            <settlement ref="#DLCL_CF_L0009">Cesena</settlement>
+         </address>
+      </location>
    </org>
 </listOrg>

@@ -1,10 +1,9 @@
 <person xml:id="DLCL_CF_PC..." sameAs="http://viaf.org/viaf/...">
       <persName xml:lang="">
          <forename>...</forename>
+         <forename>...</forename>
          <surname>...</surname>
       </persName>
-      <idno type="CLASS">..</idno>
-      <idno type="POLORAV">..</idno>
       <idno type="VIAF">..</idno>
       <idno type="ISNI">..</idno>
       <idno type="GND">..</idno>

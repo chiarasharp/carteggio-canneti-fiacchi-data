@@ -49,8 +49,8 @@
    <text type="letter">
       <body>
          <div type="transcription">
-            <pb n="1r"/>
-            <pb n="1v"/>
+            <pb xml:id="DLCL_CF_E10001_C1R" n="1r"/>
+            <pb xml:id="DLCL_CF_E10001_C1V" n="1v"/>
          </div>
       </body>
    </text>

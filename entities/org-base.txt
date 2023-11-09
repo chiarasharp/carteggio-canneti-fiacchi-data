@@ -18,3 +18,17 @@
          <ab>founded</ab>
       </event>
    </org>
+   
+   
+      <org xml:id="DLCL_CF_O000x" type="monastic-order" sameAs="http://viaf.org/viaf/8081156012419949700007">
+      <orgName xml:lang="it">Congregazione degli Eremiti Camaldolesi di Monte Corona</orgName>
+      <idno type="ISNI">0000000121739515</idno>
+      <idno type="VIAF">8081156012419949700007</idno>
+      <desc>Istituto religioso maschile di diritto pontificio costituito da eremi e monasteri sui iuris.</desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement sameAs="https://www.geonames.org/3168726/">Camaldoli</settlement>
+         </address>
+      </location>
+   </org>

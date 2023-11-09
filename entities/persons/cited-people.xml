@@ -1,0 +1,187 @@
+<listPerson xml:id="DLCL_CF_PC" type="cited-people" xmlns="http://www.tei-c.org/ns/1.0">
+   <person xml:id="DLCL_CF_PC0001" sameAs="http://viaf.org/viaf/88842923">
+      <persName xml:lang="it">
+         <forename type="religious">Pietro</forename>
+         <forename type="birth">Giambattista</forename>
+         <surname>Canneti</surname>
+      </persName>
+      <idno type="CLASS">205</idno>
+      <idno type="POLORAV">249641</idno>
+      <idno type="VIAF">88842923</idno>
+      <idno type="ISNI">0000000062132368</idno>
+      <idno type="GND">1057568929</idno>
+      <birth>
+         <date when-iso="1659-11-21"/>
+         <placeName ref="#DLCL_CF_L0001">Cremona</placeName>
+      </birth>
+      <death>
+         <date when-iso="1730-10-01"/>
+         <placeName ref="#DLCL_CF_L0005">Faenza</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>bibliotecario</occupation>
+      <occupation>poeta</occupation>
+      <affiliation><orgName sameAs="http://viaf.org/viaf/8081156012419949700007">Ordine dei Camaldolesi</orgName></affiliation>
+   </person>
+   <person xml:id="DLCL_CF_PC0002">
+      <persName xml:lang="it">
+         <forename>Mariangelo</forename>
+         <surname>Fiacchi</surname>
+      </persName>
+      <idno type="CLASS">6872</idno>
+      <idno type="POLORAV">882127</idno>
+      <birth>
+         <date when-iso="1688"/>
+      </birth>
+      <death>
+         <date when-iso="1777"/>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>bibliotecario</occupation>
+      <affiliation><orgName sameAs="http://viaf.org/viaf/8081156012419949700007">Ordine dei Camaldolesi</orgName></affiliation>
+   </person>
+   <person xml:id="DLCL_CF_PC0003">
+      <persName xml:lang="it">
+         <forename>Casimiro</forename>
+         <surname>Galamini</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>Abate di Classe</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0004">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <forename>Antonio</forename>
+         <surname>Marozzi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0005" sameAs="http://viaf.org/viaf/99383060">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <forename>Maria</forename>
+         <surname>Ruinetti</surname>
+      </persName>
+      <idno type="VIAF">99383060</idno>
+      <idno type="ISNI">0000000069810272</idno>
+      <birth>
+         <date when-iso="1688"/>
+      </birth>
+      <death>
+         <date when-iso="1708"/>
+      </death>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0006">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <forename>Carlo</forename>
+         <surname>Amici</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0007" sameAs="http://viaf.org/viaf/37700199">
+      <persName xml:lang="it">
+         <forename>Bonifacio</forename>
+         <surname>Collina</surname>
+      </persName>
+      <idno type="VIAF">37700199</idno>
+      <idno type="ISNI">0000000116226803</idno>
+      <idno type="GND">117696110</idno>
+      <birth source="https://www.treccani.it/enciclopedia/bonifacio-collina_(Dizionario-Biografico)/">
+         <date when-iso="1689"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/bonifacio-collina_(Dizionario-Biografico)/">
+         <date when-iso="1770"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <affiliation><orgName sameAs="http://viaf.org/viaf/8081156012419949700007">Ordine dei Camaldolesi</orgName></affiliation>
+   </person>
+   <person xml:id="DLCL_CF_PC0008" sameAs="http://viaf.org/viaf/14841099">
+      <persName xml:lang="it">
+         <forename>Pier</forename>
+         <forename>Jacopo</forename>
+         <surname>Martello</surname>
+      </persName>
+      <idno type="VIAF">14841099</idno>
+      <idno type="ISNI">0000000108721441</idno>
+      <idno type="GND">118941968</idno>      
+      <birth source="https://www.treccani.it/enciclopedia/pier-jacopo-martello_(Dizionario-Biografico)/">
+         <date when-iso="1665-04-28"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/pier-jacopo-martello_(Dizionario-Biografico)/">
+         <date when-iso="1727-05-10"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0009" sameAs="http://viaf.org/viaf/24656352">
+      <persName xml:lang="it">
+         <forename>Benedetto</forename>
+         <surname>Bacchini</surname>
+      </persName>
+      <idno type="VIAF">24656352</idno>
+      <idno type="ISNI">0000000061234071</idno>
+      <idno type="GND">104119691</idno>
+      <birth source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
+         <date when-iso="1651-08-31"/>
+         <placeName ref="https://www.geonames.org/3177029">Borgo San Donnino</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
+         <date when-iso="1721-09-10"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <affiliation><orgName sameAs="http://viaf.org/viaf/247149196253174790123">Ordine di San Benedetto</orgName></affiliation>
+   </person>
+   <person xml:id="DLCL_CF_PC0010" sameAs="http://viaf.org/viaf/100218993">
+      <persName xml:lang="it">
+         <forename>Gaio</forename>
+         <forename>Valerio</forename>
+         <surname>Catullo</surname>
+      </persName>
+      <idno type="VIAF">100218993</idno>
+      <idno type="ISNI">0000000121452004</idno>
+      <idno type="GND">118519719</idno>
+      <birth>
+         <date when-iso="-0084"/>
+         <placeName ref="https://www.geonames.org/3164527/">Verona</placeName>
+      </birth>
+      <death>
+         <date when-iso="-0054"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0011" sameAs="http://viaf.org/viaf/66457966">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Antonio</forename>
+         <surname>Volpi</surname>
+      </persName>
+      <idno type="VIAF">66457966</idno>
+      <idno type="ISNI">0000000121371319</idno>
+      <idno type="GND">124501109</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giovanni-antonio-volpi_(Dizionario-Biografico)/">
+         <date when-iso="1686-11-10"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giovanni-antonio-volpi_(Dizionario-Biografico)/">
+         <date when-iso="1766-10-25"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>editore</occupation>
+      <occupation>critico</occupation>
+   </person>
+</listPerson>

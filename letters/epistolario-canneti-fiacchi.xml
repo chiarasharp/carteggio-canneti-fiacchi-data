@@ -69,7 +69,7 @@
             <xi:include href="../entities/places.xml"/>
          </settingDesc>
          <particDesc>
-            <xi:include href="../entities/persons/cited-persons.xml"/>
+            <xi:include href="../entities/persons/cited-people.xml"/>
             <xi:include href="../entities/persons/staff.xml"/>
             <xi:include href="../entities/orgs.xml"/>
          </particDesc>
