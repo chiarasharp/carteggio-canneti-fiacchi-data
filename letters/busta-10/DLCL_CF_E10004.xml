@@ -2,18 +2,18 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10004">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Ribano, 31 Ottobre 1711)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Ribano, 19 Ottobre 1712)</title>
             <author ref="#DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10">Busta 10</title>
-            <biblScope unit="letter">1</biblScope>
+            <biblScope unit="letter">4</biblScope>
             <editor></editor>
          </seriesStmt>
          <sourceDesc>
@@ -36,7 +36,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName>
-               <date when-iso="1711-10-31"/>
+               <date when-iso="1712-10-19"/>
                <placeName ref="#DLCL_CF_L0006">Ribano</placeName>
             </correspAction>
             <correspAction type="received">
@@ -51,16 +51,15 @@
          <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/2/20633/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/files/large/20633/DSC_5579.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/files/large/20633/DSC_5580.jpg"/>
+   <facsimile sameAs="https://classense.unibo.it/iiif/20636/manifest">
+      <graphic n="1r" url="https://classense.unibo.it/files/large/20636/DSC_5589.jpg"/>
+      <graphic n="1v" url="https://classense.unibo.it/files/large/20636/DSC_5590.jpg"/>
    </facsimile>
    <text type="letter">
       <body>
-         <milestone xml:id="DLCL_CF_E10" unit="busta" n="10"/>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10001_C1R" n="1r"/>
-            <pb xml:id="DLCL_CF_E10001_C1V" n="1v"/>
+            <pb xml:id="DLCL_CF_E10004_C1R" n="1r"/>
+            <pb xml:id="DLCL_CF_E10004_C1V" n="1v"/>
          </div>
       </body>
    </text>

@@ -184,4 +184,120 @@
       <occupation>editore</occupation>
       <occupation>critico</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0012" sameAs="https://viaf.org/viaf/233022052">
+      <persName xml:lang="it">
+         <forename>Venanzio</forename>
+         <surname>Simi</surname>
+      </persName>
+      <idno type="VIAF">233022052</idno>
+      <idno type="ISNI">0000000062694686</idno>
+      <birth source="https://it.wikipedia.org/wiki/Venanzio_Simi">
+         <date when-iso="1641"/>
+         <placeName ref="https://www.geonames.org/3176203/">Genzano di Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Venanzio_Simi">
+         <date when-iso="1718"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>religioso</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0013" sameAs="https://viaf.org/viaf/68933348">
+      <persName xml:lang="it">
+         <forename>Lodovico</forename>
+         <forename>Antonio</forename>
+         <surname>Muratori</surname>
+      </persName>
+      <idno type="VIAF">68933348</idno>
+      <idno type="ISNI">000000121379855</idno>
+      <idno type="GND">118844520</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ludovico-antonio-muratori/">
+         <date when-iso="1672"/>
+         <placeName ref="https://www.geonames.org/3164342">Vignola</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ludovico-antonio-muratori/">
+         <date when-iso="1750"/>
+         <placeName ref="#DLCL_CF_L0012">Modena</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>prete</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0014" sameAs="https://viaf.org/viaf/13125897/">
+      <persName xml:lang="it">
+         <forename>Girolamo</forename>
+         <surname>Rossi</surname>
+      </persName>
+      <idno type="VIAF">13125897</idno>
+      <idno type="ISNI">0000000085654978</idno>
+      <idno type="GND">1055139273</idno>
+      <birth source="https://www.treccani.it/enciclopedia/girolamo-rossi_(Dizionario-Biografico)/">
+         <date when-iso="1539"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/girolamo-rossi_(Dizionario-Biografico)/">
+         <date when-iso="1607-09"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>medico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0015" sameAs="http://viaf.org/viaf/315074059">
+      <persName xml:lang="it">
+         <forename>Giustiniano</forename>
+         <surname>Pagliarini</surname>
+      </persName>
+      <idno type="VIAF">315074059</idno>
+      <idno type="ISNI">0000000446387669</idno>
+      <idno type="GND">1067655395</idno>
+      <birth>
+         <date when-iso="1667"/>
+      </birth>
+      <death>
+         <date when-iso="1740"/>
+      </death>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0016" sameAs="http://viaf.org/viaf/2946160668073303560004">
+      <persName xml:lang="">
+         <forename>Serafino</forename>
+         <surname>Pasolino</surname>
+      </persName>
+      <idno type="VIAF">2946160668073303560004</idno>
+      <idno type="ISNI">0000000061396150</idno>
+      <idno type="GND">1016903855</idno>
+      <birth source="https://it.wikipedia.org/wiki/Serafino_Pasolino">
+         <date when-iso="1649-06-19"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Serafino_Pasolino">
+         <date when-iso="1715-12-24"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0017" sameAs="http://viaf.org/viaf/8180216">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Romualdo</forename>
+      </persName>
+      <idno type="VIAF">8180216</idno>
+      <idno type="ISNI">0000000013205743</idno>
+      <idno type="GND">118602497</idno>
+      <birth source="https://www.treccani.it/enciclopedia/santo-romualdo_(Dizionario-di-Storia)/">
+         <date notBefore-iso="952"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/santo-romualdo_(Dizionario-di-Storia)/">
+         <date when-iso="1027"/>
+         <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>abate</occupation>
+      <affiliation><orgName sameAs="http://viaf.org/viaf/8081156012419949700007">Ordine dei Camaldolesi</orgName></affiliation>
+   </person>
 </listPerson>

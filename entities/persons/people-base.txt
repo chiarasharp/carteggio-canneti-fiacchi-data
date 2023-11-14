@@ -17,7 +17,4 @@
       </death>
       <sex value=""/>
       <occupation>..</occupation>
-      <residence when-iso="">
-         <placeName ref="..">..</placeName>
-      </residence>
    </person>

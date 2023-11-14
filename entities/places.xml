@@ -87,4 +87,31 @@
       <idno type="GND">39551-1</idno>
       <idno type="geonames">3171728</idno>
    </place>
+   <place xml:id="DLCL_CF_L0011" type="settlement" sameAs="https://www.geonames.org/3168700">
+      <placeName>Sala Bolognese</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.61387, 11.25669</geo>
+      </location>
+      <idno type="GND">4825916-0</idno>
+      <idno type="geonames">3168700</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0012" type="settlement" sameAs="https://www.geonames.org/3173331">
+      <placeName>Modena</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.64783, 10.92539</geo>
+      </location>
+      <idno type="GND">4115170-7</idno>
+      <idno type="geonames">3173331</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0013" type="settlement" sameAs="https://www.geonames.org/3177090">
+      <placeName>Ferrara</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.83804, 11.62057</geo>
+      </location>
+      <idno type="GND">4092153-0</idno>
+      <idno type="geonames">3177090</idno>
+   </place>
 </listPlace>
