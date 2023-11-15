@@ -300,4 +300,166 @@
       <occupation>abate</occupation>
       <affiliation><orgName sameAs="http://viaf.org/viaf/8081156012419949700007">Ordine dei Camaldolesi</orgName></affiliation>
    </person>
+   <person xml:id="DLCL_CF_PC0018" sameAs="http://viaf.org/viaf/100208380">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <surname>Rondinini</surname>
+      </persName>
+      <idno type="VIAF">100208380</idno>
+      <idno type="ISNI">0000000114785636</idno>
+      <idno type="GND">1055266879</idno>
+      <birth>
+         <date when-iso="1682"/>
+      </birth>
+      <death>
+         <date when-iso="1718"/>
+      </death>
+      <sex value="m"/>
+      <occupation>canonico</occupation>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0019" sameAs="http://viaf.org/viaf/43056950">
+      <persName xml:lang="it">
+         <forename>Giulio</forename>
+         <surname>Castellani</surname>
+      </persName>
+      <idno type="VIAF">43056950</idno>
+      <idno type="ISNI">0000000061205596</idno>
+      <idno type="GND">135564042</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giulio-castellani_%28Dizionario-Biografico%29/">
+         <date when-iso="1528"/>
+         <placeName ref="#DLCL_CF_L0005">Faenza</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giulio-castellani_%28Dizionario-Biografico%29/">
+         <date when-iso="1586-10-23"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filosofo</occupation>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0020" sameAs="http://viaf.org/viaf/2460147">
+      <persName xml:lang="fr">
+         <forename>Michel</forename>
+         <forename>Antoine</forename>
+         <surname>Baudrand</surname>
+      </persName>
+      <idno type="VIAF">2460147</idno>
+      <idno type="ISNI">0000000079694818</idno>
+      <idno type="GND">124639089</idno>
+      <birth source="https://fr.wikipedia.org/wiki/Michel_Antoine_Baudrand">
+         <date when-iso="1633-07-28"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </birth>
+      <death source="https://fr.wikipedia.org/wiki/Michel_Antoine_Baudrand">
+         <date when-iso="1700-05-29"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>geografo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0021" sameAs="http://viaf.org/viaf/57421589">
+      <persName xml:lang="it">
+         <forename>Ferdinando</forename>
+         <surname>Ughelli</surname>
+      </persName>
+      <idno type="VIAF">57421589</idno>
+      <idno type="ISNI">0000000118674394</idno>
+      <idno type="GND">119298341</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ferdinando-ughelli_%28Dizionario-Biografico%29/">
+         <date when-iso="1596-03-19"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ferdinando-ughelli_%28Dizionario-Biografico%29/">
+         <date when-iso="1670-05-19"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0022" sameAs="https://viaf.org/viaf/69017412/">
+      <persName xml:lang="fr">
+         <roleName type="nobility">Sieur</roleName>
+         <forename>Charles</forename>
+         <forename>Du Fresne</forename>
+         <surname>Du Cange</surname>
+      </persName>
+      <idno type="VIAF">69017412</idno>
+      <idno type="ISNI">0000000121021239</idno>
+      <idno type="GND">116231882</idno>
+      <birth source="https://www.treccani.it/enciclopedia/du-cange-charles-du-fresne-sieur_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1610-12-18"/>
+         <placeName ref="https://www.geonames.org/3037854">Amiens</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/du-cange-charles-du-fresne-sieur_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1688-10-23"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0023" sameAs="http://viaf.org/viaf/13651211">
+      <persName xml:lang="it">
+         <roleName type="religious">Sant'</roleName>
+         <forename>Epifanio</forename>
+      </persName>
+      <idno type="VIAF">13651211</idno>
+      <idno type="ISNI">0000000108715770</idno>
+      <idno type="GND">118682229</idno>
+      <birth source="https://www.treccani.it/enciclopedia/epifanio-di-salamina/">
+         <date notBefore-iso="0310"/>
+         <placeName ref="https://explore.gnd.network/en/gnd/1085178552">Eleuteropoli</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/epifanio-di-salamina/">
+         <date when-iso="0403"/>
+         <placeName ref="https://www.geonames.org/363196">Mar Mediterraneo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+      <occupation>vescovo</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0024" sameAs="http://viaf.org/viaf/105155222">
+      <persName xml:lang="it">
+         <forename type="religious">Sant'</forename>
+         <forename>Atanasio</forename>
+      </persName>
+      <idno type="VIAF">105155222</idno>
+      <idno type="ISNI">0000000121035972</idno>
+      <idno type="GND">118504843</idno>
+      <birth source="https://it.wikipedia.org/wiki/Atanasio_di_Alessandria">
+         <date notBefore-iso="0293" notAfter-iso="0295"/>
+         <placeName ref="https://www.geonames.org/361058/">Alessandria D'Egitto</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Atanasio_di_Alessandria">
+         <date when-iso="0373-05-02"/>
+         <placeName ref="https://www.geonames.org/361058/">Alessandria D'Egitto</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0025" sameAs="http://viaf.org/viaf/39382430">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Petrarca</surname>
+      </persName>
+      <idno type="VIAF">39382430</idno>
+      <idno type="ISNI">0000000121287790</idno>
+      <idno type="GND">118593234</idno>
+      <birth>
+         <date when-iso="1304-07-20"/>
+         <placeName ref="#DLCL_CF_L0019">Arezzo</placeName>
+      </birth>
+      <death>
+         <date when-iso="1374-07-19"/>
+         <placeName ref="https://www.geonames.org/3182805">Arquà</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   
 </listPerson>

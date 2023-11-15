@@ -1,7 +1,8 @@
 <listOrg xml:id="DLCL_CF_O" xmlns="http://www.tei-c.org/ns/1.0">
    <org xml:id="DLCL_CF_O0001" type="library" sameAs="http://viaf.org/viaf/122822452">
-      <orgName xml:lang="it">Istituzione Biblioteca Classense</orgName>
-      <orgName xml:lang="it">Biblioteca comunale Classense</orgName>
+      <orgName notBefore-iso="1803" xml:lang="it">Istituzione Biblioteca Classense</orgName>
+      <orgName notBefore-iso="1803" xml:lang="it">Biblioteca comunale Classense</orgName>
+      <orgName notAfter-iso="1803" xml:lang="it">Monastero Camaldolese di Classe</orgName>
       <idno type="GND">5007734-X</idno>
       <idno type="ISNI">0000000417565075</idno>
       <idno type="VIAF">122822452</idno>
@@ -35,7 +36,7 @@
       <event notBefore-iso="1005" notAfter-iso="1009">
          <ab>
             founded
-            <persName ref="http://viaf.org/viaf/8180216">S. Romualdo degli Onesti</persName>
+            <persName ref="#DLCL_CF_PC0017">S. Romualdo degli Onesti</persName>
          </ab>
          
       </event>
@@ -53,6 +54,19 @@
             <street>Via del Monte 999</street>
             <postCode>47521</postCode>
             <settlement ref="#DLCL_CF_L0009">Cesena</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0004" type="archdiocese" sameAs="http://viaf.org/viaf/114159474192227661977">
+      <orgName xml:lang="it">Arcidiocesi Di Rossano-Cariati</orgName>
+      <idno type="VIAF">114159474192227661977</idno>
+      <desc></desc>
+      <location source="https://it.wikipedia.org/wiki/Arcidiocesi_di_Rossano-Cariati">
+         <country key="it"/>
+         <address>
+            <street>Via Arcivescovado 5</street>
+            <postCode>87067</postCode>
+            <settlement ref="https://www.geonames.org/2523578">Rossano</settlement>
          </address>
       </location>
    </org>

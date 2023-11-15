@@ -60,7 +60,38 @@
          <milestone xml:id="DLCL_CF_E10" unit="busta" n="10"/>
          <div type="transcription">
             <pb xml:id="DLCL_CF_E10001_C1R" n="1r"/>
-            <pb xml:id="DLCL_CF_E10001_C1V" n="1v"/>
+            
+            <opener>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+               <date when-iso="1711">1711</date> 12 13.
+            </opener>
+            
+            <p>
+               Con la gratissima lettera di <rs type="person">V.P.</rs> ricevo la nota de’ libri di <placeName ref="#DLCL_CF_L0005">Faenza</placeName> e insieme la certa notizia dell’offerta già fatta dal mio <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
+               Con questo lume ora potrò regolarmi nel rispondere alla richiesta di dieci scudi. 
+               Mi spiace che ancora non siano giunti i due Manoscritti del Quadriregio; perché non avrò costì l’ozio, che più posso godere, per collazionarli con lo stampati. 
+               Avrò caro che presto arrivino i libri del <persName ref="#DLCL_CF_PC0005">Ruinetti</persName>. 
+               Raccomando a <rs type="person">V.P.</rs> sollecitare la copia del Calendario; la qual fatta consegni subito al <rs type="person">Padre Camerlingo</rs> per la stampa. 
+               Indi converrà ch’ella applichi a fare il Catalogo della libreria Vecchia. con che raccomandandomi a suoi santi sagrifici, ed alle orazioni sue, mi confermo.
+            </p>
+     
+            <closer>
+               <dateline><placeName ref="#DLCL_CF_L0006">Ribano</placeName> <date when-iso="1711-10-31">31 ottobre 1711</date>.</dateline>
+               <salute>DVP</salute>
+            </closer>
+            
+            <postscript>
+               <p>
+                  Mi scrive il <persName ref="#DLCL_CF_PC0006">Padre Amici</persName> che siano giunte ad <persName ref="#DLCL_CF_PC0007">Bonifacio</persName> le tre copie del <persName ref="#DLCL_CF_PC0008">Martelli</persName>. 
+                  Faccia sapere a lui che si faccia venire da quel Prete del <orgName ref="#DLCL_CF_O0003">Monte di Cesena</orgName> la Copia delle Hypercrisis del <persName ref="#DLCL_CF_PC0009">Bacchini</persName>. 
+                  Veda col <rs type="person">Padre Camerlengo</rs>, che ha la chiave, trovare delle nostre Camere due copie del <persName ref="#DLCL_CF_PC0010">Catullo</persName> del <persName ref="#DLCL_CF_PC0011">Volpi</persName> legato alla rustica; e le mandi al <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>.
+               </p>
+            </postscript>
+            
+            <closer>
+               <signed>Carissimo Padre nella fede <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName></signed>
+            </closer>
+           
          </div>
       </body>
    </text>

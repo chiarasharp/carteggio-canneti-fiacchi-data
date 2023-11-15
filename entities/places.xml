@@ -114,4 +114,58 @@
       <idno type="GND">4092153-0</idno>
       <idno type="geonames">3177090</idno>
    </place>
+   <place xml:id="DLCL_CF_L0014" type="settlement" sameAs="https://www.geonames.org/3178956">
+      <placeName>Cesenatico</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.19987, 12.3991</geo>
+      </location>
+      <idno type="GND">4377753-3</idno>
+      <idno type="geonames">3178956</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0015" type="settlement" sameAs="https://www.geonames.org/3172700">
+      <placeName>Montiano</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.08232, 12.30455</geo>
+      </location>
+      <idno type="GND">7637691-6</idno>
+      <idno type="geonames">3172700</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0016" type="settlement" sameAs="https://www.geonames.org/3182552">
+      <placeName>Bagnacavallo</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.41402, 11.97813</geo>
+      </location>
+      <idno type="GND">4384712-2</idno>
+      <idno type="geonames">3182552</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0017" type="settlement" sameAs="https://www.geonames.org/2988507">
+      <placeName>Parigi</placeName>
+      <location>
+         <country key="fr"/>
+         <geo>48.85341, 2.3488</geo>
+      </location>
+      <idno type="GND">4044660-8</idno>
+      <idno type="geonames">2988507</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0018" type="settlement" sameAs="https://www.geonames.org/3176959">
+      <placeName>Firenze</placeName>
+      <location>
+         <country key="it"/>
+         <geo>43.77925, 11.24626</geo>
+      </location>
+      <idno type="GND">4017581-9</idno>
+      <idno type="geonames">3176959</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0019" type="settlement" sameAs="https://www.geonames.org/3182884">
+      <placeName>Arezzo</placeName>
+      <location>
+         <country key="it"/>
+         <geo>43.46276, 11.88068</geo>
+      </location>
+      <idno type="GND">4002888-4</idno>
+      <idno type="geonames">3182884</idno>
+   </place>
 </listPlace>
