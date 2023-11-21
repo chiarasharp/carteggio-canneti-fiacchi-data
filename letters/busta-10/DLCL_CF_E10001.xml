@@ -1,27 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10001">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="it">Canneti a Fiacchi (Ribano, 31 Ottobre 1711)</title>
-            <author ref="#DLCL_CF_PC0001">Pietro Canneti</author>
+            <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
-            <title type="subseries" ref="#DLCL_CF_E10">Busta 10</title>
+            <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
             <biblScope unit="letter">1</biblScope>
-            <editor></editor>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <country key="IT">Italia</country>
-                  <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-                  <institution ref="#DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                  <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                  <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
                   <repository></repository>
                   <collection></collection>
                   <idno></idno>
@@ -35,12 +30,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName>
+               <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
                <date when-iso="1711-10-31"/>
-               <placeName ref="#DLCL_CF_L0006">Ribano</placeName>
+               <placeName ref="#DLCL_CF_L0006" key="DLCL_CF_L0006">Ribano</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+               <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -56,42 +51,43 @@
       <graphic n="1v" url="https://classense.unibo.it/files/large/20633/DSC_5580.jpg"/>
    </facsimile>
    <text type="letter">
+      <milestone xml:id="DLCL_CF_E10" unit="busta" n="10"/>
       <body>
-         <milestone xml:id="DLCL_CF_E10" unit="busta" n="10"/>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10001_C1R" n="1r"/>
+            <pb xml:id="DLCL_CF_E10001_C1R" n="1r" facs="https://classense.unibo.it/files/large/20633/DSC_5579.jpg"/>
             
             <opener>
-               <salute><rs type="person" ref="#DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
                <date when-iso="1711">1711</date> 12 13.
             </opener>
             
             <p>
-               Con la gratissima lettera di <rs type="person">V.P.</rs> ricevo la nota de’ libri di <placeName ref="#DLCL_CF_L0005">Faenza</placeName> e insieme la certa notizia dell’offerta già fatta dal mio <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
+               Con la gratissima lettera di <rs type="person">V.P.</rs> ricevo la nota de' libri di <placeName ref="#DLCL_CF_L0005" key="DLCL_CF_L0005">Faenza</placeName> e insieme la certa notizia dell'offerta già fatta dal mio <persName ref="#DLCL_CF_PC0004" key="DLCL_CF_PC0004">Marozzi</persName>. 
                Con questo lume ora potrò regolarmi nel rispondere alla richiesta di dieci scudi. 
                Mi spiace che ancora non siano giunti i due Manoscritti del Quadriregio; perché non avrò costì l’ozio, che più posso godere, per collazionarli con lo stampati. 
-               Avrò caro che presto arrivino i libri del <persName ref="#DLCL_CF_PC0005">Ruinetti</persName>. 
+               Avrò caro che presto arrivino i libri del <persName ref="#DLCL_CF_PC0005" key="DLCL_CF_PC0005">Ruinetti</persName>. 
                Raccomando a <rs type="person">V.P.</rs> sollecitare la copia del Calendario; la qual fatta consegni subito al <rs type="person">Padre Camerlingo</rs> per la stampa. 
                Indi converrà ch’ella applichi a fare il Catalogo della libreria Vecchia. con che raccomandandomi a suoi santi sagrifici, ed alle orazioni sue, mi confermo.
             </p>
      
             <closer>
-               <dateline><placeName ref="#DLCL_CF_L0006">Ribano</placeName> <date when-iso="1711-10-31">31 ottobre 1711</date>.</dateline>
+               <dateline><placeName ref="#DLCL_CF_L0006" key="DLCL_CF_L0006">Ribano</placeName> <date when-iso="1711-10-31">31 ottobre 1711</date>.</dateline>
                <salute>DVP</salute>
             </closer>
             
             <postscript>
                <p>
-                  Mi scrive il <persName ref="#DLCL_CF_PC0006">Padre Amici</persName> che siano giunte ad <persName ref="#DLCL_CF_PC0007">Bonifacio</persName> le tre copie del <persName ref="#DLCL_CF_PC0008">Martelli</persName>. 
-                  Faccia sapere a lui che si faccia venire da quel Prete del <orgName ref="#DLCL_CF_O0003">Monte di Cesena</orgName> la Copia delle Hypercrisis del <persName ref="#DLCL_CF_PC0009">Bacchini</persName>. 
-                  Veda col <rs type="person">Padre Camerlengo</rs>, che ha la chiave, trovare delle nostre Camere due copie del <persName ref="#DLCL_CF_PC0010">Catullo</persName> del <persName ref="#DLCL_CF_PC0011">Volpi</persName> legato alla rustica; e le mandi al <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>.
+                  Mi scrive il <persName ref="#DLCL_CF_PC0006" key="DLCL_CF_PC0006">Padre Amici</persName> che siano giunte ad <persName ref="#DLCL_CF_PC0007" key="DLCL_CF_PC0007">Bonifacio</persName> le tre copie del <persName ref="#DLCL_CF_PC0008" key="DLCL_CF_PC0008">Martelli</persName>. 
+                  Faccia sapere a lui che si faccia venire da quel Prete del <orgName ref="#DLCL_CF_O0003" key="DLCL_CF_O0003">Monte di Cesena</orgName> la Copia delle Hypercrisis del <persName ref="#DLCL_CF_PC0009" key="DLCL_CF_PC0009">Bacchini</persName>. 
+                  Veda col <rs type="person">Padre Camerlengo</rs>, che ha la chiave, trovare delle nostre Camere due copie del <persName ref="#DLCL_CF_PC0010" key="DLCL_CF_PC0010">Catullo</persName> del <persName ref="#DLCL_CF_PC0011" key="DLCL_CF_PC0011">Volpi</persName> legato alla rustica; e le mandi al <persName ref="#DLCL_CF_PC0006" key="DLCL_CF_PC0006">Padre Amici</persName>.
                </p>
             </postscript>
             
             <closer>
-               <signed>Carissimo Padre nella fede <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName></signed>
+               <signed>Carissimo Padre nella fede <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName></signed>
             </closer>
-           
+            
+            <pb xml:id="DLCL_CF_E10001_C1V" n="1v" facs="https://classense.unibo.it/files/large/20633/DSC_5580.jpg"/>
          </div>
       </body>
    </text>

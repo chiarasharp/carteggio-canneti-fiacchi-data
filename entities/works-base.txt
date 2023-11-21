@@ -1,0 +1,12 @@
+<biblStruct type="">
+        <monogr>
+            <author key="E0300001">Ludwig van Beethoven</author>
+            <title level="m">Symphonie Nr. 9 d-Moll</title>
+            <idno type="op">125</idno>
+            <idno type="GND">300016433</idno>
+            <imprint>
+                <pubPlace key="E0500002">Wien</pubPlace>
+                <date when-iso="1824-05-07" type="firstperf"/>
+            </imprint>
+        </monogr>
+    </biblStruct>

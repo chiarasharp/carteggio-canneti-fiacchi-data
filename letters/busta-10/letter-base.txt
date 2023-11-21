@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E....">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
-            <author ref="#DLCL_CF_PC0001">Pietro Canneti</author>
+            <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
-            <title type="subseries" ref="#DLCL_CF_E...">Busta ...</title>
+            <title type="subseries" ref="#DLCL_CF_E..." key="DLCL_CF_E...">Busta ...</title>
             <biblScope unit="letter">..</biblScope>
             <editor></editor>
          </seriesStmt>
@@ -20,8 +16,8 @@
             <msDesc>
                <msIdentifier>
                   <country key="IT">Italia</country>
-                  <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-                  <institution ref="#DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                  <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                  <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
                   <repository></repository>
                   <collection></collection>
                   <idno></idno>
@@ -35,12 +31,12 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName>
+               <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
                <date when-iso=""/>
-               <placeName ref="#DLCL_CF_L...">...</placeName>
+               <placeName ref="#DLCL_CF_L..." key="DLCL_CF_L...">...</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+               <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
             </correspAction>
          </correspDesc>
          <langUsage>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml-model href="../schema/epist_cannetifiacchi.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/epist_cannetifiacchi.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiCorpus version="3.3.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="DLCL_CF">
    <teiHeader>
@@ -51,6 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
+            <xi:include href="../entities/works.xml"/>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -69,8 +70,8 @@
             <xi:include href="../entities/places.xml"/>
          </settingDesc>
          <particDesc>
-            <xi:include href="../entities/persons/cited-people.xml"/>
-            <xi:include href="../entities/persons/staff.xml"/>
+            <xi:include href="../entities/people/cited-people.xml"/>
+            <xi:include href="../entities/people/staff.xml"/>
             <xi:include href="../entities/orgs.xml"/>
          </particDesc>
       </profileDesc>
