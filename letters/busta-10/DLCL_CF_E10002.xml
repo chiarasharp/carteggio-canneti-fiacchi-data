@@ -44,6 +44,14 @@
          <langUsage>
             <language ident="it"/>
          </langUsage>
+         <settingDesc>
+            <xi:include href="../../entities/places.xml"/>
+         </settingDesc>
+         <particDesc>
+            <xi:include href="../../entities/people/cited-people.xml"/>
+            <xi:include href="../../entities/people/staff.xml"/>
+            <xi:include href="../../entities/orgs.xml"/>
+         </particDesc>
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>

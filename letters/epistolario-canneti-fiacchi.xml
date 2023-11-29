@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
-            <xi:include href="../entities/works.xml"/>
+            <!--<xi:include href="../entities/works.xml"/>-->
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
