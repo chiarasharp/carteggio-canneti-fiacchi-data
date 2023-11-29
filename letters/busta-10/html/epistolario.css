@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+
+html { 
+    font-family: 'EB Garamond', serif;
+    color: #404040; 
+    background-color: #FAFAF9; 
+    top: 0; 
+    overflow-x: hidden;
+ }
+
+.tooltiptext {
+    visibility: hidden; 
+    width: 140px; 
+    background-color: #fff; 
+    color: #404040; 
+    text-align: center;
+    padding: 5px 3px;
+    
+    position: absolute; 
+    z-index: 1; 
+    
+    bottom: 100%; 
+    left: 50%; 
+    margin-left: -60px;  
+    border:#337ab7 solid; 
+    border-width: 3px 0.1px 0.1px 0.1px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible; 
+    border: 1px solid rgba(38, 44, 52, 0.2); 
+    border-top: 4px solid #005D71;
+}
+
+.tooltip {
+    display: inline-block; 
+    position: relative; 
+    cursor: pointer; 
+    color: #404040; 
+    border-bottom: dotted;
+    font-size: inherit !important; 
+    font-family: inherit !important;
+}
+
+a.tooltip {
+    text-decoration-line: none;
+}
+
+.persName {
+    background-color: #9CD5F2;
+}
+
+
+
+.placeName {
+    background-color: #ffecb3;
+}
+
+.orgName {
+    background-color: #ffcdd2;
+}
+
+.bibl.manuscript {
+    background-color: #b1d5b2;
+}
+
+.bibl.print {
+    background-color: #bfffc1;
+}
+.bibl {
+    background-color: #c8e6c9;
+}
+
+.persName.tooltip, .placeName.tooltip, .orgName.tooltip {
+    z-index: 0;
+}
+
+
