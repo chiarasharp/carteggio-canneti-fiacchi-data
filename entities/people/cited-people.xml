@@ -5,8 +5,6 @@
          <forename type="birth">Giambattista</forename>
          <surname>Canneti</surname>
       </persName>
-      <idno type="CLASS">205</idno>
-      <idno type="POLORAV">249641</idno>
       <idno type="VIAF">88842923</idno>
       <idno type="ISNI">0000000062132368</idno>
       <idno type="GND">1057568929</idno>
@@ -29,8 +27,6 @@
          <forename>Mariangelo</forename>
          <surname>Fiacchi</surname>
       </persName>
-      <idno type="CLASS">6872</idno>
-      <idno type="POLORAV">882127</idno>
       <birth>
          <date when-iso="1688"/>
       </birth>
@@ -461,5 +457,4 @@
       <sex value="m"/>
       <occupation>poeta</occupation>
    </person>
-   
 </listPerson>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/epist_cannetifiacchi.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schema/epist_cannetifiacchi.rng" type="application/xml"
+<?xml-model href="../schema/epist-cannetifiacchi-rng.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/epist-cannetifiacchi-rng.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiCorpus version="3.3.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="DLCL_CF">
    <teiHeader>
@@ -79,7 +79,8 @@
          <change when-iso="2023-11-07" who="#DLCL_CF_PS001">created</change>
       </revisionDesc>
    </teiHeader>
-   <xi:include href="busta-10/DLCL_CF_E10001.xml"/>
+   <milestone xml:id="DLCL_CF_E10" unit="busta" n="10"/>
+   <xi:include href="busta-10/DLCL_CF_E10001.xml"/>  
    <xi:include href="busta-10/DLCL_CF_E10002.xml"/>
    <xi:include href="busta-10/DLCL_CF_E10003.xml"/>
    <xi:include href="busta-10/DLCL_CF_E10004.xml"/>
