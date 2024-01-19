@@ -1,0 +1,90 @@
+<listBibl xml:id="DLCL_CF_BM" xmlns="http://www.tei-c.org/ns/1.0">
+    <msDesc xml:id="DLCL_CF_BM0001">
+        <msIdentifier>
+            <settlement>Ravenna</settlement>
+            <repository>Istituzione Biblioteca Classense</repository>
+            <idno>Ms. 124</idno>
+        </msIdentifier>
+        <msContents>
+            <msItem>
+                <author xml:lang="it">Girolamo Rossi</author>
+                <title type="uniform" xml:lang="la">Incomencia el libro di Regni al Mag.co et Excelso Signor Ugolino de Trinci di Fuligno diviso in quatro libri.</title>
+                <title xml:lang="la">Incomencia el libro di Regni al Mag.co et Excelso Signor Ugolino de Trinci di Fuligno diviso in quatro libri. El primo tracta del Reame de Cupido dio del' amore, el secundo di regni di Sathan, el terzo di regni de vicii, el quarto di regni de la virtude. Capitolo primo del primo libro. La Dea che '1 terzo cielo volvendo move</title>
+            </msItem>
+        </msContents>
+        <history>
+            <origin>
+                <origDate when-iso="1476-09-10">dì X de septembre 1476</origDate>
+                <persName type="copist">Francisco da Imolisi</persName>
+            </origin>
+            <provenance>
+                <orgName>Biblioteca Estense <placeName>Modena</placeName></orgName>
+            </provenance>
+            <acquisition>          
+            </acquisition>
+        </history>
+    </msDesc>
+    <msDesc xml:id="DLCL_CF_BM0002">
+        <msIdentifier>
+            <settlement>Ravenna</settlement>
+            <repository>Istituzione Biblioteca Classense</repository>
+            <idno>Ms. 231</idno>
+        </msIdentifier>
+        <msContents>
+            <msItem>
+                <author xml:lang="it">Girolamo Rossi</author>
+                <title xml:lang="la">Incomincia el libro de' Regni al magnifico et exceliente signore Ugolino de Tringi de Fulingno diviso in quattro libri </title>
+            </msItem>
+        </msContents>
+        <history>
+            <origin>
+                <origDate notBefore-iso="1401">XV sec.</origDate>
+            </origin>
+            <provenance>
+            </provenance>
+            <acquisition>
+                <persName>Ludovico Antonio Muratori</persName>
+            </acquisition>
+        </history>
+    </msDesc>
+    <msDesc xml:id="DLCL_CF_BM0003">
+        <msIdentifier>
+            <settlement>Ravenna</settlement>
+            <repository>Istituzione Biblioteca Classense</repository>
+            <idno>Ms. 369</idno>
+        </msIdentifier>
+        <msContents>
+            <msItem>
+                <title xml:lang="la">Hypercrises ad Crises p. M. Gerhardi Capassii et Anticrises Tyronis Laderchiani super actis SS. Crescii et Sociorume</title>
+            </msItem>
+        </msContents>
+        <history>
+            <origin>
+            </origin>
+            <provenance>
+            </provenance>
+            <acquisition>
+            </acquisition>
+        </history>
+    </msDesc>
+    <msDesc xml:id="DLCL_CF_BM0004">
+        <msIdentifier>
+            <settlement>Ravenna</settlement>
+            <repository>Istituzione Biblioteca Classense</repository>
+            <idno>Ms. 424</idno>
+        </msIdentifier>
+        <msContents>
+            <msItem>
+                <title xml:lang="la">Cronica manoscritta Ferrara Ricobaldo</title>
+            </msItem>
+        </msContents>
+        <history>
+            <origin>
+            </origin>
+            <provenance>
+            </provenance>
+            <acquisition>
+            </acquisition>
+        </history>
+    </msDesc>
+</listBibl>
