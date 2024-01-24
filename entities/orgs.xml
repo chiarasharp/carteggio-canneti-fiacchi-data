@@ -118,4 +118,20 @@
          <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0010" type="monastery" sameAs="http://viaf.org/viaf/5003148269736905230003">
+      <orgName xml:lang="it">Monastero di San Severo in Classe</orgName>
+      <idno type="VIAF">5003148269736905230003</idno>
+      <location>
+         <country key="it"/>
+         <settlement ref="#DLCL_CF_L0020">Classe</settlement>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0011" type="dicastery" source="https://www.treccani.it/enciclopedia/suprema-sacra-congregazione-del-sant-uffizio/" sameAs="http://viaf.org/viaf/139618919">
+      <orgName xml:lang="it">Suprema Sacra Congregazione del Santo Officio</orgName>
+      <idno type="VIAF">139618919</idno>
+      <location>
+         <country key="it"/>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+      </location>
+   </org>
 </listOrg>

@@ -439,7 +439,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0024" sameAs="http://viaf.org/viaf/105155222">
       <persName xml:lang="it">
-         <forename type="religious">Sant'</forename>
+         <roleName type="religious">Sant'</roleName>
          <forename>Atanasio</forename>
       </persName>
       <idno type="VIAF">105155222</idno>
@@ -483,25 +483,25 @@
    </person>
    <person xml:id="DLCL_CF_PC0027">
       <persName xml:lang="it">
-         <forename type="religious">Padre Don</forename>
+         <roleName type="religious">Padre Don</roleName>
          <surname>Romualdo</surname>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0028">
       <persName xml:lang="it">
-         <forename type="religious">Don</forename>
+         <roleName type="religious">Don</roleName>
          <surname>Germano</surname>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0029">
       <persName xml:lang="it">
-         <forename type="religious">Frate</forename>
+         <roleName type="religious">Frate</roleName>
          <surname>Ferdinando</surname>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0030">
       <persName xml:lang="it">
-         <forename type="religious">Padre Lettore</forename>
+         <roleName type="religious">Padre Lettore</roleName>
          <surname>Corazza</surname>
       </persName>
    </person>
@@ -556,19 +556,19 @@
    </person>
    <person xml:id="DLCL_CF_PC0035">
       <persName xml:lang="it">
-         <forename type="religious">Padre Lettore</forename>
+         <roleName type="religious">Padre Lettore</roleName>
          <surname>Buti</surname>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0036">
       <persName xml:lang="it">
-         <forename type="religious">Frate</forename>
+         <roleName type="religious">Frate</roleName>
          <forename>Teodoro</forename>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0037" sameAs="http://viaf.org/viaf/59891431">
       <persName xml:lang="it">
-         <forename type="religious">Cardinale</forename>
+         <roleName type="religious">Cardinale</roleName>
          <forename>Giuseppe</forename>
          <forename>Renato</forename>
          <surname>Imperiali</surname>
@@ -631,7 +631,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0040" sameAs="http://viaf.org/viaf/170519424">
       <persName xml:lang="it">
-         <forename type="religious">San</forename>
+         <roleName type="religious">San</roleName>
          <forename>Severo</forename>
       </persName>
       <idno type="VIAF">170519424</idno>
@@ -655,27 +655,27 @@
    </person>
    <person xml:id="DLCL_CF_PC0042">
       <persName xml:lang="it">
-         <forename type="religious">Padre Don</forename>
+         <roleName type="religious">Padre Don</roleName>
          <forename>Gio.</forename>
          <forename>Matteo</forename>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0043">
       <persName xml:lang="it">
-         <forename type="religious">Frate</forename>
-         <forename type="religious">Padre Don</forename>
+         <roleName type="religious">Frate</roleName>
+         <roleName type="religious">Padre Don</roleName>
          <forename>Pietro</forename>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0044">
       <persName xml:lang="it">
-         <forename type="religious">Padre</forename>
+         <roleName type="religious">Padre</roleName>
          <surname>Pancaldi</surname>
       </persName>
    </person>
    <person xml:id="DLCL_CF_PC0045" sameAs="http://viaf.org/viaf/76464070">
       <persName xml:lang="it">
-         <forename type="nobility">Duca di Bracciano</forename>
+         <roleName type="nobility">Duca di Bracciano</roleName>
          <forename>Paolo</forename>
          <forename>Giordano</forename>
          <surname>Orsini</surname>
@@ -702,7 +702,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0047">
       <persName xml:lang="it">
-         <forename type="nobility">Don</forename>
+         <roleName type="religious">Don</roleName>
          <forename>Anselmo</forename>
          <surname>Tanzo</surname>
       </persName>
@@ -806,8 +806,231 @@
    </person>
    <person xml:id="DLCL_CF_PC0054">
       <persName xml:lang="it">
-         <forename type="religious">Padre Lettore</forename>
+         <roleName type="religious">Padre Lettore</roleName>
          <surname>Fiori</surname>
       </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0055" sameAs="http://viaf.org/viaf/88981570">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Battista</forename>
+         <surname>Gambi</surname>
+      </persName>
+      <idno type="VIAF">88981570</idno>
+      <idno type="ISNI">0000000062767320</idno>
+      <birth>
+         <date when-iso="1686"/>
+      </birth>
+      <death>
+         <date when-iso="1737"/>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0056" sameAs="http://viaf.org/viaf/74634848">
+      <persName xml:lang="it">
+         <forename>Dionisio</forename>
+         <forename>Andrea</forename>
+         <surname>Sancassani</surname>
+      </persName>
+      <idno type="VIAF">74634848</idno>
+      <idno type="ISNI">0000000039502981</idno>
+      <idno type="GND">117618713</idno>
+      <birth source="https://www.treccani.it/enciclopedia/dionisio-andrea-sancassani_(Dizionario-Biografico)/">
+         <date when-iso="1659-04-07"/>
+         <placeName ref="https://www.geonames.org/3169522/">Reggio Emilia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/dionisio-andrea-sancassani_(Dizionario-Biografico)/">
+         <date when-iso="1738-05-11"/>
+         <placeName ref="https://www.geonames.org/3166236/">Spoleto</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>chirurgo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0057" sameAs="http://viaf.org/viaf/363159474048227661006">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Tassinari</surname>
+      </persName>
+      <idno type="VIAF">363159474048227661006</idno>
+      <birth>
+         <date when-iso="1665"/>
+      </birth>
+      <death>
+         <date when-iso="1729"/>
+      </death>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0058" sameAs="http://viaf.org/viaf/32051805">
+      <persName xml:lang="it">
+         <forename>Leonardo</forename>
+         <surname>Salviati</surname>
+      </persName>
+      <idno type="VIAF">32051805</idno>
+      <idno type="ISNI">0000000121267407</idno>
+      <birth source="https://www.treccani.it/enciclopedia/leonardo-salviati_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1540"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/leonardo-salviati_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1589-09"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0059" sameAs="http://viaf.org/viaf/17326794">
+      <persName xml:lang="it">
+         <forename>Cesare</forename>
+         <surname>Baronio</surname>
+      </persName>
+      <idno type="VIAF">17326794</idno>
+      <idno type="ISNI">000000012122452X</idno>
+      <birth source="https://www.treccani.it/enciclopedia/cesare-baronio_%28Dizionario-Biografico%29/">
+         <date when-iso="1538-10-30"/>
+         <placeName ref="https://www.geonames.org/3166387/">Sora</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/cesare-baronio_%28Dizionario-Biografico%29/">
+         <date when-iso="1607-06-30"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0060" sameAs="http://viaf.org/viaf/121651239">
+      <persName xml:lang="it">
+         <forename>Antonio</forename>
+         <surname>Magliabechi</surname>
+      </persName>
+      <idno type="VIAF">121651239</idno>
+      <idno type="ISNI">0000000108050860</idno>
+      <birth source="https://www.treccani.it/enciclopedia/antonio-magliabechi/">
+         <date when-iso="1633"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/antonio-magliabechi/">
+         <date when-iso="1714"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>erudito</occupation>
+      <occupation>bibliofilo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0061" sameAs="http://viaf.org/viaf/7314161575647004730000">
+      <persName xml:lang="it">
+         <roleName type="religious">Santo</roleName>
+         <forename>Ecclesio</forename>
+      </persName>
+      <idno type="VIAF">7314161575647004730000</idno>
+      <birth source="https://www.treccani.it/enciclopedia/santo-ecclesio_%28Dizionario-Biografico%29/">
+         <date notBefore-iso="401" notAfter-iso="500"/>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/santo-ecclesio_%28Dizionario-Biografico%29/">
+         <date notAfter-iso="533"/>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0062" sameAs="http://viaf.org/viaf/3857161575664704730002">
+      <persName xml:lang="it">
+         <roleName type="religious">Sant'</roleName>
+         <forename>Ursicino</forename>
+      </persName>
+      <idno type="VIAF">3857161575664704730002</idno>
+      <death source="https://www.treccani.it/enciclopedia/santo-ursicino_%28Dizionario-Biografico%29/">
+         <date notAfter-iso="536"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0063" sameAs="http://viaf.org/viaf/56151246503344130060">
+      <persName xml:lang="it">
+         <roleName type="religious">Sant'</roleName>
+         <forename>Orso</forename>
+      </persName>
+      <idno type="VIAF">56151246503344130060</idno>
+      <death source="https://it.wikipedia.org/wiki/Orso_di_Ravenna">
+         <date notBefore-iso="401" notAfter-iso="500"/>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0064" sameAs="http://viaf.org/viaf/23626324">
+      <persName xml:lang="it">
+         <forename>Ippolito</forename>
+         <surname>Marracci</surname>
+      </persName>
+      <idno type="VIAF">23626324</idno>
+      <birth source="https://it.wikipedia.org/wiki/Ippolito_Marracci">
+         <date when-iso="1604-02-18"/>
+         <placeName ref="https://www.geonames.org/8955337/">Torcigliano di Camaiore</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ippolito_Marracci">
+         <date when-iso="1675-05-19"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>presbitero</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0065" sameAs="http://viaf.org/viaf/89607114">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <roleName type="religious">Papa</roleName>
+         <forename>Pio</forename>
+         <forename>Quinto</forename>
+      </persName>
+      <idno type="VIAF">89607114</idno>
+      <idno type="ISNI">0000000121400028</idno>
+      <idno type="GND"></idno>
+      <birth source="https://it.wikipedia.org/wiki/Papa_Pio_V">
+         <date when-iso="1504-01-17"/>
+         <placeName ref="https://www.geonames.org/3181685/">Bosco Marengo</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Papa_Pio_V">
+         <date when-iso="1572-05-01"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0066" sameAs="http://viaf.org/viaf/4922159337540213150009">
+      <persName xml:lang="it">
+         <roleName type="religious">Cardinale</roleName>
+         <forename>Mario</forename>
+         <surname>Maffei</surname>
+      </persName>
+      <idno type="VIAF">4922159337540213150009</idno>
+      <birth source="https://www.treccani.it/enciclopedia/mario-maffei_(Dizionario-Biografico)/">
+         <date when-iso="1463"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/mario-maffei_(Dizionario-Biografico)/">
+         <date when-iso="1537-06-24"/>
+         <placeName ref="https://www.geonames.org/3163962">Volterra</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0067" sameAs="http://viaf.org/viaf/101126782">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Giulio</forename>
+         <surname>Arrighetti</surname>
+      </persName>
+      <idno type="VIAF">101126782</idno>
+      <birth>
+         <date when-iso="1622"/>
+      </birth>
+      <death>
+         <date when-iso="1705"/>
+      </death>
+      <sex value="m"/>
    </person>
 </listPerson>

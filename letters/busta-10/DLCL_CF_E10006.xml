@@ -68,10 +68,10 @@
             </opener>
             
             <p>
-               Dal <persName ref="#DLCL_CF_PC0007">Padre Don Bonifazio</persName> sento il principio de’ buoni successi, e le speranze del felice compimento, che si medita nell’affare, che a <rs ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ha dato il principal motivo del viaggio. 
+               Dal <persName ref="#DLCL_CF_PC0007">Padre Don Bonifazio</persName> sento il principio de’ buoni successi, e le speranze del felice compimento, che si medita nell’affare, che a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ha dato il principal motivo del viaggio. 
                Prego Dio nostro Signore che assista ad un’opera tanto pia, e necessaria. 
                Se questa pienamente non sarà terminata al ritorno d’ambidue, almeno si può lasciare in tale positura, che non soggiaccia più a mutazione, né a pericolo alcuno. 
-               Ma, se grande è la <orgName ref="#DLCL_CF_O0009">Libreria Sbaraglia</orgName>, come finirà <rs ref="#DLCL_CF_PC0002">Vostra Paternità</rs> l’impresa addossatasi? 
+               Ma, se grande è la <orgName ref="#DLCL_CF_O0009">Libreria Sbaraglia</orgName>, come finirà <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> l’impresa addossatasi? 
                Non è necessario, ed anco non è approposito al bisogno stendere il <bibl type="manuscript">Catalogo degli Autori</bibl>, come ha veduto farsi della <orgName>Libreria</orgName> del <persName ref="#DLCL_CF_PC0037">Cardinale Imperiali</persName>. 
                Basta fare l’indice de’ tomi speditamente. 
                E mi creda che l’occorrenza costì non esigge di più e non esigge altro. 

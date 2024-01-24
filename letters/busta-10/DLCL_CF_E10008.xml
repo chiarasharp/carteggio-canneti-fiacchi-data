@@ -124,7 +124,7 @@
                Di man’ in mano che usciranno gli altri <bibl type="print">Giornali</bibl>, ne farò costà venir quattro Copie, una per <placeName ref="#DLCL_CF_L0020">Classe</placeName>, e tre per me. 
             </p>
             
-            <pb xml:id="DLCL_CF_E1E10008_C2v" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/20842/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E1E10008_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/20842/full/573,800/0/default.jpg"/>
             
             <p>                        
                Mi mandi ancora, oltre gli altri, il libretto della <bibl type="print">Traslazione di S. Bartolommeo</bibl>, e i due Tomi della <bibl type="print">Biblioteca Critica franzese</bibl>. 
@@ -139,7 +139,7 @@
             <p>
                Mi è cara la notizia dello sbozzo del musaico richiesto da <persName ref="#DLCL_CF_PC0050">Monsignore Bianchini</persName>, al quale scriverò. 
                Ma prima vorrei i nomi de’ <rs type="person">quattro Arcivescovi</rs> scritto sopra i lor capi. 
-               Due (se non erro hanno il titolo di Santo, e due no. 
+               Due (se non erro hanno il titolo di <hi rend="underline">Santo</hi>, e due no. 
                Osservi se intorno il capo hanno altri ornamenti, fuorché le corone pendenti. 
                Forse converrà far l’osservazione colla scala, non vedendosi ben dabasso i nomi. 
                Penso inserire io l’emenda di <persName ref="#DLCL_CF_PC0051">Ciampini</persName> nelle Note all’epistole.
@@ -148,7 +148,7 @@
                Ho necessità di aver copia di quel che scrive il <persName ref="#DLCL_CF_PC0052">Dupin</persName> nella sua <bibl type="print">Biblioteca</bibl>, di <persName ref="#DLCL_CF_PC0053">Ricardo di San Lorenzo</persName>. 
                Me lo mandi subito per carità. 
                Resto e scandalizzato, e stomacato del <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
-               Il <persName ref="#DLCL_CF_PC0007">padre Don Bonifazio</persName> (che saluto toto cordis affectu, e cui scriverò l’ordinario appresso) operi con ogni vigore per aver li sei scudi ricavati dal <bibl type="print">Cicerone</bibl>, o un equivalente onorevole, e buono. 
+               Il <persName ref="#DLCL_CF_PC0007">padre Don Bonifazio</persName> (che saluto <foreign xml:lang="la">toto cordis affectu</foreign>, e cui scriverò l’ordinario appresso) operi con ogni vigore per aver li sei scudi ricavati dal <bibl type="print">Cicerone</bibl>, o un equivalente onorevole, e buono. 
                Si faccia mandare i <bibl type="print">Canti Carnascialeschi</bibl>, e li riscontri. 
                Forse li prenderò. 
                Mi scriva sopra i <bibl>Riti</bibl>. 

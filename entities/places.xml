@@ -253,4 +253,20 @@
       </location>
       <idno type="geonames">3166740</idno>
    </place>
+   <place xml:id="DLCL_CF_L0031" type="settlement" sameAs="https://www.geonames.org/3178245">
+      <placeName>Comacchio</placeName>
+      <location>
+         <country key="it"/>
+         <geo>44.69478, 12.18194</geo>
+      </location>
+      <idno type="geonames">3178245</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0032" type="settlement" sameAs="https://www.geonames.org/2803138">
+      <placeName>Anversa</placeName>
+      <location>
+         <country key="be"/>
+         <geo>51.22047, 4.40026</geo>
+      </location>
+      <idno type="geonames">2803138</idno>
+   </place>
 </listPlace>
