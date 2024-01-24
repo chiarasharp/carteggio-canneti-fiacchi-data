@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E....">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E1000.">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,11 +59,26 @@
       <graphic n="1r" url=""/>
       <graphic n="1v" url=""/>
    </facsimile>
-   <text type="letter">
+   <text type="letter" n="Canneti a Fiacchi (, )">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_.E.._C1R" n="1r"/>
-            <pb xml:id="DLCL_CF_E.._C1V" n="1v"/>
+            <pb xml:id="DLCL_CF_E1.._C1R" n="1 - Recto" facs="..."/>
+            
+            <opener>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+            </opener>
+            
+            <rs ref="#DLCL_CF_PC0002">Vostra Paternità</rs>
+            <bibl type="manuscript"></bibl>
+            
+            <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs="..."/>
+            
+            <closer>
+               <salute>DVP</salute>.
+               <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
+               <salute>Affettuosissimo Padre nel Signore</salute> 
+               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+            </closer>
          </div>
       </body>
    </text>

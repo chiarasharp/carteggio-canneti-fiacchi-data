@@ -7,11 +7,11 @@
       <idno type="VIAF">..</idno>
       <idno type="ISNI">..</idno>
       <idno type="GND">..</idno>
-      <birth>
+      <birth source="">
          <date when-iso=".."/>
          <placeName ref="">..</placeName>
       </birth>
-      <death>
+      <death source="">
          <date when-iso=".."/>
          <placeName ref="">..</placeName>
       </death>

@@ -189,26 +189,29 @@
          <country key="it"/>
       </location>
    </place>
-   <place xml:id="DLCL_CF_L0023" type="settlement">
-      <placeName>Pineta di Classe</placeName>
-      <location source="https://it.wikipedia.org/wiki/Pineta_di_Ravenna">
+   <place xml:id="DLCL_CF_L0023" type="settlement" sameAs="https://www.geonames.org/3176854">
+      <placeName>Foligno</placeName>
+      <location>
          <country key="it"/>
-         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         <geo>42.95488, 12.70268</geo>
       </location>
+      <idno type="geonames">3176854</idno>
    </place>
-   <place xml:id="DLCL_CF_L0024" type="settlement">
-      <placeName>Pineta di Classe</placeName>
-      <location source="https://it.wikipedia.org/wiki/Pineta_di_Ravenna">
+   <place xml:id="DLCL_CF_L0024" type="settlement" source="https://www.geonames.org/3164603/">
+      <placeName>Venezia</placeName>
+      <location>
          <country key="it"/>
-         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         <geo>45.43713, 12.33265</geo>
       </location>
+      <idno type="geonames">3164603</idno>
    </place>
-   <place xml:id="DLCL_CF_L0025" type="settlement">
-      <placeName>Pineta di Classe</placeName>
-      <location source="https://it.wikipedia.org/wiki/Pineta_di_Ravenna">
+   <place xml:id="DLCL_CF_L0025" type="settlement" sameAs="https://www.geonames.org/3182133/">
+      <placeName>Bertinoro</placeName>
+      <location>
          <country key="it"/>
-         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         <geo>44.14874, 12.1365</geo>
       </location>
+      <idno type="geonames">3182133</idno>
    </place>
    <place xml:id="DLCL_CF_L0026" type="settlement" sameAs="https://www.geonames.org/3175395">
       <placeName>Italia</placeName>
@@ -217,5 +220,37 @@
          <geo>42.83333, 12.83333</geo>
       </location>
       <idno type="geonames">3175395</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0027" type="settlement" sameAs="https://www.geonames.org/3173435">
+      <placeName>Milano</placeName>
+      <location>
+         <country key="it"/>
+         <geo>45.46427, 9.18951</geo>
+      </location>
+      <idno type="geonames">3173435</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0028" type="settlement" sameAs="https://www.geonames.org/3171180">
+      <placeName>Perugia</placeName>
+      <location>
+         <country key="it"/>
+         <geo>43.1122, 12.38878</geo>
+      </location>
+      <idno type="geonames">31731711803435</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0029" type="settlement" sameAs="https://www.geonames.org/3174567">
+      <placeName>Loreto</placeName>
+      <location>
+         <country key="it"/>
+         <geo>45.46427, 9.18951</geo>
+      </location>
+      <idno type="geonames">3174567</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0030" type="settlement" sameAs="https://www.geonames.org/3166740">
+      <placeName>Senigallia</placeName>
+      <location>
+         <country key="it"/>
+         <geo>43.71626, 13.20882</geo>
+      </location>
+      <idno type="geonames">3166740</idno>
    </place>
 </listPlace>

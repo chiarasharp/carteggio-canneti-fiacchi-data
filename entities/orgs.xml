@@ -89,4 +89,33 @@
          <desc source="#DLCL_CF_E10004">tra Montiano e Cesena</desc>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0007" type="tower" sameAs="http://viaf.org/viaf/246351355">
+      <orgName xml:lang="it">Torre degli Asinelli</orgName>
+      <idno type="VIAF">246351355</idno>
+      <idno type="GND">1003584136</idno>
+      <idno type="geonames">3182737</idno>
+      <desc/>
+      <location>
+         <country key="it"/>
+         <geo>44.49424, 11.34644</geo>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0008" type="library">
+      <orgName xml:lang="it">Studio Sbaraglia</orgName>
+      <orgName xml:lang="it">Libreria Sbaraglia</orgName>
+      <desc/>
+      <location>
+         <country key="it"/>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0009" type="library" sameAs="http://viaf.org/viaf/219253116">
+      <orgName xml:lang="it">Libreria di San Salvatore</orgName>
+      <idno type="VIAF">219253116</idno>
+      <desc xml:lang="it">Biblioteca del Monastero del Santissimo Salvatore di Bologna</desc>
+      <location>
+         <country key="it"/>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+      </location>
+   </org>
 </listOrg>
