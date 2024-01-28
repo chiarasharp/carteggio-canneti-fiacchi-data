@@ -68,8 +68,13 @@
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
             </opener>
             
-            <rs ref="#DLCL_CF_PC0002">Vostra Paternità</rs>
+            <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>
             <bibl type="manuscript"></bibl>
+            <pc force="inter">-</pc>
+            <foreign xml:lang="la"></foreign>
+            <hi rend="underline"></hi>
+            <del rend="overstrike"></del>
+            <gap reason="illegible"/>
             
             <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs="..."/>
             

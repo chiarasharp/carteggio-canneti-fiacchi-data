@@ -126,7 +126,8 @@
          <settlement ref="#DLCL_CF_L0020">Classe</settlement>
       </location>
    </org>
-   <org xml:id="DLCL_CF_O0011" type="dicastery" source="https://www.treccani.it/enciclopedia/suprema-sacra-congregazione-del-sant-uffizio/" sameAs="http://viaf.org/viaf/139618919">
+   <org xml:id="DLCL_CF_O0011" type="congregation" source="https://www.treccani.it/enciclopedia/suprema-sacra-congregazione-del-sant-uffizio/" 
+      sameAs="http://viaf.org/viaf/139618919">
       <orgName xml:lang="it">Suprema Sacra Congregazione del Santo Officio</orgName>
       <idno type="VIAF">139618919</idno>
       <location>
@@ -134,4 +135,58 @@
          <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0012" type="congregation" sameAs="http://viaf.org/viaf/141617233">
+      <orgName xml:lang="it">Sacra Congregazione dei Riti</orgName>
+      <idno type="VIAF">141617233</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0013" type="abbey" sameAs="http://viaf.org/viaf/316508960" source="https://it.wikipedia.org/wiki/Abbazia_di_Montecorona">
+      <orgName xml:lang="it">Abbazia di Montecorona</orgName>
+      <idno type="VIAF">316508960</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3165052/">Umbertide</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0014" type="monastery" source="https://it.wikipedia.org/wiki/Santa_Maria_di_Meleda">
+      <orgName xml:lang="it">Congregazione di Meleda</orgName>
+      <location>
+         <country key="HR"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3194965/">Meleda</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0015" type="oratory">
+      <orgName xml:lang="it">Oratorio de' Filippini</orgName>     
+   </org>
+   <org xml:id="DLCL_CF_O0016">
+      <orgName xml:lang="it">San Onofrio</orgName>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0017" type="monastery" sameAs="http://viaf.org/viaf/143222159">
+      <orgName xml:lang="it">Monastero di San Gregorio al Celio</orgName>
+      <idno type="VIAF">143222159</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+         </address>
+      </location>
+   </org>
+   
 </listOrg>

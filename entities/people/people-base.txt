@@ -5,8 +5,6 @@
          <surname></surname>
       </persName>
       <idno type="VIAF"></idno>
-      <idno type="ISNI"></idno>
-      <idno type="GND"></idno>
       <birth source="">
          <date when-iso=""/>
          <placeName ref=""></placeName>
@@ -16,5 +14,6 @@
          <placeName ref=""></placeName>
       </death>
       <sex value=""/>
+      <occupation></occupation>
       <occupation></occupation>
    </person>
