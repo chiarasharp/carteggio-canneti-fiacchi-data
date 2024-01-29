@@ -1372,4 +1372,91 @@
          <surname>Onestini</surname>
       </persName>
    </person>
+   <person xml:id="DLCL_CF_PC0094">
+      <persName xml:lang="it">
+         <roleName type="religious">Monsignore</roleName>
+         <forename>Giuseppe</forename>
+         <forename>Vitale</forename>
+         <surname>De Buoi</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0095" sameAs="http://viaf.org/viaf/89073370">
+      <persName xml:lang="it">
+         <forename>Angelo</forename>
+         <forename>Giovanni</forename>
+         <surname>Guidarelli</surname>
+      </persName>
+      <idno type="VIAF">89073370</idno>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0096" sameAs="http://viaf.org/viaf/46890670">
+      <persName xml:lang="it">
+         <forename>Antonino</forename>
+         <surname>Mongitore</surname>
+      </persName>
+      <idno type="VIAF">46890670</idno>
+      <birth source="https://www.treccani.it/enciclopedia/antonino-mongitore_%28Dizionario-Biografico%29/">
+         <date when-iso="1663-05-04"/>
+         <placeName ref="https://www.geonames.org/2523920/palermo">Palermo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/antonino-mongitore_%28Dizionario-Biografico%29/">
+         <date when-iso="1743-06-06"/>
+         <placeName ref="https://www.geonames.org/2523920/palermo">Palermo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>presbitero</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0097" sameAs="http://viaf.org/viaf/100167026">
+      <persName xml:lang="hu">
+         <forename>Melchior</forename>
+         <surname>Inchofer</surname>
+      </persName>
+      <idno type="VIAF">100167026</idno>
+      <birth source="https://www.treccani.it/enciclopedia/melchior-inchofer/">
+         <date when-iso="1585"/>
+         <placeName ref="https://www.geonames.org/2761369/">Vienna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/melchior-inchofer/">
+         <date when-iso="1648"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>gesuita</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0098" sameAs="http://viaf.org/viaf/289131404">
+      <persName xml:lang="it">
+         <forename>Prospero</forename>
+         <surname>Parisio</surname>
+      </persName>
+      <idno type="VIAF">289131404</idno>  
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0099" sameAs="http://viaf.org/viaf/24656352">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <forename>Benedetto</forename>
+         <surname>Bacchini</surname>
+      </persName>
+      <idno type="VIAF">24656352</idno>
+      <birth source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
+         <date when-iso="1651-08-31"/>
+         <placeName ref="https://www.geonames.org/3177029/">Borgo San Donnino</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
+         <date when-iso="1721-09-10"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>critico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0100">
+      <persName xml:lang="it">
+         <surname>Frattacci</surname>
+      </persName>
+   </person>
 </listPerson>

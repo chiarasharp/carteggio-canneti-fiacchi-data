@@ -48,7 +48,7 @@
          </langUsage>        
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-02" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/2/20633/manifest">
@@ -58,6 +58,7 @@
    <text type="letter" n="Canneti a Fiacchi (Ribano, 31 Ottobre 1711)">
       <body>
          <div type="transcription">
+            
             <pb xml:id="DLCL_CF_E10001_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20815/full/605,800/0/default.jpg"/>
             
             <opener>
@@ -88,7 +89,8 @@
             </postscript>
             
             <closer>
-               <signed>Cordialissimo Padre nel Signore <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName></signed>
+               <salute>Cordialissimo Padre nel Signore</salute> 
+               <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName></signed>
             </closer>
             
             <pb xml:id="DLCL_CF_E10001_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20816/full/566,800/0/default.jpg"/>

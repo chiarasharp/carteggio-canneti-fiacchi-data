@@ -51,7 +51,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-22" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20639/manifest">
@@ -79,15 +79,16 @@
                Sol mi ricordi che v’era da legare in cartone il volume grosso in foglio dell’<bibl type="print">epistole del Filelfo</bibl>. 
                Questo metta nelle casse. Per gli altri a lei mi rimetto.
             </p>
+            
             <p>
-               Delle molte copie della <bibl type="print">Cilauda</bibl>, del <bibl type="print">Rossi</bibl> e della <bibl type="print">Scanzia</bibl>…. 
-               Del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, ne riponga alcune poche nelle Casse. 
+               Delle molte copie della <bibl type="print">Cilauda</bibl>, del <bibl type="print">Rossi</bibl> e della <bibl type="print">Scanzia</bibl>... del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, ne riponga alcune poche nelle Casse. 
                Il resto si trattenga. 
                Fermi costì tutta la molta quantità de’ libri Miscellanei. 
                Se vi è luogo per la <bibl type="print">Somma di S. Tommaso</bibl>, ve la riponga. 
                Solleciti la spedizione di questa faccenda. 
                L’abbraccio caramente e mi confermo di tutto cuore. 
-              </p>
+            </p>
+            
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0025">Bertinoro</placeName> <date when-iso="1714-05-02">2 maggio 1714</date></dateline> 
                <salute>DVPMR</salute> 
@@ -95,8 +96,10 @@
             
             <postscript>
                <p>
-                  Vi metta il libro <bibl type="manuscript">Acta Translationis S. Bartholomei Apostoli</bibl>, ch’è veramente nostro. 
+                  Vi metta il libro <bibl type="manuscript"><foreign xml:lang="la">Acta Translationis S. Bartholomei Apostoli</foreign></bibl>, ch’è veramente nostro. 
                   Servito che io me ne sia, lo cederò, con altri, in dono alla <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
+               </p>
+               <p>
                   Con gli accennati <bibl type="print">due libri del Concilio Fiorentino</bibl> vi deve essere il <bibl type="print">Bauldry delle Cerimonie</bibl>. 
                   Ne ho necessità.
                </p>
@@ -104,7 +107,7 @@
             
             <closer>
                <salute>Affettuosissimo Servo e Padre nel Signore</salute>
-               <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
+               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
             <pb xml:id="DLCL_CF_E10007_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20828/full/571,800/0/default.jpg"/>

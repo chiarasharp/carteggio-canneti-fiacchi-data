@@ -49,7 +49,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-25" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20642/manifest">
@@ -68,9 +68,10 @@
             <p>
                <gap reason="illegible"/>[...] l’altra dell’ordinario passato, nel rivedere i nostri libri, trovo tra essi le <bibl type="print">Vite de’ Pittori Antichi</bibl> del <persName ref="#DLCL_CF_PC0070">Dati</persName>. 
                Ma di due tometti in 12 delle <bibl type="print">lettere di M. Simon in franzese</bibl>, non trovo che quello legato alla franzese, un altro in rustico sarà restato costi. 
-               E se è così, me lo mandi; insieme colle <bibl type="print">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> tutte; alle quali aggiunga sei copie della <bibl type="print">Scanzia IX</bibl>; se non erro, dedicata a me; e altrettante della VI, o altra che sia dedicata al <persName ref="#DLCL_CF_PC0071">Cavaliere Mandosio</persName>. 
+               E se è così, me lo mandi; insieme colle <bibl type="print">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> tutte; alle quali aggiunga sei copie della <bibl type="print">Scanzia IX</bibl>; se non erro, dedicata a me; e altrettante della <bibl type="print">VI</bibl>, o altra che sia dedicata al <persName ref="#DLCL_CF_PC0071">Cavaliere Mandosio</persName>. 
                Vi metta altresì le <bibl type="print">Lezioni</bibl> del <persName ref="#DLCL_CF_PC0050">Bianchini</persName>, e un libro in 12 legato alla franzese intitolato <bibl type="print"><foreign xml:lang="fr">Moynes empruntez</foreign></bibl> e il <bibl type="print">Lattanzio Firmiano</bibl> del Cellario in 8.
             </p>
+            
             <p>
                <gap reason="illegible"/>L’altra sera ebbi da <placeName ref="#DLCL_CF_L0008">Roma</placeName> il libro del <persName ref="#DLCL_CF_PC0072" cert="medium">Cecchini</persName> scritto con maravigliosa eleganza, e colla solita protesta degl’Ignoranti, che non fan caso delle parole, ma della dottrina. 
                Non l’ho ancora letto. 
@@ -86,13 +87,19 @@
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> lo troverà tra Poeti <gap reason="illegible"/>[...] in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> = <bibl type="print"><foreign xml:lang="la">Marcelli Palingenii Stellati Zodiacus C<gap reason="illegible"/>[...] Amstelodami</foreign></bibl>, in 16 tutto dorato, ed è proibito; 
                e <gap reason="illegible"/>[...] si per lo più il <persName ref="#DLCL_CF_PC0076">Palingenio</persName>. 
                Né avverta il buon M<gap reason="illegible"/>[...].
+            </p>
+            
+            <p>
                Ho trovata un’altra lettera di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, in ordine alla quale; <gap reason="illegible"/>[..] la <bibl type="print">Difesa</bibl> del <persName ref="#DLCL_CF_PC0077">Nigrisoli</persName>, con l’opera che vi si difende, p<gap reason="illegible"/>[…]domi non averla messa in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
-               Ho bisogno di dar <gap reason="illegible"/>[...] ‘a Medici più studiosi, che qui mi favoriscono di continuo <gap reason="illegible"/>[...]vo in quest’ordinario al <persName ref="#DLCL_CF_PC0078">Padre M. Capelli</persName>. 
+               Ho bisogno di dar <gap reason="illegible"/>[...] ‘a <rs type="person">Medici</rs> più studiosi, che qui mi favoriscono di continuo <gap reason="illegible"/>[...]vo in quest’ordinario al <persName ref="#DLCL_CF_PC0078">Padre M. Capelli</persName>. 
                L’Orazione de <gap reason="illegible"/>[...]razza è tale, che mi ha fatto alzare affari in alto il <gap reason="illegible"/>[...] del medesimo. 
                Aspetto l’<bibl type="print">Opuscolo dell’Imitazione</bibl> <gap reason="illegible"/>[...].
+            </p>
+            
+            <p>
                Sopra le <bibl>Rubriche</bibl>; i <bibl type="print">Decreti della Congregazione de’ Riti</bibl> fanno a’<gap reason="illegible"/>[...] tra loro. 
                Di <persName ref="#DLCL_CF_PC0079">S. Gio. di Dio</persName> non sò qual messa sia assegnata. 
-               <gap reason="illegible"/>[...] <rs type="person">Olivetani</rs> han qui stampato un <bibl>Calendario</bibl> per tre <gap reason="illegible"/>[...] e han tralasciato (né so perché) <rs type="person">questo Santo</rs>. 
+               <gap reason="illegible"/>[...] <rs type="person">Olivetani</rs> han qui stampato un <bibl>Calendario</bibl> per tre <gap reason="illegible"/>[...] e han tralasciato (né so perché) <rs type="person" ref="#DLCL_CF_PC0079">questo Santo</rs>. 
                Del co<gap reason="illegible"/>[...] paonazzo usato da’ <rs type="person">Vescovi</rs>, e altri <rs type="person">Prelati</rs> nelle M<gap reason="illegible"/>[...] di Requiem, altra ragione non può assegnarsi, 
                che la <gap reason="illegible"/>[...]tudine, contraria alle <bibl>Rubriche</bibl>, e <bibl>Ceremoniale</bibl>. 
             </p>
@@ -105,6 +112,7 @@
                Al molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
                <placeName ref="#DLCL_CF_L0020">Classe</placeName> <persName ref="#DLCL_CF_L0002">Ravenna</persName>
             </p>
+            
          </div>
       </body>
    </text>

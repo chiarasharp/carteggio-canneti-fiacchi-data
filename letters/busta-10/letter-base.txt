@@ -8,9 +8,8 @@
          <publicationStmt><ab></ab></publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
-            <title type="subseries" ref="#DLCL_CF_E..." key="DLCL_CF_E...">Busta ...</title>
-            <biblScope unit="letter">..</biblScope>
-            <editor></editor>
+            <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
+            <biblScope unit="letter"></biblScope>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
@@ -33,7 +32,7 @@
             <correspAction type="sent">
                <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
                <date when-iso=""/>
-               <placeName ref="#DLCL_CF_L..." key="DLCL_CF_L...">...</placeName>
+               <placeName ref="" key=""></placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -52,7 +51,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="">
@@ -62,7 +61,7 @@
    <text type="letter" n="Canneti a Fiacchi (, )">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E1.._C1R" n="1 - Recto" facs="..."/>
+            <pb xml:id="DLCL_CF_E1.._C1R" n="1 - Recto" facs=""/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -76,7 +75,7 @@
             <del rend="overstrike"></del>
             <gap reason="illegible"/>
             
-            <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs="..."/>
+            <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs=""/>
             
             <closer>
                <salute>DVP</salute>.

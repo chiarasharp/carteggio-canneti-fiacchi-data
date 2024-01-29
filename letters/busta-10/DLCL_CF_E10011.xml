@@ -51,7 +51,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-25" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20643/manifest">
@@ -73,18 +73,18 @@
             <p>
                In somma egli è vero che tra i Ritualisti è entrata una sottigliezza nulla inferiore alla Scotistica, la qual troppo è contraria alla semplicità delle <bibl>Rubriche</bibl>. 
                La <orgName ref="#DLCL_CF_O0012">Congregazione de’ Riti</orgName> importunata dalle metafisiche questioni di costoro da talvolta certe risposte, che accrescono, non tolgono la difficoltà. 
-               Di tal natura si è il rescritto fatto al <rs type="person">Mastro di Cerimonie di questa Cattedrale</rs>. 
+               Di tal natura si è il rescritto fatto al <rs type="person">Mastro di Cerimonie</rs> di questa Cattedrale. 
                Ma se noi attendiamo la pratica del <bibl>Calendario</bibl> di <placeName ref="#DLCL_CF_L0028">Perugia</placeName>, 
-               e dell’altro di <orgName ref="#DLCL_CF_O0013">Monte Corona</orgName>, nel quale stà l’accennato Decreto impresso; 
+               e dell’altro di <orgName ref="#DLCL_CF_O0013">Monte Corona</orgName>, nel quale stà l’accennato <bibl>Decreto</bibl> impresso; 
                tosto noi restiamo chiariti doversi intendere secondo le <bibl>Rubriche</bibl>, e la pratica del <bibl>Breviario</bibl>, costumatasi ancor da noi negli anni precedenti. 
                Né accade ch’entriamo a disputare se nell’occorrenza di <persName ref="#DLCL_CF_PC0080">San Odone</persName> e della Dedicazione della Chiesa debbasi preferire il primo, o la seconda? 
-               Poiché rimane sciolto il dubbio dall’altro <bibl>Decreto</bibl>, il qual dispone che all’officio del <bibl>Calendario universale</bibl>  anteporre si debba quello del <bibl>Calendario particolare</bibl>. 
+               Poiché rimane sciolto il dubbio dall’altro <bibl>Decreto</bibl>, il qual dispone che all’officio del <bibl>Calendario universale</bibl> anteporre si debba quello del <bibl>Calendario particolare</bibl>. 
                A questo precisamente attenghiamoci, e tiriamo avanti, senza andarci avuolgendo nel gran laberinto, che formano gli innumerabili, 
-               e talvolta tra loro contrari Decreti, che ogni giorno van di nuovo uscendo dalla <orgName ref="#DLCL_CF_O0012">Sacra Congregazione de’ Riti</orgName>. 
+               e talvolta tra loro contrari <bibl>Decreti</bibl>, che ogni giorno van di nuovo uscendo dalla <orgName ref="#DLCL_CF_O0012">Sacra Congregazione de’ Riti</orgName>. 
                Per addurre un esempio a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> che serva <foreign xml:lang="la">instar omnium</foreign> a lei per sua quiete; 
                osservi nel <bibl>Calendario</bibl> citato degli <rs type="person">Eremiti</rs> di <orgName ref="#DLCL_CF_O0013">Monte Corona</orgName>, uomini scrupolosi, 
                e poco men che superstizioni, i quali adducono il rescritto <hi rend="underline"><foreign xml:lang="la">De excellentia maioris dignitatis</foreign></hi> al dì <date when-iso="04-23">29 di Aprile</date> 
-               vi troverà l’officio di <bibl>S. Roberto Abate</bibl> anteposto a quello di <bibl>S. Pietro Martire</bibl>, in riguardo del martirio senza dubbio di più eccellente dignità; il quale cade, e occorre nello stesso giorno. 
+               vi troverà l’<bibl>officio di S. Roberto Abate</bibl> anteposto a quello di <bibl>S. Pietro Martire</bibl>, in riguardo del martirio senza dubbio di più eccellente dignità; il quale cade, e occorre nello stesso giorno. 
                Sicché nell’occorrenza di pari rito, stà ferma, e in verde osservanza l’altra <bibl>Rubrica</bibl> di preferire il par<pc force="inter">-</pc> 
             </p>
             
@@ -142,7 +142,7 @@
             </p>
             
             <p>
-               Oh se il <rs type="person">Genio Ravennate</rs> avesse ale più vigorose per allontanarsi dalle sue pignete! 
+               Oh se il Genio Ravennate avesse ale più vigorose per allontanarsi dalle sue pignete! 
                Oh se la filosofia fosse volata di là dal <placeName ref="#DLCL_CF_L0055">Po</placeName>! 
                Io mi lusingo, e induco a credere che in <placeName ref="#DLCL_CF_L0010">Padova</placeName> non sarebbonle state tarpate le penne.  
             </p>
@@ -180,7 +180,7 @@
             
             <closer>
                <salute>DVPMR</salute>.
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1714-07-31">31 luglio 1714</date></dateline>.
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1714-07-31">31 luglio 1714</date></dateline>. 
                <salute>Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>

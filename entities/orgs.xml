@@ -165,8 +165,13 @@
          </address>
       </location>
    </org>
-   <org xml:id="DLCL_CF_O0015" type="oratory">
-      <orgName xml:lang="it">Oratorio de' Filippini</orgName>     
+   <org xml:id="DLCL_CF_O0015" type="congregation" sameAs="http://viaf.org/viaf/122561858">
+      <orgName xml:lang="it">Confederazione dell'oratorio di San Filippo Neri</orgName>
+      <idno type="VIAF">122561858</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
    </org>
    <org xml:id="DLCL_CF_O0016">
       <orgName xml:lang="it">San Onofrio</orgName>
@@ -188,5 +193,4 @@
          </address>
       </location>
    </org>
-   
 </listOrg>

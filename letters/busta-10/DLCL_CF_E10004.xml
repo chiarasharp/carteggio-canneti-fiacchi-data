@@ -43,7 +43,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-02" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20636/manifest">
@@ -72,7 +72,7 @@
                Però non è necessario inserirlo nelle nostre stampe del <bibl>Calendario</bibl>. 
                Pure, se vuole <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> metterlo in fine, ove vi avvanzi luogo, a lei ne lascio la libertà. 
                Della Sequenza ne avrà copia il <rs type="person">Padre Priore</rs>. 
-               Se vi rimane carta bianca, ancor essa può aggiungersi dopo il Decreto.     
+               Se vi rimane carta bianca, ancor essa può aggiungersi dopo il Decreto. 
             </p>
             
             <pb xml:id="DLCL_CF_E10004_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20822/full/570,800/0/default.jpg"/>
@@ -81,18 +81,24 @@
                Riceva il viaggio di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> a <placeName ref="#DLCL_CF_L0016">Bagnacavallo</placeName> il merito della santa ubbidienza, col quale vada pure ad accompagnare <persName ref="#DLCL_CF_PC0028">Don Germano</persName>, al quale senza tal compagnia non gliene darei la licenza. 
                Goderò in somma che tal mossa sia fruttuosa al desiderio della sua <rs type="person">Sorella</rs>. 
                Si ricordi ritornare prima dell’Avvento.
-               Avanti di partire, trovi nel nostro Camerone il <bibl type="print">Castellano</bibl> in 4to, che mi mando da supplire il Signore Canonico Teologo <persName ref="#DLCL_CF_PC0018" key="DLCL_CF_PC0018">Filippo Rondinini</persName>; e lo mandi al detto Signore a <placeName ref="#DLCL_CF_L0005" key="DLCL_CF_L0005">Faenza</placeName>, accompagnandolo con breve lettera, nella quale esprima dove sia il <orgName ref="#DLCL_CF_O0004" key="DLCL_CF_O0004">Vescovato Cariatense</orgName> in <placeName ref="#DLCL_CF_L0026">Italia</placeName>; al quale esso <persName ref="#DLCL_CF_PC0019" key="DLCL_CF_PC0019">Castellani</persName> fu eletto. 
+            </p>
+            
+            <p>
+               Avanti di partire, trovi nel nostro Camerone il <bibl type="print">Castellano</bibl> in 4to, che mi mando da supplire il Signore Canonico Teologo <persName ref="#DLCL_CF_PC0018" key="DLCL_CF_PC0018">Filippo Rondinini</persName>; 
+               e lo mandi al detto Signore a <placeName ref="#DLCL_CF_L0005" key="DLCL_CF_L0005">Faenza</placeName>, accompagnandolo con breve lettera, 
+               nella quale esprima dove sia il <orgName ref="#DLCL_CF_O0004" key="DLCL_CF_O0004">Vescovato <hi rend="underline">Cariatense</hi></orgName> in <placeName ref="#DLCL_CF_L0026">Italia</placeName>; 
+               al quale esso <persName ref="#DLCL_CF_PC0019" key="DLCL_CF_PC0019">Castellani</persName> fu eletto. 
                Lo troverà nel <bibl type="print">Baudrand</bibl>, e sarà nell’<bibl type="print">Ughelli</bibl> il quale forse non ne farà menzione, perché stimo non ne andasse in possesso. 
                Resto di vero cuore confermandomi. 
             </p>
             
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0006" key="DLCL_CF_L0006">Ribano</placeName> <date when-iso="1712-11-19"> 19 novembre 1712</date></dateline>. 
-               <salute>DVP, che saluti caramente <persName ref="#DLCL_CF_PC0007">Don Bonifazio</persName>, cui mando la Copia del <bibl type="print">Quadriregio</bibl>. </salute>
+               <salute>DVP, che saluti caramente <persName ref="#DLCL_CF_PC0007">Don Bonifazio</persName>, cui mando la Copia del <bibl type="print">Quadriregio</bibl></salute>. 
                Potrà impiegarvi intorno qualche ora alla <placeName ref="#DLCL_CF_L0022">Ragazina</placeName>. 
-               <salute>Un cordialissimo saluto al <persName ref="#DLCL_CF_PC0027">Padre Don Romualdo</persName>, cui risponderò per la posta. </salute>
+               <salute>Un cordialissimo saluto al <persName ref="#DLCL_CF_PC0027">Padre Don Romualdo</persName>, cui risponderò per la posta</salute>. 
                Mando la sua Relazione. 
-               <salute>Affettuosissimo Padre nel Signore </salute>
+               <salute>Affettuosissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>. 
             </closer>
             

@@ -46,7 +46,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="2023-11-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-02" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20634/manifest">
@@ -77,7 +77,7 @@
             </p>
             
             <closer>
-               <salute>DVP</salute>.
+               <salute>DVP</salute>. 
                <dateline><placeName ref="#DLCL_CF_L0006" key="DLCL_CF_L0006">Ribano</placeName> <date when-iso="1711-11-03">3 Novembre 1711</date></dateline>
             </closer>
 
@@ -89,7 +89,7 @@
                <p>
                   Un <rs type="person">Amico</rs> mi scrive che gli proveda un’<bibl type="print">Istoria di Ravenna</bibl> del <persName ref="#DLCL_CF_PC0014" key="DLCL_CF_PC0014">Rossi</persName> della 2a edizione. 
                   Il <rs type="person">Libraro</rs> faccia diligenza se può aversene una ben conservata a prezzo giusto. 
-                  Suol vendersi al più tre scudi.  
+                  Suol vendersi al più tre scudi. 
                </p>
                <p>
                   [So che <rs type="person">Monsignore Vicario</rs> ne ha, o aveva due copie; ma ne pretendeva cinque, o sei scudi]
@@ -97,7 +97,7 @@
             </postscript>
 
             <closer>
-               <salute>Affettuosissimo Cordialissimo Padre nel Signore</salute>
+               <salute>Affettuosissimo Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
@@ -107,10 +107,10 @@
             
             <closer>
                <salute>
-                  Al <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">molto reverendo Padre mio Osservandissimo</rs> il <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  Al molto reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
                </salute>
                <dateline>
-                  <placeName ref="#DLCL_CF_L0020" key="DLCL_CF_L0020">Classe</placeName> Ravenna
+                  <placeName ref="#DLCL_CF_L0020" key="DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
                </dateline>
             </closer>
             

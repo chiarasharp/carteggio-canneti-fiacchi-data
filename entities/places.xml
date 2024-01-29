@@ -291,5 +291,12 @@
       </location>
       <idno type="geonames">3170550</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0056" type="settlement" sameAs="https://www.geonames.org/2523119">
+      <placeName>Sicilia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>37.75, 14.25</geo>
+      </location>
+      <idno type="geonames">2523119</idno>
+   </place>
 </listPlace>
