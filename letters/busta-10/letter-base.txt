@@ -83,6 +83,17 @@
                <salute>Affettuosissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
+            
+            <pb xml:id="DLCL_CF_E10.._C2R" n="2 - Recto" facs=""/>
+            
+            <pb xml:id="DLCL_CF_..._C2V" n="2 - Verso"/>
+            
+           <postscript>
+               <p>
+                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+               </p>
+            </postscript>
          </div>
       </body>
    </text>

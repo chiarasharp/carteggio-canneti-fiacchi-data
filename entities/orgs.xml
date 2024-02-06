@@ -193,4 +193,134 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0018" type="monastery" sameAs="http://viaf.org/viaf/143222159">
+      <orgName xml:lang="it">Accademia della Colonia Arcadica</orgName>
+      <idno type="VIAF">143222159</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0019" type="abbey" sameAs="http://viaf.org/viaf/146919850">
+      <orgName xml:lang="it">Abbazia di San Pietro in Perugia</orgName>
+      <idno type="VIAF">146919850</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0020" type="basilica" sameAs="http://viaf.org/viaf/155972474">
+      <orgName xml:lang="it">Basilica di San Giovanni in Laterano</orgName>
+      <idno type="VIAF">155972474</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0021" type="abbey" sameAs="http://viaf.org/viaf/153062209">
+      <orgName xml:lang="it">Basilica abbaziale di Santa Giustina</orgName>
+      <idno type="VIAF">153062209</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0010">Padova</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0022" type="church">
+      <orgName xml:lang="it">San Felice di Bologna</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0023" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Farfa" sameAs="http://viaf.org/viaf/137282486">
+      <orgName xml:lang="it">Abbazia di Farfa</orgName>
+      <idno type="VIAF">137282486</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3177207/">Fara in Sabina</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0024" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Cluny" sameAs="http://viaf.org/viaf/129020265">
+      <orgName xml:lang="it">Abbazia di Cluny</orgName>
+      <idno type="VIAF">129020265</idno>
+      <desc></desc>
+      <location>
+         <country key="FR"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3024534">Cluny</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0025" type="library" source="https://it.wikipedia.org/wiki/Biblioteca_apostolica_vaticana" sameAs="http://viaf.org/viaf/146085455">
+      <orgName xml:lang="it">Biblioteca apostolica vaticana</orgName>
+      <idno type="VIAF">146085455</idno>
+      <desc></desc>
+      <location>
+         <country key="VA"/>
+         <address>
+            <street>Cortile del Belvedere</street> 
+            <postCode>V-00120</postCode>
+            <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0026" type="monastery" source="https://it.wikipedia.org/wiki/Monastero_di_Fonte_Avellana" sameAs="http://viaf.org/viaf/141945081">
+      <orgName xml:lang="it">Monastero di Fonte Avellana</orgName>
+      <idno type="VIAF">141945081</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <street>Via Fonte Avellana 8</street> 
+            <postCode>61040</postCode>
+            <settlement ref="https://www.geonames.org/3166653/">Serra Sant'Abbondio</settlement>
+         </address>
+      </location>
+   </org>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <org xml:id="DLCL_CF_O0033" type="congregation" sameAs="http://viaf.org/viaf/154348943">
+      <orgName xml:lang="it">Congregazione della Missione</orgName>
+      <idno type="VIAF">154348943</idno>
+      <desc></desc>
+   </org>
+   
+   
+   <org xml:id="DLCL_CF_O0043" type="reign" source="https://it.wikipedia.org/wiki/Regno_di_Napoli" sameAs="http://viaf.org/viaf/155695791">
+      <orgName xml:lang="it">Regno di Napoli</orgName>
+      <idno type="VIAF">155695791</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
+   </org>
+   
+   
 </listOrg>
