@@ -363,7 +363,14 @@
       </location>
       <idno type="geonames">2996944</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0045" type="settlement" sameAs="https://www.geonames.org/2643743">
+      <placeName>Londra</placeName>
+      <location>
+         <country key="GB"/>
+         <geo>51.50853, -0.12574</geo>
+      </location>
+      <idno type="geonames">2643743</idno>
+   </place>
    
    
    

@@ -2008,6 +2008,280 @@
       </persName>    
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0146">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <surname>Mauro</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0147">
+      <persName xml:lang="it">
+         <roleName type="honorific">Reverendissimo</roleName>
+         <surname>Caramelli</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0148" sameAs="http://viaf.org/viaf/12380054">
+      <persName xml:lang="it">
+         <forename>Agnolo</forename>
+         <surname>Firenzuola</surname>
+      </persName>
+      <idno type="VIAF">12380054</idno>
+      <birth source="https://www.treccani.it/enciclopedia/agnolo-firenzuola_(Dizionario-Biografico)/">
+         <date when-iso="1493-09-28"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/agnolo-firenzuola_(Dizionario-Biografico)/">
+         <date when-iso="1543-06-27"/>
+         <placeName ref="https://www.geonames.org/3169921/">Prato</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0149">
+      <persName xml:lang="it">
+         <surname>Carrarà</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0150" sameAs="http://viaf.org/viaf/9999149">
+      <persName xml:lang="it">
+         <forename>Leonardo</forename>
+         <surname>Di Capua</surname>
+      </persName>
+      <idno type="VIAF">9999149</idno>
+      <birth source="https://it.wikipedia.org/wiki/Leonardo_Di_Capua">
+         <date when-iso="1617-08-10"/>
+         <placeName ref="https://www.geonames.org/3182512">Bagnoli Irpino</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Leonardo_Di_Capua">
+         <date when-iso="1695-06-17"/>
+         <placeName ref="https://www.geonames.org/3172394">Napoli</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0151" sameAs="http://viaf.org/viaf/51699991">
+      <persName xml:lang="it">
+         <forename>Andrea</forename>
+         <surname>Alciati</surname>
+      </persName>
+      <idno type="VIAF">51699991</idno>
+      <birth source="https://www.treccani.it/enciclopedia/andrea-alciati">
+         <date when-iso="1492-05-08"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/andrea-alciati">
+         <date when-iso="1550-01-12"/>
+         <placeName ref="https://www.geonames.org/3171366/">Pavia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>giurista</occupation>
+   </person> 
+   <person xml:id="DLCL_CF_PC0152" sameAs="http://viaf.org/viaf/88778086">
+      <persName xml:lang="it">
+         <forename>Paride</forename>
+         <surname>Dal Pozzo</surname>
+      </persName>
+      <idno type="VIAF">88778086</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paride_del_Pozzo">
+         <date when-iso="1410"/>
+         <placeName ref="https://www.geonames.org/3170699/">Pimonte</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paride_del_Pozzo">
+         <date when-iso="1493"/>
+         <placeName ref="https://www.geonames.org/3172394">Napoli</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>giurista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0153" sameAs="http://viaf.org/viaf/78769600">
+      <persName xml:lang="it">
+         <forename>Marco</forename>
+         <forename>Tullio</forename>
+         <surname>Cicerone</surname>
+      </persName>
+      <idno type="VIAF">78769600</idno>
+      <birth source="https://it.wikipedia.org/wiki/Marco_Tullio_Cicerone">
+         <date when-iso="-0106-01-03"/>
+         <placeName ref="https://www.geonames.org/3182807">Arpino</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Marco_Tullio_Cicerone">
+         <date when-iso="0043-12-07"/>
+         <placeName ref="https://www.geonames.org/3176738">Formia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>avvocato</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0154">
+      <persName xml:lang="it">
+         <surname>Magni</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0155">
+      <persName xml:lang="it">
+         <roleName>Dottore</roleName>
+         <surname>Ceccarini</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0156" sameAs="http://viaf.org/viaf/17217928">
+      <persName xml:lang="it">
+         <forename>Antonio</forename>
+         <surname>Beccadelli</surname>
+      </persName>
+      <idno type="VIAF">17217928</idno>
+      <birth source="https://www.treccani.it/enciclopedia/beccadelli-antonio-detto-il-panormita_(Dizionario-Biografico)/">
+         <date when-iso="1394"/>
+         <placeName ref="https://www.geonames.org/2523920/">Palermo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/beccadelli-antonio-detto-il-panormita_(Dizionario-Biografico)/">
+         <date when-iso="1471-01-15"/>
+         <placeName ref="https://www.geonames.org/3172394/">Napoli</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0157">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Poletti</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0158" sameAs="http://viaf.org/viaf/100395596">
+      <persName xml:lang="de">
+         <forename>Matthias</forename>
+         <surname>Kramer</surname>
+      </persName>
+      <idno type="VIAF">100395596</idno>
+      <birth source="https://it.wikipedia.org/wiki/Matthias_Kramer">
+         <date when-iso="1640-11-12"/>
+         <placeName ref="https://www.geonames.org/2886242/">Colonia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Matthias_Kramer">
+         <date when-iso="1729"/>
+         <placeName ref="https://www.geonames.org/2861650/">Norimberga</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>linguista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0159" sameAs="http://viaf.org/viaf/85044">
+      <persName xml:lang="it">
+         <forename>Marcello</forename>
+         <surname>Malpighi</surname>
+      </persName>
+      <idno type="VIAF">85044</idno>
+      <birth source="https://it.wikipedia.org/wiki/Marcello_Malpighi">
+         <date when-iso="1628-03-10"/>
+         <placeName ref="https://www.geonames.org/3177814/">Crevalcore</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Marcello_Malpighi">
+         <date when-iso="1694-11-29"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0160">
+      <persName xml:lang="it">
+         <forename>Bartolomeo</forename>
+         <surname>Cavalcanti</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0161" sameAs="http://viaf.org/viaf/311112780">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Gabriele</forename>
+         <surname>Giolito</surname>
+         <surname>De Ferrari</surname>
+      </persName>
+      <idno type="VIAF">311112780</idno>
+      <birth source="https://it.wikipedia.org/wiki/Gabriele_Giolito_de%27_Ferrari">
+         <date when-iso="1508"/>
+         <placeName ref="https://www.geonames.org/3165165/">Trino</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gabriele_Giolito_de%27_Ferrari">
+         <date when-iso="1578"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>tipografo</occupation>
+      <occupation>editore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0162">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Anziani</surname>
+      </persName>
+      <birth source="https://en.wikipedia.org/wiki/Giacomo_Anziani">
+         <date when-iso="1681"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Giacomo_Anziani">
+         <date when-iso="1723"/>
+      </death>
+      <sex value="m"/>
+      <occupation>architetto</occupation>
+      <occupation>pittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0163">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Camerlingo</roleName>
+         <surname>Mastri</surname>
+      </persName>    
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0164">
+      <persName>
+         <forename>M.</forename>
+         <surname>Simon</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0165" sameAs="http://viaf.org/viaf/29541502">
+      <persName xml:lang="it">
+         <forename>Lorenzo</forename>
+         <surname>Valla</surname>
+      </persName>
+      <idno type="VIAF">29541502</idno>
+      <birth source="https://www.treccani.it/enciclopedia/lorenzo-valla/">
+         <date when-iso="1407"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/lorenzo-valla/">
+         <date when-iso="1457-08-01"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filologo</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0166" sameAs="http://viaf.org/viaf/97746098">
+      <persName xml:lang="it">
+         <forename>Flavio</forename>
+         <forename>Valerio</forename>
+         <forename>Aurelio</forename>
+         <surname>Costantino</surname>
+      </persName>
+      <idno type="VIAF">97746098</idno>
+      <birth source="https://it.wikipedia.org/wiki/Costantino_I">
+         <date when-iso="0274-02-27"/>
+         <placeName ref="https://www.geonames.org/787657/">Naissus</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Costantino_I">
+         <date when-iso="0337-05-22"/>
+         <placeName ref="https://www.geonames.org/745028">Nicomedia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>imperatore</occupation>
+   </person>
+   
    
    
    

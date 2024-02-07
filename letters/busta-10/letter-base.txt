@@ -57,6 +57,7 @@
    <facsimile sameAs="">
       <graphic n="1r" url=""/>
       <graphic n="1v" url=""/>
+      <graphic n="2r" url=""/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (, )">
       <body>

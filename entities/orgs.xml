@@ -295,6 +295,16 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0027" type="monastery">
+      <orgName xml:lang="it">Monastero di Bertinoro</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0025">Bertinoro</settlement>
+         </address>
+      </location>
+   </org>
    
    
    
