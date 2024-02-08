@@ -1436,25 +1436,11 @@
       <sex value="m"/>
       <occupation>autore</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0099" sameAs="http://viaf.org/viaf/24656352">
-      <persName xml:lang="it">
-         <roleName type="religious">Padre Abate</roleName>
-         <forename>Benedetto</forename>
-         <surname>Bacchini</surname>
-      </persName>
-      <idno type="VIAF">24656352</idno>
-      <birth source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
-         <date when-iso="1651-08-31"/>
-         <placeName ref="https://www.geonames.org/3177029/">Borgo San Donnino</placeName>
-      </birth>
-      <death source="https://www.treccani.it/enciclopedia/benedetto-bacchini_(Dizionario-Biografico)/">
-         <date when-iso="1721-09-10"/>
-         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
-      </death>
-      <sex value="m"/>
-      <occupation>storico</occupation>
-      <occupation>critico</occupation>
+   
+   <person xml:id="DLCL_CF_PC0099">
+      
    </person>
+   
    <person xml:id="DLCL_CF_PC0100">
       <persName xml:lang="it">
          <surname>Frattacci</surname>

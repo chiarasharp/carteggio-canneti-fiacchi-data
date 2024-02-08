@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-01-30" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20646/manifest">
@@ -91,7 +92,7 @@
             <pb xml:id="DLCL_CF_E10014_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20864/full/580,800/0/default.jpg"/>
             
             <p>
-               Quando avrà letto l’<bibl>Oratorio</bibl> a lei inviato, mi scriva come le sia piacciuto. 
+               Quando avrà letto l’<bibl type="religious">Oratorio</bibl> a lei inviato, mi scriva come le sia piacciuto. 
                Io non l’ho potuto gustare, perché appena a gran fatica mi era riuscito averne poco dianzi quella copia. 
                Ho di poi fatta amicizia con l’<rs type="person">Autore</rs>, che me na ha promesse alcune copie. 
                Ma <rs type="person">egli</rs> è distratto dalle faccende del suo Istituto, essendo Prete della <orgName ref="#DLCL_CF_O0033">Congregazione della Missione</orgName>: 

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20645/manifest">
@@ -69,16 +70,21 @@
             </opener>
             
             <p> 
-               Godo che <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> sia pienamente persuasa dell’intelligenza da darsi al <foreign xml:lang="la">Decreto <hi rend="underline">de excellentia maioris dignitatis</hi></foreign>, 
-               secondo le <bibl>Rubriche</bibl>, e secondo la pratica la quale è la prima, e l’unica interprete di tutte, e massimamente di tali leggi. 
-               Se pur non dicessimo meglio che non dobbiamo prendersi veruna soggezione di una risposta data ad uno Scrupoloso, il qual poi non ha potuto servirsene per alterare il <bibl>Calendario</bibl> di questa Chiesa, né può ora molto meno
-               servirsene, per essere stato, non ha gran tempo, licenziato da <persName ref="#DLCL_CF_PC0094">Monsignor de’ Buoi Vescovo</persName>, e privato delle cariche di suo Segretario, Mastro di cerimonie, e Calendarista. 
+               Godo che <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> sia pienamente persuasa dell’intelligenza da darsi 
+               al <bibl type="religious">Decreto</bibl> <foreign xml:lang="la"><hi rend="underline">de excellentia maioris dignitatis</hi></foreign>, 
+               secondo le <bibl type="religious">Rubriche</bibl>, e secondo la pratica la quale è la prima, e l’unica interprete di tutte, e massimamente di tali leggi. 
+               Se pur non dicessimo meglio che non dobbiamo prendersi veruna soggezione di una risposta data ad uno Scrupoloso, 
+               il qual poi non ha potuto servirsene per alterare il <bibl type="religious">Calendario</bibl> di questa Chiesa, né può ora molto meno 
+               servirsene, per essere stato, non ha gran tempo, licenziato da <persName ref="#DLCL_CF_PC0094">Monsignor de’ Buoi Vescovo</persName>, 
+               e privato delle cariche di suo Segretario, Mastro di cerimonie, e Calendarista. 
                Ora, non senza difficoltà, è stato eletto Coadiutore dell’Insigne <persName ref="#DLCL_CF_PC0095">Signore Canonico Guidarelli</persName>, con la futura successione; 
                nell’officio di pubblico Bibliotecario, che frutta soli trenta scudi. 
-               Se <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> vuol proseguire a mettere nel frontispizio l’aggiunto d’<hi rend="underline">Insigne</hi>, accordi l’istesso titolo a tutti gli alti Monasteri, che se ne mettano in pretensione. 
+               Se <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> vuol proseguire a mettere nel frontispizio l’aggiunto d’<hi rend="underline">Insigne</hi>, 
+               accordi l’istesso titolo a tutti gli alti Monasteri, che se ne mettano in pretensione. 
                Il denominarsi uno Nobile, Dotto, Famoso, non vuol già dire che qual tale solo meriti essere di quel titolo, e di quella denominazione onorato. 
-               Mi ricordo, e mi ricordai benissimo del <bibl>Decreto</bibl> intorno le Translazioni da celebrarsi con rito semidoppio. 
-               Ma prevalse in me allora il riflesso del rito doppio, che costì gode la Traslazione di <persName ref="#DLCL_CF_PC0081">San Apollinare</persName>, e forse ancor quella di <persName ref="#DLCL_CF_PC0062">San Ursicino</persName> nella Chiesa Ravennate. 
+               Mi ricordo, e mi ricordai benissimo del <bibl type="religious">Decreto</bibl> intorno le Translazioni da celebrarsi con rito semidoppio. 
+               Ma prevalse in me allora il riflesso del rito doppio, che costì gode la Traslazione di <persName ref="#DLCL_CF_PC0081">San Apollinare</persName>, 
+               e forse ancor quella di <persName ref="#DLCL_CF_PC0062">San Ursicino</persName> nella Chiesa Ravennate. 
                Perciò m’ indussi a conformarmi a cotesto esempio che tuttavia non so condannare. 
                Ella si appigli a qual giudica 
             </p>
@@ -87,18 +93,22 @@
             
             <p>
                meglio. 
-               Alla fine anco ne’ <bibl>Riti</bibl>, e forse più che in altre materie si dan le opinioni probabili. 
-               Ogni volta che si può render conto di quel che si sa massimamente caminandosi col fondamento di legittima consuetudine, l’uo<gap reason="illegible"/>[...] opera bene, e canonicamente. 
+               Alla fine anco ne’ <bibl type="religious">Riti</bibl>, e forse più che in altre materie si dan le opinioni probabili. 
+               Ogni volta che si può render conto di quel che si sa massimamente caminandosi col fondamento di legittima consuetudine, 
+               l’uo<gap reason="illegible"/>[...] opera bene, e canonicamente. 
             </p>
             
             <p>
                Confesso che mi ha consolato grandemente il saporito racconto dell’<rs type="person">Abate Siciliano</rs>, in riguardo dell’onore, che ne ridonda al Monastero. 
-               Va pur di quando in quando venendo chi si ferma a’ <bibl>libri delle Cose Nummarie</bibl>, e dell’erudizione, delle quali osservai l’altro giorno essere poco men che ignuda questa pubblica Biblioteca. 
-               È stato ben’impiegato il Volume delle nostre Istorie trasportato in <placeName ref="#DLCL_CF_L0056">Sicilia</placeName>, donde abbiam necessità di averne diversi <bibl>Tomi di cose Monastiche</bibl> colà stampati. 
+               Va pur di quando in quando venendo chi si ferma a’ <bibl type="religious">libri delle Cose Nummarie</bibl>, e dell’erudizione, delle quali osservai l’altro giorno essere poco men che ignuda questa pubblica Biblioteca. 
+               È stato ben’impiegato il Volume delle nostre Istorie trasportato in <placeName ref="#DLCL_CF_L0056">Sicilia</placeName>, 
+               donde abbiam necessità di averne diversi <bibl type="religious">Tomi di cose Monastiche</bibl> colà stampati. 
                Per altro di <placeName ref="#DLCL_CF_L0056">quell’Isola</placeName> poco si ha in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
-               restringendosi al <bibl type="print">primo tomo della Biblioteca Sicula</bibl> del <persName ref="#DLCL_CF_PC0096">Mongitore</persName>, all’<persName ref="#DLCL_CF_PC0097">Inchofer</persName> della <bibl type="print">Lettera della Beata Vergine</bibl>; 
-               alle <bibl type="print">medaglie della Magna Grecia</bibl> del <persName ref="#DLCL_CF_PC0098">Parisio</persName>, e non so se ad altro, di quel molto, che n’è stato scritto. 
-               La storia del <persName ref="#DLCL_CF_PC0099">padre Abbate Bacchini</persName> rimasto senza Scuolari è curiosa. 
+               restringendosi al <bibl type="print">primo tomo della Biblioteca Sicula</bibl> del <persName ref="#DLCL_CF_PC0096">Mongitore</persName>, 
+               all’<persName ref="#DLCL_CF_PC0097">Inchofer</persName> della <bibl type="print">Lettera della Beata Vergine</bibl>; 
+               alle <bibl type="print">medaglie della Magna Grecia</bibl> del <persName ref="#DLCL_CF_PC0098">Parisio</persName>, 
+               e non so se ad altro, di quel molto, che n’è stato scritto. 
+               La storia del <persName ref="#DLCL_CF_PC0009">padre Abbate Bacchini</persName> rimasto senza Scuolari è curiosa. 
             </p>
             
             <p>

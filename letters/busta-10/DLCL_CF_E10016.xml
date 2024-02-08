@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-01-31" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20648/manifest">
@@ -73,7 +74,7 @@
             <p>
                Cordialissime grazie rendo all’amore del mio Carissimo <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo</persName> per le notizie tratte dal <bibl type="print">Mabillone</bibl>, 
                le quali danno una nuova scoperta, e incognita agli scrittori delle cose del <persName ref="#DLCL_CF_PC0017">Padre San Romualdo</persName>. 
-               Oh quanto bene quindi s’illustra, e si conferma l’Elogio, che del Santo Padre forma il <bibl type="print">Martirologio Romano</bibl>, e seco il <persName ref="#DLCL_CF_PC0059">Baronio</persName>, 
+               Oh quanto bene quindi s’illustra, e si conferma l’Elogio, che del <rs type="person">Santo Padre</rs> forma il <bibl type="print">Martirologio Romano</bibl>, e seco il <persName ref="#DLCL_CF_PC0059">Baronio</persName>, 
                riconoscendolo per Ristoratore della Vita Anacoretica, e (dovea dirsi anco) della Cenobitica. 
                Finita la seccaggine ormi delle buone feste, mi metterò a fare un poco di studio sopra l’età del <persName ref="#DLCL_CF_PC0017">Padre San Romualdo</persName>, 
                confrontandola con la <bibl type="print">Cronologia doppia</bibl> del <persName ref="#DLCL_CF_PC0132">Grandi</persName>, 
@@ -91,7 +92,7 @@
                Vi osservi attentamente di nuovo. 
                Mi sovviene ancora che il <persName ref="#DLCL_CF_PC0129">Mabillone</persName> negli <bibl type="print">Annali</bibl> in due luoghi accenna esservi chi dubiti non essere diversi, 
                né distinti <persName ref="#DLCL_CF_PC0135">San Bruno Vescovo e martire Apostolo della Russia</persName> da <persName ref="#DLCL_CF_PC0136">San Bonifazio</persName> discepolo di <persName ref="#DLCL_CF_PC0017">San Romualdo</persName>. 
-               Ma non so di quanto peso sia, né quanto fondata la conghiettura 
+               Ma non so di quanto peso sia, né quanto fondata la conghiettura. 
             </p>
             
             <pb xml:id="DLCL_CF_E10016_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20872/full/581,800/0/default.jpg"/>
@@ -111,7 +112,7 @@
                In questa edizione di <placeName ref="#DLCL_CF_L0017">Parigi</placeName> mancano le <bibl type="print">Vite</bibl> de’ <persName ref="#DLCL_CF_PC0140">Cardinali Contarini</persName>, 
                <persName ref="#DLCL_CF_PC0141">Bembo</persName>, scritte dal <persName ref="#DLCL_CF_PC0142">Casa</persName>, che si trovano nell’edizione in 12, di <persName ref="#DLCL_CF_L0010">Padova</persName>. 
                Ma penso queste due <bibl type="print">Vite</bibl> siano nell’edizione ultima del <persName ref="#DLCL_CF_PC0142">Casa</persName>. 
-               Vi osservi, e mi avvisi, se costì vi è una 2a parte delle nostre storie Camaldolesi scompagnata, ne farei baratto con questa Libreria Pubblica, ove manca; e riceverò qualche altro libro in cambio. 
+               Vi osservi, e mi avvisi, se costì vi è una 2a parte delle nostre storie Camaldolesi scompagnata, ne farei baratto con questa <orgName>Libreria Pubblica</orgName>, ove manca; e riceverò qualche altro libro in cambio. 
                Potrebbe unirsi a’ libri, che devonsi far capitare quà. 
                Ma vorrei che vi si unissero l’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> degli <bibl type="print">Scrittori Bolognesi</bibl>, 
                che già la pregai far venire di <placeName ref="#DLCL_CF_L0007">Bologna</placeName> legato bene, e pagarlo con levare il danaro da codesto <rs type="person">Padre Camerlengo</rs>, che ne ha l’ordine. 
@@ -153,7 +154,7 @@
                Rimetto piena autorità a lei di servire il <persName ref="#DLCL_CF_PC0122">Padre Don Enrico</persName>. 
                Se ne faccia far la ricevuta. 
                Le prime cinque parti del <bibl type="print">Diana</bibl>, che ha cotesto <rs type="person">Padre Priore</rs> <gap reason="illegible"/>[...] e de’ Nov.i sono quì duplicate. 
-               Se occorrerà la XI di edizione Oltramontana, si avviserà. 
+               Se occorrerà la <bibl type="print">XI</bibl> di edizione Oltramontana, si avviserà. 
                Il <bibl type="print">Basseo</bibl>, ch’abbiam qui, è di stampa di <placeName ref="#DLCL_CF_L0032">Anversa</placeName>, assai più bella dell’altra di <placeName ref="#DLCL_CF_L0044">Lione</placeName>. 
                Se potrò mandarlo, se ne farà baratto. 
                Mi pare che tra nostri libri vi sia un <bibl type="religious">Rituale</bibl>. 

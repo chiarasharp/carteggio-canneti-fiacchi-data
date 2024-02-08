@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-01-26" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20644/manifest">
@@ -68,7 +69,7 @@
             </opener>
             
             <p>
-               Molto mi spiace il diffetto scoperto nel <bibl type="print">Corpo dell’Isocrate</bibl>, e <persName>Galeno</persName> del <persName>Carterio</persName>. 
+               Molto mi spiace il diffetto scoperto nel <bibl type="print">Corpo dell’Isocrate</bibl>, e <bibl type="print">Galeno</bibl> del <persName>Carterio</persName>. 
                Se non si può per altro mezzo (come avrei caro) introdurre trattato coll’<persName ref="#DLCL_CF_PC0092">Argelati</persName> sopra l’accennato mancamento, io non ricuserò di scrivergli. 
                Qualunque riesca l’esito, io stimo e giusto, e spediente, e necessario tentare il risarcimento. 
                Ma quando è il <persName ref="#DLCL_CF_PC0004">Marozzi</persName> attento ad osservare le magagne altrui, altrettanto lo vorrei zelante per medicar le sue. 
