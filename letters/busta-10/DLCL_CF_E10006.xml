@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Ravenna, 20 agosto 1713)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Ravenna, 20 Agosto 1713)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
@@ -59,7 +59,7 @@
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20825/full/584,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20826/full/566,800/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (Ravenna, 20 agosto 1713)">
+   <text type="letter" n="Canneti a Fiacchi (Ravenna, 20 Agosto 1713)">
       <body>
          <div type="transcription">
             <pb xml:id="DLCL_CF_E10006_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20825/full/584,800/0/default.jpg"/>

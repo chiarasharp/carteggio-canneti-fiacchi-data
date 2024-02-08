@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Perugia, 15 dicembre 1714)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Perugia, 15 Dicembre 1714)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
@@ -61,7 +61,7 @@
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20869/full/588,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/20870/full/587,800/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (Perugia, 15 dicembre 1714)">
+   <text type="letter" n="Canneti a Fiacchi (Perugia, 15 Dicembre 1714)">
       <body>
          <div type="transcription">
             <pb xml:id="DLCL_CF_E10015_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20867/full/583,800/0/default.jpg"/>

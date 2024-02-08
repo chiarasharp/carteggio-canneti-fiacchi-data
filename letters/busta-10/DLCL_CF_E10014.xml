@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Collina (Perugia, 25 settembre 1714)</title>
+            <title xml:lang="it">Canneti a Collina (Perugia, 25 Settembre 1714)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
@@ -60,7 +60,7 @@
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20864/full/580,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20865/full/593,800/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Collina (Perugia, 25 settembre 1714)">
+   <text type="letter" n="Canneti a Collina (Perugia, 25 Settembre 1714)">
       <body>
          <div type="transcription">
             <pb xml:id="DLCL_CF_E10014_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20863/full/589,800/0/default.jpg"/>

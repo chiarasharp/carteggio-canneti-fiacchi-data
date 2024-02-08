@@ -2267,11 +2267,150 @@
       <sex value="m"/>
       <occupation>imperatore</occupation>
    </person>
-   
-   
-   
-   
-   
+   <person xml:id="DLCL_CF_PC0167" sameAs="http://viaf.org/viaf/45144277">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Giovanni</forename>
+         <forename>Francesco</forename>
+         <surname>Morelli</surname>
+      </persName>
+      <idno type="VIAF">45144277</idno>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0168" sameAs="http://viaf.org/viaf/35392183">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Pietro</forename>
+         <forename>Iacopo</forename>
+         <surname>Bacci</surname>
+      </persName>
+      <idno type="VIAF">35392183</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giacomo-pietro-bacci_(Dizionario-Biografico)/">
+         <date when-iso="1575"/>
+         <placeName ref="#DLCL_CF_L0019">Arezzo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giacomo-pietro-bacci_(Dizionario-Biografico)/">
+         <date when-iso="1656-02-09"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>erudito</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0169">
+      <persName>
+         <surname>Batrighelli</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0170" sameAs="http://viaf.org/viaf/34600990">
+      <persName xml:lang="fr">
+         <forename>Jan</forename>
+         <surname>Vermeulen</surname>
+         <surname type="pseudonym">Molanus</surname>
+      </persName>
+      <idno type="VIAF">34600990</idno>
+      <birth source="https://www.treccani.it/enciclopedia/jan-molanus_(Enciclopedia-Italiana)/">
+         <date when-iso="1533"/>
+         <placeName ref="https://www.geonames.org/2998324/">Lilla</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/jan-molanus_(Enciclopedia-Italiana)/">
+         <date when-iso="1585-09-18"/>
+         <placeName ref="https://www.geonames.org/2792482/">Lovanio</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0171" sameAs="http://viaf.org/viaf/9857802">
+      <persName xml:lang="it">
+         <forename>Massimo</forename>
+         <surname>Planude</surname>
+      </persName>
+      <idno type="VIAF">9857802</idno>
+      <birth source="https://it.wikipedia.org/wiki/Massimo_Planude">
+         <date notBefore-iso="1255"/>
+         <placeName ref="https://www.geonames.org/745028">Nicomedia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Massimo_Planude">
+         <date notBefore-iso="1305"/>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0172" sameAs="http://viaf.org/viaf/66806872">
+      <persName xml:lang="it">
+         <roleName type="religious">Santo</roleName>
+         <forename>Agostino</forename>
+      </persName>
+      <idno type="VIAF">66806872</idno>
+      <birth source="https://it.wikipedia.org/wiki/Agostino_d%27Ippona">
+         <date when-iso="0354-11-13"/>
+         <placeName ref="https://www.geonames.org/2479215/">Tagaste</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Agostino_d%27Ippona">
+         <date when-iso="0430-08-28"/>
+         <placeName ref="https://www.geonames.org/2506999/">Ippona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0173">
+      <persName>
+         <forename>Ioanne</forename>
+         <surname>De Cartagena</surname>
+      </persName>
+   </person> 
+   <person xml:id="DLCL_CF_PC0174">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <surname>Folegatti</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0175">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <forename>Gregorio</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0176" sameAs="http://viaf.org/viaf/7725466">
+      <persName xml:lang="it">
+         <forename>Vincenzo</forename>
+         <surname>Carrari</surname>
+      </persName>
+      <idno type="VIAF">7725466</idno>
+      <birth source="https://www.treccani.it/enciclopedia/vincenzo-carrari_(Dizionario-Biografico)">
+         <date when-iso="1539-09-14"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/vincenzo-carrari_(Dizionario-Biografico)">
+         <date when-iso="1596"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0177" sameAs="http://viaf.org/viaf/29617842">
+      <persName xml:lang="it">
+         <forename>Ambrogio</forename>
+         <surname>Traversari</surname>
+      </persName>
+      <idno type="VIAF">29617842</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ambrogio-traversari_(Dizionario-Biografico)/">
+         <date when-iso="1386-09-16"/>
+         <placeName ref="https://www.geonames.org/3170114/">Portico di Romagna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ambrogio-traversari_(Dizionario-Biografico)/">
+         <date when-iso="1439-10-20"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0178">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <surname>Ferranti</surname>
+      </persName>
+   </person>
    
    
    <person xml:id="DLCL_CF_PC0223" sameAs="http://viaf.org/viaf/95227412">

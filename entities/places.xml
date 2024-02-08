@@ -371,7 +371,22 @@
       </location>
       <idno type="geonames">2643743</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0046" type="settlement" sameAs="https://www.geonames.org/2510769">
+      <placeName>Spagna</placeName>
+      <location>
+         <country key="ES"/>
+         <geo>40, -4</geo>
+      </location>
+      <idno type="geonames">2510769</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0047" type="settlement" sameAs="https://www.geonames.org/6544491">
+      <placeName>Salamanca</placeName>
+      <location>
+         <country key="ES"/>
+         <geo>51.50853, -0.12574</geo>
+      </location>
+      <idno type="geonames">6544491</idno>
+   </place>
    
    
    <place xml:id="DLCL_CF_L0055" type="settlement" sameAs="https://www.geonames.org/3170550">
