@@ -387,7 +387,30 @@
       </location>
       <idno type="geonames">6544491</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0048" type="settlement" sameAs="https://www.geonames.org/3177219">
+      <placeName>Fano</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.84052, 13.01665</geo>
+      </location>
+      <idno type="geonames">3177219</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0049" type="settlement" sameAs="https://www.geonames.org/3174618">
+      <placeName>Lombardia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.66667, 9.5</geo>
+      </location>
+      <idno type="geonames">3174618</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0050" type="settlement" sameAs="https://www.geonames.org/2751773">
+      <placeName>Leiden</placeName>
+      <location>
+         <country key="NL"/>
+         <geo>52.15833, 4.49306</geo>
+      </location>
+      <idno type="geonames">2751773</idno>
+   </place>
    
    <place xml:id="DLCL_CF_L0055" type="settlement" sameAs="https://www.geonames.org/3170550">
       <placeName>Po</placeName>

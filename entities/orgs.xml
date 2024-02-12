@@ -305,9 +305,35 @@
          </address>
       </location>
    </org>
-   
-   
-   
+   <org xml:id="DLCL_CF_O0028" type="church" sameAs="http://viaf.org/viaf/293479551">
+      <orgName xml:lang="it">Basilica patriarcale di San Domenico</orgName>
+      <idno type="VIAF">293479551</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0029" type="church" sameAs="http://viaf.org/viaf/56145857802623000000">
+      <orgName xml:lang="it">Basilica di San Vitale</orgName>
+      <idno type="VIAF">56145857802623000000</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0030" type="monastery">
+      <orgName xml:lang="it">Monastero di San Mauro</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
+   </org>
    
    
    

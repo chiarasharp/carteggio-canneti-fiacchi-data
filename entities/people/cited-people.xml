@@ -2411,6 +2411,151 @@
          <surname>Ferranti</surname>
       </persName>
    </person>
+   <person xml:id="DLCL_CF_PC0179">
+      <persName>
+         <roleName type="religious">Don Padre</roleName>
+         <surname>Feliciano</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0180">
+      <persName>
+         <roleName type="religious">Padre Visitatore</roleName>
+         <surname>Ridolfi</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0181">
+      <persName>
+         <roleName type="religious">Padre Maestro</roleName>
+         <surname>Providoni</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0182">
+      <persName>
+         <forename>Flavio</forename>
+         <surname>Fattorini</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0183">
+      <persName>
+         <surname>Belloni</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0184">
+      <persName>
+         <roleName type="religious">Don</roleName>
+         <forename>Lotario</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0185">
+      <persName>
+         <roleName type="religious">Padre Don</roleName>
+         <forename>Cristino</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0186" sameAs="http://viaf.org/viaf/206159474047427660700">
+      <persName xml:lang="it">
+         <forename>Teseo</forename>
+         <forename>Francesco</forename>
+         <surname>Dal Corno</surname>
+      </persName>
+      <idno type="VIAF">206159474047427660700</idno>
+      <death source="https://archiviopossessori.it/indice-possessori/dal-corno-teseo-francesco">
+         <date when-iso="1721"/>
+      </death>
+      <sex value="m"/>
+      <occupation>ecclesiastico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0187">
+      <persName xml:lang="it">
+         <forename>Ostasio</forename>
+         <surname>Da Polenta</surname>
+      </persName>
+      <birth source="https://www.treccani.it/enciclopedia/ostasio-da-polenta_%28Dizionario-Biografico%29/">
+         <date notBefore-iso="1407" notAfter-iso="1410"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ostasio-da-polenta_%28Dizionario-Biografico%29/">
+         <date when-iso="1444"/>
+         <placeName ref="https://www.geonames.org/6697802/">Creta</placeName>
+      </death>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0188" source="https://opac.sbn.it/risultati-autori/-/opac-autori/detail/SBLV315844">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Cavacci</surname>
+      </persName>
+      <birth>
+         <date when-iso="1567"/>
+      </birth>
+      <death>
+         <date when-iso="1612"/>
+      </death>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0189">
+      <persName>
+         <surname>Lanzoni</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0190" sameAs="http://viaf.org/viaf/49226033">
+      <persName xml:lang="it">
+         <forename>Conrad</forename>
+         <surname>Gesner</surname>
+      </persName>
+      <idno type="VIAF">49226033</idno>
+      <birth source="https://it.wikipedia.org/wiki/Conrad_Gessner">
+         <date when-iso="1516-03-26"/>
+         <placeName ref="https://www.geonames.org/2657896">Zurigo</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Conrad_Gessner">
+         <date when-iso="1565-12-13"/>
+         <placeName ref="https://www.geonames.org/2657896">Zurigo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>naturalista</occupation>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0191" sameAs="http://viaf.org/viaf/73880804">
+      <persName xml:lang="it">
+         <forename>Federigo</forename>
+         <surname>Nomi</surname>
+      </persName>
+      <idno type="VIAF">73880804</idno>
+      <birth source="https://www.treccani.it/enciclopedia/federigo-nomi_(Dizionario-Biografico)/">
+         <date when-iso="1633-01-31"/>
+         <placeName ref="https://www.geonames.org/3183066/">Anghiari</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/federigo-nomi_(Dizionario-Biografico)/">
+         <date when-iso="1705-11-30"/>
+         <placeName ref="https://www.geonames.org/3172789/">Monterchi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>presbitero</occupation>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0192" sameAs="http://viaf.org/viaf/32025502">
+      <persName xml:lang="it">
+         <forename>Quinto</forename>
+         <surname>Settano</surname>
+         <forename type="pseudonym">Lodovico</forename>
+         <surname type="pseudonym">Sergardi</surname>
+      </persName>
+      <idno type="VIAF">32025502</idno>
+      <birth source="https://www.treccani.it/enciclopedia/lodovico-sergardi_(Dizionario-Biografico)/">
+         <date when-iso="1660-03-27"/>
+         <placeName ref="https://www.geonames.org/3166548/">Siena</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/lodovico-sergardi_(Dizionario-Biografico)/">
+         <date when-iso="1713-09-14"/>
+         <placeName ref="https://www.geonames.org/3166548/">Siena</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   
+   
    
    
    <person xml:id="DLCL_CF_PC0223" sameAs="http://viaf.org/viaf/95227412">
