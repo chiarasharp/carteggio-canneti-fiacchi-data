@@ -176,7 +176,7 @@
       </location>
       <idno type="geonames">3178555</idno>
    </place>
-   <place xml:id="DLCL_CF_L0021" type="settlement">
+   <place xml:id="DLCL_CF_L0021" type="park">
       <placeName>Pineta di Classe</placeName>
       <location source="https://it.wikipedia.org/wiki/Pineta_di_Ravenna">
          <country key="it"/>
@@ -277,7 +277,7 @@
       </location>
       <idno type="geonames">3169361</idno>
    </place>
-   <place xml:id="DLCL_CF_L0034" type="settlement">
+   <place xml:id="DLCL_CF_L0034" type="hill">
       <placeName>Colle di Porta Sole</placeName>
       <location >
          <country key="it"/>
@@ -411,7 +411,37 @@
       </location>
       <idno type="geonames">2751773</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0051" type="settlement" sameAs="https://www.geonames.org/3172242">
+      <placeName>Nocera Umbra</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.114, 12.78925</geo>
+      </location>
+      <idno type="geonames">3172242</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0052" type="settlement" source="https://it.wikipedia.org/wiki/Nocera_dei_Pagani">
+      <placeName>Nocera dei Pagani</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.114, 12.78925</geo>
+      </location>
+   </place>
+   <place xml:id="DLCL_CF_L0053" type="settlement" sameAs="https://www.geonames.org/2874225">
+      <placeName>Magonza</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>49.98419, 8.2791</geo>
+      </location>
+      <idno type="geonames">2874225</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0054" type="settlement" sameAs="https://www.geonames.org/3171457">
+      <placeName>Parma</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.79935, 10.32618</geo>
+      </location>
+      <idno type="geonames">3171457</idno>
+   </place>
    <place xml:id="DLCL_CF_L0055" type="settlement" sameAs="https://www.geonames.org/3170550">
       <placeName>Po</placeName>
       <location>
@@ -427,5 +457,37 @@
          <geo>37.75, 14.25</geo>
       </location>
       <idno type="geonames">2523119</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0057" type="bay" sameAs="https://www.geonames.org/3173353">
+      <placeName>Porto di Miseno</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>40.78333, 14.08333</geo>
+      </location>
+      <idno type="geonames">3173353</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0058" type="settlement" sameAs="https://www.geonames.org/3174051">
+      <placeName>Mantova</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.16031, 10.79784</geo>
+      </location>
+      <idno type="geonames">3174051</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0059" type="">
+      <placeName></placeName>
+      <location>
+         <country key=""/>
+         <geo></geo>
+      </location>
+      <idno type="geonames"></idno>
+   </place>
+   <place xml:id="DLCL_CF_L0060" type="settlement" sameAs="https://www.geonames.org/3167104">
+      <placeName>Sarzana</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.11178, 9.9622</geo>
+      </location>
+      <idno type="geonames">3167104</idno>
    </place>
 </listPlace>

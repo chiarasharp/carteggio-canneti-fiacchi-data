@@ -334,20 +334,98 @@
          <country key="IT"/>
       </location>
    </org>
-   
-   
-   
-   
-   
-   
-   
-   
+   <org xml:id="DLCL_CF_O0031" type="monastery" sameAs="http://viaf.org/viaf/238542523">
+      <orgName xml:lang="it">Monastero di Sant'Andrea Maggiore di Ravenna</orgName>
+      <orgName xml:lang="it">Monastero delle monache benedettine di Sant'Andrea di Ravenna</orgName>
+      <idno type="VIAF">238542523</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0032" type="monastery" source="http://dati.san.beniculturali.it/SAN/complarc_GGASI_san.cat.complArch.40511">
+      <orgName xml:lang="it">Monastero di San Salvatore</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0043">Forlì</settlement>
+         </address>
+      </location>
+   </org>
    <org xml:id="DLCL_CF_O0033" type="congregation" sameAs="http://viaf.org/viaf/154348943">
       <orgName xml:lang="it">Congregazione della Missione</orgName>
-      <idno type="VIAF">154348943</idno>
       <desc></desc>
    </org>
-   
+   <org xml:id="DLCL_CF_O0034" type="congregation" sameAs="http://viaf.org/viaf/8081156012419949700007">
+      <orgName xml:lang="it">Congregazione degli Eremiti Camaldolesi di Monte Corona</orgName>
+      <idno type="ISNI">0000000121739515</idno>
+      <idno type="VIAF">8081156012419949700007</idno>
+      <desc>Istituto religioso maschile di diritto pontificio costituito da eremi e monasteri sui iuris.</desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement sameAs="https://www.geonames.org/3168726/">Camaldoli</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0035" type="gallery" source="https://it.wikipedia.org/wiki/Galleria_d%27arte_moderna_Ricci_Oddi">
+      <orgName xml:lang="it">Galleria d'Oddi</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement sameAs="https://www.geonames.org/3171058/">Piacenza</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0036" type="villa">
+      <orgName xml:lang="it">Villa de' Gesuiti</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0037" type="library" sameAs="http://viaf.org/viaf/147341799">
+      <orgName xml:lang="it">Biblioteca Ambrosiana</orgName>
+      <idno type="VIAF">147341799</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0027">Milano</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0038" type="university" sameAs="http://viaf.org/viaf/">
+      <orgName xml:lang="it">Archiginnasio della Sapienza</orgName>
+      <idno type="VIAF"></idno>
+      <idno type="geonames"></idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0039" type="library">
+      <orgName xml:lang="it">Libreria Sclama</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0040" type="church" sameAs="http://viaf.org/viaf/156624582">
+      <orgName xml:lang="it">Basilica di San Petronio</orgName>
+      <idno type="VIAF">156624582</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+      </location>
+   </org>
    
    <org xml:id="DLCL_CF_O0043" type="reign" source="https://it.wikipedia.org/wiki/Regno_di_Napoli" sameAs="http://viaf.org/viaf/155695791">
       <orgName xml:lang="it">Regno di Napoli</orgName>

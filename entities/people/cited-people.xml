@@ -2554,10 +2554,453 @@
       <sex value="m"/>
       <occupation>poeta</occupation>
    </person>
-   
-   
-   
-   
+   <person xml:id="DLCL_CF_PC0193">
+      <persName xml:lang="it">
+         <forename>Floriano</forename>
+         <forename>Maria</forename>
+         <surname>Amigoni</surname>
+      </persName>
+      <birth source="https://archiviopossessori.it/archivio/1650-amigoni-floriano-maria">
+         <date when-iso="1670"/>
+         <placeName ref="https://www.geonames.org/3173635">Meldola</placeName>
+      </birth>
+      <death source="https://archiviopossessori.it/archivio/1650-amigoni-floriano-maria">
+         <date when-iso="1749"/>
+      </death>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0194">
+      <persName>
+         <surname>Munghini</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0195" sameAs="http://viaf.org/viaf/61583084">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Colombano</forename>
+      </persName>
+      <idno type="VIAF">61583084</idno>
+      <birth source="https://it.wikipedia.org/wiki/Colombano_di_Bobbio">
+         <date when-iso="540" cert="unknown"/>
+         <placeName ref="https://it.wikipedia.org/wiki/Monte_Leinster">Monte Leinster</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Colombano_di_Bobbio">
+         <date when-iso="0615-11-23"/>
+         <placeName ref="https://www.geonames.org/3181970">Bobbio</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0196" sameAs="http://viaf.org/viaf/296540227">
+      <persName xml:lang="it">
+         <forename>Santa</forename>
+         <forename>Bibiana</forename>
+      </persName>
+      <idno type="VIAF">296540227</idno>
+      <birth source="https://it.wikipedia.org/wiki/Santa_Bibiana">
+         <date notBefore-iso="347" notAfter-iso="352"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Santa_Bibiana">
+         <date notBefore-iso="362" notAfter-iso="363"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>martire</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0197" sameAs="http://viaf.org/viaf/64015055">
+      <persName xml:lang="it">
+         <roleName type="religious">Vescovo</roleName>
+         <forename>Paolo</forename>
+         <surname>Giovio</surname>
+      </persName>
+      <idno type="VIAF">64015055</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paolo_Giovio">
+         <date when-iso="1483-04-21"/>
+         <placeName ref="https://www.geonames.org/3178229/">Como</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paolo_Giovio">
+         <date when-iso="1552-12-12"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0198" sameAs="http://viaf.org/viaf/37257642">
+      <persName xml:lang="it">
+         <roleName type="religious">Vescovo</roleName>
+         <forename>Varino</forename>
+         <surname>Favorino</surname>
+      </persName>
+      <idno type="VIAF">37257642</idno>
+      <birth source="https://www.treccani.it/enciclopedia/guarino-favorino_%28Dizionario-Biografico%29/">
+         <date notBefore-iso="1445" notAfter-iso="1450"/>
+         <placeName ref="https://www.geonames.org/8958248/">Pievefavera</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/guarino-favorino_%28Dizionario-Biografico%29/">
+         <date when-iso="1537"/>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0199">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <surname>Mellini</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0200" sameAs="http://viaf.org/viaf/172385754">
+      <persName xml:lang="it">
+         <forename>Ponzio</forename>
+         <surname>Pilato</surname>
+      </persName>
+      <idno type="VIAF">172385754</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ponzio-pilato/">
+         <date notBefore-iso="-0100" notAfter-iso="0001"/>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ponzio-pilato/">
+         <date notBefore-iso="0001" notAfter-iso="0100"/>
+      </death>
+      <sex value="m"/>
+      <occupation>funzionario</occupation>
+      <occupation>militare</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0201">
+      <persName>
+         <roleName type="religious">Fra</roleName>
+         <surname>Bastiano</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0202" sameAs="http://viaf.org/viaf/89203537">
+      <persName xml:lang="it">
+         <forename>Gaio</forename>
+         <forename>Sollio</forename>
+         <surname>Sidonio</surname>
+         <surname>Apollinare</surname>
+      </persName>
+      <idno type="VIAF">89203537</idno>
+      <birth source="https://it.wikipedia.org/wiki/Gaio_Sollio_Sidonio_Apollinare">
+         <date when-iso="0430-11-05" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/2996944/">Lugdunum</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gaio_Sollio_Sidonio_Apollinare">
+         <date when-iso="0486"/>
+         <placeName ref="https://www.geonames.org/3024635/">Clermont-Ferrand</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0203">
+      <persName>
+         <roleName type="religious">Frate</roleName>
+         <forename>Bonaventura</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0204" sameAs="http://viaf.org/viaf/22880044">
+      <persName xml:lang="it">
+         <forename>Desiderio</forename>
+         <surname>Spreti</surname>
+      </persName>
+      <idno type="VIAF">22880044</idno>
+      <birth source="https://www.treccani.it/enciclopedia/desiderio-spreti_(Dizionario-Biografico)/">
+         <date when-iso="1414"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/desiderio-spreti_(Dizionario-Biografico)/">
+         <date when-iso="1474"/>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0205" sameAs="http://viaf.org/viaf/39721747">
+      <persName xml:lang="it">
+         <forename>Girolamo</forename>
+         <surname>Fabbri</surname>
+      </persName>
+      <idno type="VIAF">39721747</idno>
+      <birth source="https://www.treccani.it/enciclopedia/girolamo-fabbri_%28Dizionario-Biografico%29/">
+         <date when-iso="1627-12-25"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/girolamo-fabbri_%28Dizionario-Biografico%29/">
+         <date when-iso="1679-09-17"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>presbitero</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0206" sameAs="http://viaf.org/viaf/29688624">
+      <persName xml:lang="it">
+         <forename>Andrea</forename>
+         <surname type="pseudonym">Ravennate</surname>
+         <surname>Agnello</surname>
+      </persName>
+      <idno type="VIAF">29688624</idno>
+      <birth source="https://www.treccani.it/enciclopedia/detto-agnello-ravennate-agnello_(Dizionario-Biografico)/">
+         <date when-iso="800" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/detto-agnello-ravennate-agnello_(Dizionario-Biografico)/">
+         <date when-iso="850" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>presbitero</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0207" sameAs="http://viaf.org/viaf/3530079">
+      <persName xml:lang="it">
+         <forename>Tommaso</forename>
+         <surname>Tomai</surname>
+      </persName>
+      <idno type="VIAF">3530079</idno>
+      <birth>
+         <date when-iso="1523" cert="unknown"/>
+      </birth>
+      <death>
+         <date when-iso="1593"/>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>magistrato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0208" sameAs="http://viaf.org/viaf/69286472">
+      <persName xml:lang="it">
+         <forename>Nicolò</forename>
+         <surname>Niccoli</surname>
+      </persName>
+      <idno type="VIAF">69286472</idno>
+      <birth source="https://www.treccani.it/enciclopedia/nicolo-niccoli_(Dizionario-Biografico)/">
+         <date when-iso="1365"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/nicolo-niccoli_(Dizionario-Biografico)/">
+         <date when-iso="1437-02-03"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0209" sameAs="http://viaf.org/viaf/88655004">
+      <persName xml:lang="it">
+         <forename>Alberto</forename>
+         <surname>Berdini</surname>
+         <surname type="pseudonym">Da Sarteano</surname>
+      </persName>
+      <idno type="VIAF">88655004</idno>
+      <birth source="https://www.treccani.it/enciclopedia/alberto-berdini_%28Dizionario-Biografico%29/">
+         <date when-iso="1385"/>
+         <placeName ref="https://www.geonames.org/3167109/">Sarteano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/alberto-berdini_%28Dizionario-Biografico%29/">
+         <date when-iso="1450-08-15"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>francescano</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0210" sameAs="http://viaf.org/viaf/100198334">
+      <persName xml:lang="it">
+         <forename>Aulo</forename>
+         <surname>Gellio</surname>
+      </persName>
+      <idno type="VIAF">100198334</idno>
+      <birth source="https://www.treccani.it/enciclopedia/aulo-gellio/">
+         <date when-iso="0125"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/aulo-gellio/">
+         <date when-iso="0180"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0211" sameAs="http://viaf.org/viaf/51743811">
+      <persName xml:lang="nl">
+         <forename>Jakob</forename>
+         <surname>Gronov</surname>
+      </persName>
+      <idno type="VIAF">51743811</idno>
+      <birth source="https://www.treccani.it/enciclopedia/jakob-gronov/">
+         <date when-iso="1645"/>
+         <placeName ref="https://www.geonames.org/2756987/">Deventer</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/jakob-gronov/">
+         <date when-iso="1716"/>
+         <placeName ref="#DLCL_CF_L0050">Leida</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0212" sameAs="http://viaf.org/viaf/41850877">
+      <persName xml:lang="nl">
+         <forename>Johann</forename>
+         <forename>Friedrich</forename>
+         <surname>Gronov</surname>
+      </persName>
+      <idno type="VIAF">41850877</idno>
+      <birth source="https://www.treccani.it/enciclopedia/johann-friedrich-gronov/">
+         <date when-iso="1611"/>
+         <placeName ref="https://www.geonames.org/2911298/">Amburgo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/johann-friedrich-gronov/">
+         <date when-iso="1671"/>
+         <placeName ref="#DLCL_CF_L0050">Leida</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0213">
+      <persName>
+         <roleName type="honorific">Reverendissimo</roleName>
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Botta</surname>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0214">
+      <persName>
+         <forename>Aurelio</forename>
+         <forename>Antonelli</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0215" sameAs="http://viaf.org/viaf/18017604">
+      <persName xml:lang="it">
+         <roleName type="nobility">Re di Napoli</roleName>
+         <forename>Renato</forename>
+         <surname>D'Angiò</surname>
+      </persName>
+      <idno type="VIAF">18017604</idno>
+      <birth source="https://it.wikipedia.org/wiki/Renato_d%27Angi%C3%B2">
+         <date when-iso="1409-01-16"/>
+         <placeName ref="https://www.geonames.org/3037656/">Angers</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Renato_d%27Angi%C3%B2">
+         <date when-iso="1480-07-10"/>
+         <placeName ref="https://www.geonames.org/3038354/">Aix-en-Provence</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0216" sameAs="http://viaf.org/viaf/44309027">
+      <persName xml:lang="it">
+         <forename>Giusto</forename>
+         <surname>Fontanini</surname>
+      </persName>
+      <idno type="VIAF">44309027</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giusto-fontanini_(Dizionario-Biografico)/">
+         <date when-iso="1666-10-30"/>
+         <placeName ref="https://www.geonames.org/3168438/">San Daniele del Friuli</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giusto-fontanini_(Dizionario-Biografico)/">
+         <date when-iso="1736-04-17"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>arcivescovo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0217" sameAs="http://viaf.org/viaf/">
+      <persName xml:lang="it">
+         <forename>Giovan</forename>
+         <forename>Francesco</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF"></idno>
+      <birth source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </birth>
+      <death source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0218" sameAs="http://viaf.org/viaf/22151431">
+      <persName xml:lang="it">
+         <forename>Natale</forename>
+         <surname>Alessandro</surname>
+      </persName>
+      <idno type="VIAF">22151431</idno>
+      <birth source="https://it.wikipedia.org/wiki/No%C3%ABl_Alexandre">
+         <date when-iso="1639-01-19"/>
+         <placeName ref="https://www.geonames.org/2982652/">Rouen</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/No%C3%ABl_Alexandre">
+         <date when-iso="1724-08-21"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0219" sameAs="http://viaf.org/viaf/40427727">
+      <persName xml:lang="it">
+         <forename>Angelo</forename>
+         <surname>Della Noce</surname>
+      </persName>
+      <idno type="VIAF">40427727</idno>
+      <birth source="https://www.treccani.it/enciclopedia/angelo-della-noce_(Dizionario-Biografico)/">
+         <date when-iso="1604"/>
+         <placeName ref="https://www.geonames.org/3172394/" cert="unknown">Napoli</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/angelo-della-noce_(Dizionario-Biografico)/">
+         <date when-iso="1691-07-08"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0220">
+      <persName>
+         <roleName type="religious">Sant'</roleName>
+         <forename>Ilario</forename>
+      </persName>
+   </person>
+   <person xml:id="DLCL_CF_PC0221" sameAs="http://viaf.org/viaf/120732037">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename type="religious">Niccolò V</forename>
+         <forename>Tommaso</forename>
+         <surname>Perentucelli</surname>
+      </persName>
+      <idno type="VIAF">120732037</idno>
+      <birth source="https://www.treccani.it/enciclopedia/papa-niccolo-v_(Dizionario-Biografico)/">
+         <date when-iso="1397-11-15"/>
+         <placeName ref="#DLCL_CF_L0060">Sarzana</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/papa-niccolo-v_(Dizionario-Biografico)/">
+         <date when-iso="1455-03-24"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0222" sameAs="http://viaf.org/viaf/2484168453534266300002">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>Albergati</surname>
+      </persName>
+      <idno type="VIAF">2484168453534266300002</idno>
+      <birth source="https://www.treccani.it/enciclopedia/niccolo-albergati_%28Dizionario-Biografico%29/">
+         <date when-iso="1375"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/niccolo-albergati_%28Dizionario-Biografico%29/">
+         <date when-iso="1443-05-09"/>
+         <placeName ref="https://www.geonames.org/3166548/">Siena</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>vescovo</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0223" sameAs="http://viaf.org/viaf/95227412">
       <persName xml:lang="it">
          <forename type="pseudonym">Giovanni</forename>
@@ -2593,6 +3036,242 @@
       </death>
       <sex value="m"/>
       <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0225">
+      <persName>
+         <surname>Delicati</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>droghiere</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0226" sameAs="http://viaf.org/viaf/">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <surname>Benedetto</surname>
+      </persName>
+      <idno type="VIAF"></idno>
+      <birth source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </birth>
+      <death source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </death>
+      <sex value="m"/>
+      <occupation></occupation>
+      <occupation></occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0227" sameAs="http://viaf.org/viaf/50018008">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Pier</forename>
+         <surname>Damiani</surname>
+      </persName>
+      <idno type="VIAF">50018008</idno>
+      <birth source="https://it.wikipedia.org/wiki/Pier_Damiani">
+         <date when-iso="1007"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Pier_Damiani">
+         <date when-iso="1072-02-21" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0005">Faenza</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0228" sameAs="http://viaf.org/viaf/15040330">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Maria</forename>
+         <surname>Salvioni</surname>
+      </persName>
+      <idno type="VIAF">15040330</idno>
+      <birth source="https://it.wikipedia.org/wiki/Giovanni_Maria_Salvioni">
+         <date when-iso="1676-02-02"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giovanni_Maria_Salvioni">
+         <date when-iso="1755-11-22"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>stampatore</occupation>
+      <occupation>tipografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0229">
+      <persName>
+         <surname>Manerbi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0230" sameAs="http://viaf.org/viaf/16214862">
+      <persName xml:lang="it">
+         <forename>Silvano</forename>
+         <surname>Razzi</surname>
+      </persName>
+      <idno type="VIAF">16214862</idno>
+      <birth source="https://www.treccani.it/enciclopedia/silvano-razzi">
+         <date when-iso="1527"/>
+         <placeName ref="https://www.geonames.org/3173875/">Marradi</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/silvano-razzi">
+         <date when-iso="1611"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0231" sameAs="http://viaf.org/viaf/89318352">
+      <persName xml:lang="it">
+         <forename>Agostino</forename>
+         <surname>Oldoini</surname>
+      </persName>
+      <idno type="VIAF">89318352</idno>
+      <birth source="https://it.wikipedia.org/wiki/Agostino_Oldoini">
+         <date when-iso="1612-06-06"/>
+         <placeName ref="https://www.geonames.org/3175081/">La Spezia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Agostino_Oldoini">
+         <date when-iso="1683-03-23"/>
+         <placeName ref="#DLCL_CF_L0028">Perugia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliografo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0232">
+      <persName>
+         <surname>Boccolini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0233" sameAs="http://viaf.org/viaf/97105654">
+      <persName xml:lang="it">
+         <forename>Dante</forename>
+         <surname>Alighieri</surname>
+      </persName>
+      <idno type="VIAF">97105654</idno>
+      <birth source="https://it.wikipedia.org/wiki/Dante_Alighieri">
+         <date notBefore-iso="1256-05-14" notAfter-iso="1265-06-13"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Dante_Alighieri">
+         <date notBefore-iso="1321-09-13" notAfter-iso="1321-09-14"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0234" sameAs="http://viaf.org/viaf/20023112">
+      <persName xml:lang="it">
+         <forename>Giulio</forename>
+         <surname>Landi</surname>
+      </persName>
+      <idno type="VIAF">20023112</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giulio-landi_(Dizionario-Biografico)/">
+         <date when-iso="1498-05-30"/>
+         <placeName ref="https://www.geonames.org/3171058/">Piacenza</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giulio-landi_(Dizionario-Biografico)/">
+         <date when-iso="1579-04-27"/>
+         <placeName ref="https://www.geonames.org/3174638/">Lodi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>esploratore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0235" sameAs="http://viaf.org/viaf/64050358">
+      <persName xml:lang="it">
+         <forename>Antonio</forename>
+         <surname>Possevino</surname>
+      </persName>
+      <idno type="VIAF">64050358</idno>
+      <birth source="https://www.treccani.it/enciclopedia/antonio-possevino_(Dizionario-Biografico)/">
+         <date when-iso="1533"/>
+         <placeName ref="https://www.geonames.org/3174051/">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/antonio-possevino_(Dizionario-Biografico)/">
+         <date when-iso="1611"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <occupation>diplomatico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0236" sameAs="http://viaf.org/viaf/102320490">
+      <persName xml:lang="it">
+         <forename>Sebastiano</forename>
+         <surname>Fausto</surname>
+      </persName>
+      <idno type="VIAF">102320490</idno>
+      <birth source="https://www.treccani.it/enciclopedia/sebastiano-fausto_(Dizionario-Biografico)/">
+         <date when-iso="1502" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/3174593/">Longiano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/sebastiano-fausto_(Dizionario-Biografico)/">
+         <date when-iso="1565" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>traduttore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0237">
+      <persName>
+         <roleName type="religious">Abate</roleName>
+         <forename>Giuseppe</forename>
+         <surname>Conti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0238">
+      <persName>
+         <roleName type="religious">Frate</roleName>
+         <surname>Zabaroni</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0239" sameAs="http://viaf.org/viaf/34451872">
+      <persName xml:lang="it">
+         <forename>Marco</forename>
+         <forename>Fabio</forename>
+         <surname>Quintiliano</surname>
+      </persName>
+      <idno type="VIAF">34451872</idno>
+      <birth source="https://www.treccani.it/enciclopedia/marco-fabio-quintiliano/">
+         <date when-iso="0035" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/3127065/">Calahorra</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/marco-fabio-quintiliano/">
+         <date when-iso="0096"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>oratore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0240">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <surname>Sani</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0241" sameAs="http://viaf.org/viaf/43152743004327732938">
+      <persName xml:lang="it">
+         <forename>Nicolò</forename>
+         <surname>Montemellini</surname>
+      </persName>
+      <idno type="VIAF">43152743004327732938</idno>
+      <birth source="https://www.treccani.it/enciclopedia/niccolo-montemelini_(Dizionario-Biografico)/">
+         <date when-iso="1643-07-31"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/niccolo-montemelini_(Dizionario-Biografico)/">
+         <date when-iso="1723-03-02"/>
+         <placeName ref="#DLCL_CF_L0028">Perugia</placeName>
+      </death>
+      <sex value="m"/>
    </person>
    
 </listPerson>

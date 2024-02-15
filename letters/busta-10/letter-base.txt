@@ -69,6 +69,7 @@
             </opener>
             
             <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>
+            <rs type="person" ref="#DLCL_CF_PC0002">Paternità Vostra</rs>
             <bibl type="manuscript"></bibl>
             <pc force="inter">-</pc>
             <foreign xml:lang="la"></foreign>

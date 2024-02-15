@@ -9,7 +9,7 @@
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
-            <biblScope unit="letter"></biblScope>
+            <biblScope unit="letter">19</biblScope>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
