@@ -474,13 +474,13 @@
       </location>
       <idno type="geonames">3174051</idno>
    </place>
-   <place xml:id="DLCL_CF_L0059" type="">
-      <placeName></placeName>
+   <place xml:id="DLCL_CF_L0059" type="stream" sameAs="https://www.geonames.org/3165709">
+      <placeName>Tevere</placeName>
       <location>
-         <country key=""/>
-         <geo></geo>
+         <country key="IT"/>
+         <geo>41.74032, 12.23371</geo>
       </location>
-      <idno type="geonames"></idno>
+      <idno type="geonames">3165709</idno>
    </place>
    <place xml:id="DLCL_CF_L0060" type="settlement" sameAs="https://www.geonames.org/3167104">
       <placeName>Sarzana</placeName>
@@ -489,5 +489,52 @@
          <geo>44.11178, 9.9622</geo>
       </location>
       <idno type="geonames">3167104</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0061" type="continent" sameAs="https://www.geonames.org/6255148">
+      <placeName>Europa</placeName>
+      <location>
+         <geo>48.69096, 9.14062</geo>
+      </location>
+      <idno type="geonames">6255148</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0062" type="historical-settlement" sameAs="https://www.geonames.org/3202210">
+      <placeName>Dalmazia</placeName>
+      <location>
+         <country key="HR"/>
+         <geo>43, 17</geo>
+      </location>
+      <idno type="geonames">3202210</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0063" type="region" sameAs="https://www.geonames.org/3169068">
+      <placeName>Romagna</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.5, 12.25</geo>
+      </location>
+      <idno type="geonames">3169068</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0064" type="settlement" sameAs="https://www.geonames.org/3182722">
+      <placeName>Assisi</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.06671, 12.62109</geo>
+      </location>
+      <idno type="geonames">3182722</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0065" type="settlement" sameAs="https://www.geonames.org/2759794">
+      <placeName>Amsterdam</placeName>
+      <location>
+         <country key="NL"/>
+         <geo>52.37403, 4.88969</geo>
+      </location>
+      <idno type="geonames">2759794</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0066" type="settlement" sameAs="https://www.geonames.org/2935022">
+      <placeName>Dresda</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>51.05089, 13.73832</geo>
+      </location>
+      <idno type="geonames">2935022</idno>
    </place>
 </listPlace>

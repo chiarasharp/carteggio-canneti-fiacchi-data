@@ -426,7 +426,19 @@
          <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
-   
+   <org xml:id="DLCL_CF_O0041" type="library">
+      <orgName xml:lang="it">Libreria del Cardinale Altieri</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0042" type="board" sameAs="http://viaf.org/viaf/">
+      <orgName xml:lang="it">Collegio Apostolico</orgName>
+      <idno type="VIAF"></idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <settlement ref=""></settlement>
+      </location>
+   </org>
    <org xml:id="DLCL_CF_O0043" type="reign" source="https://it.wikipedia.org/wiki/Regno_di_Napoli" sameAs="http://viaf.org/viaf/155695791">
       <orgName xml:lang="it">Regno di Napoli</orgName>
       <idno type="VIAF">155695791</idno>

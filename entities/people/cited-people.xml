@@ -3273,5 +3273,322 @@
       </death>
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0242" sameAs="http://viaf.org/viaf/62479272">
+      <persName xml:lang="it">
+         <forename>Carlo</forename>
+         <surname>Cartari</surname>
+      </persName>
+      <idno type="VIAF">62479272</idno>
+      <birth source="https://www.treccani.it/enciclopedia/carlo-cartari_%28Dizionario-Biografico%29/">
+         <date when-iso="1614-07-13"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/carlo-cartari_%28Dizionario-Biografico%29/">
+         <date when-iso="1697-09-12"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>avvocato concistoriale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0243" sameAs="http://viaf.org/viaf/316874496">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename type="religious">Clemente X</forename>
+         <forename>Emilio</forename>
+         <surname>Altieri</surname>
+      </persName>
+      <idno type="VIAF">316874496</idno>
+      <birth source="https://www.treccani.it/enciclopedia/papa-clemente-x_(Dizionario-Biografico)/">
+         <date when-iso="1590-07-12"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/papa-clemente-x_(Dizionario-Biografico)/">
+         <date when-iso="1676-07-22"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0244" sameAs="http://viaf.org/viaf/44427777">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Arisi</surname>
+      </persName>
+      <idno type="VIAF">44427777</idno>
+      <birth source="https://www.treccani.it/enciclopedia/francesco-arisi_(Dizionario-Biografico)/">
+         <date when-iso="1657-02-03"/>
+         <placeName ref="#DLCL_CF_L0001">Cremona</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/francesco-arisi_(Dizionario-Biografico)/">
+         <date when-iso="1743-06-25"/>
+         <placeName ref="#DLCL_CF_L0001">Cremona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>avvocato</occupation>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0245" sameAs="http://viaf.org/viaf/">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <surname>Gregorio</surname>
+      </persName>
+      <idno type="VIAF"></idno>
+      <birth source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </birth>
+      <death source="">
+         <date when-iso=""/>
+         <placeName ref=""></placeName>
+      </death>
+      <sex value="m"/>
+      <occupation></occupation>
+      <occupation></occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0246">
+      <persName>
+         <roleName type="religious">Padre</roleName>
+         <forename>Abondio</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0247">
+      <persName>
+         <forename>Anna</forename>
+         <surname>Fattorini</surname>
+      </persName>
+      <sex value="f"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0248">
+      <persName>
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Pasolini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0249" sameAs="http://viaf.org/viaf/348396">
+      <persName xml:lang="de">
+         <forename>Christian</forename>
+         <surname>Becmann</surname>
+      </persName>
+      <idno type="VIAF">348396</idno>
+      <birth source="https://de.wikipedia.org/wiki/Christian_Becmann">
+         <date when-iso="1580-09-20"/>
+         <placeName ref="https://www.geonames.org/2953411/">Bad Lausick</placeName>
+      </birth>
+      <death source="https://de.wikipedia.org/wiki/Christian_Becmann">
+         <date when-iso="1648-03-17"/>
+         <placeName ref="https://www.geonames.org/2804748/">Zerbst</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>educatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0250" sameAs="http://viaf.org/viaf/27187785">
+      <persName xml:lang="de">
+         <forename>Kaspar</forename>
+         <surname>Schoppe</surname>
+         <surname type="nickname">Scioppio</surname>
+      </persName>
+      <idno type="VIAF">27187785</idno>
+      <birth source="https://www.treccani.it/enciclopedia/kaspar-schoppe-scioppio_%28Enciclopedia-machiavelliana%29/">
+         <date when-iso="1576-06-26"/>
+         <placeName ref="https://www.geonames.org/2855470/">Pappenberg</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/kaspar-schoppe-scioppio_%28Enciclopedia-machiavelliana%29/">
+         <date when-iso="1649-11-09"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0251" sameAs="http://viaf.org/viaf/71412514">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <surname>Conversini</surname>
+      </persName>
+      <idno type="VIAF">71412514</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giovanni-conversini_(Dizionario_Biografico)/">
+         <date when-iso="1343"/>
+         <placeName ref="https://www.geonames.org/3054667/">Buda</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giovanni_Conversini">
+         <date when-iso="1408-09-27"/>
+         <placeName ref="https://www.geonames.org/3172483/">Muggia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>giurista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0252">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <surname>Malpaghini</surname>
+      </persName>
+      <birth source="https://www.treccani.it/enciclopedia/giovanni-malpaghini_%28Dizionario-Biografico%29/">
+         <date when-iso="1346"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giovanni-malpaghini_%28Dizionario-Biografico%29/">
+         <date when-iso="1417"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>amanuense</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0253" sameAs="http://viaf.org/viaf/49234015">
+      <persName xml:lang="fr">
+         <forename>Gilbert</forename>
+         <surname>Génébrard</surname>
+      </persName>
+      <idno type="VIAF">49234015</idno>
+      <birth source="https://it.wikipedia.org/wiki/Gilbert_G%C3%A9n%C3%A9brard">
+         <date when-iso="1535-12-12"/>
+         <placeName ref="https://www.geonames.org/2983489/">Riom</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gilbert_G%C3%A9n%C3%A9brard">
+         <date when-iso="1597-02-16"/>
+         <placeName ref="https://www.geonames.org/2975143/">Semur-en-Auxois</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0254" sameAs="http://viaf.org/viaf/12365672">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Eugenio IV</forename>
+      </persName>
+      <idno type="VIAF">12365672</idno>
+      <birth source="https://www.treccani.it/enciclopedia/papa-eugenio-iv_(Dizionario-Biografico)/">
+         <date when-iso="1383"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/papa-eugenio-iv_(Dizionario-Biografico)/">
+         <date when-iso="1447-02-23"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0255" sameAs="http://viaf.org/viaf/31987828">
+      <persName xml:lang="it">
+         <forename>Enrico</forename>
+         <surname>Noris</surname>
+      </persName>
+      <idno type="VIAF">31987828</idno>
+      <birth source="https://www.treccani.it/enciclopedia/enrico-noris_(Dizionario-Biografico)/">
+         <date when-iso="1631-08-29"/>
+         <placeName ref="https://www.geonames.org/3164527/">Verona</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/enrico-noris_(Dizionario-Biografico)/">
+         <date when-iso="1704-02-23"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0256" sameAs="http://viaf.org/viaf/303266981">
+      <persName xml:lang="de">
+         <forename>Konrad</forename>
+         <forename>Samuel</forename>
+         <surname>Schurzfleisch</surname>
+      </persName>
+      <idno type="VIAF">303266981</idno>
+      <birth source="https://de.wikipedia.org/wiki/Konrad_Samuel_Schurzfleisch">
+         <date when-iso="1641-12-03"/>
+         <placeName ref="https://www.geonames.org/2885536/">Korbach</placeName>
+      </birth>
+      <death source="https://de.wikipedia.org/wiki/Konrad_Samuel_Schurzfleisch">
+         <date when-iso="1708-07-07"/>
+         <placeName ref="https://www.geonames.org/7303020/">Wittenberg</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>bibliotecario</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0257" sameAs="http://viaf.org/viaf/56966904">
+      <persName xml:lang="de">
+         <forename>Adam</forename>
+         <forename>Christoph</forename>
+         <surname>Jacobi</surname>
+      </persName>
+      <idno type="VIAF">56966904</idno>
+      <birth source="https://de.wikipedia.org/wiki/Adam_Christoph_Jacobi">
+         <date when-iso="1638-11-07"/>
+         <placeName ref="https://www.geonames.org/2913658/">Gundorf</placeName>
+      </birth>
+      <death source="https://de.wikipedia.org/wiki/Adam_Christoph_Jacobi">
+         <date when-iso="1689-11-14"/>
+         <placeName ref="https://www.geonames.org/2879139/">Leipzig</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>giurista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0258" sameAs="http://viaf.org/viaf/66894906">
+      <persName xml:lang="it">
+         <forename>Pietro</forename>
+         <surname type="nickname">Delfino</surname>
+         <surname>Dolfin</surname>
+      </persName>
+      <idno type="VIAF">66894906</idno>
+      <birth source="https://it.wikipedia.org/wiki/Pietro_Dolfin_(umanista)">
+         <date when-iso="1444-11-25"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Pietro_Dolfin_(umanista)">
+         <date when-iso="1525-01-15"/>
+         <placeName ref="https://www.geonames.org/3172456/">Murano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0259">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Bianconi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0260" sameAs="http://viaf.org/viaf/17568270">
+      <persName xml:lang="">
+         <forename>Giovanni</forename>
+         <forename>Girolamo</forename>
+         <surname>Sbaraglia</surname>
+      </persName>
+      <idno type="VIAF">17568270</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giovanni-girolamo-sbaraglia_(Dizionario-Biografico)/">
+         <date when-iso="1641-10-28"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giovanni-girolamo-sbaraglia_(Dizionario-Biografico)/">
+         <date when-iso="1710"/>
+      </death>
+      <sex value="m"/>
+      <occupation>anatomista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0261" sameAs="http://viaf.org/viaf/56728831">
+      <persName xml:lang="it">
+         <forename>Pietro</forename>
+         <forename type="humanistic">Angelio</forename>
+         <surname>Angeli</surname>
+         <surname type="humanistic">Bargeo</surname>
+      </persName>
+      <idno type="VIAF">56728831</idno>
+      <birth source="https://www.treccani.it/enciclopedia/pietro-angeli_(Dizionario-Biografico)/">
+         <date when-iso="1517-04-22"/>
+         <placeName ref="https://www.geonames.org/3182358/">Barga</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/pietro-angeli_(Dizionario-Biografico)/">
+         <date when-iso="1596-02-29"/>
+         <placeName ref="https://www.geonames.org/3170647/">Pisa</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+   </person>
    
 </listPerson>
