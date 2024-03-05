@@ -3590,5 +3590,253 @@
       <sex value="m"/>
       <occupation>umanista</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0262" sameAs="http://viaf.org/viaf/44646756">
+      <persName xml:lang="it">
+         <forename>Gabriele</forename>
+         <surname>Pirovano</surname>
+      </persName>
+      <idno type="VIAF">44646756</idno>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0263">
+      <persName xml:lang="it">
+         <surname>Piccinelli</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0264">
+      <persName xml:lang="it">
+         <surname>Trivulzio</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0265">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Benedetto</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0266">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Franco</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0267" sameAs="http://viaf.org/viaf/54261450">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename type="religious">Innocenzo XI</forename>
+         <forename>Benedetto</forename>
+         <surname>Odescalchi</surname>
+      </persName>
+      <idno type="VIAF">54261450</idno>
+      <birth source="https://www.treccani.it/enciclopedia/papa-innocenzo-xi_%28Dizionario-Biografico%29/">
+         <date when-iso="1611-05-019"/>
+         <placeName ref="https://www.geonames.org/3178229/">Como</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/papa-innocenzo-xi_%28Dizionario-Biografico%29/">
+         <date when-iso="1689-08-12"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0268">
+      <persName xml:lang="it">
+         <forename>Nuccarini</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0269">
+      <persName xml:lang="it">
+         <forename>Viti</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0270" sameAs="http://viaf.org/viaf/18132554">
+      <persName xml:lang="it">
+         <forename>Anton</forename>
+         <forename>Francesco</forename>
+         <surname>Marmi</surname>
+      </persName>
+      <idno type="VIAF">18132554</idno>
+      <birth source="https://www.treccani.it/enciclopedia/antonfrancesco-marmi/">
+         <date when-iso="1665"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/antonfrancesco-marmi/">
+         <date when-iso="1736"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+      <occupation>docente</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0271">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Miniani</surname>
+         <surname type="alternative">Miriani</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>pittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0272" sameAs="http://viaf.org/viaf/3870792">
+      <persName xml:lang="it">
+         <roleName type="religious">Santa</roleName>
+         <forename>Chiara</forename>
+         <surname>Da Montefalco</surname>
+      </persName>
+      <idno type="VIAF">3870792</idno>
+      <birth source="https://www.treccani.it/enciclopedia/chiara-da-montefalco-santa_%28Dizionario-Biografico%29/">
+         <date when-iso="1268"/>
+         <placeName ref="#DLCL_CF_L0069">Montefalco</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/chiara-da-montefalco-santa_%28Dizionario-Biografico%29/">
+         <date when-iso="1308-08-17"/>
+         <placeName ref="#DLCL_CF_L0069">Montefalco</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>religiosa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0273">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Gregorio</forename>
+         <forename>Maria</forename>
+         <surname>Gabellotti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>gesuita</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0274">
+      <persName xml:lang="it">
+         <forename>Ercole</forename>
+         <surname>Oddi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0275" sameAs="http://viaf.org/viaf/44288580">
+      <persName xml:lang="it">
+         <forename>Cesare</forename>
+         <surname>Caporali</surname>
+      </persName>
+      <idno type="VIAF">44288580</idno>
+      <birth source="https://www.treccani.it/enciclopedia/cesare-caporali/">
+         <date when-iso="1531"/>
+         <placeName ref="#DLCL_CF_L0028">Perugia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/cesare-caporali/">
+         <date when-iso="1601"/>
+         <placeName ref="https://www.geonames.org/3179419/">Castiglione del Lago</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0276">
+      <persName xml:lang="it">
+         <roleName type="religious">Suor</roleName>
+         <forename>Lucia</forename>
+         <forename>Lucrezia</forename>
+         <surname>Agatonij</surname>
+      </persName>
+      <sex value="f"/>
+      <occupation>suora</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0277">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Valerio</forename>
+         <surname>Agatonij</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>vicario foraneo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0278">
+      <persName xml:lang="it">
+         <surname>Anselmi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>cancelliere foraneo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0279" sameAs="http://viaf.org/viaf/214178729">
+      <persName xml:lang="it">
+         <forename>Battista</forename>
+         <surname>Piergili</surname>
+      </persName>
+      <idno type="VIAF">214178729</idno>
+      <birth>
+         <date when-iso="1607"/>
+      </birth>
+      <death>
+         <date when-iso="1687"/>
+      </death>
+      <sex value="m"/>
+      <occupation>prete</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0280" sameAs="http://viaf.org/viaf/42909568">
+      <persName xml:lang="it">
+         <forename>Tommaso</forename>
+         <surname>Bozio</surname>
+      </persName>
+      <idno type="VIAF">42909568</idno>
+      <birth source="https://www.treccani.it/enciclopedia/tommaso-bozio_(Dizionario-Biografico)/">
+         <date when-iso="1548"/>
+         <placeName ref="https://www.geonames.org/3175687/">Gubbio</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/tommaso-bozio_(Dizionario-Biografico)/">
+         <date when-iso="1610-12-09"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0281">
+      <persName xml:lang="it">
+         <forename>Orazio</forename>
+         <surname>Canauli</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0282">
+      <persName xml:lang="it">
+         <roleName type="religious">Abate</roleName>
+         <surname>Montemellini</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0283" sameAs="http://viaf.org/viaf/338152636182320052533">
+      <persName xml:lang="it">
+         <forename>Pandolfo</forename>
+         <surname>Maraviglia</surname>
+      </persName>
+      <idno type="VIAF">338152636182320052533</idno>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0284" sameAs="http://viaf.org/viaf/46873648">
+      <persName xml:lang="it">
+         <forename>Nicolò</forename>
+         <surname>Coleti</surname>
+      </persName>
+      <idno type="VIAF">46873648</idno>
+      <birth source="https://www.treccani.it/enciclopedia/nicolo-coleti_(Dizionario-Biografico)/?search=COLETI%2C%20Nicol%C3%B2">
+         <date when-iso="1680"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/nicolo-coleti_(Dizionario-Biografico)/?search=COLETI%2C%20Nicol%C3%B2">
+         <date when-iso="1765-02"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>presbitero</occupation>
+   </person>
    
 </listPerson>

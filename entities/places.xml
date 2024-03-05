@@ -537,4 +537,36 @@
       </location>
       <idno type="geonames">2935022</idno>
    </place>
+   <place xml:id="DLCL_CF_L0067" type="settlement" sameAs="https://www.geonames.org/3171848">
+      <placeName>Osimo</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.48539, 13.48222</geo>
+      </location>
+      <idno type="geonames">3171848</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0068" type="settlement" sameAs="https://www.geonames.org/3166236">
+      <placeName>Spoleto</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>42.74071, 12.73899</geo>
+      </location>
+      <idno type="geonames">3166236</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0069" type="settlement" sameAs="https://www.geonames.org/3172941">
+      <placeName>Montefalco</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>42.89084, 12.64827</geo>
+      </location>
+      <idno type="geonames">3172941</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0070" type="settlement" sameAs="https://www.geonames.org/3182179">
+      <placeName>Benevento</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>41.1307, 14.77816</geo>
+      </location>
+      <idno type="geonames">3182179</idno>
+   </place>
 </listPlace>

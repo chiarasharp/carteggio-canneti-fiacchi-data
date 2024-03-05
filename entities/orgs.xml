@@ -436,7 +436,6 @@
       <desc></desc>
       <location>
          <country key="IT"/>
-         <settlement ref=""></settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0043" type="reign" source="https://it.wikipedia.org/wiki/Regno_di_Napoli" sameAs="http://viaf.org/viaf/155695791">
@@ -447,6 +446,34 @@
          <country key="IT"/>
       </location>
    </org>
-   
-   
+   <org xml:id="DLCL_CF_O0044" type="university">
+      <orgName xml:lang="it">Ateneo milanese</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0027">Milano</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O045" type="congregation">
+      <orgName xml:lang="it">Congregazione dell'Oratorio di Montefalco</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0069">Montefalco</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O046" type="congregation">
+      <orgName xml:lang="it">Congregazione dell'Oratorio di Perugia</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
 </listOrg>

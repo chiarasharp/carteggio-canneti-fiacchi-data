@@ -70,7 +70,7 @@
             
             <p>   
                Il nuovo Decreto per la Sequenza del <persName ref="#DLCL_CF_PC0017" key="DLCL_CF_PC0017">Padre S. Romualdo</persName> è stato pubblicato con lettera circolare agli Abati dal <rs type="person">Padre Reverendissimo Generale</rs>. 
-               Però non è necessario inserirlo nelle nostre stampe del <bibl>Calendario</bibl>. 
+               Però non è necessario inserirlo nelle nostre stampe del <bibl type="religious">Calendario</bibl>. 
                Pure, se vuole <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> metterlo in fine, ove vi avvanzi luogo, a lei ne lascio la libertà. 
                Della Sequenza ne avrà copia il <rs type="person">Padre Priore</rs>. 
                Se vi rimane carta bianca, ancor essa può aggiungersi dopo il Decreto. 
@@ -105,9 +105,9 @@
             
             <postscript>
                <p>
-                  Per gli abiti degl’Imperadori, e Imperatrici d’Oriente si può veder certa raccolta di rami sul principio delprimo tomo del  <bibl type="print">Glossario</bibl> del <persName ref="#DLCL_CF_PC0022" key="DLCL_CF_PC0022">Du-Cange</persName>, e forse la <bibl type="print">storia Bizantina</bibl> dello stesso <rs type="person">Autore</rs>. 
-                  Per gli vescovi greci si [vedano] i <bibl type="print">tomi di S. Epifanio e di S. Atanasio</bibl>. 
-                  Per la Sibilla Tiburtina, i Rami delle St[...]<gap reason="lost"/>
+                  Per gli abiti degl’Imperadori, e Imperatrici d’Oriente si può veder certa raccolta di rami sul principio del primo tomo del <bibl type="print">Glossario</bibl> del <persName ref="#DLCL_CF_PC0022" key="DLCL_CF_PC0022">Du-Cange</persName>, e forse la <bibl type="print">storia Bizantina</bibl> dello stesso <rs type="person">Autore</rs>. 
+                  Per gli vescovi greci si vedano i <bibl type="print">tomi di S. Epifanio e di S. Atanasio</bibl>. 
+                  Per la Sibilla Tiburtina, i Rami delle St<gap reason="lost"/>[...]
                </p>
             </postscript>
             
