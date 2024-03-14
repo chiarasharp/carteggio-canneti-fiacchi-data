@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20654/manifest">
@@ -92,7 +93,7 @@
             
             <p>
                tale per altro caritatevole officio. 
-               Mi pare che ingannata la pietà, <hi rend="underline"><foreign xml:lang="la">porrigat pro ovo scorpionem</foreign></hi>; 
+               Mi pare che ingannata la pietà, <foreign xml:lang="la"><hi rend="underline">porrigat pro ovo scorpionem</hi></foreign>; 
                poiché in tal maniera si fomenta, e si accresce il fermento del male, e il veleno della fantasia. 
                Non vorrei che facessimo lo spedale. 
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ne stia lontano verso la sera, 

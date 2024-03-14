@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20655/manifest">
@@ -94,12 +95,12 @@
             <pb xml:id="DLCL_CF_E10023_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21018/full/604,800/0/default.jpg"/>
             
             <p>
-               sommamente lo spirito di <rs type="#DLCL_CF_PC0162">cotesto Signore</rs> sincero, giudicioso, purgato e ben’intendente nelle materie di pittura. 
+               sommamente lo spirito di <rs type="person" ref="#DLCL_CF_PC0162">cotesto Signore</rs> sincero, giudicioso, purgato e ben’intendente nelle materie di pittura. 
                Ho a caro che esso <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName> sia stato servito del <bibl type="print">Molano</bibl>: 
                ma mi spiace insieme che manchi detto libro costì. 
                Io mi ricordo precisamente del sito, ove stava nella Libreria vecchia: né so persuadermi che siasi perduto. 
                Con tutto ciò se <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, che ha maneggiati tutti i volumi, non l’ha veramente trovato, converrà pur troppo credere sia perito, e pensare a trovarne un’altro. 
-               Tra nostri libri, che in buona parte son’ancora fuor delle scanzie ammassati, trovai <bibl type="print"><hi rend="underline"><foreign xml:lang="la">Perezii Dissertationes</foreign></hi></bibl>. 
+               Tra nostri libri, che in buona parte son’ancora fuor delle scanzie ammassati, trovai <bibl type="print"><foreign xml:lang="la"><hi rend="underline">Perezii Dissertationes</hi></foreign></bibl>. 
                Avendo l’<bibl type="manuscript">indice desiderato</bibl>, che mi servirà in molte, e varie occasioni. 
                Noti insieme con distinzione i libri dati al <persName ref="#DLCL_CF_PC0003">Reverendissimo Galamini</persName>, e al <persName ref="DLCL_CF_PC0122">Padre Don Enrico</persName>. 
             </p>
@@ -155,13 +156,13 @@
                Dentro il prossimo Ottobre, a Dio piacendo, sarà terminata. 
                Novamente le raccomando la spedizione de’ libri. 
                Ho bisogno d’una copia intiera dell’<bibl type="manuscript">Istromento di donazione dell’Ospitale della Misericordia</bibl> 
-               fatta dal <persName ref="#DLCL_CF_PC0187">Polentano</persName> al <persName>Generale Ambrogio</persName>; 
+               fatta dal <persName ref="#DLCL_CF_PC0187">Polentano</persName> al <persName ref="#DLCL_CF_PC0124">Generale Ambrogio</persName>; 
                ed è in <orgName ref="#DLCL_CF_O0001">Archivio</orgName> nella Cassetta <foreign xml:lang="la">de <hi rend="underline">Hospitali Misericordiae</hi></foreign>. 
                Voglio inserirlo nelle Annotazioni. 
             </p>
             
             <closer>
-               <salute>L’abbraccio di tutto cuore; e caramente mi confermo. </salute>
+               <salute>L’abbraccio di tutto cuore; e caramente mi confermo.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-08-06">6 Agosto 1715</date></dateline>
                <salute>DVPMR</salute>
                <salute>Affettuosissimo Servitore e Padre nel Signore</salute> 

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20653/manifest">
@@ -71,19 +72,24 @@
             <p>
                Ad un tempo stesso sarà a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> renduta questa mia; 
                e giungerà a <orgName ref="#DLCL_CF_O0005">Classe</orgName> il <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName> mio Amicissimo, e confidente, 
-               insieme col <persName ref="#DLCL_CF_PC0168">Padre Pietro Iacopo Bacci</persName> ancor’esso mio Amico, come son tutti questi esemplarissimi, e degnissimi Padri dell’Oratorio. 
-               Del valore del <persName ref="#DLCL_CF_PC0168">Padre Bacci</persName> nella musica, io credo che ne avrà occasione di restar persuasa la <placeName ref="#DLCL_CF_L0002">Città di Ravenna</placeName>, 
-               onde non mi stendo ad esaltare l’eccellenza, e il pregio. 
+               insieme col <persName ref="#DLCL_CF_PC0168">Padre Pietro Iacopo Bacci</persName> ancor’esso mio Amico, come son tutti questi esemplarissimi, 
+               e degnissimi Padri dell’Oratorio. 
+               Del valore del <persName ref="#DLCL_CF_PC0168">Padre Bacci</persName> nella musica, 
+               io credo che ne avrà occasione di restar persuasa la <placeName ref="#DLCL_CF_L0002">Città di Ravenna</placeName>, onde non mi stendo ad esaltare l’eccellenza, e il pregio. 
                Venghiamo al <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>: egli è un insigne dilettante di disegno, e in tutte le cose di ottimo gusto, 
                il quale spicca ne’ suoi Discorsi benché trattenuti dentro alla semplicità propria dell’Istituto. 
-               Ben’è di ciò informato il nostro <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>, che stima al maggior segno nel sermoneggiare il talento del <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>, come di uomo raro, e singolare. 
+               Ben’è di ciò informato il nostro <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>, 
+               che stima al maggior segno nel sermoneggiare il talento del <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>, come di uomo raro, e singolare. 
                Io vorrei che <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> col <persName ref="#DLCL_CF_PC0007">Padre Don Bonifazio</persName> gli usassero tutte le finezze. 
-               Caramente mi riverisca i <persName ref="#DLCL_CF_PC0121">Padri Lettori Guiccioli</persName> e <persName ref="#DLCL_CF_PC0093">Onestini</persName>, e in mio nome li preghi ben caldamente a servirlo con vera cordialità. 
+               Caramente mi riverisca i <persName ref="#DLCL_CF_PC0121">Padri Lettori Guiccioli</persName> e <persName ref="#DLCL_CF_PC0093">Onestini</persName>, 
+               e in mio nome li preghi ben caldamente a servirlo con vera cordialità. 
                Introduca da lui <persName ref="#DLCL_CF_PC0091">Frate Fausto</persName>, che son certo avrà caro conoscere il <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>. 
                Gli mostri attentamente la <orgName ref="#DLCL_CF_O0001">libreria</orgName>, e faccia vedere la raccolta de’ libri che trattano della Pittura, 
                tra’ quali è il libretto composto in gioventù da lui intorno le Pitture di <placeName ref="#DLCL_CF_L0028">Perugia</placeName>. 
-               Per le pitture della città e per le antichità, e marmi, e altre cose riguardevoli, se potesse mai farlo accompagnare dal <persName ref="#DLCL_CF_PC0162">Signor Giacomo Anziani</persName>, 
-               e dal <persName ref="#DLCL_CF_PC0169">Signor Batrighelli</persName>, crederei che appieno potesse ritornare informato, e accompagnato da una stima adeguata di <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>. 
+               Per le pitture della città e per le antichità, e marmi, e altre cose riguardevoli, 
+               se potesse mai farlo accompagnare dal <persName ref="#DLCL_CF_PC0162">Signor Giacomo Anziani</persName>, 
+               e dal <persName ref="#DLCL_CF_PC0169">Signor Batrighelli</persName>, crederei che appieno potesse ritornare informato, 
+               e accompagnato da una stima adeguata di <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>. 
                Il <persName ref="#DLCL_CF_PC0093">Padre Lettore Onestini</persName> è approposito per far seco abboccare il <persName ref="#DLCL_CF_PC0162">Signor Anziani</persName>, 
                e anco il <persName ref="#DLCL_CF_PC0169">Signor Butrighelli</persName>.  
                Gli mostri anco il libro di <bibl type="print">Ravenna Ricercata</bibl>. 
@@ -93,11 +99,14 @@
             <pb xml:id="DLCL_CF_E10021_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20890/full/587,800/0/default.jpg"/>
             
             <p>
-               <pc force="inter">-</pc>azione de’ Padri dell’Oratorio, discorrendosi delle licenze de’ Pittori, anco nelle <bibl type="manuscript">Istorie Sagre</bibl>, 
-               io accennai l’Opera del <persName ref="#DLCL_CF_PC0170">Molano</persName> <bibl type="print"><foreign xml:lang="la">de Sacris Imaginibus</foreign></bibl> avanti ignota al <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>. 
-               Essendovene già un esemplare in <orgName ref="#DLCL_CF_O0001">libreria</orgName>, <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> levi la copia ch’è tra nostri libri in 12°, o in 8°, e ne faccia per mia parte un regalo al medesimo. 
-               E se non fosse al medesimo di qualche incomodo recarmi il libro <bibl type="print"><foreign xml:lang="la">Perezii Dissertationes</foreign></bibl> o altro titolo, 
-               che sia del volume non molto grosso stampato in <placeName ref="#DLCL_CF_L0047">Salamanca</placeName>, 
+               <pc force="inter">-</pc>azione de’ Padri dell’Oratorio, discorrendosi delle licenze de’ Pittori, anco nelle <bibl type="religious">Istorie Sagre</bibl>, 
+               io accennai l’Opera del <persName ref="#DLCL_CF_PC0170">Molano</persName> 
+               <bibl type="print"><foreign xml:lang="la"><hi rend="underline">de Sacris Imaginibus</hi></foreign></bibl> 
+               avanti ignota al <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName>. 
+               Essendovene già un esemplare in <orgName ref="#DLCL_CF_O0001">libreria</orgName>, 
+               <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> levi la copia ch’è tra nostri libri in 12°, o in 8°, e ne faccia per mia parte un regalo al medesimo. 
+               E se non fosse al medesimo di qualche incomodo recarmi il libro <bibl type="print"><foreign xml:lang="la"><hi rend="underline">Perezii Dissertationes</hi></foreign></bibl> 
+               o altro titolo, che sia del volume non molto grosso stampato in <placeName ref="#DLCL_CF_L0047">Salamanca</placeName>, 
                o altra città della <placeName ref="#DLCL_CF_L0046">Spagna</placeName>, in 4to, mi farebbe gran favore, avendo io necessità di valermene dentro questo mese. 
             </p>
             
@@ -127,7 +136,7 @@
                Mi avvisi se in <orgName ref="#DLCL_CF_O0001">libreria</orgName> vi sono <bibl type="religious">sermoni</bibl> 
                del <persName ref="#DLCL_CF_PC0173">Cartagena</persName> <bibl type="religious">sopra la Beatissima Vergine</bibl>, e <bibl type="religious">San Giuseppe</bibl>. 
                Gli ho qui trovati in 4to e penso prendergli con certi altri libri buoni. 
-               La ringrazio delle nuove della Traslazione della Madonna del Lago, nella quali spiccherà l’abilità del <persName ref="#DLCL_CF_PC0174">Padre Folegatti</persName>, 
+               La ringrazio delle nuove della Traslazione della <rs type="person">Madonna del Lago</rs>, nella quali spiccherà l’abilità del <persName ref="#DLCL_CF_PC0174">Padre Folegatti</persName>, 
                e del nuovo <rs type="person">Vicario del Signor Officio</rs>. 
                Io stimo impossibile che verun’altro successore faccia in quella nicchia la figura, che teneva con decoro, 
                e concetto il <persName ref="#DLCL_CF_PC0175">Padre Gregorio</persName> b.m., la cui morte mi spiacque sommamente. 
@@ -160,7 +169,7 @@
             
             <postscript>
                <p>
-                  Al molto eeverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  Al molto reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
                   <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
                </p>
             </postscript>
