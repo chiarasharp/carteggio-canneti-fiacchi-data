@@ -476,4 +476,8 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O047" type="congregation">
+      <orgName xml:lang="it">Congregazione di Romiti</orgName>
+      <desc></desc>
+   </org>
 </listOrg>

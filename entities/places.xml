@@ -569,4 +569,12 @@
       </location>
       <idno type="geonames">3182179</idno>
    </place>
+   <place xml:id="DLCL_CF_L0071" type="settlement" sameAs="https://www.geonames.org/3164039">
+      <placeName>Viterbo</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>42.41937, 12.1056</geo>
+      </location>
+      <idno type="geonames">3164039</idno>
+   </place>
 </listPlace>
