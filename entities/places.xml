@@ -577,4 +577,36 @@
       </location>
       <idno type="geonames">3164039</idno>
    </place>
+   <place xml:id="DLCL_CF_L0072" type="settlement" sameAs="https://www.geonames.org/1814991">
+      <placeName>Cina</placeName>
+      <location>
+         <country key="CN"/>
+         <geo>35, 105</geo>
+      </location>
+      <idno type="geonames">1814991</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0073" type="settlement" sameAs="https://www.geonames.org/3181521">
+      <placeName>Brisighella</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.22228, 11.77358</geo>
+      </location>
+      <idno type="geonames">3181521</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0074" type="settlement" sameAs="https://www.geonames.org/">
+      <placeName></placeName>
+      <location>
+         <country key=""/>
+         <geo></geo>
+      </location>
+      <idno type="geonames"></idno>
+   </place>
+   <place xml:id="DLCL_CF_L0075" type="settlement" sameAs="https://www.geonames.org/3170647">
+      <placeName>Pisa</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.70853, 10.4036</geo>
+      </location>
+      <idno type="geonames">3170647</idno>
+   </place>
 </listPlace>

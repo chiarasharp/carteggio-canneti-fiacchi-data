@@ -456,7 +456,7 @@
          </address>
       </location>
    </org>
-   <org xml:id="DLCL_CF_O045" type="congregation">
+   <org xml:id="DLCL_CF_O0045" type="congregation">
       <orgName xml:lang="it">Congregazione dell'Oratorio di Montefalco</orgName>
       <desc></desc>
       <location>
@@ -466,7 +466,7 @@
          </address>
       </location>
    </org>
-   <org xml:id="DLCL_CF_O046" type="congregation">
+   <org xml:id="DLCL_CF_O0046" type="congregation">
       <orgName xml:lang="it">Congregazione dell'Oratorio di Perugia</orgName>
       <desc></desc>
       <location>
@@ -476,8 +476,30 @@
          </address>
       </location>
    </org>
-   <org xml:id="DLCL_CF_O047" type="congregation">
+   <org xml:id="DLCL_CF_O0047" type="congregation">
       <orgName xml:lang="it">Congregazione di Romiti</orgName>
       <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0048" type="monastery" sameAs="http://viaf.org/viaf/123321980" source="https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0800162268">
+      <orgName xml:lang="it">Monastero dei S.S. Ippolito e Lorenzo</orgName>
+      <idno type="VIAF">123321980</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <street>Via Sant'Ippolito, 27</street>
+            <settlement ref="#DLCL_CF_L0005">Faenza</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0049" type="university" sameAs="http://viaf.org/viaf/122752152">
+      <orgName xml:lang="it">Università di Pisa</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0075">Pisa</settlement>
+         </address>
+      </location>
    </org>
 </listOrg>

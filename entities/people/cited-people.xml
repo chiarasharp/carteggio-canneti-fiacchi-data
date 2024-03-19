@@ -4165,11 +4165,233 @@
       <occupation>apologeta</occupation>
       <occupation>filosofo</occupation>
    </person>
-   
-   
-   
-   
-   
+   <person xml:id="DLCL_CF_PC0307" sameAs="http://viaf.org/viaf/5000255">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Filelfo</surname>
+      </persName>
+      <idno type="VIAF">5000255</idno>
+      <birth source="https://www.treccani.it/enciclopedia/francesco-filelfo_%28Dizionario-Biografico%29/">
+         <date when-iso="1398-07-25"/>
+         <placeName ref="https://www.geonames.org/3165595/">Tolentino</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/francesco-filelfo_%28Dizionario-Biografico%29/">
+         <date when-iso="1481-07-31"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0308" sameAs="http://viaf.org/viaf/100190106">
+      <persName xml:lang="">
+         <forename>Ciro</forename>
+         <surname>Spontone</surname>
+      </persName>
+      <idno type="VIAF">100190106</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ciro-spontone_%28Dizionario-Biografico%29/">
+         <date notBefore-iso="1554" notAfter-iso="1556"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ciro-spontone_%28Dizionario-Biografico%29/">
+         <date when-iso="1612"/>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <occupation>politico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0309" sameAs="http://viaf.org/viaf/87990970">
+      <persName xml:lang="it">
+         <forename>Jacopo</forename>
+         <surname>Sannazzaro</surname>
+      </persName>
+      <idno type="VIAF">87990970</idno>
+      <birth source="https://www.treccani.it/enciclopedia/iacopo-sannazaro_%28Dizionario-Biografico%29/">
+         <date when-iso="1457-07-28"/>
+         <placeName ref="https://www.geonames.org/3172394/">Napoli</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/iacopo-sannazaro_%28Dizionario-Biografico%29/">
+         <date when-iso="1530-08-06"/>
+         <placeName ref="https://www.geonames.org/3172394/">Napoli</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0310" sameAs="http://viaf.org/viaf/95155909">
+      <persName xml:lang="it">
+         <forename>Petronio</forename>
+         <surname>SArbitro</surname>
+      </persName>
+      <idno type="VIAF">95155909</idno>
+      <birth source="https://it.wikipedia.org/wiki/Petronio_Arbitro">
+         <date when-iso="0027"/>
+         <placeName ref="https://www.geonames.org/2995469/">Marsiglia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Petronio_Arbitro">
+         <date when-iso="0066"/>
+         <placeName ref="https://www.geonames.org/3177706/">Cuma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <occupation>politico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0311">
+      <persName xml:lang="it">
+         <surname>Rittersusio</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0312" sameAs="http://viaf.org/viaf/95166829">
+      <persName xml:lang="la">
+         <forename>Gabriel</forename>
+         <surname>Bucelinus</surname>
+      </persName>
+      <idno type="VIAF">95166829</idno>
+      <birth source="https://www.treccani.it/enciclopedia/gabriel-bucelinus_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1599-12-29"/>
+         <placeName ref="https://www.geonames.org/2661016/">Diessenhofen</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/gabriel-bucelinus_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1681-06-09"/>
+         <placeName ref="https://www.geonames.org/2812193/">Weingarten</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>cartografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0313">
+      <persName xml:lang="it">
+         <forename>Paolino</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>libraio</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0314" sameAs="http://viaf.org/viaf/100166736">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <surname>Aurispa</surname>
+      </persName>
+      <idno type="VIAF">100166736</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giovanni-aurispa_(Dizionario-Biografico)/">
+         <date when-iso="1376-07" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/2523998/">Noto</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giovanni-aurispa_(Dizionario-Biografico)/">
+         <date when-iso="1459-05"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>mercante</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0315">
+      <persName xml:lang="it">
+         <surname>Lupi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0316" sameAs="http://viaf.org/viaf/36932505">
+      <persName xml:lang="it">
+         <forename>Alessandro</forename>
+         <surname>Tassoni</surname>
+      </persName>
+      <idno type="VIAF">36932505</idno>
+      <birth source="https://www.treccani.it/enciclopedia/alessandro-tassoni_(Dizionario-Biografico)/">
+         <date when-iso="1565-09-28"/>
+         <placeName ref="#DLCL_CF_L0012">Modena</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/alessandro-tassoni_(Dizionario-Biografico)/">
+         <date when-iso="1635-04-25"/>
+         <placeName ref="#DLCL_CF_L0012">Modena</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0317">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Monciotti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>cisterciense riformato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0318" sameAs="http://viaf.org/viaf/14779941">
+      <persName xml:lang="it">
+         <forename>Apostolo</forename>
+         <surname>Zeno</surname>
+      </persName>
+      <idno type="VIAF">14779941</idno>
+      <birth source="https://www.treccani.it/enciclopedia/apostolo-zeno_%28Dizionario-Biografico%29/">
+         <date when-iso="1668-12-11"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/apostolo-zeno_%28Dizionario-Biografico%29/">
+         <date when-iso="1750-11-11"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>librettista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0319" sameAs="http://viaf.org/viaf/56952401">
+      <persName xml:lang="it">
+         <forename>Agostino</forename>
+         <surname>Fortunio</surname>
+      </persName>
+      <idno type="VIAF">56952401</idno>
+      <birth source="https://www.treccani.it/enciclopedia/agostino-fortunio_(Dizionario-Biografico)/">
+         <date notBefore-iso="1501" notAfter-iso="1550"/>
+         <placeName ref="https://www.geonames.org/3177019/">Fiesole</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/agostino-fortunio_(Dizionario-Biografico)/">
+         <date when-iso="1596"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>monaco camaldolese</occupation>
+      <occupation>biografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0320">
+      <persName xml:lang="it">
+         <roleName type="religious">Abate Don</roleName>
+         <forename>Paolo</forename>
+         <surname>Tinti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0321">
+      <persName xml:lang="it">
+         <surname>Gavanti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0322">
+      <persName xml:lang="it">
+         <surname>Polentano</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0323" sameAs="http://viaf.org/viaf/46894651">
+      <persName xml:lang="it">
+         <forename>Giovan</forename>
+         <forename>Battista</forename>
+         <surname>Possevino</surname>
+      </persName>
+      <idno type="VIAF">46894651</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giovan-battista-possevino_%28Dizionario-Biografico%29/">
+         <date when-iso="1520"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giovan-battista-possevino_%28Dizionario-Biografico%29/">
+         <date when-iso="1549"/>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
    
    
    

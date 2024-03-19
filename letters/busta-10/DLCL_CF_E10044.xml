@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="it">Canneti a Fiacchi (Perugia, 28 Novembre 1716)</title>
+            <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+         </titleStmt>
+         <publicationStmt><ab></ab></publicationStmt>
+         <seriesStmt>
+            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
+            <biblScope unit="letter">44</biblScope>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country key="IT">Italia</country>
+                  <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                  <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                  <repository></repository>
+                  <collection></collection>
+                  <idno></idno>
+                  <altIdentifier>
+                     <idno></idno>
+                  </altIdentifier>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+               <date when-iso="1716-11-28"/>
+               <placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="it"/>
+         </langUsage>
+         <settingDesc>
+            <xi:include href="../../entities/places.xml"/>
+         </settingDesc>
+         <particDesc>
+            <xi:include href="../../entities/people/cited-people.xml"/>
+            <xi:include href="../../entities/people/staff.xml"/>
+            <xi:include href="../../entities/orgs.xml"/>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc status="created">
+         <change when-iso="2024-03-19" who="#DLCL_CF_PS001">creato</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile sameAs="https://classense.unibo.it/iiif/20676/manifest">
+      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21088/full/603,800/0/default.jpg"/>
+   </facsimile>
+   <text type="letter" n="Canneti a Fiacchi (Perugia, 28 Novembre 1716)">
+      <body>
+         <div type="transcription">
+            <pb xml:id="DLCL_CF_E10044_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21088/full/603,800/0/default.jpg"/>
+            
+            <opener>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+            </opener>
+            
+            <p>
+               Veramente non aspettavasi da me ora la funesta nuova della morte del <persName ref="#DLCL_CF_PC0034">Signor Dottor Veratti</persName>, che sia in Cielo. 
+               Il ramarico, che ne provo, mi viene nel tempo stesso raddolcito dalla riflessione del vantaggio, 
+               che potiamo piamente credere goda l’anima del medesimo uscita dalle calamità di questo mondo, e passata almeno ad avvicinarsi all’eterna felicità. 
+               Da tanti e tanti discorsi, ch’egli ha costì fatto meco, vado conghietturando che siano con lui mancate al mondo grandi, 
+               e rilevanti notizie raccolte con lunghi esperimenti, e pellegrinaggi. 
+               E di questa verità un’irrefragabile testimonianza abbiam noi nella <bibl type="print">Notomia dell’Acqua</bibl>. 
+               Godo infinitamente del beneficio, che riporterà cotesta nostra Casa dalla virtù del Degnissimo <persName ref="#DLCL_CF_PC0088">Signor Calbi</persName>. 
+            </p>
+            
+            <p>
+               Desidera sapere se in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName> siano i due Volumi in 12. delle <bibl type="print">Rime scelte di Diversi Autori</bibl>. 
+               <persName ref="#DLCL_CF_PC0161">Giolito</persName> 1563. Raccolte dal <bibl type="print">Dolce</bibl> = 
+               e le <bibl type="print">Vite de’ Santi e Beati di Todi</bibl> di <persName ref="#DLCL_CF_PC0323">Giovanni Battista Possevino</persName>, in 4to. 
+            </p>
+            
+            <p>
+               Mi occorrerà per la <bibl type="print">Genealogia</bibl> de’ <persName ref="#DLCL_CF_PC0324">Cattani di Doccia</persName>, 
+               ch’ella sà, il <bibl type="print">Documento intiero</bibl> del <persName ref="#DLCL_CF_PC0126">Ghirardacci</persName>, 
+               non trovandosi in <placeName ref="#DLCL_CF_L0028">Perugia</placeName> quella Storia. 
+               Con suo comodo l’attenderò. 
+            </p>
+            
+            <closer>
+               <salute>L’abbraccio, e riverisco con tutti gli altri.</salute> 
+               <salute>DVPMR</salute>. 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-11-28">28 novembre 1716</date></dateline>
+               <salute>Affettuosissimo Servitore Padre nel Signore Cordialissimo</salute> 
+               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+            </closer>
+            
+         </div>
+      </body>
+   </text>
+</TEI>
