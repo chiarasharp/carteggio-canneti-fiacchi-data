@@ -50,6 +50,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-12" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20656/manifest">
@@ -71,19 +72,22 @@
                Questo mio <persName ref="#DLCL_CF_PC0163">Padre Camerlingo Mastri</persName> col suo solito spirito prevenne ancor l’aspettazione mia, 
                giungendomi quà improvviso, poco dopo ch’io gli avea scritto in coteste parti. 
                Or metta pure <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> insieme il nuovo convoglio, 
-               e vi aggiunga la <bibl type="print">Storia</bibl> del <orgName ref="#DLCL_CF_O0021">Monastero di Santa Giustina</orgName> del <persName ref="#DLCL_CF_PC0188">Cavacci</persName> in 4to. 
-               Della <bibl type="print">Scanzia</bibl> 9a del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> parmi averle scritto che me ne mandasse sei altre copie. 
+               e vi aggiunga la <bibl type="print">Storia</bibl> del <orgName ref="#DLCL_CF_O0021">Monastero di Santa Giustina</orgName> 
+               del <persName ref="#DLCL_CF_PC0188">Cavacci</persName> in 4to. 
+               Della <bibl type="print">Scanzia 9a</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> parmi averle scritto che me ne mandasse sei altre copie. 
                Gli altri esemplari, che son colà, possono chiedersi al <rs type="person">Padre Camerlingo</rs>, o al <rs type="person">Padre Priore</rs>. 
                Una volta erano nella stanza della Comunità; 
-               né è stata poca lor fortuna essersi salvati dal passare ad altro servizio comune, dopo undici anni scorsi, da che rimasero scordati in quel Monastero. 
+               né è stata poca lor fortuna essersi salvati dal passare ad altro servizio comune, dopo undici anni scorsi, da che rimasero scordati in quel <orgName>Monastero</orgName>. 
                Non cessi di importunare il <persName ref="#DLCL_CF_PC0143">Signor Baruffaldi</persName>, finché si riduca a mandare i libri; 
                o pur ne dia incombenza al <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> Uomo efficace, attento, sollecito, 
-               e che saprà valersi delle frequenti occasioni, che di <placeName ref="#DLCL_CF_L0031">Comacchio</placeName> sono per <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>, e per <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>. 
+               e che saprà valersi delle frequenti occasioni, che di <placeName ref="#DLCL_CF_L0031">Comacchio</placeName> sono per <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>, 
+               e per <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>. 
                Occorrendo spesa, si vaglia, come più volte ho avvisato. 
                L’altro giorno mi venne alle mani l’altro <bibl type="print">Tometto delle lettere</bibl> di <persName ref="#DLCL_CF_PC0164">M. Simon</persName>. 
                Godo che sia a buon termine l’<bibl type="manuscript">Indice</bibl> della <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
                Aspetto nuova della <bibl type="manuscript">noterella de’ nostri pochi libri</bibl>, la quale per più capi mi è necessaria. 
-               È là plausibile il pensiero del <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> di proseguire le <bibl type="print">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>. 
+               È là plausibile il pensiero del <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> di proseguire le <bibl type="print">Scanzie</bibl> 
+               del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>. 
             </p>
             
             <pb xml:id="DLCL_CF_E10024_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21021/full/607,800/0/default.jpg"/>
@@ -105,13 +109,14 @@
                Io ne ho stesa la maggior parte: e posso fare il rimanente in breve tempo: e lo farò. 
                Quanto alla <bibl type="print">Relazione</bibl> la vedrò volentieri, ripulita che sia, e finita. 
                Dico intanto che potevasi mandare a <placeName ref="#DLCL_CF_L0024">Venezia</placeName> da inserire una notizia (non descrizione, né relazione) succintissima, 
-               e sull’idea delle altre brevis- 
+               e sull’idea delle altre brevis<pc force="inter">-</pc>
             </p>
             
             <pb xml:id="DLCL_CF_E10024_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21022/full/593,800/0/default.jpg"/>
             
             <p>
-               -sime notizie d’<placeName ref="#DLCL_CF_L0026">Italia</placeName>; onde fuggasi l’affettazione, la vanità, e l’invidia; e servasi precisamente alla verità del puro fatto. 
+               <pc force="inter">-</pc>sime notizie d’<placeName ref="#DLCL_CF_L0026">Italia</placeName>; onde fuggasi l’affettazione, la vanità, e l’invidia; 
+               e servasi precisamente alla verità del puro fatto. 
                La qual faccenda può farsi da <rs type="person">un’Uomo</rs> ancor mezzo addormentato in breve spazio di tempo. 
             </p>
             
@@ -128,14 +133,16 @@
             
             <p>
                Ad un passo del nostro <persName ref="#DLCL_CF_PC0177">Ambrogio</persName>, ove accenna un <bibl type="manuscript">Codice</bibl>, 
-               in cui si contenevano i <bibl type="manuscript">Libri della Trinità</bibl> di <persName ref="#DLCL_CF_PC0172">Sant’Agostino</persName> tradotti in greco da <persName ref="#DLCL_CF_PC0171">Massimo Planude</persName>. 
+               in cui si contenevano i <bibl type="manuscript">Libri della Trinità</bibl> di <persName ref="#DLCL_CF_PC0172">Sant’Agostino</persName> 
+               tradotti in greco da <persName ref="#DLCL_CF_PC0171">Massimo Planude</persName>. 
                Ho bisogno di sapere se tal traduzione sia uscita in luce, e se ne parli il <persName ref="#DLCL_CF_PC0052">Dupin</persName>, 
                ove di <persName ref="#DLCL_CF_PC0172">Sant’Agostino</persName>, e se abbia scritto del <persName ref="#DLCL_CF_PC0171">Planude</persName>. 
                Occorrendo vegga il <persName ref="#DLCL_CF_PC0190">Gesnero</persName> e altri di <rs type="person">cotesti Bibliotecarj</rs>. 
             </p>
             
             <p>
-               La storia dell’antica <placeName ref="#DLCL_CF_L0020">Classe</placeName> è un bell’argomento, ma convien maneggiarlo colla condotta di buon gusto proprio della nostra età assai illuminata. 
+               La storia dell’antica <placeName ref="#DLCL_CF_L0020">Classe</placeName> è un bell’argomento, 
+               ma convien maneggiarlo colla condotta di buon gusto proprio della nostra età assai illuminata. 
                Succederà bene, se sarà comunicata. 
             </p>
             

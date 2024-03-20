@@ -2917,21 +2917,12 @@
       <occupation>arcivescovo</occupation>
       <occupation>storico</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0217" sameAs="http://viaf.org/viaf/">
+   <person xml:id="DLCL_CF_PC0217">
       <persName xml:lang="it">
          <forename>Giovan</forename>
          <forename>Francesco</forename>
          <surname>Gonzaga</surname>
       </persName>
-      <idno type="VIAF"></idno>
-      <birth source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
-      </birth>
-      <death source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
-      </death>
       <sex value="m"/>
       <occupation>marchese</occupation>
    </person>

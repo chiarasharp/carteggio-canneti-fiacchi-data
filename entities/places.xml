@@ -593,13 +593,13 @@
       </location>
       <idno type="geonames">3181521</idno>
    </place>
-   <place xml:id="DLCL_CF_L0074" type="settlement" sameAs="https://www.geonames.org/">
-      <placeName></placeName>
+   <place xml:id="DLCL_CF_L0074" type="settlement" sameAs="https://www.geonames.org/2885679">
+      <placeName>Costanza</placeName>
       <location>
-         <country key=""/>
-         <geo></geo>
+         <country key="DE"/>
+         <geo>47.66033, 9.17582</geo>
       </location>
-      <idno type="geonames"></idno>
+      <idno type="geonames">2885679</idno>
    </place>
    <place xml:id="DLCL_CF_L0075" type="settlement" sameAs="https://www.geonames.org/3170647">
       <placeName>Pisa</placeName>

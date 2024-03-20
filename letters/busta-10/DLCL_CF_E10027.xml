@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-13" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20659/manifest">
@@ -115,7 +116,7 @@
                che ho aggiunto alla gran copia delle altre testimonianze già raccolte. 
                Egli s’è ingannato seguendo le vestigia d’ altri, che prima di lui hanno errato in creder che <persName ref="#DLCL_CF_PC0177">Ambrogio</persName> 
                abbia detta un’orazione greca in <placeName ref="#DLCL_CF_L0013">Ferrara</placeName> ad em<gap reason="illegible"/>[...] le Imper<gap reason="illegible"/>[...] de’ Greci; 
-               e de’ Vescovi di quella nazione: che <gap reason="illegible"/>[...], e due libri de’ fatti proprj <gap reason="illegible"/>[...] in <placeName ref="#DLCL_CF_L0059">Costanza</placeName> 
+               e de’ Vescovi di quella nazione: che <gap reason="illegible"/>[...], e due libri de’ fatti proprj <gap reason="illegible"/>[...] in <placeName ref="#DLCL_CF_L0074">Costanza</placeName> 
                <gap reason="illegible"/>[...] Imperocché è certo che <gap reason="illegible"/>[...] in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, 
                non in <placeName ref="#DLCL_CF_L0013">Ferrara</placeName> <gap reason="illegible"/>[...] quale mai non la disse <gap reason="illegible"/>[...] 
                e questa emendazione di lui sta nella libreria di S<gap reason="illegible"/>[...]
@@ -124,7 +125,7 @@
             <pb xml:id="DLCL_CF_E10027_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21034/full/608,800/0/default.jpg"/>
             
             <p>
-               Murano ch’è diversissimo da quella del Laureto, e dall’altra di <persName ref="#DLCL_CF_PC0219">Angelo della Noce</persName> che ambe sono in cotesta <orgName>Biblioteca</orgName>. 
+               Murano ch’è diversissimo da quella del Laureto, e dall’altra di <persName ref="#DLCL_CF_PC0219">Angelo della Noce</persName> che ambe sono in cotesta <orgName ref="#DLCL_CF_O0001">Biblioteca</orgName>. 
                Egli morì l’anno 1439 in <placeName ref="#DLCL_CF_L0018">Firenze</placeName> e il giorno seguente fu <gap reason="illegible"/>[...] 
                indi il suo <gap reason="illegible"/>[...]po al Sacr’Eremo dove fugli data sepoltura illustrata <gap reason="illegible"/>[...] 
                a poco collo strepitoso prodigio <gap reason="illegible"/>[...] o gigli nati sopra il <gap reason="illegible"/>[...] cadavero.
@@ -133,7 +134,7 @@
             <p>
                <gap reason="illegible"/>[...] <placeName ref="#DLCL_CF_L0060">Sarzana</placeName> sopra <persName ref="#DLCL_CF_PC0220">Sant’Ilario</persName> concorda colla lettera 
                <gap reason="illegible"/>[...] insieme con altre stà nel codice del Sacr’Eremo <gap reason="illegible"/>[...] 
-               faremi copiare dall’erudito <persName>Padre Don  <gap reason="illegible"/>[...] Maria</persName>: 
+               faremi copiare dall’erudito <persName>Padre Don <gap reason="illegible"/>[...] Maria</persName>: 
                e da lei desidero sapere se siano in uno, e in quale de’ <bibl type="manuscript">due Codici dell’epistole</bibl> 
                d’<persName ref="#DLCL_CF_PC0177">Ambrogio</persName>, o in volume separato. 
                Non sò imaginarmi da qual’altro luogo que’ <rs type="person">Dottissimi Monaci</rs> di <orgName ref="#DLCL_CF_O0030">San Mauro</orgName> 
