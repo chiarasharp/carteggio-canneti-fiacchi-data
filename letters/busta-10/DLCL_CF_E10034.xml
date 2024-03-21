@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-21" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20666/manifest">
@@ -67,7 +68,7 @@
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendissimo Padre mio Osservandissimo</rs></salute>
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-06-16">16 giugno 1716</date></dateline>
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-06-16">16 giugno1716</date></dateline>
             </opener>
             
             <p> 
@@ -106,7 +107,7 @@
                E questa disgrazia a noi pure è toccata, a quali è mancato il sostentamento per tre mesi, trovato per grazia a carissimo prezzo. 
                Così delle malattie ci è toccata la nostra parte, e avendo <persName ref="#DLCL_CF_PC0043">Frate Pietro</persName> oggi nella decimaterza 
                con febbre putrida, maligna, e verminosa, sta tra la speranza, e il timore, 
-               e a tutti noi spiace vivissimamente la perdita, quando segua, del povero Fratello, che riusciva sommamente bene. 
+               e a tutti noi spiace vivissimamente la perdita, quando segua, del <rs type="person">povero Fratello</rs>, che riusciva sommamente bene. 
                Non si trovava modo di ammazzare i vermi, i quali accompagnano quasi tutte le malattie ma son diversi di grandezza, di colore, e di natura, sempre in quantità numerosi. 
                Usano i medici il vino rosso gagliardo, non ostante la febbre, il mercurio crudo, 
                l’olio del Mattiolo, l’olio di sasso, il balsamo d’<persName ref="#DLCL_CF_PC0267">Innocenzo XI</persName>; 
@@ -187,7 +188,7 @@
             </p>
             
             <closer>
-               <salute>DVPMR</salute>
+               <salute>DVPMR</salute> 
             </closer>
             
             <postscript>

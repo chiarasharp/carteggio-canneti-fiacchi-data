@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-15" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20662/manifest">
@@ -143,7 +144,7 @@
                e nell’<gap reason="illegible"/>[...] per tutta <placeName ref="#DLCL_CF_L0061">Europa</placeName> le lodi. 
                Ancora il buon vecchio <persName ref="#DLCL_CF_PC0242">Carlo Cartari</persName> Avvocato Concistoriale, mio Amico si accinse a questo lavoro, 
                per gli soli <bibl type="religious">Opuscoli</bibl> della <orgName ref="#DLCL_CF_O0041">Libreria</orgName> del <persName ref="#DLCL_CF_PC0243">Cardinale Altieri</persName>, 
-               e ne stampò il primo tometto in 4to con certo titolo di cattivo gusto intitolandolo “Pallade Bambina” <gap reason="illegible"/>[...] 
+               e ne stampò il primo tometto in 4to con certo titolo di cattivo gusto intitolandolo <bibl type="print">“Pallade Bambina”</bibl> <gap reason="illegible"/>[...] 
                ne ordinasse una Raccolta con metodo, e scelta (lo che non han fatto né <persName ref="#DLCL_CF_PC0038">Cinelli</persName> 
                né <persName ref="#DLCL_CF_PC0242">Cartari</persName>) occuperebbe un nuovo posto <gap reason="illegible"/>[...] Repubblica Letterata. 
                <persName ref="#DLCL_CF_PC0038">Cinelli</persName> (e colla penna di lui il <persName ref="#DLCL_CF_PC0060">Magliabechi</persName>) <gap reason="illegible"/>[...] tutta l’Opera. 
@@ -171,7 +172,7 @@
             </p>
             
             <p>
-               Ebbero pur poco cervello <persName ref="#DLCL_CF_PC0245">San Gregorio</persName> nella Vita di <persName ref="#DLCL_CF_PC0226">San Benedetto</persName>, 
+               Ebbero pur poco cervello <persName ref="#DLCL_CF_PC0245">San Gregorio</persName> nella <bibl type="print">Vita</bibl> di <persName ref="#DLCL_CF_PC0226">San Benedetto</persName>, 
                e <persName ref="#DLCL_CF_PC0227">San Pier Damiano</persName> in quella di <persName ref="#DLCL_CF_PC0017">San Romualdo</persName>, 
                facendovi racconto di tante scelleraggini de’ Monaci (se veramente è fondata la Critica de’ nostri Moderni). 
                Anzi và questa a ferire gli <bibl type="religious">evangeli</bibl>, che ci han lasciata memoria del tradimento d’uno della perfidia, 
@@ -189,7 +190,7 @@
                così lo tengono i più eruditi della nostra <placeName ref="#DLCL_CF_L0026">Italia</placeName>. 
                Bisogna aver’occhi per veder i colori, e darne giudizio. 
                Può <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> far vedere negli <bibl type="print">atti Bollandiani</bibl> la luce, 
-               che ha dato l’<bibl type="print">Odeporico</bibl> di Ambrogio alla Vita di <persName ref="#DLCL_CF_PC0254" cert="unknown">Eugenio</persName> 
+               che ha dato l’<bibl type="print">Odeporico</bibl> di <persName ref="#">Ambrogio</persName> alla Vita di <persName ref="#DLCL_CF_PC0254" cert="unknown">Eugenio</persName> 
                avendosi unicamente da quell’<bibl type="religious">Opuscolo</bibl> il <gap reason="illegible"/>[...] 
                del ricevimento di questo <rs type="person">Papa</rs> in <placeName ref="#DLCL_CF_L0018">Firenze</placeName>. 
                Ed oh quanto di <gap reason="illegible"/>[...] Generale, e nel nome Camaldolese ciò, 
@@ -205,12 +206,12 @@
                Arriveranno a <hi rend="underline">900</hi> in tutto. 
                Un cordialissimo saluto a <persName ref="#DLCL_CF_PC0007">Padri lettori Collina</persName>, <persName ref="#DLCL_CF_PC0121">Guiccioli</persName>, 
                <persName ref="#DLCL_CF_PC0093">Onestini</persName> e ai <persName ref="#DLCL_CF_PC0090">Padri Don Leandro</persName>, 
-               <persName ref="#DLCL_CF_PC0246">Abondio</persName> e <persName ref="#  DLCL_CF_PC0184">Lotario</persName>.
+               <persName ref="#DLCL_CF_PC0246">Abondio</persName> e <persName ref="#DLCL_CF_PC0184">Lotario</persName>.
             </p>
 
             <closer>
-               <salute>Resto abbracciandola di tutto cuore. </salute>
-               <salute>Affettuosissimo servo e padre nel Signore </salute> 
+               <salute>Resto abbracciandola di tutto cuore.</salute> 
+               <salute>Affettuosissimo servo e padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                <salute>DVPMR</salute>
             </closer>

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-21" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20665/manifest">
@@ -74,7 +75,7 @@
                Pertanto non sò se appieno potrò oggi compire a miei doveri in risposta 
                alle due ultime al solito gratissime di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>. 
                In primo luogo la prego mandarmi il <bibl type="print">Giornale XXIII</bibl> per <rs type="person">un’Uomo</rs> che <rs type="person">cotesto Padre Reverendissimo</rs> 
-               invia in queste parti al <persName ref="#DLCL_CF_PC0168">Padre Pier Iacopo Bacci Filippino</persName>, e deve partire dopo la Domenica in Albis. 
+               invia in queste parti al <persName ref="#DLCL_CF_PC0168">Padre Pier Iacopo Bacci</persName> Filippino, e deve partire dopo la Domenica in Albis. 
                Ne parli al garbatissimo <rs type="person">Padre Camerlingo</rs>, con riverirlo cordialissimamente da mia parte, 
                pregandolo far’in modo che l’uomo seco porti il poco peso di cotesti tre libretti. 
                Godo che il <persName ref="#DLCL_CF_PC0128">signor Abate Rondoni</persName> abbia fatto godere a cotesta Città il suo talento nel predicare, e riportato ne abbia applauso. 
@@ -103,7 +104,7 @@
             
             <closer>
                <salute>Addio.</salute> 
-               <salute>DVPMR</salute>
+               <salute>DVPMR</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-04-07">7 aprile 1716</date></dateline>
             </closer>
             

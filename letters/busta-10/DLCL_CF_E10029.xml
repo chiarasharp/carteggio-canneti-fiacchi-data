@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20661/manifest">
@@ -82,12 +83,13 @@
                Son dispostissimo a vendere il <bibl type="print">Convivio</bibl> di <persName ref="#DLCL_CF_PC0233">Dante</persName> 
                (quando un’altra copia ne sia in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>) 
                e le <bibl type="print">Azioni Morali</bibl> del <persName ref="#DLCL_CF_PC0234">Landi</persName>, 
-               e il <persName ref="#DLCL_CF_PC0235">Possevino</persName> dell’<bibl type="print">Onore</bibl>. 
+               e il <persName ref="#DLCL_CF_PC0235">Possevino</persName> <bibl type="print">dell’Onore</bibl>. 
                Ho ancora qui il <bibl type="print">Duello</bibl> del <persName ref="#DLCL_CF_PC0152">Puteo</persName>, 
                del <persName ref="#DLCL_CF_PC0236">Fausto</persName>, e dell’<persName ref="#DLCL_CF_PC0151">Alciato</persName>, che esiterò. 
                Rimetterò tutto al <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>, che saluto caramente col suo <rs type="person">Fratello</rs>: 
                egli s’informi di prezzi: e faccia quel, che stima bene. 
-               Oh perché io non fui quì! Avrei certamente voluto acquistare quei tometti del <persName ref="#DLCL_CF_PC0064">Marracci</persName>. 
+               Oh perché io non fui quì! 
+               Avrei certamente voluto acquistare quei tometti del <persName ref="#DLCL_CF_PC0064">Marracci</persName>. 
                Quando quì mi capita qualche cosuccia, non tralascio di prenderla, per quanto mi permette la mia povertà. 
                Ho acquistati diversi Manoscritti, e fra gli altri un <bibl type="manuscript" source="#DLCL_CF_BM0007">Dante in membrana</bibl> scritto l’anno 1369; assai corretto, e buono. 
                Con prima occasione manderò i <persName ref="#DLCL_CF_PC0033">Crescimbeni</persName> per la <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, e da legare. 
@@ -142,8 +144,8 @@
             </p>
             
             <closer>
-               <salute>Resto di tutto cuore. </salute>
-               <salute>DVPMR. </salute>
+               <salute>Resto di tutto cuore.</salute> 
+               <salute>DVPMR.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-12-10">10 dicembre 1715</date></dateline>
                <salute>Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

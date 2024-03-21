@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-13" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20660/manifest">
@@ -129,7 +130,7 @@
             <p>
                <gap reason="illegible"/>[...] del <persName ref="#DLCL_CF_PC0129">Mabillon</persName> altro non <gap reason="illegible"/>[...] che l’esempio di lui, 
                il qual non ebbe scrupolo di riferire i vizj e gli scandali d’alcuni Monaci; 
-               noi possiamo ritrarci addietro, e salir fino alle Vite di <persName ref="#DLCL_CF_PC0226">San Benedetto</persName>, 
+               noi possiamo ritrarci addietro, e salir fino alle <bibl type="print">Vite</bibl> di <persName ref="#DLCL_CF_PC0226">San Benedetto</persName>, 
                e di <persName ref="#DLCL_CF_PC0017">San Romualdo</persName> e alle opere di <persName ref="#DLCL_CF_PC0227">San Pier Damiano</persName>, 
                e alle storie de’ <rs type="person">Cisterciensi</rs>, e de’ <rs type="person">Frati Predicatori</rs>, 
                e <rs type="person">Minori</rs> sparse in ogni lato di laide relazioni. 
@@ -142,7 +143,7 @@
             <p>
                de’ quali due caddero in delitto, che <gap reason="illegible"/>[...] al Sant’Officio. 
                E di quei due uno contumace, e disperso <gap reason="illegible"/>[...] l’altro si pentì, e poi fu Papa. 
-               Conosco esser’impossibile aver la diligente copia del Musaico per mezzo del <persName ref="#DLCL_CF_PC0162">signor Giacomo</persName>. 
+               Conosco esser’impossibile aver la diligente copia del Musaico per mezzo del signor <persName ref="#DLCL_CF_PC0162">Giacomo</persName>. 
                Se capiterà il pittore per copiare il nostro Musaico, mi favorisca fargliene far una copia esatta per me; 
                quando voglia contentarsi di due scudi in circa, avvertendo che vi si descrivano i nomi da noi scoperti sopra le figure. 
                Ma in proposito del <persName ref="#DLCL_CF_PC0162">Signor Giacomo</persName>, e del libro da stamparsi delle <bibl type="print">Lettere Ambrosiane</bibl>; 
@@ -192,12 +193,12 @@
                Ma, e dirà ella, è possibile che questa volta non si chiedano da me libri da mandare, giacché non si finisce di chiederne? 
                L’<bibl type="print">Ateneo Augusto</bibl> dell’<persName ref="#DLCL_CF_PC0231">Oldoini</persName> sarà da mandare qui con prima congiuntura; 
                avendone io qui trovato un altro esemplare <gap reason="illegible"/>[...] e non guasto, come sono quasi tutti in certi luoghi, 
-               [...] che fecero fare diversi <rs type="person">Cavalieri</rs> che si credevano pregiudicati dalla verità. 
+               <gap reason="illegible"/>[...] che fecero fare diversi <rs type="person">Cavalieri</rs> che si credevano pregiudicati dalla verità. 
             </p>
   
             <closer>
-               <salute>Caramente l’abbraccio: e di vero cuore. </salute>
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-11-26">26 novembre 1715</date>. </dateline>
+               <salute>Caramente l’abbraccio: e di vero cuore.</salute> 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-11-26">26 novembre 1715</date>.</dateline> 
                <salute>DVPMR</salute>
                <salute>Affettuosissimo Servo e Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

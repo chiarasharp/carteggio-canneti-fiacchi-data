@@ -1511,12 +1511,24 @@
       <sex value="m"/>
       <occupation>vescovo</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0104">
+   <person xml:id="DLCL_CF_PC0104" sameAs="http://viaf.org/viaf/39521157">
       <persName xml:lang="it">
          <roleName type="religious">Padre</roleName>
+         <forename>Tommaso</forename>
          <surname>Ceva</surname>
       </persName>
+      <idno type="VIAF">39521157</idno>
+      <birth source="https://www.treccani.it/enciclopedia/tommaso-ceva_%28Dizionario-Biografico%29/">
+         <date when-iso="1648-12-20"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/tommaso-ceva_%28Dizionario-Biografico%29/">
+         <date when-iso="1737-02-03"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
       <sex value="m"/>
+      <occupation>gesuita</occupation>
+      <occupation>poeta</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0105">
       <persName xml:lang="it">
@@ -2236,11 +2248,24 @@
       </persName>    
       <sex value="m"/>
    </person>
-   <person xml:id="DLCL_CF_PC0164">
-      <persName>
-         <forename>M.</forename>
+   <person xml:id="DLCL_CF_PC0164" sameAs="http://viaf.org/viaf/12332566">
+      <persName xml:lang="en">
+         <roleName>M.</roleName>
+         <forename>Richard</forename>
          <surname>Simon</surname>
       </persName>
+      <idno type="VIAF">12332566</idno>
+      <birth source="https://www.treccani.it/enciclopedia/richard-simon/">
+         <date when-iso="1638-05-13"/>
+         <placeName ref="https://www.geonames.org/3021411/dieppe.html">Dieppe</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/richard-simon/">
+         <date when-iso="1712-04-11"/>
+         <placeName ref="https://www.geonames.org/3021411/dieppe.html">Dieppe</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>biblista</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0165" sameAs="http://viaf.org/viaf/29541502">
       <persName xml:lang="it">
@@ -3320,23 +3345,12 @@
       <occupation>avvocato</occupation>
       <occupation>poeta</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0245" sameAs="http://viaf.org/viaf/">
+   <person xml:id="DLCL_CF_PC0245">
       <persName xml:lang="it">
          <roleName type="religious">San</roleName>
          <surname>Gregorio</surname>
       </persName>
-      <idno type="VIAF"></idno>
-      <birth source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
-      </birth>
-      <death source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
-      </death>
       <sex value="m"/>
-      <occupation></occupation>
-      <occupation></occupation>
    </person>
    <person xml:id="DLCL_CF_PC0246">
       <persName>
