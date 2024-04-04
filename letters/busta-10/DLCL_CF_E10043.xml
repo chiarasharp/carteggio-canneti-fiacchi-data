@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-18" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20675/manifest">
@@ -104,7 +105,7 @@
                e forse è stata scritta sì minutamente dallo stesso <persName ref="#DLCL_CF_PC0261">Bargeo</persName>, ond’è ch’essa è imperfetta. 
                Comunque sia è da farne conto. 
                Io l’ebbi da <placeName ref="#DLCL_CF_L0075">Pisa</placeName>, ove fu Lettor l’<persName ref="#DLCL_CF_PC0261">Angelio</persName>, 
-               ed ove fiorisce la sua Casa, ch’ebbe ultimamente un Cardinale, il quale si chiamava <hi rend="underline">de Angelis</hi>. 
+               ed ove fiorisce la sua Casa, ch’ebbe ultimamente un Cardinale, il quale si chiamava <foreign xml:lang="la"><hi rend="underline">de Angelis</hi></foreign>. 
                Vi sono costì ancora alcune <bibl type="manuscript">lezioni manoscritte inedite</bibl> del medesimo <persName ref="#DLCL_CF_PC0261">Piero Angelio</persName>, 
                e dovean esser quelle, che faceva nello Studio di quell’<orgName ref="#DLCL_CF_O0049">Università</orgName>. 
             </p>
@@ -159,7 +160,7 @@
             <p>
                Un cordialissimo abbracciamento alli tre Padri Lettori <persName ref="#DLCL_CF_PC0090">Padri Don Leandro</persName>, 
                <persName ref="#DLCL_CF_PC0184">Don Lotario</persName> e, <persName ref="#DLCL_CF_PC0246">Don Abondio</persName>. 
-               Si ricordi della <bibl type="manuscript">Scrittura della donazione dello Spedale</bibl> 
+               Si ricordi della <bibl type="religious">Scrittura della donazione dello Spedale</bibl> 
                fatta dal <persName ref="#DLCL_CF_PC0322">Polentano</persName> al nostro <persName ref="#DLCL_CF_PC0032">Grande Ambrogio</persName>, che penso riferire intiera. 
             </p>
             

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20673/manifest">
@@ -74,7 +75,7 @@
                <foreign xml:lang="la"><persName ref="#DLCL_CF_PC0307">Philelphi</persName></foreign> <bibl type="print"><foreign xml:lang="la">Epistolae</foreign></bibl> in 8 = 
                <bibl type="print">Ercole Difensore d’Omero</bibl> dello <persName ref="#DLCL_CF_PC0308">Spontone</persName> in 16 = 
                <foreign xml:lang="la"><persName ref="#DLCL_CF_PC0309">Jacopo Sannazarij</persName></foreign> <bibl type="print">Carmina</bibl> in 16° = 
-               <foreign xml:lang="la"><persName ref="#DLCL_CF_PC0310">Petronius Arbiter</persName></foreign> in 24 = da cavarsene quel che si può. 
+               <bibl type="print"><foreign xml:lang="la">Petronius Arbiter</foreign></bibl> in 24 = da cavarsene quel che si può. 
                Laonde raccomando al <rs type="person">Padre Lettore</rs> nostro Carissimo, che di cuore saluto, esitargli, ogni volta che se ne offerisca la congiuntura. 
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> potrà per sé pigliarsi il <bibl type="print">Testamento Nuovo</bibl>, 
                dell’edizione Plantiniana in 24, che le servirà per la lezione spirituale. 
@@ -112,7 +113,7 @@
                   contro cui scrisse (se ben mi ricordo) il detto <persName ref="#DLCL_CF_PC0209">Alberto</persName>. 
                   Le sue lettere portano l’anno. 
                   Mi mandi copia di quel, che il <persName ref="#DLCL_CF_PC0096">Mongitore</persName> nella <bibl type="print">Biblioteca</bibl> 
-                  scrive <hi rend="underline">d’<persName ref="#DLCL_CF_PC0156"></persName>Antonio Panormita Beccatelli</hi>, per. 
+                  scrive <hi rend="underline">d’<persName ref="#DLCL_CF_PC0156">Antonio Panormita Beccatelli</persName></hi>, <foreign xml:lang="la">per extensum</foreign>. 
                   Mi avvisi se arrivi a <hi rend="underline"><persName ref="#DLCL_CF_PC0314">Giovanni Aurispa</persName></hi>. 
                </p>
             </postscript>

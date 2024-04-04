@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-22" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20667/manifest">
@@ -128,16 +129,16 @@
                Son familiari in questi mali i furori maniaci, e di più i delirj dopo cessate per molti giorni le febbri; così le sordità, e le cecità. 
                Venti Medici in circa non possono reggere alla fatica; e per lo più fanno una sola visita al giorno. 
                La maggior parte guarisce; ma quella minore, che muore, fà un buon numero.
-               Nella Città di <placeName ref="#  DLCL_CF_L0068">Spoleto</placeName> sono spente in questa influenza dieci famiglie nobili. 
+               Nella Città di <placeName ref="#DLCL_CF_L0068">Spoleto</placeName> sono spente in questa influenza dieci famiglie nobili. 
                Due quì ne son mancate in due giorni, oltre alla Casa del famoso <persName ref="#DLCL_CF_PC0275" cert="unknown">Cesare Caporali</persName> estinta colla morte del Padre, 
                e del figlio giovane in una settimana, ch’era di antica, e cospicua cittadinanza. 
             </p>
             
             <closer>
                <salute>Resto abbracciandola, con riverire tutti i buoni Amici.</salute> 
-               <salute> Addio, caro Padre Don Mariangelo.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugi</placeName> <date when-iso="1716-07-14">14 luglio 1716</date>.</dateline> 
-               <salute>DVPMR</salute>
+               <salute>Addio, caro <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo</persName>.</salute> 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-07-14">14 luglio 1716</date>.</dateline> 
+               <salute>DVPMR</salute> 
                <salute>Cordialissimo Padre e Servo nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
@@ -162,7 +163,7 @@
             <p>
                <cit>
                   <quote>
-                     La sera delli 23 giugno 1716 esposto, conforme al solito, alla venerazione de’ Divoti 
+                     La sera delli <date when-iso="1716-06-23">23 giugno 1716</date> esposto, conforme al solito, alla venerazione de’ Divoti 
                      il corpo prodigiosamente incorrotto della <persName ref="#DLCL_CF_PC0272">Beata Chiara</persName> da <placeName ref="#DLCL_CF_L0069">Montefalco</placeName>, 
                      fu veduto il piede destro gonfio dalla banda del calcagno; 
                      è nel sinistro piede parimente verso il calcagno vi era come un’escoriazione della grossezza circa di un Giulio, 
@@ -200,9 +201,9 @@
             
             <p>       
                La soprascritta notizia è tratta, quasi colle stesse parole, 
-               da una lettera del detto <persName ref="#DLCL_CF_PC0277">Padre Agatonij Vicario Foraneo</persName> di <placeName ref="#DLCL_CF_L0069">Montefalco</placeName> 
+               da una lettera del detto <persName ref="#DLCL_CF_PC0277">Padre Agatonij</persName> Vicario Foraneo di <placeName ref="#DLCL_CF_L0069">Montefalco</placeName> 
                sua Patria scritta al <persName ref="#DLCL_CF_PC0281">Padre Orazio Canauli</persName> Preposito 
-               dell’<orgName ref="#DLCL_CF_O0046">Oratorio di Perugia</orgName> in data delli 9 Luglio 1716
+               dell’<orgName ref="#DLCL_CF_O0046">Oratorio di Perugia</orgName> in data delli <date when-iso="1716-07-09">9 Luglio 1716</date>
             </p>
             
          </div>

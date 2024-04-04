@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-05" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20670/manifest">
@@ -88,11 +89,11 @@
                Avverta che, per quanto ho inteso, l’<bibl type="religious">officio della Beata Vergine del Rosario</bibl> è stato steso alla Chiesa Universale. 
                Della verità potrà chiarirsi o appresso i <rs type="person">Padri Domenicani</rs> di costì, 
                o appresso chi costì compone il <bibl type="religious">Calendario della Chiesa Ravennate</bibl>. 
-               Suppongo ch’ella, come bravo Rubrichista, qual’è avrà notato <foreign xml:lang="la"><hi rend="underline">De Festo Septem Dolorum Beatae Mariae Virginis nihil hoc anno</hi></foreign> 
+               Suppongo ch’ella, come bravo Rubrichista, qual’è avrà notato <hi rend="underline"><foreign xml:lang="la">De Festo Septem Dolorum Beatae Mariae Virginis nihil hoc anno</foreign></hi> 
                cadendo in quel Venerdì di Passione San Giuseppe; 
                ed essendo il seguente giorno impedito da <persName ref="#DLCL_CF_PC0289">San Giovacchino</persName>, né potendosi trasferir più oltre, 
                secondo la particolar <bibl type="religious">Rubrica dell’Officio medesimo</bibl>, 
-               o sia <bibl type="religious">Decreto della Sacra Congregazione de’ Riti</bibl> 26 febbraio 1693. 
+               o sia <bibl type="religious">Decreto della Sacra Congregazione de’ Riti</bibl> <date when-iso="1693-02-26">26 febbraio 1693</date>. 
             </p>
             
             <pb xml:id="DLCL_CF_E10038_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21070/full/607,800/0/default.jpg"/>
@@ -153,7 +154,7 @@
             
             <closer>
                <salute>L’abbraccio di vero cuore, e resto.</salute> 
-               <salute>DVPMR</salute>
+               <salute>DVPMR</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-10-20">20 ottobre 1716</date></dateline> 
                <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

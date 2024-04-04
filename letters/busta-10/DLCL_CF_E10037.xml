@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-05" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20669/manifest">
@@ -101,7 +102,7 @@
             <p>
                Io stò sull’avviso per inviare alcune Copie dell’<bibl type="print">Orazione</bibl> consaputa e farò tutto il possibile, 
                perché vengano presto colla <bibl type="print">Storia della Volgar Poesia</bibl>, 
-               e la 3° parte delle <bibl type="print">Vite degli Arcadi</bibl>, e le scritture del <persName ref="#DLCL_CF_PC0132">Padre abate Grandi</persName>. 
+               e la 3° parte delle <bibl type="print">Vite degli Arcadi</bibl>, e le <bibl type="print">scritture</bibl> del <persName ref="#DLCL_CF_PC0132">Padre abate Grandi</persName>. 
                Orsù <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> si metta in sollecitudine per farmi avere 
                o per via di <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> o in altro modo spedito, 
                e pronto il <bibl type="print">Giornale XXIV</bibl> (ancorche non siano le copie nel solito numero) e la <bibl type="print">Ravenna Dominante</bibl>, 
@@ -143,7 +144,7 @@
             </p>
             
             <p>
-               Fermamente ho tenuto sempre che la Reliquia di <persName>San Bartolomeo</persName> è il Corpo, 
+               Fermamente ho tenuto sempre che la Reliquia di <persName ref="#DLCL_CF_PC0327">San Bartolomeo</persName> è il Corpo, 
                che sta in <placeName ref="#DLCL_CF_L0070">Benevento</placeName> sia il vero, ed unico del Santo Apostolo. 
                Mi confermo al sentire l’autentica ancor del Padre delle bugie. 
                Ma nel tempo stesso mi sovviene alla mente quell’altro Reliquiario di <persName ref="#DLCL_CF_PC0040">San Severo</persName>, 

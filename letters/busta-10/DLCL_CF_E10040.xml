@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-04-03" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20672/manifest">
@@ -99,18 +100,18 @@
                Si può egli sapere chi scriva la <bibl type="print">Vita di Santa Sabina</bibl>? 
                La voce <foreign xml:lang="la"><hi rend="underline">Metallarij signi</hi></foreign> impiego intorno a’ metalli. 
                Laonde da Legisti è usata a significar coloro, che vengono condannati a cavar dalle miniere 
-               i metalli <foreign xml:lang="la"><hi rend="underline">per de poen <gap reason="illegible"/>[...] et Cod. de metallis</hi></foreign>. 
+               i metalli <hi rend="underline"><foreign xml:lang="la">per de poen <gap reason="illegible"/>[...] et Cod. de metallis</foreign></hi>. 
                In questo luogo io l’intenderei di Persona soprintendente a’ lavori di Metallo, e a custodire i metalli stessi, 
                come <hi rend="underline">Argenta</hi> (oltre a più altri significati) erano i Deputati a custodir gli Argenti. 
                Ed erano anco i Tesorieri, che aveano in cura il danaro, il quale per lo più consiste in argento. 
                Veggasi l’Eruditissimo <persName ref="#DLCL_CF_PC0009">Abate Bacchini</persName> sopra l’<persName ref="#DLCL_CF_PC0206">Agnello</persName> 
                Paragrafo 2 nelle <bibl type="print">Osservazioni alla Vita di San Ecclesio</bibl>, 
-               dove spiega come intender si debba <foreign xml:lang="la"><hi rend="underline">Iulianus Argentarius</hi></foreign> 
+               dove spiega come intender si debba <hi rend="underline"><foreign xml:lang="la">Iulianus Argentarius</foreign></hi> 
                scolpito anche in marmo nella nostra <orgName ref="#DLCL_CF_O0005">Basilica di Classe</orgName>, pagine 55 et 56. 
             </p>
             
             <p>
-               <foreign xml:lang="la"><hi rend="underline">Ter in Urbe Roma Candidam dedit Romanis</hi></foreign>, dee spiegarsi: 
+               <hi rend="underline"><foreign xml:lang="la">Ter in Urbe Roma Candidam dedit Romanis</foreign></hi>, dee spiegarsi: 
                tre volte in <placeName ref="#DLCL_CF_L0008">Roma</placeName> diede a’ Romani <del rend="overstrike">il pub</del> i giuochi: 
                De’ quali Giuochi pubblici soliti rappresentarsi, e darsi da’ Magistrati, cioè da’ Pretori, 
                e Questori per motivo di religione, e di allegrezza pubblica, veggasi il <persName ref="#DLCL_CF_PC0325">Rosino</persName> 

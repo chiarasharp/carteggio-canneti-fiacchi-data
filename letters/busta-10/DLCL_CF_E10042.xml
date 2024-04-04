@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-03-18" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20674/manifest">
@@ -82,7 +83,7 @@
                Ho letta con molto gusto l’annessa lettera del <persName ref="#DLCL_CF_PC0056">Signor Dottor Sancassani</persName>, 
                ed ho ammirato la perspicacia del di lui ingegno felice al solito nelle conghietture erudite, 
                avendo egli eziandio senza il necessario lume degli Autori, toccata appuntino la vera, 
-               e germana intelligenza di quelle parole = <foreign xml:lang="la">candidam dedit</foreign> = 
+               e germana intelligenza di quelle parole = <foreign xml:lang="la"><hi rend="underline">candidam dedit</hi></foreign> = 
                siccome avrà scorto <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, alla quale subito risposi che questa formola propria, non della buona, 
                ma dell’infima latinità esprime gli spettacoli de’ pubblici giuochi dati al popolo, a proprie spese. 
             </p>

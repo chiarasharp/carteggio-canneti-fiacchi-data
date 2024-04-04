@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-02-28" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20668/manifest">
@@ -142,7 +143,7 @@
             <closer>
                <salute>L’abbraccio, e con tutto lo spirito resto tutto tutto suo.</salute> 
                <salute>DVPMR</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-07-28"></date></dateline>
+               <dateline><placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-07-28">28 Luglio 1716</date></dateline>
             </closer>
             
             <postscript>   
