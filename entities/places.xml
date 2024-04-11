@@ -609,4 +609,142 @@
       </location>
       <idno type="geonames">3170647</idno>
    </place>
+   <place xml:id="DLCL_CF_L0076" type="settlement" sameAs="https://www.geonames.org/8964560">
+      <placeName>Doccia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.17816, 11.81286</geo>
+      </location>
+      <idno type="geonames">8964560</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0077" type="settlement" sameAs="https://www.geonames.org/745044">
+      <placeName>Costantinopoli</placeName>
+      <location>
+         <country key="TR"/>
+         <geo>41.01384, 28.94966</geo>
+      </location>
+      <idno type="geonames">745044</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0078" type="mountain" sameAs="https://www.geonames.org/6697959">
+      <placeName>Montecassino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>41.49166, 13.81335</geo>
+      </location>
+      <idno type="geonames">6697959</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0079" type="settlement" sameAs="https://www.geonames.org/3165361">
+      <placeName>Toscana</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.41667, 11</geo>
+      </location>
+      <idno type="geonames">3165361</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0080" type="hill" sameAs="https://www.geonames.org/3182644">
+      <placeName>Monte Aventino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>41.88333, 12.48333</geo>
+      </location>
+      <idno type="geonames">3182644</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0081" type="region" sameAs="https://www.geonames.org/622404">
+      <placeName>Sarmazia</placeName>
+      <location>
+         <country key="BY"/>
+         <geo>51, 32</geo>
+      </location>
+      <idno type="geonames">622404</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0082" type="settlement" sameAs="https://www.geonames.org/3172394">
+      <placeName>Napoli</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>40.85216, 14.26811</geo>
+      </location>
+      <idno type="geonames">3172394</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0083" type="settlement" sameAs="https://www.geonames.org/3176219">
+      <placeName>Genova</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.40478, 8.94439</geo>
+      </location>
+      <idno type="geonames">3176219</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0084" type="region" sameAs="https://www.geonames.org/3170831">
+      <placeName>Piemonte</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45, 8</geo>
+      </location>
+      <idno type="geonames">3170831</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0085" type="settlement" sameAs="https://www.geonames.org/3174530">
+      <placeName>Lucca</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.84369, 10.50447</geo>
+      </location>
+      <idno type="geonames">3174530</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0086" type="settlement" sameAs="https://www.geonames.org/3177489">
+      <placeName>Dozza</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.36195, 11.63547</geo>
+      </location>
+      <idno type="geonames">3177489</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0087" type="settlement" sameAs="https://www.geonames.org/3178998">
+      <placeName>Cervia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.26204, 12.34812</geo>
+      </location>
+      <idno type="geonames">3178998</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0088" type="nation" sameAs="https://www.geonames.org/163843">
+      <placeName>Siria</placeName>
+      <location>
+         <country key="SY"/>
+         <geo>35, 38</geo>
+      </location>
+      <idno type="geonames">163843</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0089" type="nation" sameAs="https://www.geonames.org/357994">
+      <placeName>Egitto</placeName>
+      <location>
+         <country key="EG"/>
+         <geo>27, 30</geo>
+      </location>
+      <idno type="geonames">357994</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0090" type="monastic-site" source="https://en.wikipedia.org/wiki/Nitria_(monastic_site)">
+      <placeName>Nitria</placeName>
+      <location>
+         <country key="EG"/>
+         <geo>30.9287, 30.3856</geo>
+      </location>
+   </place>
+   <place xml:id="DLCL_CF_L0091" type="ancient-region" source="https://it.wikipedia.org/wiki/Mesopotamia">
+      <placeName>Mesopotamia</placeName>
+   </place>
+   <place xml:id="DLCL_CF_L0092" type="settlement" sameAs="https://www.geonames.org/2849483">
+      <placeName>Ratisbona</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>49.01513, 12.10161</geo>
+      </location>
+      <idno type="geonames">2849483</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0093" type="settlement" sameAs="https://www.geonames.org/3172629">
+      <placeName>Monza</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.58005, 9.27246</geo>
+      </location>
+      <idno type="geonames">3172629</idno>
+   </place>
 </listPlace>

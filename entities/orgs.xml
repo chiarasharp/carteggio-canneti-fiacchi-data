@@ -37,7 +37,6 @@
       <event notBefore-iso="1005" notAfter-iso="1009">
          <ab> founded <persName ref="#DLCL_CF_PC0017">S. Romualdo degli Onesti</persName>
          </ab>
-
       </event>
    </org>
    <org xml:id="DLCL_CF_O0003" type="abbey" sameAs="https://viaf.org/viaf/139009097/">
@@ -494,5 +493,131 @@
             <settlement ref="#DLCL_CF_L0075">Pisa</settlement>
          </address>
       </location>
+   </org>
+   <org xml:id="DLCL_CF_O0050" type="monastery" source="https://www.cistercensi.info/abbazie/abbazie.php?ab=132">
+      <orgName xml:lang="it">Monastero San Giacomo di Veglia</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3164028/">San Giacomo di Veglia, Vittorio Veneto</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0051" type="monastery" sameAs="http://viaf.org/viaf/133865391">
+      <orgName xml:lang="it">Abbazia di Montecassino</orgName>
+      <desc></desc>
+      <idno type="VIAF">133865391</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0078">Montecassino, Frosinone</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0052" type="academy" sameAs="http://viaf.org/viaf/143077072">
+      <orgName xml:lang="it">Accademia della Crusca</orgName>
+      <desc></desc>
+      <idno type="VIAF">143077072</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0053">
+      <orgName xml:lang="it">San Michele in Bosco</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0054" type="congregation" source="https://it.wikipedia.org/wiki/Congregazione_camaldolese">
+      <orgName xml:lang="it">Congregazione camaldolese dell'Ordine di San Benedetto</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
+   </org>
+   
+   
+   <org xml:id="DLCL_CF_O0056" type="university" sameAs="http://viaf.org/viaf/150834169">
+      <orgName xml:lang="it">Università di Perugia</orgName>
+      <desc></desc>
+      <idno type="VIAF">150834169</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0018">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0057">
+      <orgName xml:lang="it">Casa Vizani</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0058" type="church" source="https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_in_Isola" sameAs="http://viaf.org/viaf/122726330">
+      <orgName xml:lang="it">Chiesa San Michele di Murano in Isola</orgName>
+      <desc></desc>
+      <idno type="VIAF">122726330</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0024">Venezia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0059">
+      <orgName xml:lang="it">Monastero di Castel de' Britti</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0060" sameAs="http://viaf.org/viaf/166641031">
+      <orgName xml:lang="it">Santa Sede</orgName>
+      <desc></desc>
+      <idno type="VIAF">166641031</idno>
+      <location>
+         <country key="VA"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
+         </address>
+      </location>
+   </org>
+   
+   <org xml:id="DLCL_CF_O0064" type="family" source="https://www.treccani.it/enciclopedia/geremei_%28Enciclopedia-Italiana%29/">
+      <orgName xml:lang="it">Geremei</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0065" type="family">
+      <orgName xml:lang="it">Catanei</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0066" type="family">
+      <orgName xml:lang="it">Traversari</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0067" type="family" source="https://www.treccani.it/enciclopedia/onesti/">
+      <orgName xml:lang="it">Onesti</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0068" type="family">
+      <orgName xml:lang="it">Sassi</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0069" type="family">
+      <orgName xml:lang="it">Donini</orgName>
+      <desc></desc>
    </org>
 </listOrg>
