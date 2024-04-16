@@ -572,7 +572,7 @@
       <orgName xml:lang="it">Monastero di Castel de' Britti</orgName>
       <desc></desc>
    </org>
-   <org xml:id="DLCL_CF_O0060" sameAs="http://viaf.org/viaf/166641031">
+   <org xml:id="DLCL_CF_O0060" type="institution" sameAs="http://viaf.org/viaf/166641031">
       <orgName xml:lang="it">Santa Sede</orgName>
       <desc></desc>
       <idno type="VIAF">166641031</idno>
@@ -583,7 +583,38 @@
          </address>
       </location>
    </org>
-   
+   <org xml:id="DLCL_CF_O0061" type="church" sameAs="http://viaf.org/viaf/241907176">
+      <orgName xml:lang="it">Santa Maria in Porto</orgName>
+      <desc></desc>
+      <idno type="VIAF">241907176</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0062" type="monastery" source="https://fondoambiente.it/luoghi/chiesa-di-san-maglorio">
+      <orgName xml:lang="it">Monastero di San Maglorio</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0005">Faenza</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0063" type="church" sameAs="http://viaf.org/viaf/243209870" source="https://fondoambiente.it/luoghi/complesso-di-san-luca">
+      <orgName xml:lang="it">Complesso di San Luca</orgName>
+      <desc></desc>
+      <idno type="VIAF">243209870</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0001">Cremona</settlement>
+         </address>
+      </location>
+   </org>   
    <org xml:id="DLCL_CF_O0064" type="family" source="https://www.treccani.it/enciclopedia/geremei_%28Enciclopedia-Italiana%29/">
       <orgName xml:lang="it">Geremei</orgName>
       <desc></desc>

@@ -5745,5 +5745,70 @@
       <sex value="m"/>
       <occupation>antipapa</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0420">
+      <persName xml:lang="it">
+         <forename>Tommaso</forename>
+         <surname>Morosini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0421">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>Morosini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0422">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Maestro</roleName>
+         <forename>Petribelli</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0423" sameAs="http://viaf.org/viaf/32335397">
+      <persName xml:lang="it">
+         <forename>Alessandro</forename>
+         <surname>Capra</surname>
+      </persName>
+      <idno type="VIAF">32335397</idno>
+      <birth source="https://www.treccani.it/enciclopedia/alessandro-capra_(Dizionario-Biografico)/">
+         <date when-iso="1608" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0001">Cremona</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/alessandro-capra_(Dizionario-Biografico)/">
+         <date when-iso="1684" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0001">Cremona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>architetto</occupation>
+      <occupation>inventore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0424" sameAs="http://viaf.org/viaf/46755883">
+      <persName xml:lang="it">
+         <forename>Aonio</forename>
+         <surname>Paleario</surname>
+      </persName>
+      <idno type="VIAF">46755883</idno>
+      <birth source="https://it.wikipedia.org/wiki/Aonio_Paleario">
+         <date when-iso="1503"/>
+         <placeName ref="https://www.geonames.org/3164528/">Veroli</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Aonio_Paleario">
+         <date when-iso="1570-07-03"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0425" sameAs="http://viaf.org/viaf/3248157527313327300006">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <forename>Sangermano</forename>
+         <surname>Corvo</surname>
+      </persName>
+      <idno type="VIAF">3248157527313327300006</idno>
+      <sex value="m"/>
+   </person>
    
 </listPerson>

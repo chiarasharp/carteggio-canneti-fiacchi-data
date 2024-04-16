@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="it">Canneti a Fiacchi (Perugia, 27 Marzo 1717)</title>
+            <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+         </titleStmt>
+         <publicationStmt><ab></ab></publicationStmt>
+         <seriesStmt>
+            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
+            <biblScope unit="letter">54</biblScope>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country key="IT">Italia</country>
+                  <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                  <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                  <repository></repository>
+                  <collection></collection>
+                  <idno></idno>
+                  <altIdentifier>
+                     <idno></idno>
+                  </altIdentifier>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+               <date when-iso="1717-03-27"/>
+               <placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="it"/>
+         </langUsage>
+         <settingDesc>
+            <xi:include href="../../entities/places.xml"/>
+         </settingDesc>
+         <particDesc>
+            <xi:include href="../../entities/people/cited-people.xml"/>
+            <xi:include href="../../entities/people/staff.xml"/>
+            <xi:include href="../../entities/orgs.xml"/>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc status="created">
+         <change when-iso="2024-04-16" who="#DLCL_CF_PS001">creato</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile sameAs="https://classense.unibo.it/iiif/20686/manifest">
+      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21118/full/585,800/0/default.jpg"/>
+      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21119/full/636,800/0/default.jpg"/>
+   </facsimile>
+   <text type="letter" n="Canneti a Fiacchi (Perugia, 27 Marzo 1717)">
+      <body>
+         <div type="transcription">
+            <pb xml:id="DLCL_CF_E10054_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21118/full/585,800/0/default.jpg"/>
+            
+            <opener>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+            </opener>
+            
+            <p>
+               Dall’indefessa cordialità di Vostra Paternità ricevo le notizie, che riguardano il nostro Cardinale de Anna, 
+               o Sommariva, Napolitano, o Lodigiano, rimanendo per verità le cose di questo Porporato assai intricate e confuse. 
+               Il Lancellotti nella Storia Olivetana apertamente lo fa da Lodi della Casa Sommariva, la qual tuttavia colà fiorisce; 
+               e scrive che egli con Niccolò suo Fratello fondò il Monistero di Villanuova in quel Territorio. 
+               Dall’altra parte l’epitafio lo dimostra della Casa de Anna, che altresì in Napoli fino al dì d’oggi si mantiene, 
+               e tra’ Napolitani è riferito dal Toppi nella Biblioteca Napolitana. 
+               Alle diligenze fatte Vostra Paternità aggiungane un’altra con veder se ne parla certo istorico, che costì abbiamo, di Lodi, 
+               e chiamasi, se non erro, il Villanuova. 
+               L’Ughelli concorda a Lancellotti in proposito della fondazione del Monastero di Villanuova degli Olivetani eretto dal Cardinale Angelo per testamentaria disposizione di Niccolò Sommariva Fratello d’esso Cardinale.
+               La ringrazio altresì di quel, che mi notifica intorno a Pietro Quirino, tratto dal Ciacconio. Mi persuado che il Palazzi ancora ne scriva negli stessi precisi termini. Luca Spagnuolo è appresso di me colla sua Romualdina. Ho ancora il Garimberto, che iniquamente maltrattò il Venerabile Cardinale Maffeo Gerardo. Tengo ancor copia di tutto quel, che altri ne ha scritto in difesa. Ma tra essi spicca Ludovico Doni d’Attichy Vescovo Franzese nell’Opera Insigne in tre Tomi in folio intitolata = Flores Historiae Sacri Collegij Cardinalium = Ivi lo rappresenta Uomo Santo, quale in fatti convien dire ch’è fosse.
+               [c. 1v] Care mi saranno le notizie della Famiglia Traversarj, della quale penso accrescere il primo capitolo della Vita del nostro Ambrogio, disteso troppo in succinto. Nuovamente mi rallegro che abbia Vostra Paternità intrapresa la fatica di trascrivere la Storia del Carrari, la quale in più luoghi io scopersi essere indubitatamente di cotesto Autore, e non di un Morigi, qual si supponeva. 
+               Penserò il modo di mettere in credito la lapida di Bologna, della quale io penso ne avesse Vostra Paternità fatta ingerir qualche stima. Era nato in me qualche timore che la mia lettera scritta sopra essa lapide fusse andata a male. 
+               Nell’Indice de’ nostri libri, che sono in guardia di Vostra Paternità non vi leggo i due tomi della Biblioteca Romana del Mandosio. Desidero sapere se ciò sia seguito perché manchino. Delle Instituzioni Teologiche del Cardinale Tommasi quanti tometti ne abbiamo costì? Mi riverisca ben caramente il Padre Camerlengo.
+               Resto con tutto lo spirito, abbracciandola di vero cuore.
+               DVPMR., che ringrazia ancora per la notizia di Modena dal Signor Sancassani ottenuta sopra il Manoscritto di Pesaro.
+               Perugia 27 Marzo 1717
+               Cordialissimo Servitore e Affettuosissimo Padre nel Signore
+               Don Pietro Canneti
+               
+            </p>
+            
+            <pb xml:id="DLCL_CF_E10054_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21119/full/636,800/0/default.jpg"/>
+            
+            <closer>
+               <salute>DVP</salute>.
+               <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
+               <salute>Affettuosissimo Padre nel Signore</salute> 
+               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+            </closer>
+            
+            
+            <postscript>
+               <p>
+                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

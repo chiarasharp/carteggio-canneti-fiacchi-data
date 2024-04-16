@@ -747,4 +747,12 @@
       </location>
       <idno type="geonames">3172629</idno>
    </place>
+   <place xml:id="DLCL_CF_L0094" type="settlement" sameAs="https://www.geonames.org/3173635">
+      <placeName>Meldola</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.12775, 12.0626</geo>
+      </location>
+      <idno type="geonames">3173635</idno>
+   </place>
 </listPlace>
