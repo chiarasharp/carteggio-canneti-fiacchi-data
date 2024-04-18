@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-01-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-04-16" who="#DLCL_CF_PS001">riferimenti stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20639/manifest">
@@ -71,9 +72,11 @@
             <p>
                Nell’<bibl type="manuscript">Indici</bibl> ho segnato i libri, che desidero aver meco. 
                Conviene far le Cassette; che non passino <hi rend="underline">trecento</hi> libre l’una. 
-               Se a coprire le some vi mancheranno de’ libri, <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> vi aggiunga quei, che ella giudicherà più proporzionati a’ miei studi, e più uniformi agli altri già scelti. 
+               Se a coprire le some vi mancheranno de’ libri, <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> vi aggiunga quei, 
+               che ella giudicherà più proporzionati a’ miei studi, e più uniformi agli altri già scelti. 
                Certo è che, per non far crescere troppo le some, molti ne ho lasciati, che mi sarebbe stato caro trasportare appresso di me. 
-               Nell’<bibl type="manuscript">Indice</bibl> vi mancano i <bibl type="print">due Tomi del Concilio Fiorentino</bibl> venuti ultimamente da <placeName ref="#DLCL_CF_L0024">Venezia</placeName>. 
+               Nell’<bibl type="manuscript">Indice</bibl> vi mancano i <bibl type="print" source="#DLCL_CF_BS0009">due Tomi del Concilio Fiorentino</bibl> 
+               venuti ultimamente da <placeName ref="#DLCL_CF_L0024">Venezia</placeName>. 
                Questi non manchi di mettergli nelle Casse. 
                Forse vi manderanno eziandio i libri, ch’erano in mano di <persName ref="#DLCL_CF_PC0036">Frate Teodoro</persName>. 
                Non sapendo io quali precisamente siano, non posso dire se abbiano da rimanere, o no. 
@@ -82,7 +85,9 @@
             </p>
             
             <p>
-               Delle molte copie della <bibl type="print">Cilauda</bibl>, del <bibl type="print">Rossi</bibl> e della <bibl type="print">Scanzia</bibl>... del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, ne riponga alcune poche nelle Casse. 
+               Delle molte copie della <bibl type="print" source="#DLCL_CF_BS0010">Cilauda</bibl>, 
+               del <bibl type="print">Rossi</bibl> e della <bibl type="print" source="#DLCL_CF_BS0011">Scanzia</bibl>... del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, 
+               ne riponga alcune poche nelle Casse. 
                Il resto si trattenga. 
                Fermi costì tutta la molta quantità de’ libri Miscellanei. 
                Se vi è luogo per la <bibl type="print">Somma di S. Tommaso</bibl>, ve la riponga. 
@@ -101,17 +106,24 @@
                   Servito che io me ne sia, lo cederò, con altri, in dono alla <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
                </p>
                <p>
-                  Con gli accennati <bibl type="print">due libri del Concilio Fiorentino</bibl> vi deve essere il <bibl type="print">Bauldry delle Cerimonie</bibl>. 
+                  Con gli accennati <bibl type="print" source="#DLCL_CF_BS0009">due libri del Concilio Fiorentino</bibl> 
+                  vi deve essere il <bibl xml:id="DLCL_CF_E10007_N001" type="print">Bauldry delle Cerimonie</bibl>. 
                   Ne ho necessità.
                </p>
              </postscript> 
-            
+ 
             <closer>
                <salute>Affettuosissimo Servo e Padre nel Signore</salute>
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
             <pb xml:id="DLCL_CF_E10007_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20828/full/571,800/0/default.jpg"/>
+         </div>
+         
+         <div type="notes">
+            <note type="bibliography" resp="#DLCL_CF_PS002" target="DLCL_CF_E10007_N001">
+               Dell’opera Manuale Sacrarum Caeremoniarum di Michel Bauldry sono nove le edizioni stampate entro la data della lettera. 
+            </note>
          </div>
       </body>
    </text>

@@ -1,0 +1,24 @@
+<biblStruct xml:id="DLCL_CF_BS" sameAs="http://id.sbn.it/bid/">
+        <monogr>
+            <author ref="#">
+                <persName>
+                    <forename></forename>
+                    <forename></forename>
+                    <surname></surname>
+                </persName>
+            </author>
+            <title level="m" xml:lang=""></title>
+            <idno type="SBN"></idno>
+            <imprint>
+                <pubPlace ref="#"></pubPlace>
+                <date when-iso=""/>
+                <publisher>
+                    <persName>
+                        <forename></forename> 
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                </publisher>
+            </imprint>
+        </monogr>
+    </biblStruct>

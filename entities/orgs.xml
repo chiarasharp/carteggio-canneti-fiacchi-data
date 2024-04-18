@@ -651,4 +651,20 @@
       <orgName xml:lang="it">Donini</orgName>
       <desc></desc>
    </org>
+   <org xml:id="DLCL_CF_O0070" type="family">
+      <orgName xml:lang="it">Sommariva</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0071" type="family">
+      <orgName xml:lang="it">De Anna</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0072" type="monastery">
+      <orgName xml:lang="it">Monastero di Villanuova</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0073" type="family">
+      <orgName xml:lang="it">Morigi</orgName>
+      <desc></desc>
+   </org>
 </listOrg>

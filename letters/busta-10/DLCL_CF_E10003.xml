@@ -66,10 +66,14 @@
             </opener> 
             
             <p>
-               Desidero aver meco il <bibl type="print">Libro Stampato</bibl>, e i due <bibl source="#DLCL_CF_BM0001 #DLCL_CF_BM0002" type="manuscript">Manoscritti del Quadriregio</bibl> con tutte le lettere del <persName ref="#DLCL_CF_PC0015" key="DLCL_CF_PC0015">Pagliarini</persName>, che vi sono appresso. 
+               Desidero aver meco il <bibl type="print">Libro Stampato</bibl>, 
+               e i due <bibl source="#DLCL_CF_BM0001 #DLCL_CF_BM0002" type="manuscript">Manoscritti del Quadriregio</bibl> con tutte le lettere 
+               del <persName ref="#DLCL_CF_PC0015" key="DLCL_CF_PC0015">Pagliarini</persName>, che vi sono appresso. 
                Li troverà su uno de’ tavolini vicino alla porta dell’ingresso della Camera, ove dormo. 
-               Per entrarvi in compagnia di <rs type="person">Frate Natale</rs>, gli mostri la lettera presente; e vi unisca ancora la <bibl type="manuscript" source="#DLCL_CF_BM0004">Cronica Manoscritta di Ferrara</bibl> in un grosso tomo legato a modo de’ libri da Conti. 
-               Unisca tutto insieme in un’involto ben custodito dalla pioggia, e lo mandi al ritorno dell’<rs type="person">Uomo</rs>, al quale faccia consegnare anco due sigilli, cioè il piccolino, e il mezzano, che stanno nel Camerino, alla Colonnella, dove si battono. 
+               Per entrarvi in compagnia di <rs type="person">Frate Natale</rs>, gli mostri la lettera presente; 
+               e vi unisca ancora la <bibl type="manuscript" source="#DLCL_CF_BM0004">Cronica Manoscritta di Ferrara</bibl> in un grosso tomo legato a modo de’ libri da Conti. 
+               Unisca tutto insieme in un’involto ben custodito dalla pioggia, e lo mandi al ritorno dell’<rs type="person">Uomo</rs>, 
+               al quale faccia consegnare anco due sigilli, cioè il piccolino, e il mezzano, che stanno nel Camerino, alla Colonnella, dove si battono. 
                Preghi il Signore Iddio per me, che di tutto cuore resto. 
             </p>
             

@@ -755,4 +755,12 @@
       </location>
       <idno type="geonames">3173635</idno>
    </place>
+   <place xml:id="DLCL_CF_L0095" type="settlement" sameAs="https://www.geonames.org/3174638">
+      <placeName>Lodi</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.30989, 9.50085</geo>
+      </location>
+      <idno type="geonames">3174638</idno>
+   </place>
 </listPlace>

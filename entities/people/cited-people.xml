@@ -5810,5 +5810,172 @@
       <idno type="VIAF">3248157527313327300006</idno>
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0426">
+      <persName xml:lang="it">
+         <surname>Palazzi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0427">
+      <persName xml:lang="it">
+         <forename>Luca</forename>
+         <surname>Spagnuolo</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0428">
+      <persName xml:lang="it">
+         <surname>Garimberto</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0429" sameAs="http://viaf.org/viaf/10913641">
+      <persName xml:lang="it">
+         <roleName type="religious">Cardinale</roleName>
+         <forename>Maffeo</forename>
+         <surname>Girardi</surname>
+      </persName>
+      <idno type="VIAF">10913641</idno>
+      <birth source="https://it.wikipedia.org/wiki/Maffeo_Girardi">
+         <date when-iso="1406"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Maffeo_Girardi">
+         <date when-iso="1492-09-14"/>
+         <placeName ref="https://www.geonames.org/3165771/">Terni</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0430" sameAs="http://viaf.org/viaf/88905804">
+      <persName xml:lang="fr">
+         <forename>Louis</forename>
+         <surname>Doni d'Attichy</surname>
+      </persName>
+      <idno type="VIAF">88905804</idno>
+      <birth source="https://fr.wikipedia.org/wiki/Louis_Doni_d'Attichy">
+         <date when-iso="1598-02-10"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </birth>
+      <death source="https://fr.wikipedia.org/wiki/Louis_Doni_d'Attichy">
+         <date when-iso="1664-06-30"/>
+         <placeName ref="https://www.geonames.org/3021372/">Dijon</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0431">
+      <persName xml:lang="it">
+         <roleName type="religious">Cardinale</roleName>
+         <surname>Tommasi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0432" sameAs="http://viaf.org/viaf/56604219">
+      <persName xml:lang="it">
+         <roleName type="religious">Santo</roleName>
+         <forename>Francesco</forename>
+         <surname>Di Paola</surname>
+      </persName>
+      <idno type="VIAF">56604219</idno>
+      <birth source="https://www.treccani.it/enciclopedia/francesco-di-paola-santo_(Dizionario-Biografico)/">
+         <date when-iso="1416-03-27"/>
+         <placeName ref="https://www.geonames.org/2523888/">Paola</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/francesco-di-paola-santo_(Dizionario-Biografico)/">
+         <date when-iso="1507-04-02"/>
+         <placeName ref="https://www.geonames.org/2972191/">Tours</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>santo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0433" sameAs="http://viaf.org/viaf/482159474189427661818">
+      <persName xml:lang="it">
+         <forename>Fabrizio</forename>
+         <forename>Antonio</forename>
+         <surname>Monsignani</surname>
+      </persName>
+      <idno type="VIAF">482159474189427661818</idno>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0434">
+      <persName xml:lang="it">
+         <forename>Lodovico</forename>
+         <surname>Piazza</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0435">
+      <persName xml:lang="it">
+         <roleName type="religious">Santa</roleName>
+         <forename>Argiride</forename>
+      </persName>
+      <sex value="f"/>
+      <occupation>santa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0436" sameAs="http://viaf.org/viaf/14794371">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Giacomo</forename>
+         <surname>Laderchi</surname>
+      </persName>
+      <idno type="VIAF">14794371</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giacomo-laderchi/">
+         <date when-iso="1678" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0005">Faenza</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giacomo-laderchi/">
+         <date when-iso="1738"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0437" sameAs="http://viaf.org/viaf/2653161211482540070007">
+      <persName xml:lang="it">
+         <forename>Bruno</forename>
+         <surname>Di Querfurt</surname>
+      </persName>
+      <idno type="VIAF">2653161211482540070007</idno>
+      <birth source="https://www.britannica.com/biography/Saint-Bruno-of-Querfurt">
+         <date when-iso="0974"/>
+         <placeName ref="https://www.geonames.org/2851393/">Querfurt</placeName>
+      </birth>
+      <death source="https://www.britannica.com/biography/Saint-Bruno-of-Querfurt">
+         <date when-iso="1009-03-14"/>
+         <placeName ref="https://www.geonames.org/2945035/">Braunsberg</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>missionario</occupation>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0438">
+      <persName xml:lang="la">
+         <forename>Jodocus</forename>
+         <surname>Coccius</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0439" sameAs="http://viaf.org/viaf/4969350">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <surname>Cocleo</surname>
+      </persName>
+      <idno type="VIAF">4969350</idno>
+      <birth source="https://it.wikipedia.org/wiki/Johann_Cochlaeus">
+         <date when-iso="1479"/>
+         <placeName ref="https://www.geonames.org/2811292/">Wendelstein</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Johann_Cochlaeus">
+         <date when-iso="1552-01-10"/>
+         <placeName ref="https://www.geonames.org/3081368/">Breslavia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>umanista</occupation>
+   </person>
    
 </listPerson>

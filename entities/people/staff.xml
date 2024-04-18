@@ -9,4 +9,10 @@
          <date when-iso="1998-09-21"/>
       </birth>
    </person>
+   <person xml:id="DLCL_CF_PS002">
+      <persName xml:lang="it">
+         <forename>Silvia</forename>
+         <surname>Tripodi</surname>
+      </persName>
+   </person>
 </listPerson>
