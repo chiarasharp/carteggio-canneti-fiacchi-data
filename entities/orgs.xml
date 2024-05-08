@@ -540,8 +540,10 @@
          <country key="IT"/>
       </location>
    </org>
-   
-   
+   <org xml:id="DLCL_CF_O0055" type="family">
+      <orgName xml:lang="it">Gonzaga</orgName>
+      <desc></desc>
+   </org>
    <org xml:id="DLCL_CF_O0056" type="university" sameAs="http://viaf.org/viaf/150834169">
       <orgName xml:lang="it">Università di Perugia</orgName>
       <desc></desc>
@@ -665,6 +667,18 @@
    </org>
    <org xml:id="DLCL_CF_O0073" type="family">
       <orgName xml:lang="it">Morigi</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0074" type="family">
+      <orgName xml:lang="it">Malpaghini</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0075" type="library">
+      <orgName xml:lang="it">Biblioteca di San Mattia</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0076">
+      <orgName xml:lang="it">Casa da Lezze</orgName>
       <desc></desc>
    </org>
 </listOrg>

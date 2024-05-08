@@ -68,43 +68,79 @@
             </opener>
             
             <p>
-               Dall’indefessa cordialità di Vostra Paternità ricevo le notizie, che riguardano il nostro Cardinale de Anna, 
-               o Sommariva, Napolitano, o Lodigiano, rimanendo per verità le cose di questo Porporato assai intricate e confuse. 
-               Il Lancellotti nella Storia Olivetana apertamente lo fa da Lodi della Casa Sommariva, la qual tuttavia colà fiorisce; 
-               e scrive che egli con Niccolò suo Fratello fondò il Monistero di Villanuova in quel Territorio. 
-               Dall’altra parte l’epitafio lo dimostra della Casa de Anna, che altresì in Napoli fino al dì d’oggi si mantiene, 
-               e tra’ Napolitani è riferito dal Toppi nella Biblioteca Napolitana. 
-               Alle diligenze fatte Vostra Paternità aggiungane un’altra con veder se ne parla certo istorico, che costì abbiamo, di Lodi, 
-               e chiamasi, se non erro, il Villanuova. 
-               L’Ughelli concorda a Lancellotti in proposito della fondazione del Monastero di Villanuova degli Olivetani eretto dal Cardinale Angelo per testamentaria disposizione di Niccolò Sommariva Fratello d’esso Cardinale.
-               La ringrazio altresì di quel, che mi notifica intorno a Pietro Quirino, tratto dal Ciacconio. Mi persuado che il Palazzi ancora ne scriva negli stessi precisi termini. Luca Spagnuolo è appresso di me colla sua Romualdina. Ho ancora il Garimberto, che iniquamente maltrattò il Venerabile Cardinale Maffeo Gerardo. Tengo ancor copia di tutto quel, che altri ne ha scritto in difesa. Ma tra essi spicca Ludovico Doni d’Attichy Vescovo Franzese nell’Opera Insigne in tre Tomi in folio intitolata = Flores Historiae Sacri Collegij Cardinalium = Ivi lo rappresenta Uomo Santo, quale in fatti convien dire ch’è fosse.
-               [c. 1v] Care mi saranno le notizie della Famiglia Traversarj, della quale penso accrescere il primo capitolo della Vita del nostro Ambrogio, disteso troppo in succinto. Nuovamente mi rallegro che abbia Vostra Paternità intrapresa la fatica di trascrivere la Storia del Carrari, la quale in più luoghi io scopersi essere indubitatamente di cotesto Autore, e non di un Morigi, qual si supponeva. 
-               Penserò il modo di mettere in credito la lapida di Bologna, della quale io penso ne avesse Vostra Paternità fatta ingerir qualche stima. Era nato in me qualche timore che la mia lettera scritta sopra essa lapide fusse andata a male. 
-               Nell’Indice de’ nostri libri, che sono in guardia di Vostra Paternità non vi leggo i due tomi della Biblioteca Romana del Mandosio. Desidero sapere se ciò sia seguito perché manchino. Delle Instituzioni Teologiche del Cardinale Tommasi quanti tometti ne abbiamo costì? Mi riverisca ben caramente il Padre Camerlengo.
-               Resto con tutto lo spirito, abbracciandola di vero cuore.
-               DVPMR., che ringrazia ancora per la notizia di Modena dal Signor Sancassani ottenuta sopra il Manoscritto di Pesaro.
-               Perugia 27 Marzo 1717
-               Cordialissimo Servitore e Affettuosissimo Padre nel Signore
-               Don Pietro Canneti
-               
+               Dall’indefessa cordialità di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ricevo le notizie, 
+               che riguardano il nostro <persName ref="#DLCL_CF_PC0413">Cardinale de Anna, o Sommariva</persName>, 
+               Napolitano, o Lodigiano, rimanendo per verità le cose di questo Porporato assai intricate e confuse. 
+               Il <persName ref="#DLCL_CF_PC0376">Lancellotti</persName> nella <bibl type="print">Storia Olivetana</bibl> 
+               apertamente lo fa da <placeName ref="#DLCL_CF_L0095">Lodi</placeName> della <orgName ref="#DLCL_CF_O0070">Casa Sommariva</orgName>, la qual tuttavia colà fiorisce; 
+               e scrive che egli con <persName ref="#DLCL_CF_PC0375">Niccolò</persName> suo Fratello 
+               fondò il <orgName ref="#DLCL_CF_O0072">Monistero di Villanuova</orgName> in quel Territorio. 
+               Dall’altra parte l’epitafio lo dimostra della <orgName ref="#DLCL_CF_O0071">Casa de Anna</orgName>, 
+               che altresì in <placeName ref="#DLCL_CF_L0082">Napoli</placeName> fino al dì d’oggi si mantiene, 
+               e tra’ Napolitani è riferito dal <persName ref="#DLCL_CF_PC0377">Toppi</persName> nella <bibl type="print">Biblioteca Napolitana</bibl>. 
+               Alle diligenze fatte <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> aggiungane un’altra con veder se ne parla certo istorico, 
+               che costì abbiamo, di <placeName ref="#DLCL_CF_L0095">Lodi</placeName>, e chiamasi, se non erro, il <persName ref="#DLCL_CF_PC0383">Villanuova</persName>. 
+               L’<persName ref="#DLCL_CF_PC0021">Ughelli</persName> concorda a <persName ref="#DLCL_CF_PC0376">Lancellotti</persName> 
+               in proposito della fondazione del <orgName ref="#DLCL_CF_O0072">Monistero di Villanuova</orgName> degli Olivetani 
+               eretto dal <persName ref="#DLCL_CF_PC0413">Cardinale Angelo</persName> per testamentaria disposizione 
+               di <persName ref="#DLCL_CF_PC0375">Niccolò Sommariva</persName> Fratello d’esso Cardinale. 
+            </p>
+            
+            <p>
+               La ringrazio altresì di quel, che mi notifica intorno a <persName ref="#DLCL_CF_PC0414">Pietro Quirino</persName>, 
+               tratto dal <persName ref="#DLCL_CF_PC0412">Ciacconio</persName>. 
+               Mi persuado che il <persName ref="#DLCL_CF_PC0426">Palazzi</persName> ancora ne scriva negli stessi precisi termini. 
+               <persName ref="#DLCL_CF_PC0427">Luca Spagnuolo</persName> è appresso di me colla sua <bibl type="print">Romualdina</bibl>. 
+               Ho ancora il <persName ref="#DLCL_CF_PC0428">Garimberto</persName>, che iniquamente maltrattò il <persName ref="#DLCL_CF_PC0429">Venerabile Cardinale Maffeo Gerardo</persName>. 
+               Tengo ancor copia di tutto quel, che altri ne ha scritto in difesa. 
+               Ma tra essi spicca <persName ref="#DLCL_CF_PC0430">Ludovico Doni d’Attichy</persName> Vescovo Franzese nell’Opera Insigne in tre Tomi in folio intitolata = 
+               <bibl type="print"><foreign xml:lang="la">Flores Historiae Sacri Collegij Cardinalium</foreign></bibl> = 
+               Ivi lo rappresenta Uomo Santo, quale in fatti convien dire ch’è fosse. 
             </p>
             
             <pb xml:id="DLCL_CF_E10054_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21119/full/636,800/0/default.jpg"/>
             
-            <closer>
-               <salute>DVP</salute>.
-               <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
-               <salute>Affettuosissimo Padre nel Signore</salute> 
-               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
-            </closer>
+            <p>
+               Care mi saranno le notizie della <orgName ref="#DLCL_CF_O0066">Famiglia Traversarj</orgName>, 
+               della quale penso accrescere il primo capitolo della <bibl type="print">Vita</bibl> del nostro <persName ref="#DLCL_CF_PC0032">Ambrogio</persName>, 
+               disteso troppo in succinto. 
+               Nuovamente mi rallegro che abbia <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> 
+               intrapresa la fatica di trascrivere la <bibl type="manuscript">Storia</bibl> del <persName ref="#DLCL_CF_PC0176">Carrari</persName>, 
+               la quale in più luoghi io scopersi essere indubitatamente di cotesto Autore, e non di un <orgName ref="#DLCL_CF_O0073">Morigi</orgName>, qual si supponeva. 
+            </p>
             
+            <p>
+               Penserò il modo di mettere in credito la lapida di <placeName ref="#DLCL_CF_L0007">Bologna</placeName>, 
+               della quale io penso ne avesse <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> fatta ingerir qualche stima. 
+               Era nato in me qualche timore che la mia lettera scritta sopra essa lapide fusse andata a male. 
+            </p>
+            
+            <p>
+               Nell’<bibl type="manuscript">Indice de’ nostri libri</bibl>, che sono in guardia di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> 
+               non vi leggo i <bibl type="print">due tomi della Biblioteca Romana</bibl> del <persName ref="#DLCL_CF_PC0071">Mandosio</persName>. 
+               Desidero sapere se ciò sia seguito perché manchino. 
+               Delle <bibl type="print">Instituzioni Teologiche</bibl> del <persName ref="#DLCL_CF_PC0431">Cardinale Tommasi</persName> quanti tometti ne abbiamo costì? 
+               Mi riverisca ben caramente il <rs type="person">Padre Camerlengo</rs>. 
+            </p>
+            
+            <closer>
+               <salute>Resto con tutto lo spirito, abbracciandola di vero cuore.</salute> 
+               <salute>DVPMR.</salute>, 
+            </closer>
             
             <postscript>
                <p>
-                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+                  che ringrazia ancora per la notizia di <placeName ref="#DLCL_CF_L0012">Modena</placeName> 
+                  dal <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> ottenuta 
+                  sopra il <bibl type="manuscript">Manoscritto</bibl> di <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>.
                </p>
             </postscript>
+            
+            <closer>
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-27">27 Marzo 1717</date></dateline>
+               <salute>Cordialissimo Servitore e Affettuosissimo Padre nel Signore</salute> 
+               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+            </closer>
          </div>
       </body>
    </text>

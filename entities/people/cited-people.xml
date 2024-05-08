@@ -5977,5 +5977,946 @@
       <occupation>teologo</occupation>
       <occupation>umanista</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0440" sameAs="http://viaf.org/viaf/52482806">
+      <persName xml:lang="it">
+         <forename>Vittorino</forename>
+         <surname>De Rambaldoni</surname>
+         <surname type="nickname">Da Feltre</surname>
+      </persName>
+      <idno type="VIAF">52482806</idno>
+      <birth source="https://www.treccani.it/enciclopedia/vittorino-de-rambaldoni_(Dizionario-Biografico)/">
+         <date notBefore-iso="1373" notAfter-iso="1378"/>
+         <placeName ref="https://www.geonames.org/3177120/">Feltre</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/vittorino-de-rambaldoni_(Dizionario-Biografico)/">
+         <date when-iso="1446-02-01"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>educatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0441">
+      <persName xml:lang="it">
+         <forename>Gianlucido</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Gianlucido_Gonzaga">
+         <date when-iso="1421-05-31"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gianlucido_Gonzaga">
+         <date when-iso="1448-06-11"/>
+         <placeName ref="https://www.geonames.org/3179098/">Ceresara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>nobile</occupation>
+      <occupation>religioso</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0442" sameAs="http://viaf.org/viaf/1684740">
+      <persName xml:lang="it">
+         <forename>Gianfrancesco</forename>
+         <genName>I</genName>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">1684740</idno>
+      <birth source="https://it.wikipedia.org/wiki/Gianfrancesco_Gonzaga">
+         <date when-iso="1395-06-01"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gianfrancesco_Gonzaga">
+         <date when-iso="1444-09-25"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0443" sameAs="http://viaf.org/viaf/18019094">
+      <persName xml:lang="it">
+         <forename>Gregorio</forename>
+         <surname>Correr</surname>
+      </persName>
+      <idno type="VIAF">18019094</idno>
+      <birth source="https://www.treccani.it/enciclopedia/gregorio-correr_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1411"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/gregorio-correr_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1464-11-19"/>
+         <placeName ref="https://www.geonames.org/3164527/">Verona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>patriarca cattolico</occupation>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0444" sameAs="http://viaf.org/viaf/8574159478268727990008">
+      <persName xml:lang="it">
+         <forename>Cecilia</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">8574159478268727990008</idno>
+      <birth source="https://it.wikipedia.org/wiki/Cecilia_Gonzaga">
+         <date when-iso="1426-01-18"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Cecilia_Gonzaga">
+         <date when-iso="1451-11-03"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobildonna</occupation>
+      <occupation>religiosa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0445" sameAs="http://viaf.org/viaf/23296907">
+      <persName xml:lang="it">
+         <forename>Paola</forename>
+         <surname>Malatesta</surname>
+      </persName>
+      <idno type="VIAF">23296907</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paola_Malatesta">
+         <date when-iso="1393"/>
+         <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paola_Malatesta">
+         <date when-iso="1449-02-28"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobile</occupation>
+      <occupation>religiosa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0446" sameAs="http://viaf.org/viaf/32862995">
+      <persName xml:lang="it">
+         <forename>Ludovico</forename>
+         <genName>III</genName>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">32862995</idno>
+      <birth source="https://it.wikipedia.org/wiki/Ludovico_III_Gonzaga">
+         <date when-iso="1412-06-05"/>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ludovico_III_Gonzaga">
+         <date when-iso="1478-06-11"/>
+         <placeName ref="https://www.geonames.org/3176014/">Goito</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0447" sameAs="http://viaf.org/viaf/309794962">
+      <persName xml:lang="it">
+         <forename>Alessandro</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">309794962</idno>
+      <birth source="https://it.wikipedia.org/wiki/Alessandro_Gonzaga">
+         <date when-iso="1427-08-26"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Alessandro_Gonzaga">
+         <date when-iso="1466-01-16"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0448" sameAs="http://viaf.org/viaf/304920717">
+      <persName xml:lang="it">
+         <forename>Susanna</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">304920717</idno>
+      <birth source="https://it.wikipedia.org/wiki/Susanna_Gonzaga">
+         <date when-iso="1447"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Susanna_Gonzaga">
+         <date when-iso="1481"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobildonna</occupation>
+      <occupation>religiosa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0449" sameAs="http://viaf.org/viaf/18018815">
+      <persName xml:lang="it">
+         <forename>Galeazzo</forename>
+         <surname>Sforza</surname>
+      </persName>
+      <idno type="VIAF">18018815</idno>
+      <birth source="https://it.wikipedia.org/wiki/Galeazzo_Maria_Sforza">
+         <date notBefore-iso="1444-01-14" notAfter-iso="1444-01-24"/>
+         <placeName ref="https://www.geonames.org/3177099/">Fermo</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Galeazzo_Maria_Sforza">
+         <date when-iso="1476-12-26"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0450" sameAs="http://viaf.org/viaf/56345453">
+      <persName xml:lang="it">
+         <forename>Dorotea</forename>
+         <surname>Sforza</surname>
+      </persName>
+      <idno type="VIAF">56345453</idno>
+      <birth source="https://it.wikipedia.org/wiki/Dorotea_Gonzaga">
+         <date when-iso="1449-12-06"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Dorotea_Gonzaga">
+         <date when-iso="1467-04-20"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0451" sameAs="http://viaf.org/viaf/134145003844461341438">
+      <persName xml:lang="de">
+         <forename>Barbara</forename>
+         <surname>Hohenzollern</surname>
+      </persName>
+      <idno type="VIAF">134145003844461341438</idno>
+      <birth source="https://it.wikipedia.org/wiki/Barbara_di_Brandeburgo">
+         <date when-iso="1422-09-30"/>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Barbara_di_Brandeburgo">
+         <date when-iso="1481-11-07"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0452" sameAs="http://viaf.org/viaf/4903806">
+      <persName xml:lang="it">
+         <forename>Eberardo</forename>
+         <genName>I</genName>
+         <surname>Di Württemberg</surname>
+      </persName>
+      <idno type="VIAF">4903806</idno>
+      <birth source="https://www.britannica.com/biography/Eberhard-I">
+         <date when-iso="1445-12-11"/>
+         <placeName ref="https://www.geonames.org/2818246/">Urach</placeName>
+      </birth>
+      <death source="https://www.britannica.com/biography/Eberhard-I">
+         <date when-iso="1496-02-24"/>
+         <placeName ref="https://www.geonames.org/2820860/">Tübingen</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0453" sameAs="http://viaf.org/viaf/78533409">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <genName>I</genName>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">78533409</idno>
+      <birth source="https://www.treccani.it/enciclopedia/francesco-gonzaga_(Dizionario-Biografico)/">
+         <date when-iso="1366"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/francesco-gonzaga_(Dizionario-Biografico)/">
+         <date when-iso="1407-03-07"/>
+         <placeName ref="https://www.geonames.org/3179253/">Cavriana</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>condottiero</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0454" sameAs="http://viaf.org/viaf/88904680">
+      <persName xml:lang="it">
+         <roleName type="nobility">Imperatore</roleName>
+         <forename>Sigismondo</forename>
+         <surname>Di Lussemburgo</surname>
+      </persName>
+      <idno type="VIAF">88904680</idno>
+      <birth source="https://www.treccani.it/enciclopedia/sigismondo-imperatore-del-sacro-romano-impero_(Dizionario-di-Storia)/">
+         <date when-iso="1368-02-15"/>
+         <placeName ref="https://www.geonames.org/2861650/">Norimberga</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/sigismondo-imperatore-del-sacro-romano-impero_(Dizionario-di-Storia)/">
+         <date when-iso="1437-12-09"/>
+         <placeName ref="https://www.geonames.org/3061344/">Znojmo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>re</occupation>
+      <occupation>principe eletto</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0455">
+      <persName xml:lang="it">
+         <forename>Carlo</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Carlo_Gonzaga">
+         <date when-iso="1417-05-10"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Carlo_Gonzaga">
+         <date when-iso="1456-12-21"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0456">
+      <persName xml:lang="it">
+         <forename>Margherita</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Margherita_Gonzaga">
+         <date when-iso="1418-03-31"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Margherita_Gonzaga">
+         <date when-iso="1439-07-07"/>
+         <placeName ref="https://www.geonames.org/3175969/">Governolo</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>nobildonna</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0457" sameAs="http://viaf.org/viaf/74654529">
+      <persName xml:lang="it">
+         <forename>Leonello</forename>
+         <surname>D'Este</surname>
+      </persName>
+      <idno type="VIAF">74654529</idno>
+      <birth source="https://www.treccani.it/enciclopedia/leonello-d-este_(Dizionario-Biografico)/">
+         <date when-iso="1407-09-21"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/leonello-d-este_(Dizionario-Biografico)/">
+         <date when-iso="1450-10-01"/>
+         <placeName ref="https://www.geonames.org/6543016/">Voghiera</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0458" sameAs="http://viaf.org/viaf/69143046">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <surname>Buonarroti</surname>
+      </persName>
+      <idno type="VIAF">69143046</idno>
+      <birth source="https://it.wikipedia.org/wiki/Filippo_Buonarroti_(antiquario)">
+         <date when-iso="1661-11-18"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Filippo_Buonarroti_(antiquario)">
+         <date when-iso="1733-12-10"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>antiquario</occupation>
+      <occupation>archeologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0459" sameAs="http://viaf.org/viaf/73844165">
+      <persName xml:lang="it">
+         <forename>Gaspare</forename>
+         <forename type="nickname">Maffeo</forename>
+         <surname>Carpegna</surname>
+      </persName>
+      <idno type="VIAF">73844165</idno>
+      <birth source="https://www.treccani.it/enciclopedia/gaspare-carpegna_(Dizionario-Biografico)/">
+         <date when-iso="1625-05-08"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/gaspare-carpegna_(Dizionario-Biografico)/">
+         <date when-iso="1714-04-06"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0460">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Priore</roleName>
+         <surname>Maffetti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0461">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Lettore Don</roleName>
+         <forename>Teodoro</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0462" sameAs="http://viaf.org/viaf/19830902">
+      <persName xml:lang="en">
+         <forename>John</forename>
+         <surname>Fisher</surname>
+      </persName>
+      <idno type="VIAF">19830902</idno>
+      <birth source="https://it.wikipedia.org/wiki/John_Fisher">
+         <date when-iso="1469-10-19"/>
+         <placeName ref="https://www.geonames.org/2655785/">Beverley</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/John_Fisher">
+         <date when-iso="1535-06-22"/>
+         <placeName ref="#DLCL_CF_L0045">Londra</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0463" sameAs="http://viaf.org/viaf/14773105">
+      <persName xml:lang="it">
+         <forename>Martin</forename>
+         <surname>Lutero</surname>
+      </persName>
+      <idno type="VIAF">14773105</idno>
+      <birth source="https://it.wikipedia.org/wiki/Martin_Lutero">
+         <date when-iso="1483-11-10"/>
+         <placeName ref="https://www.geonames.org/7284571/">Eisleben</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Martin_Lutero">
+         <date when-iso="1546-02-18"/>
+         <placeName ref="https://www.geonames.org/7284571/">Eisleben</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>riformatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0464">
+      <persName xml:lang="it">
+         <surname>Maggi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0465">
+      <persName xml:lang="it">
+         <surname>Mazzotti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0466">
+      <persName xml:lang="it">
+         <surname>Zaccarelli</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0467" sameAs="http://viaf.org/viaf/9849392">
+      <persName xml:lang="de">
+         <forename>Gottfried</forename>
+         <forename>Wilhelm</forename>
+         <surname>von Leibniz</surname>
+      </persName>
+      <idno type="VIAF">9849392</idno>
+      <birth source="https://www.treccani.it/enciclopedia/gottfried-wilhelm-von-leibniz_(Dizionario-di-filosofia)/">
+         <date when-iso="1646"/>
+         <placeName ref="https://www.geonames.org/2879139/">Lipsia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/gottfried-wilhelm-von-leibniz_(Dizionario-di-filosofia)/">
+         <date when-iso="1716"/>
+         <placeName ref="https://www.geonames.org/2910831/">Hannover</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filosofo</occupation>
+      <occupation>scienziato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0468" sameAs="http://viaf.org/viaf/7308325">
+      <persName xml:lang="it">
+         <forename>Salvino</forename>
+         <surname>Salvini</surname>
+      </persName>
+      <idno type="VIAF">7308325</idno>
+      <birth source="https://it.wikipedia.org/wiki/Salvino_Salvini_(poeta)">
+         <date when-iso="1667-02-09"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Salvino_Salvini_(poeta)">
+         <date when-iso="1751-11-29"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0469">
+      <persName xml:lang="it">
+         <forename>Cecilia</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Ludovico_III_Gonzaga#cite_note-17">
+         <date when-iso="1451-03-25"/>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ludovico_III_Gonzaga#cite_note-17">
+         <date when-iso="1478-04-20"/>
+      </death>
+      <sex value="f"/>
+      <occupation>monaca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0470">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>D'Este</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Niccol%C3%B2_d%27Este">
+         <date when-iso="1438-07-20"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Niccol%C3%B2_d%27Este">
+         <date when-iso="1476-09-04"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0471">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Bevilacqua</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0472">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Spirito</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0473">
+      <persName xml:lang="it">
+         <surname>Campana</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0474" sameAs="http://viaf.org/viaf/67200977">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <forename>Filippo</forename>
+         <surname>Tomasini</surname>
+      </persName>
+      <idno type="VIAF">67200977</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giacomo-filippo-tomasini_%28Dizionario-Biografico%29/">
+         <date when-iso="1595-11-17"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giacomo-filippo-tomasini_%28Dizionario-Biografico%29/">
+         <date when-iso="1655-06-13"/>
+         <placeName ref="https://www.geonames.org/3194379/">Cittanova d'Istria</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0475">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>Sgherri</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0476">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Tassi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0477">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Rossini</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0478" sameAs="http://viaf.org/viaf/29875955">
+      <persName xml:lang="it">
+         <forename>Gasparo</forename>
+         <surname>Sardi</surname>
+      </persName>
+      <idno type="VIAF">29875955</idno>
+      <birth source="https://archiviopossessori.it/archivio/1096-sardi-gaspare">
+         <date when-iso="1480"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://archiviopossessori.it/archivio/1096-sardi-gaspare">
+         <date when-iso="1564"/>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0479" sameAs="http://viaf.org/viaf/34466862">
+      <persName xml:lang="it">
+         <forename>Giambattista</forename>
+         <surname>Giraldi</surname>
+      </persName>
+      <idno type="VIAF">34466862</idno>
+      <birth source="https://it.wikipedia.org/wiki/Giambattista_Giraldi_Cinzio">
+         <date when-iso="1504"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giambattista_Giraldi_Cinzio">
+         <date when-iso="1573"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>letterato</occupation>
+      <occupation>drammaturgo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0480" sameAs="http://viaf.org/viaf/41417612">
+      <persName xml:lang="it">
+         <forename>Nicccolò</forename>
+         <genName>III</genName>
+         <surname>D'Este</surname>
+      </persName>
+      <idno type="VIAF">41417612</idno>
+      <birth source="https://www.treccani.it/enciclopedia/niccolo-d-este_%28Dizionario-Biografico%29/">
+         <date when-iso="1383-11-09"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/niccolo-d-este_%28Dizionario-Biografico%29/">
+         <date when-iso="1441-12-26"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+      <occupation>condottiero</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0481" sameAs="http://viaf.org/viaf/50035133">
+      <persName xml:lang="it">
+         <forename>Ercole</forename>
+         <genName>I</genName>
+         <surname>D'Este</surname>
+      </persName>
+      <idno type="VIAF">50035133</idno>
+      <birth source="https://it.wikipedia.org/wiki/Ercole_I_d%27Este">
+         <date when-iso="1431-10-24"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ercole_I_d%27Este">
+         <date when-iso="1505-01-25"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0482" sameAs="http://viaf.org/viaf/4667157282930303640004">
+      <persName xml:lang="it">
+         <forename>Sigismondo</forename>
+         <genName>I</genName>
+         <surname>D'Este</surname>
+      </persName>
+      <idno type="VIAF">4667157282930303640004</idno>
+      <birth source="https://it.wikipedia.org/wiki/Sigismondo_I_d%27Este">
+         <date when-iso="1433-08-31"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Sigismondo_I_d%27Estes">
+         <date when-iso="1507-04-01"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>signore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0483" sameAs="http://viaf.org/viaf/99950542">
+      <persName xml:lang="it">
+         <forename>Bartolomeo</forename>
+         <forename type="nickname">Platina</forename>
+         <surname>Sacchi</surname>
+      </persName>
+      <idno type="VIAF">99950542</idno>
+      <birth source="https://it.wikipedia.org/wiki/Bartolomeo_Sacchi">
+         <date when-iso="1421"/>
+         <placeName ref="https://www.geonames.org/6536578/">Piadena</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Bartolomeo_Sacchi">
+         <date when-iso="1481-09-21"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+      <occupation>gastronomo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0484" sameAs="http://viaf.org/viaf/19771607">
+      <persName xml:lang="it">
+         <forename>Mario</forename>
+         <surname>Equicola</surname>
+      </persName>
+      <idno type="VIAF">19771607</idno>
+      <birth source="https://www.treccani.it/enciclopedia/mario-equicola_(Dizionario-Biografico)/">
+         <date when-iso="1470"/>
+         <placeName ref="https://www.geonames.org/6538699/">Alvito</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/mario-equicola_(Dizionario-Biografico)/">
+         <date when-iso="1525-07-26"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>   
+   <person xml:id="DLCL_CF_PC0485" sameAs="http://viaf.org/viaf/39165110737036780001">
+      <persName xml:lang="it">
+         <forename>Rodolfo</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">39165110737036780001</idno>
+      <birth source="https://www.treccani.it/enciclopedia/rodolfo-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1452-04-18"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/rodolfo-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1495-07-06"/>
+         <placeName ref="https://www.geonames.org/3176682/">Fornovo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>condottiero</occupation>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0486" sameAs="http://viaf.org/viaf/31868721">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">31868721</idno>
+      <birth source="https://www.treccani.it/enciclopedia/francesco-gonzaga_res-2e118ac7-87ee-11dc-8e9d-0016357eee51_%28Dizionario-Biografico%29/">
+         <date when-iso="1444-03-15"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/francesco-gonzaga_res-2e118ac7-87ee-11dc-8e9d-0016357eee51_%28Dizionario-Biografico%29/">
+         <date when-iso="1483-10-21"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0487" sameAs="http://viaf.org/viaf/6752407">
+      <persName xml:lang="it">
+         <forename>Federico</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">6752407</idno>
+      <birth source="https://it.wikipedia.org/wiki/Federico_I_Gonzaga">
+         <date when-iso="1441-07-25"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Federico_I_Gonzaga">
+         <date when-iso="1484-07-14"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0488" sameAs="http://viaf.org/viaf/313437733">
+      <persName xml:lang="it">
+         <forename>Margherita</forename>
+         <surname>Di Baviera</surname>
+      </persName>
+      <idno type="VIAF">313437733</idno>
+      <birth source="https://www.treccani.it/enciclopedia/margherita-di-wittelsbach-marchesa-di-mantova_%28Dizionario-Biografico%29/">
+         <date when-iso="1442-01-01"/>
+         <placeName ref="https://www.geonames.org/2867714/">Monaco di Baviera</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/margherita-di-wittelsbach-marchesa-di-mantova_%28Dizionario-Biografico%29/">
+         <date when-iso="1479-10-14"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>principessa</occupation>
+      <occupation>marchesa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0489" sameAs="http://viaf.org/viaf/59932878">
+      <persName xml:lang="it">
+         <forename>Ludovico</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">59932878</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ludovico-gonzaga_res-2f3bb34d-87ee-11dc-8e9d-0016357eee51_%28Dizionario-Biografico%29/">
+         <date when-iso="1460-08-21"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ludovico-gonzaga_res-2f3bb34d-87ee-11dc-8e9d-0016357eee51_%28Dizionario-Biografico%29/">
+         <date when-iso="1511-01-19"/>
+         <placeName ref="https://www.geonames.org/3176243/">Gazzuolo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0490" sameAs="http://viaf.org/viaf/81084823">
+      <persName xml:lang="it">
+         <forename>Gianfrancesco</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">81084823</idno>
+      <birth source="https://www.treccani.it/enciclopedia/gianfrancesco-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1446-10-04"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/gianfrancesco-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1496-08-27"/>
+         <placeName ref="https://www.geonames.org/3181633/">Bozzolo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>condottiero</occupation>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0491" sameAs="http://viaf.org/viaf/60940102">
+      <persName xml:lang="it">
+         <forename>Barbara</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <idno type="VIAF">60940102</idno>
+      <birth source="https://it.wikipedia.org/wiki/Barbara_Gonzaga">
+         <date when-iso="1455-12-11"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Barbara_Gonzaga">
+         <date when-iso="1503-05-30"/>
+         <placeName ref="https://www.geonames.org/2947444/">Böblingen</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>duchessa</occupation>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0492">
+      <persName xml:lang="it">
+         <forename>Paola</forename>
+         <surname>Gonzaga</surname>
+      </persName>
+      <birth source="https://www.treccani.it/enciclopedia/paola-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1464-09-23"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/paola-gonzaga_%28Dizionario-Biografico%29/">
+         <date when-iso="1497"/>
+         <placeName ref="https://www.geonames.org/3175986/">Gorizia</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>duchessa</occupation>
+      <occupation>nobile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0493">
+      <persName xml:lang="it">
+         <surname>Alberti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0494">
+      <persName xml:lang="it">
+         <forename>Meibonio</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0495" sameAs="http://viaf.org/viaf/467159474047727660623">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <forename>Maria</forename>
+         <surname>Macchiarelli</surname>
+      </persName>
+      <idno type="VIAF">467159474047727660623</idno>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0496" sameAs="http://viaf.org/viaf/8183583">
+      <persName xml:lang="en">
+         <forename>Adrian</forename>
+         <surname>Walemburch</surname>
+      </persName>
+      <idno type="VIAF">8183583</idno>
+      <birth source="https://en.wikipedia.org/wiki/Adrian_and_Peter_van_Walenburch">
+         <date when-iso="1609"/>
+         <placeName ref="https://www.geonames.org/2747891/">Rotterdam</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Adrian_and_Peter_van_Walenburch">
+         <date notBefore-iso="1669-09-11" notAfter-iso="1669-09-14"/>
+         <placeName ref="https://www.geonames.org/2874225/" cert="unknown">Mainz</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0497" sameAs="http://viaf.org/viaf/8183596">
+      <persName xml:lang="en">
+         <forename>Peter</forename>
+         <surname>Walemburch</surname>
+      </persName>
+      <idno type="VIAF">8183596</idno>
+      <birth source="https://en.wikipedia.org/wiki/Adrian_and_Peter_van_Walenburch">
+         <date when-iso="1610"/>
+         <placeName ref="https://www.geonames.org/2747891/">Rotterdam</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Adrian_and_Peter_van_Walenburch">
+         <date when-iso="1675-12-21"/>
+         <placeName ref="https://www.geonames.org/2886242/">Cologne</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0498">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Adami</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0499" sameAs="http://viaf.org/viaf/87303445">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <forename>Maria</forename>
+         <surname>Della Mirandola</surname>
+      </persName>
+      <idno type="VIAF">87303445</idno>
+      <birth source="https://www.treccani.it/enciclopedia/pico-francesco-maria-duca-della-mirandola_(Dizionario-Biografico)/">
+         <date when-iso="1688-09-30"/>
+         <placeName ref="https://www.geonames.org/3178202/">Concordia sulla Secchia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/pico-francesco-maria-duca-della-mirandola_(Dizionario-Biografico)/">
+         <date when-iso="1747-11-26"/>
+         <placeName ref="https://www.geonames.org/3117735/">Madrid</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0500" sameAs="http://viaf.org/viaf/87644221">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <genName>V</genName>
+         <roleName type="nobility">Re Di Spagna</roleName>
+      </persName>
+      <idno type="VIAF">87644221</idno>
+      <birth source="https://www.treccani.it/enciclopedia/filippo-v-re-di-spagna_(Dizionario-di-Storia)/">
+         <date when-iso="1683-12-16"/>
+         <placeName ref="https://www.geonames.org/2969679/">Versailles</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/filippo-v-re-di-spagna_(Dizionario-di-Storia)/">
+         <date when-iso="1746-07-09"/>
+         <placeName ref="https://www.geonames.org/3117735/">Madrid</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>re</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0501">
+      <persName xml:lang="it">
+         <roleName type="religious">Monsignor</roleName>
+         <forename>Gianfrancesco</forename>
+         <surname>Rota</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>governatore pontificio</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0502" sameAs="http://viaf.org/viaf/42180446">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <forename>Agostino</forename>
+         <surname>Della Chiesa</surname>
+      </persName>
+      <idno type="VIAF">42180446</idno>
+      <birth source="https://www.treccani.it/enciclopedia/della-chiesa-francesco-agostino_(Dizionario-Biografico)/">
+         <date when-iso="1593-10-06"/>
+         <placeName ref="https://www.geonames.org/3168609/">Saluzzo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/della-chiesa-francesco-agostino_(Dizionario-Biografico)/">
+         <date when-iso="1662-09-11"/>
+         <placeName ref="https://www.geonames.org/3168609/">Saluzzo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   
    
 </listPerson>

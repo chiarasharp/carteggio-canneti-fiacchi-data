@@ -763,4 +763,94 @@
       </location>
       <idno type="geonames">3174638</idno>
    </place>
+   <place xml:id="DLCL_CF_L0096" type="ancient-region" source="https://it.wikipedia.org/wiki/Prussia">
+      <placeName>Prussia</placeName>
+   </place>
+   <place xml:id="DLCL_CF_L0097" type="settlement" sameAs="https://www.geonames.org/7303020">
+      <placeName>Wittenberg</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>51.8661, 12.64973</geo>
+      </location>
+      <idno type="geonames">7303020</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0098" type="settlement" sameAs="https://www.geonames.org/2945356">
+      <placeName>Brandeburgo</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>52.45905, 13.01582</geo>
+      </location>
+      <idno type="geonames">2945356</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0099" type="settlement" sameAs="https://www.geonames.org/2951839">
+      <placeName>Baviera</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>49, 11.5</geo>
+      </location>
+      <idno type="geonames">2951839</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0100" type="nation" sameAs="https://www.geonames.org/719819">
+      <placeName>Ungheria</placeName>
+      <location>
+         <country key="HU"/>
+         <geo>47, 20</geo>
+      </location>
+      <idno type="geonames">719819</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0101" type="region" sameAs="https://www.geonames.org/7729884">
+      <placeName>Europa Orientale</placeName>
+      <location>
+         <geo>51.72703, 28.38867</geo>
+      </location>
+      <idno type="geonames">7729884</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0102" type="nation" sameAs="https://www.geonames.org/2017370">
+      <placeName>Russia</placeName>
+      <location>
+         <country key="RU"/>
+         <geo>60, 100</geo>
+      </location>
+      <idno type="geonames">2017370</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0103" type="nation" sameAs="https://www.geonames.org/798544">
+      <placeName>Polonia</placeName>
+      <location>
+         <country key="PL"/>
+         <geo>52, 20</geo>
+      </location>
+      <idno type="geonames">798544</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0104" type="nation" sameAs="https://www.geonames.org/597427">
+      <placeName>Lituania</placeName>
+      <location>
+         <country key="LT"/>
+         <geo>55.41667, 24</geo>
+      </location>
+      <idno type="geonames">597427</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0105" type="nation" sameAs="https://www.geonames.org/617790">
+      <placeName>Moldavia</placeName>
+      <location>
+         <country key="MD"/>
+         <geo>47.25, 28.58333</geo>
+      </location>
+      <idno type="geonames">617790</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0106" type="historical-region" sameAs="https://www.geonames.org/664661">
+      <placeName>Transilvania</placeName>
+      <location>
+         <country key="RO"/>
+         <geo>46.5, 25</geo>
+      </location>
+      <idno type="geonames">664661</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0107" type="settlement" sameAs="https://www.geonames.org/3165524">
+      <placeName>Torino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.07049, 7.68682</geo>
+      </location>
+      <idno type="geonames">3165524</idno>
+   </place>
 </listPlace>
