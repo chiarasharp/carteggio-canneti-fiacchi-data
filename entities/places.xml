@@ -853,4 +853,20 @@
       </location>
       <idno type="geonames">3165524</idno>
    </place>
+   <place xml:id="DLCL_CF_L0108" type="settlement" sameAs="https://www.geonames.org/3165035">
+      <placeName>Urbino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.72621, 12.63633</geo>
+      </location>
+      <idno type="geonames">3165035</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0109" type="settlement" sameAs="https://www.geonames.org/3167030">
+      <placeName>Savignano sul Rubicone</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.09009, 12.39935</geo>
+      </location>
+      <idno type="geonames">3167030</idno>
+   </place>
 </listPlace>

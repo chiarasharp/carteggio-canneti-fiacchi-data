@@ -681,4 +681,55 @@
       <orgName xml:lang="it">Casa da Lezze</orgName>
       <desc></desc>
    </org>
+   <org xml:id="DLCL_CF_O0077" type="archive" sameAs="http://viaf.org/viaf/154227577">
+      <orgName xml:lang="it">Archivio Segreto Vaticano</orgName>
+      <desc></desc>
+      <idno type="VIAF">154227577</idno>
+      <location>
+         <country key="VA"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0078" type="abbey">
+      <orgName xml:lang="it">Abbazia San Severo</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0079" type="library" sameAs="http://viaf.org/viaf/158709775" source="https://www.bncf.firenze.sbn.it/biblioteca/origine-e-sviluppo-della-biblioteca-magliabechiana/#cap-1">
+      <orgName xml:lang="it">Biblioteca Magliabechiana</orgName>
+      <desc></desc>
+      <idno type="VIAF">158709775</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0080">
+      <orgName xml:lang="it">Suprema Inquisizione</orgName>
+      <desc></desc>
+   </org>
+   
+   
+   
+   
+   
+   <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
+      <orgName xml:lang="it">Castello di Ribano</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0109">Savignano sul Rubicone</settlement>
+         </address>
+      </location>
+   </org>
 </listOrg>
