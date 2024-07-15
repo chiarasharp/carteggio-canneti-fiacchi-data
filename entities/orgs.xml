@@ -717,10 +717,82 @@
       <orgName xml:lang="it">Suprema Inquisizione</orgName>
       <desc></desc>
    </org>
-   
-   
-   
-   
+   <org xml:id="DLCL_CF_O0081">
+      <orgName xml:lang="it">Studio Fiorentino</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0082" type="church">
+      <orgName xml:lang="it">Cattedrale di Perugia</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0083" type="academy">
+      <orgName xml:lang="it">Accademia di San Gregorio</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0084">
+      <orgName xml:lang="it">Casa Guiccioli</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0085" type="church" source="https://it.wikipedia.org/wiki/Chiesa_ed_ex_monastero_di_Santa_Teresa_degli_Scalzi">
+      <orgName xml:lang="it">Chiesa di Santa Teresa de' Carmelitani Scalzi</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0086" type="church">
+      <orgName xml:lang="it">Chiesa della Sapienza Vecchia</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0087" type="cathedral">
+      <orgName xml:lang="it">Duomo di Volturara</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0088" type="university" sameAs="http://viaf.org/viaf/126121637">
+      <orgName xml:lang="it">Regia Università di Torino</orgName>
+      <desc></desc>
+      <idno type="VIAF">126121637</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0107">Torino</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0089" type="theatre">
+      <orgName xml:lang="it">Teatro Cesareo</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0090" type="library">
+      <orgName xml:lang="it">Libreria Pianetti</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0114">Jesi</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0091" type="sanctuary" sameAs="http://viaf.org/viaf/134963198">
+      <orgName xml:lang="it">Santuario di Loreto</orgName>
+      <desc></desc>
+      <idno type="VIAF">134963198</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3174567/">Loreto</settlement>
+         </address>
+      </location>
+   </org>
    
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>
