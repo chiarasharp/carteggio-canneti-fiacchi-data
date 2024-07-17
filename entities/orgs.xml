@@ -793,6 +793,75 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0092" type="monastery" sameAs="http://viaf.org/viaf/296424682">
+      <orgName xml:lang="it">Badia del Buonsollazzo</orgName>
+      <desc></desc>
+      <idno type="VIAF">296424682</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3181754/">Borgo San Lorenzo</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0093" type="institute">
+      <orgName xml:lang="it">Istituto della Trappa</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0094" type="church" source="https://it.wikipedia.org/wiki/Chiesa_di_San_Romualdo_(Roma)">
+      <orgName xml:lang="it">Chiesa di San Romualdo</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0095" type="monastery" sameAs="http://viaf.org/viaf/155669411" source="https://it.wikipedia.org/wiki/Monastero_di_Camaldoli">
+      <orgName xml:lang="it">Monastero di Camaldoli</orgName>
+      <desc></desc>
+      <idno type="VIAF">155669411</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3170172/">Poppi</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0096" type="sanctuary">
+      <orgName xml:lang="it">Santuario dell'Alvernia</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0097" type="institute">
+      <orgName xml:lang="it">Istituto Marsiliano</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0098" type="congregation" sameAs="http://viaf.org/viaf/57144648304721400000" source="https://it.wikipedia.org/wiki/Chierici_regolari_della_Madre_di_Dio">
+      <orgName xml:lang="it">Chierici regolari della Madre di Dio</orgName>
+      <desc></desc>
+      <idno type="VIAF">57144648304721400000</idno>
+   </org>
+   <org xml:id="DLCL_CF_O0099" type="church" source="https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_al_Quirinale">
+      <orgName xml:lang="it">Chiesa di San Silvestro a Montecavallo</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0100" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Casamari">
+      <orgName xml:lang="it">Abbazia di Casamari</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3164528/">Veroli</settlement>
+         </address>
+      </location>
+   </org>
    
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>

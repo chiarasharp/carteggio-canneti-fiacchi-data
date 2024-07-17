@@ -949,6 +949,62 @@
       </location>
       <idno type="geonames">3165612</idno>
    </place>
+   <place xml:id="DLCL_CF_L0120" type="settlement" sameAs="https://www.geonames.org/3036938">
+      <placeName>Arles</placeName>
+      <location>
+         <country key="FR"/>
+         <geo>43.67681, 4.63031</geo>
+      </location>
+      <idno type="geonames">3036938</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0121" type="settlement" sameAs="https://www.geonames.org/3175693">
+      <placeName>Guastalla</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.91172, 10.66186</geo>
+      </location>
+      <idno type="geonames">3175693</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0122" type="settlement" sameAs="https://www.geonames.org/3168726">
+      <placeName>Camaldoli</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.79359, 11.82031</geo>
+      </location>
+      <idno type="geonames">3168726</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0123" type="historic-region" sameAs="https://www.geonames.org/3035876">
+      <placeName>Alvernia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.66667, 3.16667</geo>
+      </location>
+      <idno type="geonames">3035876</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0124" type="settlement" sameAs="https://www.geonames.org/3178619">
+      <placeName>Città di Castello</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.46556, 12.2375</geo>
+      </location>
+      <idno type="geonames">3178619</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0125" type="settlement" sameAs="https://www.geonames.org/3181554">
+      <placeName>Brescia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.53558, 10.21472</geo>
+      </location>
+      <idno type="geonames">3181554</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0126" type="settlement" sameAs="https://www.geonames.org/3165201">
+      <placeName>Treviso</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.66673, 12.2416</geo>
+      </location>
+      <idno type="geonames">3165201</idno>
+   </place>
    
    
 </listPlace>
