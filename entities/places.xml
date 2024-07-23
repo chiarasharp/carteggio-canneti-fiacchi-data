@@ -1005,6 +1005,53 @@
       </location>
       <idno type="geonames">3165201</idno>
    </place>
-   
+   <place xml:id="DLCL_CF_L0127" type="settlement" sameAs="https://www.geonames.org/3167363">
+      <placeName>Santa Sofia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.94724, 11.90867</geo>
+      </location>
+      <idno type="geonames">3167363</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0128" type="settlement" sameAs="https://www.geonames.org/2523630">
+      <placeName>Reggio Calabria</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>38.11047, 15.66129</geo>
+      </location>
+      <idno type="geonames">2523630</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0129" type="settlement" sameAs="https://www.geonames.org/3170621">
+      <placeName>Pistoia</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.93064, 10.92365</geo>
+      </location>
+      <idno type="geonames">3170621</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0130" type="settlement" sameAs="https://www.geonames.org/3166052">
+      <placeName>Subiaco</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>41.92619, 13.08906</geo>
+      </location>
+      <idno type="geonames">3166052</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0131" type="settlement" sameAs="https://www.geonames.org/3163962">
+      <placeName>Volterra</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.40251, 10.86152</geo>
+      </location>
+      <idno type="geonames">3163962</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0132" type="settlement" sameAs="https://www.geonames.org/3181094">
+      <placeName>Camerino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.13866, 13.06785</geo>
+      </location>
+      <idno type="geonames">3181094</idno>
+   </place>
    
 </listPlace>

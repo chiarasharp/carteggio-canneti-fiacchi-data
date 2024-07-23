@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10098">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="it">Canneti a Fiacchi (Perugia, 27 Maggio 1719)</title>
+                <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+            </titleStmt>
+            <publicationStmt><ab></ab></publicationStmt>
+            <seriesStmt>
+                <title type="main">Epistolario Canneti Fiacchi</title>
+                <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
+                <biblScope unit="letter">98</biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="IT">Italia</country>
+                        <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                        <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                        <repository></repository>
+                        <collection></collection>
+                        <idno></idno>
+                        <altIdentifier>
+                            <idno></idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+                    <date when-iso="1719-05-27"/>
+                    <placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="it"/>
+            </langUsage>
+            <settingDesc>
+                <xi:include href="../../entities/places.xml"/>
+            </settingDesc>
+            <particDesc>
+                <xi:include href="../../entities/people/cited-people.xml"/>
+                <xi:include href="../../entities/people/staff.xml"/>
+                <xi:include href="../../entities/orgs.xml"/>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when-iso="2024-07-19" who="#DLCL_CF_PS001">creato</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://classense.unibo.it/iiif/20730/manifest">
+        <graphic n="1r" url="https://classense.unibo.it/iiif/2/21238/full/562,800/0/default.jpg"/>
+        <graphic n="1v" url="https://classense.unibo.it/iiif/2/21239/full/591,800/0/default.jpg"/>
+        <graphic n="2r" url="https://classense.unibo.it/iiif/2/25190/full/577,800/0/default.jpg"/>
+        <graphic n="2v" url="https://classense.unibo.it/iiif/2/25191/full/612,800/0/default.jpg"/>
+    </facsimile>
+    <text type="letter" n="Canneti a Fiacchi (Perugia, 27 Maggio 1719)">
+        <body>
+            <div type="transcription">
+                <pb xml:id="DLCL_CF_E10098_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21238/full/562,800/0/default.jpg"/>
+                
+                <opener>
+                    <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+                </opener>
+                
+                <p>
+                    Conviene alzare gli occhi sopra la nebbia densissima, che formano alla nostra mente le cose di quaggiù, 
+                    e mirare gli accidenti umani al puro lume della Divina Provvidenza; ed oh quanto si muta l’aria, il colore, e fino la sostanza de’ nostri avvenimenti! 
+                    Non c’inquietiamo. 
+                    Iddio ha così ò voluto, ò permesso per nostro maggiore bene: ed ecco calmata la tempesta delle passioni. 
+                    Il <persName ref="#DLCL_CF_PC0672">Padre Don Francesco</persName> anderà o a <placeName ref="#DLCL_CF_L0008">Roma</placeName>, 
+                    o a <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>. 
+                    Ho chiesto al <persName ref="#DLCL_CF_PC0003">Reverendissimo Galamini</persName> i <persName ref="#DLCL_CF_PC0673">Padri Don Giovanni</persName> per me, 
+                    e <persName ref="#DLCL_CF_PC0246">Don Abondio</persName> nuovamente per il <persName ref="#DLCL_CF_PC0132">Reverendissimo Grandi</persName>. 
+                    Il Signor Iddio disponga ciò, ch’è meglio. 
+                    Del <persName ref="#DLCL_CF_PC0090">Padre Don Leandro</persName> non sò più che fare. 
+                    Oggi ricevo dal <rs type="person">Padre Reverendissimo Generale</rs> nuova negativa sopra la stanza di <persName ref="#DLCL_CF_PC0678">S. Ippolito</persName>. 
+                    Ne quella di <persName ref="#DLCL_CF_PC0245">S. Gregorio</persName> fà per lui, né l’altra di <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>. 
+                    Ogni volta che la carità del Superiore gli faccia goder delle necessarie dispense, 
+                    cotesta di <orgName ref="#DLCL_CF_O0005">Classe</orgName> per ora è la migliore: e creda, e persuada ch’è così. 
+                </p>
+                
+                <p>
+                    La maggior parte degli Abati, anco de’ Vincitori, è partita mal soddisfatta dal Capitolo, 
+                    costretta ad accettar non ciò, ch’era di sua convenienza, ma che gli è stato addossato. 
+                    Qual maraviglia se corrono i Monaci la stessa disgrazia? 
+                    Almen per questi rimane speranza di accomodarsi col tempo dentro al quinquennio, ma non per noi, se non per disgrazia. 
+                    Il <persName ref="#DLCL_CF_PC0144">Padre Lettore Fondi</persName> si è adoperato per <persName ref="#DLCL_CF_PC0090">Don Leandro</persName>, 
+                    ed è testimonio della mia attenzione. 
+                    Ma...
+                </p>
+                
+                <pb xml:id="DLCL_CF_E10098_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21239/full/591,800/0/default.jpg"/>
+                
+                <p>
+                    Stia allegramente con la speranza di rivederci in breve in <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>, verso dove penso di incaminarmi fra otto giorni. 
+                    Colà aspetterò sue lettere con la <gap reason="illegible"/>[...] del nobile acquisto. 
+                    Io ancora stò ora trattandone uno, il quale se riesce, potrà accrescere al sommo, 
+                    in materia di antiche edizioni, la <orgName ref="#DLCL_CF_O0001">Biblioteca Classense</orgName>. 
+                    Allora sì avrebbero grande motivo di maraviglia i Greci, gli Scozzesi, ogni Dilettante di qualunque nazione. 
+                </p>
+                
+                <p>
+                    Mi avvisi se costì vi è il <bibl type="print">Floridante</bibl> di <persName ref="#DLCL_CF_PC0674">Bernardo Tasso</persName>, 
+                    e di quale stampa, e il <bibl type="print">Petrarca</bibl> del <persName ref="#DLCL_CF_PC0161">Giolito</persName>, di qual figura, e anno. 
+                </p>
+                
+                <closer>
+                    <salute>Con che di tutto cuore mi confermo.</salute>
+                    <salute>DVPMR.</salute>
+                    <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1719-05-27">27 Maggio 1719</date></dateline>
+                    <salute>Cordialissimo Servitore e Padre Affettuosissimo nel Signore</salute> 
+                    <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+                </closer>
+                
+                <pb xml:id="DLCL_CF_E10098_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25190/full/577,800/0/default.jpg"/>
+                
+                <pb xml:id="DLCL_CF_E10098_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25191/full/612,800/0/default.jpg"/>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

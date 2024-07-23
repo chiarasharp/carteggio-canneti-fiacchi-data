@@ -862,6 +862,86 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0101" type="library">
+      <orgName xml:lang="it">Libreria di Cesena</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3178957/">Cesena</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0102" type="convent">
+      <orgName xml:lang="it">Convento di Foligno</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0103" type="library">
+      <orgName xml:lang="it">Libreria del Seminario di Foligno</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0104" type="library">
+      <orgName xml:lang="it">Libreria pubblica di Reggio Calabria</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0128">Reggio Calabria</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0105" type="library">
+      <orgName xml:lang="it">Biblioteca pubblica di Pistoia</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0129">Pistoia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0106" type="library" sameAs="http://viaf.org/viaf/25165628873342400000" source="https://www.movio.beniculturali.it/uniroma1/livesandlibraries/it/biblioteca-lancisiana">
+      <orgName xml:lang="it">Biblioteca Lancisiana dello Spedale di S. Spirito</orgName>
+      <desc></desc>
+      <idno type="VIAF">25165628873342400000</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0107" type="hospital" sameAs="http://viaf.org/viaf/156654090" source="https://it.wikipedia.org/wiki/Arcispedale_di_Santo_Spirito_in_Saxia">
+      <orgName xml:lang="it">Ospedale Santo Spirito in Sassia</orgName>
+      <desc></desc>
+      <idno type="VIAF">156654090</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0108" type="library">
+      <orgName xml:lang="it">Libreria di San Michele</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0109">
+      <orgName xml:lang="it">Casa Massimi</orgName>
+      <desc></desc>
+   </org>
    
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>

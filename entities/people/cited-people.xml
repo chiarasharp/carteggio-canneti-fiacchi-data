@@ -8856,7 +8856,400 @@
       <occupation>fisico</occupation>
       <occupation>filosofo</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0645" sameAs="http://viaf.org/viaf/64012440">
+      <persName xml:lang="fr">
+         <forename>Jacques</forename>
+         <forename>Auguste</forename>
+         <surname>de Thou</surname>
+      </persName>
+      <idno type="VIAF">64012440</idno>
+      <birth source="https://it.wikipedia.org/wiki/Jacques-Auguste_de_Thou">
+         <date when-iso="1553-10-08"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Jacques-Auguste_de_Thou">
+         <date when-iso="1617-05-07"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>magistrato</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0646">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Maestro</roleName>
+         <surname>Greco</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0647" sameAs="http://viaf.org/viaf/39475804">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>Perrotti</surname>
+      </persName>
+      <idno type="VIAF">39475804</idno>
+      <birth source="https://www.treccani.it/enciclopedia/niccolo-perotti_%28Dizionario-Biografico%29/">
+         <date when-iso="1430" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0048">Fano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/niccolo-perotti_%28Dizionario-Biografico%29/">
+         <date when-iso="1480-12-14"/>
+         <placeName ref="https://www.geonames.org/3167068/">Sassoferrato</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filologo</occupation>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0648">
+      <persName xml:lang="it">
+         <roleName type="religious">Diacono</roleName>
+         <surname>Orso</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0649">
+      <persName xml:lang="it">
+         <surname>Guidi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>signore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0650">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <surname>Gattola</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0651" sameAs="http://viaf.org/viaf/76712761">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
+         <forename>Giulio</forename>
+         <forename>Ambrogio</forename>
+         <surname>Lucenti</surname>
+      </persName>
+      <idno type="VIAF">76712761</idno>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0652" sameAs="http://viaf.org/viaf/100160415">
+      <persName xml:lang="it">
+         <forename>Orazio</forename>
+         <surname>Toscanella</surname>
+      </persName>
+      <idno type="VIAF">100160415</idno>
+      <birth source="https://data.cerl.org/thesaurus/cnp01345543">
+         <date when-iso="1510"/>
+         <placeName ref="https://www.geonames.org/8948811/">Toscanella</placeName>
+      </birth>
+      <death source="https://data.cerl.org/thesaurus/cnp01345543">
+         <date when-iso="1580"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0653" sameAs="http://viaf.org/viaf/17232330">
+      <persName xml:lang="it">
+         <forename>Sperone</forename>
+         <surname>Speroni</surname>
+      </persName>
+      <idno type="VIAF">17232330</idno>
+      <birth source="https://www.treccani.it/enciclopedia/sperone-speroni/">
+         <date when-iso="1500"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/sperone-speroni/">
+         <date when-iso="1588"/>
+         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>giurista</occupation>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0654" sameAs="http://viaf.org/viaf/32030981">
+      <persName xml:lang="it">
+         <forename>Natale</forename>
+         <surname>Conti</surname>
+      </persName>
+      <idno type="VIAF">32030981</idno>
+      <birth source="https://www.treccani.it/enciclopedia/natale-conti_(Dizionario-Biografico)/">
+         <date when-iso="1520"/>
+         <placeName ref="#DLCL_CF_L0027" cert="unknown">Milano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/natale-conti_(Dizionario-Biografico)/">
+         <date when-iso="1582"/>
+         <placeName ref="#DLCL_CF_L0024" cert="unknown">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>mitografo</occupation>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0655" sameAs="http://viaf.org/viaf/95296771">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>di Lira</surname>
+      </persName>
+      <idno type="VIAF">95296771</idno>
+      <birth source="https://www.treccani.it/enciclopedia/niccolo-di-lira_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1270" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/3005588/">Lira</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/niccolo-di-lira_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1349-10-23"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0656" sameAs="http://viaf.org/viaf/89077702">
+      <persName xml:lang="it">
+         <forename>Ludovico</forename>
+         <surname>Jacobilli</surname>
+      </persName>
+      <idno type="VIAF">89077702</idno>
+      <birth source="https://www.treccani.it/enciclopedia/ludovico-jacobilli_(Dizionario-Biografico)/">
+         <date when-iso="1598-06-13"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/ludovico-jacobilli_(Dizionario-Biografico)/">
+         <date when-iso="1664-03-13"/>
+         <placeName ref="#DLCL_CF_L0023">Foligno</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>presbitero</occupation>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0657" sameAs="http://viaf.org/viaf/100189101">
+      <persName xml:lang="it">
+         <forename>Teodoro</forename>
+         <surname>Gaza</surname>
+      </persName>
+      <idno type="VIAF">100189101</idno>
+      <birth source="https://it.wikipedia.org/wiki/Teodoro_Gaza">
+         <date when-iso="1415" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/734077/">Salonicco</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Teodoro_Gaza">
+         <date when-iso="1475"/>
+         <placeName ref="https://www.geonames.org/3168258/">San Giovanni a Piro</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>traduttore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0658" sameAs="http://viaf.org/viaf/14655951">
+      <persName xml:lang="it">
+         <forename>Mutio</forename>
+         <surname>Pansa</surname>
+      </persName>
+      <idno type="VIAF">14655951</idno>
+      <birth source="https://www.treccani.it/enciclopedia/muzio-pansa_(Dizionario-Biografico)/">
+         <date when-iso="1565-04-02"/>
+         <placeName ref="https://www.geonames.org/3171247/">Penne</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/muzio-pansa_(Dizionario-Biografico)/">
+         <date when-iso="1628-07-29"/>
+         <placeName ref="https://www.geonames.org/3171247/">Penne</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0659">
+      <persName xml:lang="it">
+         <surname>Traversari</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0660" sameAs="http://viaf.org/viaf/7400101">
+      <persName xml:lang="fr">
+         <forename>Jean</forename>
+         <surname>Foy-Vaillant</surname>
+      </persName>
+      <idno type="VIAF">7400101</idno>
+      <birth source="https://it.wikipedia.org/wiki/Jean_Foy-Vaillant">
+         <date when-iso="1632-03-23"/>
+         <placeName ref="https://www.geonames.org/3034006/">Beauvais</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Jean_Foy-Vaillant">
+         <date when-iso="1706-10-23"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>numismatico</occupation>
+      <occupation>avvocato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0661">
+      <persName xml:lang="la">
+         <forename>Franciscum</forename>
+         <surname>de Hailbrun</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0662">
+      <persName xml:lang="la">
+         <forename>Nicolaum</forename>
+         <surname>de Frankfordia</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0663">
+      <persName xml:lang="it">
+         <surname>Capponi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>marchese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0664">
+      <persName xml:lang="la">
+         <roleName type="religious">Don</roleName>
+         <forename>Antonio</forename>
+         <surname>Spizzica Gigli</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0665" sameAs="http://viaf.org/viaf/89065899">
+      <persName xml:lang="it">
+         <forename>Carlo</forename>
+         <forename>Agostino</forename>
+         <surname>Fabroni</surname>
+      </persName>
+      <idno type="VIAF">89065899</idno>
+      <birth source="https://www.treccani.it/enciclopedia/carlo-agostino-fabroni_%28Dizionario-Biografico%29/">
+         <date when-iso="1651-08-28"/>
+         <placeName ref="https://www.geonames.org/3170621/">Pistoia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/carlo-agostino-fabroni_%28Dizionario-Biografico%29/">
+         <date when-iso="1727-09-19"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0666" sameAs="http://viaf.org/viaf/51698379">
+      <persName xml:lang="en">
+         <forename>Robert</forename>
+         <surname>Boyle</surname>
+      </persName>
+      <idno type="VIAF">51698379</idno>
+      <birth source="https://it.wikipedia.org/wiki/Robert_Boyle">
+         <date when-iso="1627-01-25"/>
+         <placeName ref="https://www.geonames.org/2962898/">Lismore</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Robert_Boyle">
+         <date when-iso="1691-12-30"/>
+         <placeName ref="#DLCL_CF_L0045">Londra</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>chimico</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0667" sameAs="http://viaf.org/viaf/89344443">
+      <persName xml:lang="it">
+         <forename>Lodovico</forename>
+         <forename>Maria</forename>
+         <surname>Pandolfini</surname>
+      </persName>
+      <idno type="VIAF">89344443</idno>
+      <birth source="http://www.catholic-hierarchy.org/bishop/bpandlm.html">
+         <date when-iso="1675-10-09"/>
+         <placeName ref="https://www.geonames.org/3175108/">Lari</placeName>
+      </birth>
+      <death source="http://www.catholic-hierarchy.org/bishop/bpandlm.html">
+         <date when-iso="1746-05-18"/>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
    
+   
+   <person xml:id="DLCL_CF_PC0672">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Don</roleName>
+         <forename>Francesco</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0673">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Don</roleName>
+         <forename>Giovanni</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0674" sameAs="http://viaf.org/viaf/54258258">
+      <persName xml:lang="it">
+         <forename>Bernardo</forename>
+         <surname>Tasso</surname>
+      </persName>
+      <idno type="VIAF">54258258</idno>
+      <birth source="https://www.treccani.it/enciclopedia/bernardo-tasso_(Dizionario-Biografico)/">
+         <date when-iso="1493-11-11"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/bernardo-tasso_(Dizionario-Biografico)/">
+         <date when-iso="1569-09-05"/>
+         <placeName ref="https://www.geonames.org/3171792/">Ostiglia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0675">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Lettore</roleName>
+         <forename>Bellotti</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0676">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <forename>Grilli</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0677" sameAs="http://viaf.org/viaf/100163528">
+      <persName xml:lang="it">
+         <forename>Bernardino</forename>
+         <surname>Corio</surname>
+      </persName>
+      <idno type="VIAF">100163528</idno>
+      <birth source="https://www.treccani.it/enciclopedia/bernardino-corio_(altro)/">
+         <date when-iso="1459-03-08"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/bernardino-corio_(altro)/">
+         <date when-iso="1519"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0678">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Ippolito</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0679" sameAs="http://viaf.org/viaf/24623353">
+      <persName xml:lang="de">
+         <forename>Johann</forename>
+         <forename>Albert</forename>
+         <surname>Fabricius</surname>
+      </persName>
+      <idno type="VIAF">24623353</idno>
+      <birth source="https://www.treccani.it/enciclopedia/johann-albert-fabricius/">
+         <date when-iso="1668-11-11"/>
+         <placeName ref="https://www.geonames.org/2879139/">Lipsia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/johann-albert-fabricius/">
+         <date when-iso="1736-04-30"/>
+         <placeName ref="https://www.geonames.org/2911298/">Amburgo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+      <occupation>bibliografo</occupation>
+   </person>
    
    
    <person xml:id="DLCL_CF_PC0709" sameAs="http://viaf.org/viaf/39446321">
