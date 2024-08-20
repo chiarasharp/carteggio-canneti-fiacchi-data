@@ -1053,5 +1053,46 @@
       </location>
       <idno type="geonames">3181094</idno>
    </place>
+   <place xml:id="DLCL_CF_L0133" type="settlement" sameAs="https://www.geonames.org/2792482">
+      <placeName>Lovanio</placeName>
+      <location>
+         <country key="BE"/>
+         <geo>50.87959, 4.70093</geo>
+      </location>
+      <idno type="geonames">2792482</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0134" type="settlement" sameAs="https://www.geonames.org/2936974">
+      <placeName>Dilinga</placeName>
+      <location>
+         <country key="DE"/>
+         <geo>48.58153, 10.49527</geo>
+      </location>
+      <idno type="geonames">2936974</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0135" type="settlement" sameAs="https://www.geonames.org/3181277">
+      <placeName>Cagli</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.54771, 12.65229</geo>
+      </location>
+      <idno type="geonames">3181277</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0136" type="settlement" sameAs="https://www.geonames.org/3183089">
+      <placeName>Ancona</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.5942, 13.50337</geo>
+      </location>
+      <idno type="geonames">3183089</idno>
+   </place>
    
+   
+   <place xml:id="DLCL_CF_L0158" type="settlement" sameAs="https://www.geonames.org/3165243">
+      <placeName>Trento</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>46.06787, 11.12108</geo>
+      </location>
+      <idno type="geonames">3165243</idno>
+   </place>
 </listPlace>

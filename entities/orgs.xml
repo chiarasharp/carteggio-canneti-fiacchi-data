@@ -942,6 +942,24 @@
       <orgName xml:lang="it">Casa Massimi</orgName>
       <desc></desc>
    </org>
+   <org xml:id="DLCL_CF_O0110" type="monastery">
+      <orgName xml:lang="it">Monastero di San Sebastiano</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0111" type="library">
+      <orgName xml:lang="it">Libreria de' Luperti</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0135">Cagli</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0112" type="library">
+      <orgName xml:lang="it">Libreria d'Adda</orgName>
+      <desc></desc>
+   </org>
    
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>
