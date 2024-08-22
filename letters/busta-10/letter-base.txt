@@ -76,7 +76,12 @@
             <hi rend="underline"></hi>
             <del rend="overstrike"></del>
             <gap reason="illegible"/>
+            <cit>
+                  <quote>
+                  </quote>
+            </cit>
             
+           
             <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs=""/>
             
             <closer>

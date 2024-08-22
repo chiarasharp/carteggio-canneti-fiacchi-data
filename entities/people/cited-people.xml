@@ -9595,6 +9595,63 @@
       </persName>
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0704">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Marino</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0705">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Marmitta</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0706">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <surname>Mancini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0707" sameAs="http://viaf.org/viaf/60166946">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <forename>Nicola</forename>
+         <surname>Nasini</surname>
+      </persName>
+      <idno type="VIAF">60166946</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giuseppe-nicola-nasini_(Dizionario-Biografico)/">
+         <date when-iso="1657-01-25"/>
+         <placeName ref="https://www.geonames.org/3179715/">Castel del Piano</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giuseppe-nicola-nasini_(Dizionario-Biografico)/">
+         <date when-iso="1736-07-03"/>
+         <placeName ref="https://www.geonames.org/3166548/">Siena</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>pittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0708" sameAs="http://viaf.org/viaf/229690610">
+      <persName xml:lang="it">
+         <forename>Lotto</forename>
+         <surname>Lotti</surname>
+      </persName>
+      <idno type="VIAF">229690610</idno>
+      <birth source="https://www.treccani.it/enciclopedia/lotto-lotti/">
+         <date when-iso="1667"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/lotto-lotti/">
+         <date when-iso="1714"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0709" sameAs="http://viaf.org/viaf/39446321">
       <persName xml:lang="it">
          <forename>Francesco</forename>
@@ -9615,8 +9672,286 @@
       <occupation>cardinale</occupation>
       <occupation>storico</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0710" sameAs="http://viaf.org/viaf/59906260">
+      <persName xml:lang="it">
+         <forename>Antonio</forename>
+         <forename>Maria</forename>
+         <surname>Bonucci</surname>
+      </persName>
+      <idno type="VIAF">59906260</idno>
+      <birth source="https://www.treccani.it/enciclopedia/antonio-maria-bonucci_%28Dizionario-Biografico%29/">
+         <date when-iso="1651-01-17"/>
+         <placeName ref="#DLCL_CF_L0019">Arezzo</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/antonio-maria-bonucci_%28Dizionario-Biografico%29/">
+         <date when-iso="1728-03-29"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0711">
+      <persName xml:lang="it">
+         <surname>Ciani</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0712" sameAs="http://viaf.org/viaf/89067936">
+      <persName xml:lang="it">
+         <forename>Bernardino</forename>
+         <surname>Scotti</surname>
+      </persName>
+      <idno type="VIAF">89067936</idno>
+      <birth source="https://it.wikipedia.org/wiki/Bernardino_Scotti">
+         <date when-iso="1656-10-06"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Bernardino_Scotti">
+         <date when-iso="1726-11-16"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0713">
+      <persName xml:lang="it">
+         <surname>Busetti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0714" sameAs="http://viaf.org/viaf/5770">
+      <persName xml:lang="">
+         <roleName type="religious">San</roleName>
+         <forename>Francesco</forename>
+         <surname>Borgia</surname>
+      </persName>
+      <idno type="VIAF">5770</idno>
+      <birth source="https://www.treccani.it/enciclopedia/santo-francesco-borgia_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1510-10-28"/>
+         <placeName ref="https://www.geonames.org/2517367/">Gandia</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/santo-francesco-borgia_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1572-09-30"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>santo</occupation>
+      <occupation>duca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0715">
+      <persName xml:lang="it">
+         <surname>Berloni</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>avvocato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0716">
+      <persName xml:lang="it">
+         <surname>Calcagnini</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0717" sameAs="http://viaf.org/viaf/5271570">
+      <persName xml:lang="it">
+         <forename>Domenico</forename>
+         <surname>Giorgi</surname>
+      </persName>
+      <idno type="VIAF">5271570</idno>
+      <birth source="https://it.wikipedia.org/wiki/Domenico_Giorgi">
+         <date when-iso="1690"/>
+         <placeName ref="#DLCL_CF_L0033">Rovigo</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Domenico_Giorgi">
+         <date when-iso="1747-07-20"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>presbitero</occupation>
+      <occupation>bibliotecario</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0718" sameAs="http://viaf.org/viaf/3511168049035638410002">
+      <persName xml:lang="fr">
+         <forename>François</forename>
+         <surname>Genet</surname>
+      </persName>
+      <idno type="VIAF">3511168049035638410002</idno>
+      <birth source="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Genet">
+         <date when-iso="1640-10-16"/>
+         <placeName ref="https://www.geonames.org/3035681/">Avignon</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Genet">
+         <date when-iso="1702-10-17"/>
+         <placeName ref="https://www.geonames.org/2971154/">Vaison</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0719">
+      <persName xml:lang="it">
+         <forename>Marco</forename>
+         <surname>Parenti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0720">
+      <persName xml:lang="it">
+         <surname>Mariotto</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>generale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0721" sameAs="http://viaf.org/viaf/100179090">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Cipriano</forename>
+      </persName>
+      <idno type="VIAF">100179090</idno>
+      <birth source="https://en.wikipedia.org/wiki/Cyprian">
+         <date when-iso="0210"/>
+         <placeName ref="https://www.geonames.org/2468244/">Cartagine</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Cyprian">
+         <date when-iso="0258-09-14"/>
+         <placeName ref="https://www.geonames.org/2468244/">Cartagine</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0722" sameAs="http://viaf.org/viaf/84812936">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>d'Egina</surname>
+      </persName>
+      <idno type="VIAF">84812936</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paolo_di_Egina">
+         <date when-iso="0625" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/265501/">Egina</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paolo_di_Egina">
+         <date when-iso="0690" cert="unknown"/>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0723">
+      <persName xml:lang="it">
+         <forename>Timoteo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>canonico regolare</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0724">
+      <persName xml:lang="it">
+         <surname>Cotelerio</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0725" sameAs="http://viaf.org/viaf/15564840">
+      <persName xml:lang="it">
+         <forename>Polieno</forename>
+      </persName>
+      <idno type="VIAF">15564840</idno>
+      <birth source="https://it.wikipedia.org/wiki/Polieno_(retore)">
+         <date notBefore-iso="0101" notAfter-iso="0200"/>
+         <placeName ref="https://www.geonames.org/735355/">Macedonia</placeName>
+      </birth>
+      <sex value="m"/>
+      <occupation>retore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0726">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Mattia</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>santo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0727">
+      <persName xml:lang="it">
+         <forename>Gaspare</forename>
+         <surname>da Perugia</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0728" sameAs="http://viaf.org/viaf/40310246">
+      <persName xml:lang="it">
+         <forename>Severino</forename>
+         <surname>Bini</surname>
+      </persName>
+      <idno type="VIAF">40310246</idno>
+      <birth source="https://www.treccani.it/enciclopedia/severinus-binius_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1573"/>
+         <placeName ref="https://www.geonames.org/2850524/">Randerath</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/severinus-binius_%28Enciclopedia-Italiana%29/">
+         <date when-iso="1641-02-14"/>
+         <placeName ref="#DLCL_CF_L0110">Colonia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>critico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0729" sameAs="http://viaf.org/viaf/89599270">
+      <persName xml:lang="it">
+         <forename>Gaio</forename>
+         <forename>Svetonio</forename>
+         <surname>Tranquillo</surname>
+      </persName>
+      <idno type="VIAF">89599270</idno>
+      <birth source="https://it.wikipedia.org/wiki/Gaio_Svetonio_Tranquillo">
+         <date when-iso="0069" cert="unknown"/>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Gaio_Svetonio_Tranquillo">
+         <date notBefore-iso="0122"/>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>biografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0730">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <surname>Angelo</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0731">
+      <persName xml:lang="it">
+         <surname>Anello</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0732">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Guittone</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
    
    
+   
+   <person xml:id="DLCL_CF_PC0814" sameAs="http://viaf.org/viaf/100899394">
+      <persName xml:lang="pt">
+         <forename>Manoel</forename>
+         <surname>Alvares</surname>
+      </persName>
+      <idno type="VIAF">100899394</idno>
+      <birth source="https://it.wikipedia.org/wiki/Manoel_%C3%81lvares">
+         <date when-iso="1526"/>
+         <placeName ref="https://www.geonames.org/3374121/">Ribeira Brava</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Manoel_%C3%81lvares">
+         <date when-iso="1583"/>
+         <placeName ref="https://www.geonames.org/2268406/">Évora</placeName>
+      </death>
+      <sex value="m"/>
+   </person>
    
    
    

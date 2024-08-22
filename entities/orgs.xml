@@ -960,7 +960,48 @@
       <orgName xml:lang="it">Libreria d'Adda</orgName>
       <desc></desc>
    </org>
-   
+   <org xml:id="DLCL_CF_O0113" type="church" sameAs="http://viaf.org/viaf/139652584">
+      <orgName xml:lang="it">Duomo di Foligno</orgName>
+      <desc></desc>
+      <idno type="VIAF">139652584</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0114" type="church">
+      <orgName xml:lang="it">Chiesa di San Francesco</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0033">Rimini</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0115" type="church" sameAs="http://viaf.org/viaf/241887388">
+      <orgName xml:lang="it">San Carlo al Corso</orgName>
+      <desc></desc>
+      <idno type="VIAF">241887388</idno>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0116" type="abbey">
+      <orgName xml:lang="it">San Giovanni dell'eremo</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>
       <desc></desc>
@@ -971,4 +1012,19 @@
          </address>
       </location>
    </org>
+   <org xml:id="DLCL_CF_O0118" type="monastery">
+      <orgName xml:lang="it">Monastero degli Angeli</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0119" type="accademy">
+      <orgName xml:lang="it">Accademia dei Rinvigoriti di Foligno</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
+         </address>
+      </location>
+   </org>
+   
 </listOrg>

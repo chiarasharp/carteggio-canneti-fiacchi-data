@@ -1085,6 +1085,23 @@
       </location>
       <idno type="geonames">3183089</idno>
    </place>
+   <place xml:id="DLCL_CF_L0137" type="settlement" sameAs="https://www.geonames.org/3182650">
+      <placeName>Avellino</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>40.91494, 14.79103</geo>
+      </location>
+      <idno type="geonames">3182650</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0138" type="settlement" sameAs="https://www.geonames.org/3176533">
+      <placeName>Frigento</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>40.91494, 14.79103</geo>
+      </location>
+      <idno type="geonames">3176533</idno>
+   </place>
+   
    
    
    <place xml:id="DLCL_CF_L0158" type="settlement" sameAs="https://www.geonames.org/3165243">
