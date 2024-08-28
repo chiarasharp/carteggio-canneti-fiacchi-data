@@ -9933,8 +9933,363 @@
       </persName>
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0733">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Ilario</forename>
+         <forename type="nickname">dalla Badia</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0734" sameAs="http://viaf.org/viaf/67238230">
+      <persName xml:lang="de">
+         <forename>Wilhelm</forename>
+         <forename>Ernst</forename>
+         <surname>Tentzel</surname>
+      </persName>
+      <idno type="VIAF">67238230</idno>
+      <birth source="https://de.wikipedia.org/wiki/Wilhelm_Ernst_Tentzel">
+         <date when-iso="1659-07-11"/>
+         <placeName ref="https://www.geonames.org/2917579/">Greußen</placeName>
+      </birth>
+      <death source="https://de.wikipedia.org/wiki/Wilhelm_Ernst_Tentzel">
+         <date when-iso="1707-11-17"/>
+         <placeName ref="https://www.geonames.org/2935022/">Dresden</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>numismatico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0735" sameAs="http://viaf.org/viaf/69284490">
+      <persName xml:lang="de">
+         <forename>Peter</forename>
+         <surname>Lambeck</surname>
+      </persName>
+      <idno type="VIAF">69284490</idno>
+      <birth source="https://it.wikipedia.org/wiki/Peter_Lambeck">
+         <date when-iso="1628-04-13"/>
+         <placeName ref="https://www.geonames.org/2911298/">Amburgo</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Peter_Lambeck">
+         <date when-iso="1680-04-04"/>
+         <placeName ref="#DLCL_CF_L0115">Vienna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0736" sameAs="http://viaf.org/viaf/135389634">
+      <persName xml:lang="it">
+         <forename>Giorgio</forename>
+         <forename>Viviano</forename>
+         <surname>Marchesi</surname>
+      </persName>
+      <idno type="VIAF">135389634</idno>
+      <birth>
+         <date when-iso="1681"/>
+      </birth>
+      <death>
+         <date when-iso="1759"/>
+      </death>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0737">
+      <persName xml:lang="it">
+         <surname>Bonoli</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>autore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0738">
+      <persName xml:lang="it">
+         <surname>Maranta</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0739" sameAs="http://viaf.org/viaf/10088376">
+      <persName xml:lang="it">
+         <forename>Timoteo</forename>
+         <surname>Maffei</surname>
+      </persName>
+      <idno type="VIAF">10088376</idno>
+      <birth source="https://it.wikipedia.org/wiki/Timoteo_Maffei">
+         <date when-iso="1415"/>
+         <placeName ref="#DLCL_CF_L0144">Verona</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Timoteo_Maffei">
+         <date when-iso="1470-04-20"/>
+         <placeName ref="https://www.geonames.org/2523650/">Ragusa</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0740" sameAs="http://viaf.org/viaf/120732037">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Niccolò</forename>
+         <genName>V</genName>
+      </persName>
+      <idno type="VIAF">120732037</idno>
+      <birth source="https://it.wikipedia.org/wiki/Papa_Niccol%C3%B2_V">
+         <date when-iso="1397-11-15"/>
+         <placeName ref="https://www.geonames.org/3167104/">Sarzana</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Papa_Niccol%C3%B2_V">
+         <date when-iso="1455-03-24"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0741">
+      <persName xml:lang="it">
+         <surname>Cozza</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>generale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0742" sameAs="http://viaf.org/viaf/261562946">
+      <persName xml:lang="it">
+         <forename>Cesio</forename>
+         <surname>Maffei</surname>
+      </persName>
+      <idno type="VIAF">261562946</idno>
+      <birth source="https://it.wikipedia.org/wiki/Celso_Maffei">
+         <date when-iso="1425" cert="unknown"/>
+         <placeName ref="#DLCL_CF_L0144">Verona</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Celso_Maffei">
+         <date when-iso="1508"/>
+         <placeName ref="#DLCL_CF_L0144">Verona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliofilo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0743">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>Maffei</surname>
+      </persName>
+      <birth source="https://it.wikipedia.org/wiki/Paolo_Maffei_(umanista)">
+         <date when-iso="1380"/>
+         <placeName ref="#DLCL_CF_L0144">Verona</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paolo_Maffei_(umanista)">
+         <date when-iso="1452"/>
+      </death>
+      <sex value="m"/>
+      <occupation>canonico regolare</occupation>
+      <occupation>generale</occupation>
+   </person>  
+   <person xml:id="DLCL_CF_PC0744" sameAs="http://viaf.org/viaf/22239490">
+      <persName xml:lang="it">
+         <forename>Fulvio</forename>
+         <surname>Orsini</surname>
+      </persName>
+      <idno type="VIAF">22239490</idno>
+      <birth source="https://it.wikipedia.org/wiki/Fulvio_Orsini">
+         <date when-iso="1529-12-11"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Fulvio_Orsini">
+         <date when-iso="1600-05-18"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>archeologo</occupation>
+      <occupation>storicos</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0745">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>duca</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0746" sameAs="http://viaf.org/viaf/85172410">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Lucio</forename>
+         <genName>III</genName>
+      </persName>
+      <idno type="VIAF">85172410</idno>
+      <birth source="https://it.wikipedia.org/wiki/Papa_Lucio_III">
+         <date notBefore-iso="1097" notAfter-iso="1105"/>
+         <placeName ref="#DLCL_CF_L0085">Lucca</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Papa_Lucio_III">
+         <date when-iso="1185-11-25"/>
+         <placeName ref="#DLCL_CF_L0144">Verona</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0747">
+      <persName xml:lang="it">
+         <forename>Gerardo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0748">
+      <persName xml:lang="it">
+         <forename>Ugo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0749">
+      <persName xml:lang="it">
+         <forename>Lanfrando</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0750">
+      <persName xml:lang="it">
+         <forename>Guglielmo</forename>
+         <surname>da Castello</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>ambasciatore dell'imperatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0751">
+      <persName xml:lang="it">
+         <forename>Gregorio</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0752">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Rinaldo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>santo</occupation>
+      <occupation>vescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0753">
+      <persName xml:lang="it">
+         <forename>Ugo</forename>
+         <surname>da Bertinoro</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0754">
+      <persName xml:lang="it">
+         <forename>Gerardo</forename>
+         <surname>da Bertinoro</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0755">
+      <persName xml:lang="it">
+         <forename>Bernardo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0756">
+      <persName xml:lang="it">
+         <forename>Ubaldo</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0757">
+      <persName xml:lang="it">
+         <forename>Alessandro</forename>
+         <surname>Rinaldi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0758" sameAs="http://viaf.org/viaf/15113117">
+      <persName xml:lang="fr">
+         <forename>Casimir</forename>
+         <surname>Oudin</surname>
+      </persName>
+      <idno type="VIAF">15113117</idno>
+      <birth source="https://it.wikipedia.org/wiki/Remi-Casimir_Oudin">
+         <date when-iso="1638-02-11"/>
+         <placeName ref="https://www.geonames.org/3026613/">Charleville-Mézières</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Remi-Casimir_Oudin">
+         <date when-iso="1717-09-17"/>
+         <placeName ref="https://www.geonames.org/2751773/">Leida</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0759" sameAs="http://viaf.org/viaf/54264688">
+      <persName xml:lang="es">
+         <forename>Juan</forename>
+         <surname>de Castaniza</surname>
+      </persName>
+      <idno type="VIAF">54264688</idno>
+      <death>
+         <date when-iso="1598"/>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+      <occupation>biografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0760">
+      <persName>
+         <roleName>Cap.</roleName>
+         <surname>Tanner</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0761" sameAs="http://viaf.org/viaf/46898974">
+      <persName xml:lang="fr">
+         <forename>Antoine</forename>
+         <forename>Augustin</forename>
+         <surname>Touttée</surname>
+      </persName>
+      <idno type="VIAF">46898974</idno>
+      <birth source="https://en.wikipedia.org/wiki/Antoine-Augustin_Toutt%C3%A9e">
+         <date when-iso="1677-12-13"/>
+         <placeName ref="https://www.geonames.org/2983489/">Riom</placeName>
+      </birth>
+      <death source="https://en.wikipedia.org/wiki/Antoine-Augustin_Toutt%C3%A9e">
+         <date when-iso="1718-12-25"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0762">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Isolani</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0763">
+      <persName xml:lang="it">
+         <roleName>Dottor</roleName>
+         <surname>Aldrovandi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0764">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Carlo</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
    
-   
+   <person xml:id="DLCL_CF_PC0766">
+      <persName xml:lang="it">
+         <surname>Donati</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
    
    <person xml:id="DLCL_CF_PC0814" sameAs="http://viaf.org/viaf/100899394">
       <persName xml:lang="pt">

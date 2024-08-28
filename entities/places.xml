@@ -1101,8 +1101,54 @@
       </location>
       <idno type="geonames">3176533</idno>
    </place>
-   
-   
+   <place xml:id="DLCL_CF_L0139" type="settlement" sameAs="https://www.geonames.org/3174659">
+      <placeName>Livorno</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.54427, 10.32615</geo>
+      </location>
+      <idno type="geonames">3174659</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0140" type="settlement" sameAs="https://www.geonames.org/3173722">
+      <placeName>Matelica</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.25788, 13.0075</geo>
+      </location>
+      <idno type="geonames">3173722</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0141" type="settlement" sameAs="https://www.geonames.org/3166655">
+      <placeName>Serra di San Quirico</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.44637, 13.02266</geo>
+      </location>
+      <idno type="geonames">3166655</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0142" type="settlement" sameAs="https://www.geonames.org/3194379">
+      <placeName>Cittanova</placeName>
+      <location>
+         <country key="HR"/>
+         <geo>45.315, 13.55806</geo>
+      </location>
+      <idno type="geonames">3194379</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0143" type="region" sameAs="https://www.geonames.org/3337514">
+      <placeName>Istria</placeName>
+      <location>
+         <country key="HR"/>
+         <geo>45.25, 13.91667</geo>
+      </location>
+      <idno type="geonames">3337514</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0144" type="settlement" sameAs="https://www.geonames.org/3164527">
+      <placeName>Verona</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>45.43854, 10.9938</geo>
+      </location>
+      <idno type="geonames">3164527</idno>
+   </place>
    
    <place xml:id="DLCL_CF_L0158" type="settlement" sameAs="https://www.geonames.org/3165243">
       <placeName>Trento</placeName>
