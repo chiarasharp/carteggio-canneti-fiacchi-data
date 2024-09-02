@@ -1094,7 +1094,46 @@
       <orgName xml:lang="it">Libreria di Padre Isolani</orgName>
       <desc></desc>
    </org>
-   
+   <org xml:id="DLCL_CF_O0132" type="library">
+      <orgName xml:lang="it">Biblioteca del Monastero di Fonte Avellana</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3166653/">Serra Sant'Abbondio</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0133" type="congregation" sameAs="http://viaf.org/viaf/125014217" source="https://it.wikipedia.org/wiki/Congregazione_dei_vescovi_e_regolari">
+      <orgName xml:lang="it">Sacra Congregazione dei Vescovi e Regolari</orgName>
+      <idno type="VIAF">125014217</idno>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0134" type="family">
+      <orgName xml:lang="it">Casa Ricciardelli</orgName>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3169361/">Rimini</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0135" type="library" sameAs="http://viaf.org/viaf/155437292" source="https://it.wikipedia.org/wiki/Biblioteca_Augusta">
+      <orgName xml:lang="it">Libreria Augusta</orgName>
+      <idno type="VIAF">155437292</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0136">
+      <orgName xml:lang="it">Badia di San Zeno</orgName>
+      <desc></desc>
+   </org>
    
    <org xml:id="DLCL_CF_O0144" type="congregation">
       <orgName xml:lang="it">Congregazione Benedettina Silvestrina</orgName>

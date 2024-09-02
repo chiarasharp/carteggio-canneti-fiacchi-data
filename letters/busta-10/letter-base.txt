@@ -58,6 +58,7 @@
       <graphic n="1r" url=""/>
       <graphic n="1v" url=""/>
       <graphic n="2r" url=""/>
+      <graphic n="2v" url=""/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (, )">
       <body>
@@ -93,7 +94,7 @@
             
             <pb xml:id="DLCL_CF_E10.._C2R" n="2 - Recto" facs=""/>
             
-            <pb xml:id="DLCL_CF_..._C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_..._C2V" n="2 - Verso" facs=""/>
             
            <postscript>
                <p>

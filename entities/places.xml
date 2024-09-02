@@ -1149,6 +1149,25 @@
       </location>
       <idno type="geonames">3164527</idno>
    </place>
+   <place xml:id="DLCL_CF_L0145" type="settlement" sameAs="https://www.geonames.org/3176743">
+      <placeName>Forlimpopoli</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>44.19107, 12.12873</geo>
+      </location>
+      <idno type="geonames">3176743</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0146" type="settlement" sameAs="https://www.geonames.org/3170660">
+      <placeName>Pioraco</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.18074, 12.97676</geo>
+      </location>
+      <idno type="geonames">3170660</idno>
+   </place>
+   
+   
+   
    
    <place xml:id="DLCL_CF_L0158" type="settlement" sameAs="https://www.geonames.org/3165243">
       <placeName>Trento</placeName>

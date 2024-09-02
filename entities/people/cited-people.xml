@@ -10283,15 +10283,178 @@
       </persName>
       <sex value="m"/>
    </person>
-   
+   <person xml:id="DLCL_CF_PC0765" sameAs="http://viaf.org/viaf/76413615">
+      <persName xml:lang="it">
+         <forename>Francesco</forename>
+         <forename type="nickname">Cecco d'Ascoli</forename>
+         <surname>Stabili</surname>
+      </persName>
+      <idno type="VIAF">76413615</idno>
+      <birth source="https://it.wikipedia.org/wiki/Cecco_d%27Ascoli">
+         <date when-iso="1269"/>
+         <placeName ref="https://www.geonames.org/3183093/">Ancarano</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Cecco_d%27Ascoli">
+         <date when-iso="1327-09-16"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>astronomo</occupation>
+      <occupation>filosofo</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0766">
       <persName xml:lang="it">
          <surname>Donati</surname>
       </persName>
       <sex value="m"/>
    </person>
+   <person xml:id="DLCL_CF_PC0767" sameAs="http://viaf.org/viaf/17266871">
+      <persName xml:lang="it">
+         <forename>Ercole</forename>
+         <surname>Bentivoglio</surname>
+      </persName>
+      <idno type="VIAF">17266871</idno>
+      <birth source="https://it.wikipedia.org/wiki/Ercole_Bentivoglio_(letterato)">
+         <date when-iso="1507"/>
+         <placeName ref="#DLCL_CF_L0058">Mantova</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ercole_Bentivoglio_(letterato)">
+         <date when-iso="1573-11-06"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0768">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre Don</roleName>
+         <forename>Deodato</forename>
+         <surname>Pedroni</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0769">
+      <persName xml:lang="it">
+         <surname>Torre</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>cavaliere</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0770">
+      <persName xml:lang="it">
+         <forename>Mario</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>vetturino</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0771">
+      <persName>
+         <forename>Egidio</forename>
+         <surname>de Coninch</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0772">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Venanzio</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0773">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Giuseppe</forename>
+         <surname>Vitali</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0774">
+      <persName xml:lang="it">
+         <surname>Becco</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>prete</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0775">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <surname>Settecastelli</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0776">
+      <persName xml:lang="it">
+         <surname>Lazzarini</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0777" sameAs="http://viaf.org/viaf/32016244">
+      <persName xml:lang="pl">
+         <forename>Erazmus</forename>
+         <forename>Ciolek</forename>
+         <surname xml:lang="it">Vitellione</surname>
+         <surname>Witelo</surname>
+      </persName>
+      <idno type="VIAF"> 32016244</idno>
+      <birth source="https://it.wikipedia.org/wiki/Witelo">
+         <date when-iso="1230" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/3093692/">Legnica</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Witelo">
+         <date notBefore-iso="1280" notAfter-iso="1314"/>
+      </death>
+      <sex value="m"/>
+      <occupation>matematico</occupation>
+      <occupation>teologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0778" sameAs="http://viaf.org/viaf/304917272">
+      <persName xml:lang="it">
+         <forename>Tideo</forename>
+         <surname>Acciarini</surname>
+      </persName>
+      <idno type="VIAF">304917272</idno>
+      <birth source="https://it.wikipedia.org/wiki/Tideo_Acciarini">
+         <date notBefore-iso="1430" notAfter-iso="1440"/>
+         <placeName ref="https://www.geonames.org/3167333/">Sant'Elpidio</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Tideo_Acciarini">
+         <date notBefore-iso="1490"/>
+      </death>
+      <sex value="m"/>
+      <occupation>umanista</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0779">
+      <persName xml:lang="it">
+         <forename>Benedetto</forename>
+         <surname>Lanci</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>generale camaldolese</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0780">
+      <persName xml:lang="it">
+         <forename>Dioniso</forename>
+         <surname>Zauli</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>predicatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0781">
+      <persName xml:lang="it">
+         <surname>Bonelli</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
    
-   <person xml:id="DLCL_CF_PC0814" sameAs="http://viaf.org/viaf/100899394">
+   
+   
+   
+   
+   
+   
+   <person xml:id="DLCL_CF_PC0813" sameAs="http://viaf.org/viaf/100899394">
       <persName xml:lang="pt">
          <forename>Manoel</forename>
          <surname>Alvares</surname>
@@ -10307,7 +10470,90 @@
       </death>
       <sex value="m"/>
    </person>
-   
+   <person xml:id="DLCL_CF_PC0814">
+      <persName xml:lang="it">
+         <forename>Bernardo</forename>
+         <surname>Giusti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>tipografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0815">
+      <persName xml:lang="it">
+         <surname>Marescotti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>tipografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0816">
+      <persName xml:lang="it">
+         <forename>Cosimo</forename>
+         <surname>Giusti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>tipografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0817" sameAs="http://viaf.org/viaf/1105259">
+      <persName xml:lang="it">
+         <forename>Jacopo</forename>
+         <surname>Bergamini</surname>
+      </persName>
+      <idno type="VIAF">1105259</idno>
+      <birth source="https://it.wikipedia.org/wiki/Jacopo_Pergamini">
+         <date when-iso="1531"/>
+         <placeName ref="https://www.geonames.org/3176630/">Fossombrone</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Jacopo_Pergamini">
+         <date when-iso="1615"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>letterato</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0818">
+      <persName xml:lang="it">
+         <surname>Guerigli</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>tipografo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0819" sameAs="http://viaf.org/viaf/40480496">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>Abriani</surname>
+      </persName>
+      <idno type="VIAF">40480496</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paolo_Abriani">
+         <date when-iso="1607"/>
+         <placeName ref="https://www.geonames.org/3164419/">Vicenza</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paolo_Abriani">
+         <date when-iso="1699"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>traduttore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0820" sameAs="http://viaf.org/viaf/51773022">
+      <persName xml:lang="es">
+         <forename>Juan</forename>
+         <forename>Caramuel</forename>
+         <surname>y Lobkowitz</surname>
+      </persName>
+      <idno type="VIAF">51773022</idno>
+      <birth source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
+         <date when-iso="1606-05-23"/>
+         <placeName ref="https://www.geonames.org/3117735/">Madrid</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
+         <date when-iso="1682-09-07"/>
+         <placeName ref="https://www.geonames.org/3164376/">Vigevano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>matematico</occupation>
+   </person>
    
    
 </listPerson>
