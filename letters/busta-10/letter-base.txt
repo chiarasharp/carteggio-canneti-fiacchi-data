@@ -86,7 +86,7 @@
             <pb xml:id="DLCL_CF_E1.._C1V" n="1 - Verso" facs=""/>
             
             <closer>
-               <salute>DVP</salute>.
+               <salute>DVP</salute>
                <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
                <salute>Affettuosissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

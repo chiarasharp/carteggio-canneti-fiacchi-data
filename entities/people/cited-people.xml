@@ -10447,10 +10447,225 @@
       </persName>
       <sex value="m"/>
    </person>
-   
-   
-   
-   
+   <person xml:id="DLCL_CF_PC0782" sameAs="http://viaf.org/viaf/88125532">
+      <persName xml:lang="it">
+         <forename>Alberto</forename>
+         <surname>Magno</surname>
+      </persName>
+      <idno type="VIAF">88125532</idno>
+      <birth source="https://it.wikipedia.org/wiki/Alberto_Magno">
+         <date notBefore-iso="1193" notAfter-iso="1206"/>
+         <placeName ref="https://www.geonames.org/2880099/">Lauingen</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Alberto_Magno">
+         <date when-iso="1280-11-15"/>
+         <placeName ref="#DLCL_CF_L0110">Colonia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0783" sameAs="http://viaf.org/viaf/49560557">
+      <persName xml:lang="de">
+         <forename>Johann</forename>
+         <forename>Jacob</forename>
+         <surname xml:lang="it">Vuechero</surname>
+         <surname>Wecker</surname>
+      </persName>
+      <idno type="VIAF">49560557</idno>
+      <birth source="https://de.wikipedia.org/wiki/Johann_Jacob_Wecker">
+         <date when-iso="1528"/>
+         <placeName ref="https://www.geonames.org/2661604/">Basel</placeName>
+      </birth>
+      <death source="https://de.wikipedia.org/wiki/Johann_Jacob_Wecker">
+         <date when-iso="1586"/>
+         <placeName ref="https://www.geonames.org/3024297/">Colmar</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>medico</occupation>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0784">
+      <persName xml:lang="it">
+         <forename>Luigi</forename>
+      </persName>
+      <sex value="m"/>
+      <occupation>conte</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0785" source="https://www.treccani.it/enciclopedia/laura/">
+      <persName xml:lang="it">
+         <forename>Laura</forename>
+      </persName>
+      <sex value="f"/>
+      <occupation>nobildonna</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0786" sameAs="http://viaf.org/viaf/79143533">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Pasquale</forename>
+         <genName>II</genName>
+      </persName>
+      <idno type="VIAF">79143533</idno>
+      <birth source="https://it.wikipedia.org/wiki/Papa_Pasquale_II">
+         <date notBefore-iso="1053" notAfter-iso="1055"/>
+         <placeName ref="https://www.geonames.org/3167363/">Bleda</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Papa_Pasquale_II">
+         <date when-iso="1118-01-21"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0787">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Bifolci</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0788">
+      <persName xml:lang="it">
+         <surname>Martinetti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0789" sameAs="http://viaf.org/viaf/24616821">
+      <persName xml:lang="it">
+         <forename>Marco</forename>
+         <forename>Giuniano</forename>
+         <surname>Giustino</surname>
+      </persName>
+      <idno type="VIAF">24616821</idno>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0790" sameAs="http://viaf.org/viaf/51773022">
+      <persName xml:lang="es">
+         <forename>Juan</forename>
+         <forename>Caramuel</forename>
+         <surname>y Lobkowitz</surname>
+      </persName>
+      <idno type="VIAF">51773022</idno>
+      <birth source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
+         <date when-iso="1606-05-23"/>
+         <placeName ref="https://www.geonames.org/3117735/">Madrid</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
+         <date when-iso="1682-09-07"/>
+         <placeName ref="https://www.geonames.org/3164376/">Vigevano</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>matematico</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0791" sameAs="http://viaf.org/viaf/9867884">
+      <persName xml:lang="it">
+         <forename>Agnolo</forename>
+         <forename type="nickname">Poliziano</forename>
+         <surname>Ambrogini</surname>
+      </persName>
+      <idno type="VIAF">9867884</idno>
+      <birth source="https://it.wikipedia.org/wiki/Agnolo_Poliziano">
+         <date when-iso="1454-07-14"/>
+         <placeName ref="https://www.geonames.org/3172794/">Montepulciano</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Agnolo_Poliziano">
+         <date when-iso="1494-09-29"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>filologo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0792" sameAs="http://viaf.org/viaf/30341795">
+      <persName xml:lang="it">
+         <forename>Battista</forename>
+         <surname>Sforza</surname>
+      </persName>
+      <idno type="VIAF">30341795</idno>
+      <birth source="https://it.wikipedia.org/wiki/Battista_Sforza">
+         <date when-iso="1446-01"/>
+         <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Battista_Sforza">
+         <date when-iso="1472-07-07"/>
+         <placeName ref="#DLCL_CF_L0036">Gubbio</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>contessa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0793" sameAs="http://viaf.org/viaf/79076318">
+      <persName xml:lang="it">
+         <forename>Alessandro</forename>
+         <surname>Sforza</surname>
+      </persName>
+      <idno type="VIAF">79076318</idno>
+      <birth source="https://www.treccani.it/enciclopedia/alessandro-sforza_(Dizionario-Biografico)/">
+         <date when-iso="1409-10-21"/>
+         <placeName ref="https://www.geonames.org/3177876/">Cotignola</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/alessandro-sforza_(Dizionario-Biografico)/">
+         <date when-iso="1473-04-03"/>
+         <placeName ref="#DLCL_CF_L0014">Ferrara</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>condottiero</occupation>
+      <occupation>connestabile</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0794" sameAs="http://viaf.org/viaf/1776035">
+      <persName xml:lang="it">
+         <forename>Costanzo</forename>
+         <surname>Sforza</surname>
+      </persName>
+      <idno type="VIAF">1776035</idno>
+      <birth source="https://www.treccani.it/enciclopedia/costanzo-sforza_(Dizionario-Biografico)/">
+         <date when-iso="1447-07-05"/>
+         <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/costanzo-sforza_(Dizionario-Biografico)/">
+         <date when-iso="1483-07-19"/>
+         <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>condottiero</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0795" sameAs="http://viaf.org/viaf/76430137">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Adriano</forename>
+         <genName>VI</genName>
+      </persName>
+      <idno type="VIAF">76430137</idno>
+      <birth source="https://it.wikipedia.org/wiki/Papa_Adriano_VI">
+         <date when-iso="1459-03-02"/>
+         <placeName ref="https://www.geonames.org/2745912/">Utrecht</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Papa_Adriano_VI">
+         <date when-iso="1523-09-14"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>papa</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0796" sameAs="http://viaf.org/viaf/9857569">
+      <persName xml:lang="it">
+         <forename>Ottone</forename>
+         <genName>III</genName>
+      </persName>
+      <idno type="VIAF">9857569</idno>
+      <birth source="https://it.wikipedia.org/wiki/Ottone_III_di_Sassonia">
+         <date notBefore-iso="0980-06" notAfter-iso="0980-07"/>
+         <placeName ref="https://www.geonames.org/2752906/">Kessel</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Ottone_III_di_Sassonia">
+         <date when-iso="1002-01-23"/>
+         <placeName ref="https://www.geonames.org/3177245/">Faleria</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>re</occupation>
+      <occupation>imperatore</occupation>
+   </person>
    
    
    
@@ -10535,25 +10750,7 @@
       <occupation>poeta</occupation>
       <occupation>traduttore</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0820" sameAs="http://viaf.org/viaf/51773022">
-      <persName xml:lang="es">
-         <forename>Juan</forename>
-         <forename>Caramuel</forename>
-         <surname>y Lobkowitz</surname>
-      </persName>
-      <idno type="VIAF">51773022</idno>
-      <birth source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
-         <date when-iso="1606-05-23"/>
-         <placeName ref="https://www.geonames.org/3117735/">Madrid</placeName>
-      </birth>
-      <death source="https://it.wikipedia.org/wiki/Juan_Caramuel_y_Lobkowitz">
-         <date when-iso="1682-09-07"/>
-         <placeName ref="https://www.geonames.org/3164376/">Vigevano</placeName>
-      </death>
-      <sex value="m"/>
-      <occupation>vescovo</occupation>
-      <occupation>matematico</occupation>
-   </person>
+   
    
    
 </listPerson>

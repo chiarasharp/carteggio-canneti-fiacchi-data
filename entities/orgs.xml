@@ -1134,13 +1134,44 @@
       <orgName xml:lang="it">Badia di San Zeno</orgName>
       <desc></desc>
    </org>
+   <org xml:id="DLCL_CF_O0137" type="library">
+      <orgName xml:lang="it">Libreria de' Zoccolanti</orgName>
+      <desc></desc>
+   </org>
+   <org xml:id="DLCL_CF_O0138" type="church" sameAs="http://viaf.org/viaf/143141719" source="https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Cosmedin">
+      <orgName xml:lang="it">Chiesa di Santa Maria in Cosmedin</orgName>
+      <idno type="VIAF">143141719</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         </address>
+      </location>
+   </org>
+   <org xml:id="DLCL_CF_O0139" type="family">
+      <orgName xml:lang="it">Casa Acciarini</orgName>
+   </org>
+   <org xml:id="DLCL_CF_O0140" type="archive">
+      <orgName xml:lang="it">Archivio di Classe</orgName>
+   </org>
+   <org xml:id="DLCL_CF_O0141" type="monastery">
+      <orgName xml:lang="it">Monastero di Sant'Adalberto</orgName>
+   </org>
    
    <org xml:id="DLCL_CF_O0144" type="congregation">
       <orgName xml:lang="it">Congregazione Benedettina Silvestrina</orgName>
       <orgName xml:lang="it">Ordine di Monte Fano</orgName>
       <desc></desc>
    </org>
-   
+   <org xml:id="DLCL_CF_O0145" type="duchy" source="https://it.wikipedia.org/wiki/Ducato_di_Parma_e_Piacenza" sameAs="http://viaf.org/viaf/146578889">
+      <orgName xml:lang="it">Ducato di Parma e Piacenza</orgName>
+      <idno type="VIAF">146578889</idno>
+      <desc></desc>
+      <location>
+         <country key="IT"/>
+      </location>
+   </org>
    
    
 </listOrg>

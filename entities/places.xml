@@ -1165,11 +1165,31 @@
       </location>
       <idno type="geonames">3170660</idno>
    </place>
-   
-   
-   
-   
-   <place xml:id="DLCL_CF_L0158" type="settlement" sameAs="https://www.geonames.org/3165243">
+   <place xml:id="DLCL_CF_L0147" type="region" sameAs="https://www.geonames.org/2525468">
+      <placeName>Calabria</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>39, 16.5</geo>
+      </location>
+      <idno type="geonames">2525468</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0148" type="settlement" sameAs="https://www.geonames.org/2524907">
+      <placeName>Cosenza</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>39.2989, 16.25307</geo>
+      </location>
+      <idno type="geonames">2524907</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0149" type="settlement" sameAs="https://www.geonames.org/3167333">
+      <placeName>Sant'Elpidio a Mare</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.23024, 13.68819</geo>
+      </location>
+      <idno type="geonames">3167333</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0150" type="settlement" sameAs="https://www.geonames.org/3165243">
       <placeName>Trento</placeName>
       <location>
          <country key="IT"/>
@@ -1177,4 +1197,51 @@
       </location>
       <idno type="geonames">3165243</idno>
    </place>
+   <place xml:id="DLCL_CF_L0151" type="settlement" sameAs="https://www.geonames.org/3177099">
+      <placeName>Fermo</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.16296, 13.72274</geo>
+      </location>
+      <idno type="geonames">3177099</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0152" type="settlement">
+      <placeName>Isola del Pereo</placeName>
+      <location>
+         <country key="IT"/>
+      </location>
+   </place>
+   
+   <place xml:id="DLCL_CF_L0154" type="settlement" sameAs="https://www.geonames.org/3182520">
+      <placeName>Bagno di Romagna</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.83546, 11.96016</geo>
+      </location>
+      <idno type="geonames">3182520</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0155" type="settlement" sameAs="https://www.geonames.org/3181983" source="https://it.wikipedia.org/wiki/Blera">
+      <placeName>Blera</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>42.27293, 12.03016</geo>
+      </location>
+      <idno type="geonames">3181983</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0156" type="settlement" sameAs="https://www.geonames.org/3176400">
+      <placeName>Galeata</placeName>
+      <location>
+         <country key="IT"/>
+         <geo>43.99607, 11.91057</geo>
+      </location>
+      <idno type="geonames">3176400</idno>
+   </place>
+   <place xml:id="DLCL_CF_L0157" type="settlement">
+      <placeName>Civitella</placeName>
+      <location>
+         <country key="IT"/>
+      </location>
+   </place>
+   
+   
 </listPlace>
