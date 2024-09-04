@@ -1211,7 +1211,14 @@
          <country key="IT"/>
       </location>
    </place>
-   
+   <place xml:id="DLCL_CF_L0153" type="settlement" sameAs="https://www.geonames.org/2989317">
+      <placeName>Orléans</placeName>
+      <location>
+         <country key="FR"/>
+         <geo>47.90289, 1.90389</geo>
+      </location>
+      <idno type="geonames">2989317</idno>
+   </place>
    <place xml:id="DLCL_CF_L0154" type="settlement" sameAs="https://www.geonames.org/3182520">
       <placeName>Bagno di Romagna</placeName>
       <location>
@@ -1242,6 +1249,4 @@
          <country key="IT"/>
       </location>
    </place>
-   
-   
 </listPlace>

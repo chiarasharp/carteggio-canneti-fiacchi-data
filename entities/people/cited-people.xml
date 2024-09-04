@@ -10666,8 +10666,150 @@
       <occupation>re</occupation>
       <occupation>imperatore</occupation>
    </person>
-   
-   
+   <person xml:id="DLCL_CF_PC0797">
+      <persName xml:lang="it">
+         <forename>Lodovico</forename>
+         <surname>Balducci</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>dottore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0798">
+      <persName xml:lang="it">
+         <surname>Maldenti</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0799">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Aniceto</forename>
+         <surname>Dandi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0800">
+      <persName xml:lang="it">
+         <surname>Longhi</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0801">
+      <persName xml:lang="it">
+         <surname>Mercuriali</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0802">
+      <persName xml:lang="it">
+         <roleName type="religious">Don</roleName>
+         <forename>Gregorio</forename>
+         <surname>Vitali</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>abate</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0803" sameAs="http://viaf.org/viaf/10640980">
+      <persName xml:lang="it">
+         <forename>Mario</forename>
+         <surname>Nizolio</surname>
+      </persName>
+      <idno type="VIAF">10640980</idno>
+      <birth source="https://it.wikipedia.org/wiki/Mario_Nizolio">
+         <date when-iso="1488-03-05"/>
+         <placeName ref="https://www.geonames.org/3181555/">Brescello</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Mario_Nizolio">
+         <date when-iso="1567-06-05"/>
+         <placeName ref="https://www.geonames.org/3168752/">Sabbioneta</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>filosofo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0804" sameAs="http://viaf.org/viaf/17653784">
+      <persName xml:lang="it">
+         <forename>Cesare</forename>
+         <forename>Maria</forename>
+         <forename>Antonio</forename>
+         <surname>Rasponi</surname>
+      </persName>
+      <idno type="VIAF">17653784</idno>
+      <birth source="https://it.wikipedia.org/wiki/Cesare_Maria_Antonio_Rasponi">
+         <date when-iso="1615-07-15"/>
+         <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Cesare_Maria_Antonio_Rasponi">
+         <date when-iso="1675-11-21"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0805" sameAs="http://viaf.org/viaf/40480496">
+      <persName xml:lang="it">
+         <forename>Paolo</forename>
+         <surname>Abriani</surname>
+      </persName>
+      <idno type="VIAF">40480496</idno>
+      <birth source="https://it.wikipedia.org/wiki/Paolo_Abriani">
+         <date when-iso="1607"/>
+         <placeName ref="https://www.geonames.org/3164419/">Vicenza</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Paolo_Abriani">
+         <date when-iso="1699"/>
+         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>traduttore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0806">
+      <persName xml:lang="it">
+         <surname>Sassi</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0807" sameAs="http://viaf.org/viaf/220539514">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <forename>Eladio</forename>
+         <surname>di Toledo</surname>
+      </persName>
+      <idno type="VIAF">220539514</idno>
+      <birth source="https://it.wikipedia.org/wiki/Eladio_di_Toledo">
+         <date notBefore-iso="0501" notAfter-iso="0600"/>
+         <placeName ref="#DLCL_CF_L0046">Spagna</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Eladio_di_Toledo">
+         <date when-iso="0633"/>
+         <placeName ref="https://www.geonames.org/2510409/">Toledo</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>santo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0808" sameAs="http://viaf.org/viaf/88784472">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <forename>Domenico</forename>
+         <surname>de Totis</surname>
+      </persName>
+      <idno type="VIAF">88784472</idno>
+      <birth source="https://it.wikipedia.org/wiki/Giuseppe_Domenico_de_Totis">
+         <date when-iso="1645" precision="unknown"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giuseppe_Domenico_de_Totis">
+         <date when-iso="1707-11-04"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>poeta</occupation>
+      <occupation>librettista</occupation>
+   </person>
    
    <person xml:id="DLCL_CF_PC0813" sameAs="http://viaf.org/viaf/100899394">
       <persName xml:lang="pt">
@@ -10732,24 +10874,7 @@
       <sex value="m"/>
       <occupation>tipografo</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0819" sameAs="http://viaf.org/viaf/40480496">
-      <persName xml:lang="it">
-         <forename>Paolo</forename>
-         <surname>Abriani</surname>
-      </persName>
-      <idno type="VIAF">40480496</idno>
-      <birth source="https://it.wikipedia.org/wiki/Paolo_Abriani">
-         <date when-iso="1607"/>
-         <placeName ref="https://www.geonames.org/3164419/">Vicenza</placeName>
-      </birth>
-      <death source="https://it.wikipedia.org/wiki/Paolo_Abriani">
-         <date when-iso="1699"/>
-         <placeName ref="#DLCL_CF_L0024">Venezia</placeName>
-      </death>
-      <sex value="m"/>
-      <occupation>poeta</occupation>
-      <occupation>traduttore</occupation>
-   </person>
+   
    
    
    

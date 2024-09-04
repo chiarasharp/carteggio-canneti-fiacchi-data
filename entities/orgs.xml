@@ -1158,7 +1158,12 @@
    <org xml:id="DLCL_CF_O0141" type="monastery">
       <orgName xml:lang="it">Monastero di Sant'Adalberto</orgName>
    </org>
-   
+   <org xml:id="DLCL_CF_O0142" type="library">
+      <orgName xml:lang="it">Biblioteca dello Spirito Santo</orgName>
+   </org>
+   <org xml:id="DLCL_CF_O0143" type="library">
+      <orgName xml:lang="it">Biblioteca de' Cappuccini</orgName>
+   </org>
    <org xml:id="DLCL_CF_O0144" type="congregation">
       <orgName xml:lang="it">Congregazione Benedettina Silvestrina</orgName>
       <orgName xml:lang="it">Ordine di Monte Fano</orgName>

@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E10131">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="it">Canneti a Fiacchi (Fabriano, 20 Dicembre 1720)</title>
+                <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+            </titleStmt>
+            <publicationStmt><ab></ab></publicationStmt>
+            <seriesStmt>
+                <title type="main">Epistolario Canneti Fiacchi</title>
+                <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
+                <biblScope unit="letter">131</biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country key="IT">Italia</country>
+                        <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+                        <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                        <repository></repository>
+                        <collection></collection>
+                        <idno></idno>
+                        <altIdentifier>
+                            <idno></idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+                    <date when-iso="1720-12-20"/>
+                    <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="it"/>
+            </langUsage>
+            <settingDesc>
+                <xi:include href="../../entities/places.xml"/>
+            </settingDesc>
+            <particDesc>
+                <xi:include href="../../entities/people/cited-people.xml"/>
+                <xi:include href="../../entities/people/staff.xml"/>
+                <xi:include href="../../entities/orgs.xml"/>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when-iso="2024-09-04" who="#DLCL_CF_PS001">creato</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile sameAs="https://classense.unibo.it/iiif/20763/manifest">
+        <graphic n="1r" url="https://classense.unibo.it/iiif/2/21320/full/505,800/0/default.jpg"/>
+        <graphic n="1v" url="https://classense.unibo.it/iiif/2/21321/full/614,800/0/default.jpg"/>
+        <graphic n="2r" url="https://classense.unibo.it/iiif/2/21322/full/531,800/0/default.jpg"/>
+        <graphic n="2v" url="https://classense.unibo.it/iiif/2/25247/full/592,800/0/default.jpg"/>
+    </facsimile>
+    <text type="letter" n="Canneti a Fiacchi (Fabriano, 20 Dicembre 1720)">
+        <body>
+            <div type="transcription">
+                <pb xml:id="DLCL_CF_E10131_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21320/full/505,800/0/default.jpg"/>
+                
+                <opener>
+                    <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+                </opener>
+                
+                <p>
+                    Due lettere anco in quest’ordinario ricevo del mio Padre Don Mariangelo; e sono come le altre due le lettere del sì, e del nò. 
+                    Mando, non mando. 
+                    Per verità è arrivato il V foglio, e ne la ringrazio tanto più cordialmente, quanto più forte è stato il di lei coraggio in superar le difficoltà. 
+                    Annesso riceverà il 3° foglio de’ libri, che io credo siano in Libreria.
+                </p>
+                
+                <p>
+                    Dal Padre Amici in quest’ordinario mi giunge avviso ch’è stabilito il Contratto del Corpo delle Opere del Vossio 
+                    per tante messe con la limosina di 12 baiocchi: Deo gratias. 
+                    Questo è un buon’acquisto, da farmene onore nell’applicazione. 
+                    Rispondo con accettare il partito, chiedendo quanto sia il prezzo preciso, e quanto tempo per la celebrazione. 
+                    Or’è tempo di darsi le mani attorno per sollevarmi da tanto peso. 
+                    Io non sò far’il pittocco con chiedere che alcuno dica qualche messa. 
+                    Mi basta ch’Ella trovi chi prenda de’ libri de’ nostri duplicati per Messe, cominciando dagl’inferiori. 
+                    Consideri la limosina di 12 bai., senza ciò manifestare a chi compra 
+                    (inspectione tantum mente retenta, ne turpi questui damnato detur locus) e alzi li prezzi al rigore. 
+                    Tra gli altri si può esitar ciò, che v’è del Vossio costì: ancor’io ne hò qui due, o tre pezzi.
+                </p>
+                
+                <p>
+                    Ringrazio di tutto cuore cotesti Padri, e Fratelli, che mi onorano colle buone feste; 
+                    confidando di poterle goder veramente felici, medianti le orazioni loro, e i loro santi sagrificj, a quali più che mai mi raccomando. 
+                    Mi rallegro con Frate Pietro 
+                </p>
+                
+                <pb xml:id="DLCL_CF_E10131_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21321/full/614,800/0/default.jpg"/>
+                
+                <p>
+                    Frate Natale, e Frate Lorenzo. 
+                    Il Signor Iddio conceda loro spirito per adempire fedelmente i santi voti. 
+                </p>
+                
+                <p>
+                    Il Montfaucon nel suo Diario Italico apporta alcune lapidi sepolcrali moderne di Ebrei. 
+                    Che che contengano le tre accennatemi, quando si potessero avere, e conservare, trovandosi di ciò degne, 
+                    non sarebbe che lodevole farne acquisto col compenso di Materiali. 
+                    Sento le disgrazie orribili accadute tempo fa all’urna istoriata, e a dì nostri all’urnetta riferita dal Fabri, 
+                    ch’era pur meglio lasciare a Porto fuori. 
+                    Unisca le persone capaci, e persino il modo d’impegnar l’autorità di chi può liberar i marmi dall’obbrobrio dell’ignoranza, e dell’oblivione. 
+                    Dovrebbe pure far colpo la venuta, e la stima del Marchese Maffei. 
+                    O tempora! 
+                    O mores! 
+                    Dall’Archivio trasporti in Libreria le altre piccole lapidi. 
+                    Il Padre Priore, e il Prete Tinti la ringraziano, e gli riaugurano le buone feste. 
+                    Ho ricevuto il Calendario dell’Avellana. 
+                    Quanto alle Annotazioni trasportate in fine, il mio sentimento è che la dove poco osservavano poste a luoghi proprj, 
+                    ora nulla si attenderanno da’ Religiosi, che han persuaso gittarle lontane come un’ingombro inutile. 
+                    Può essere che io m’inganni; ma stimo di nò. 
+                    Il magone mi ha fatto ridere; siccome argomento di riso, senza veruna minima alterazione mi è stato il motivo stesso del magone. 
+                    Ma avverta non prendere abbaglio. 
+                    La mia fù risposta a replicata proposta; e proposta non fù la mia. 
+                    Ma in 
+                </p>
+                
+                <pb xml:id="DLCL_CF_E10131_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21322/full/531,800/0/default.jpg"/>
+                
+                <p>
+                    avvenire mi guarderò anco dal replicare sopra certe materie. 
+                    Del magone nulla è toccato, né toccherà a miei Monaci, co quali seguita, e seguiterà la santa pace con discreta carità. 
+                    Stia allegra nel Signore e mi conservi il suo buon cuore.
+                </p>
+                
+                <p>
+                    Al Padre Lettore Collina un caro abbraccio. 
+                    Raccomando a lui pure l’esito de’ libri sopraccennato, avvertendo dar le Messe a persone da creder moralmente certo l’adempimento. 
+                </p>
+                
+                <closer>
+                    <salute>Resto senza fine.</salute>
+                    <salute>DVPMR.</salute>
+                    <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1720-12-20">20 Dicembre 1720</date></dateline>
+                    <salute>Cordialissimo Servitore e Padre Affettuosissimo nel Signore</salute> 
+                    <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+                </closer>
+                
+                <pb xml:id="DLCL_CF_E10131_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25247/full/592,800/0/default.jpg"/>
+                
+                <postscript>
+                    <p>
+                        Al Molto Reverendo Padre Mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> 
+                        <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+                    </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
