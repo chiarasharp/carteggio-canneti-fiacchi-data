@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20679/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21097/full/609,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21098/full/620,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21099/full/605,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24825/full/611,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 9 Gennaio 1717)">
       <body>
@@ -158,12 +160,12 @@
             
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName>. <date when-iso="1717-01-09">9 gennaio 1717</date></dateline>
-               <salute>9 gennaio 1717</salute>
+               <salute>DVPMR</salute>
                <salute>Affettuosissimo Padre e servo nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10047_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10047_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24825/full/611,800/0/default.jpg"/>
             
             <postscript>
                <p>

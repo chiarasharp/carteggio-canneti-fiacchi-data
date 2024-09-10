@@ -52,11 +52,15 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20681/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21103/full/606,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21104/full/627,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25075/full/608,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25076/full/619,800/0/default.jpg"/>
+      
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 30 Gennaio 1717)">
       <body>
@@ -95,14 +99,15 @@
             <pb xml:id="DLCL_CF_E10049_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21104/full/627,800/0/default.jpg"/>
             
             <p>
-               <pc force="inter">-</pc>mura del <rs type="person" ref="#DLCL_CF_PC005">Signor Dottore</rs>, la maniera facile di servirlo da esso proposta, 
+               <pc force="inter">-</pc>mura del <rs type="person" ref="#DLCL_CF_PC0056">Signor Dottore</rs>, la maniera facile di servirlo da esso proposta, 
                l’obbligo, che mi corre al medesimo per avermi favorito d’altre <bibl type="print">Scanzie</bibl>, 
-               risolvo di sollecitamente far copiare la detta <bibl type="print">Scanzia</bibl>, e mandargliela, com’egli ha ordinato. 
+               risolvo di sollecitamente <del rend="overstrike">far</del> copiare la detta <bibl type="print">Scanzia</bibl>, e mandargliela, com’egli ha ordinato. 
                Gliene scriva con riverirla in mio nome. 
                Aspetto la risposta del <persName ref="#DLCL_CF_PC0013">Signor Muratori</persName> sopra i Marmi Pesaresi. 
                Staremo poi a vedere i frutti dell’erudizioni indicate sopra gli <bibl type="religious">Atti</bibl> di <persName ref="#DLCL_CF_PC0370">Santa Sabina</persName>. 
                Scorrendo l’altro giorno il libro intitolato = <bibl type="print"><foreign xml:lang="la">Iani Laurenbergij Antiquarius</foreign></bibl> = lessi = 
-               <foreign xml:lang="la">Basterna, ut ait <persName ref="#DLCL_CF_PC0364">Isidorus</persName>, vehiculum est itineris, quasi vasterna: ea mollibus strame<gap reason="illegible"/>[...] composita a duobus animalibus portatur</foreign>=. 
+               <foreign xml:lang="la">Basterna, ut ait <persName ref="#DLCL_CF_PC0364">Isidorus</persName>, vehiculum est itineris, quasi vasterna: 
+                  ea mollibus strame<gap reason="illegible"/>[...] composita a duobus animalibus portatur</foreign>=. 
             </p>
             
             <p>
@@ -119,18 +124,23 @@
             
             <closer>
                <salute>Resto con tutto lo spirito abbracciandola.</salute> 
-               <salute>DVPMR</salute>. 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-01-30">30 Gennaio 1717</date></dateline>. 
+               <salute>DVPMR.</salute> 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-01-30">30 Gennaio 1717</date>.</dateline> 
                <salute>Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10049_C2R" n="2 - Recto"/>
+            <pb xml:id="DLCL_CF_E10049_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25075/full/608,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10049_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25076/full/619,800/0/default.jpg"/>
             
             <postscript>
                <p>
                   Al Molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
                   <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+               </p>
+               
+               <p>
                   [<foreign xml:lang="la">Fasciculus | rerum expetandarum et fugandarum in Concilio Basileensio</foreign>]
                </p>
             </postscript>

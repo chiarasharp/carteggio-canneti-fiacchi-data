@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20680/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21100/full/583,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21101/full/620,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21102/full/616,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24826/full/636,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Gennaio 1717)">
       <body>
@@ -82,9 +84,9 @@
                avrà prima che arriviamo alla <bibl type="religious">Dieta</bibl>, 
                nella quale contesto <rs type="person" ref="#DLCL_CF_PC0002">Padre Reverendissimo</rs> potrebbe trattare una tale uniformità. 
                Io preveggo che né <rs type="person">i Toscani</rs>, né <rs type="person">i Veneziani</rs> 
-               vorranno recedere dall’uso loro fondato nella consuetudine degli <rs type="person">Eremiti</rs> delle <orgName ref="#DLCL_CF_O0054">due nostre Congregazioni</orgName>, 
+               vorranno recedere dall’uso loro fondato nella consuetudine degli <rs type="person">Eremiti</rs> delle <orgName ref="#DLCL_CF_O0054" cert="unknown">due nostre Congregazioni</orgName>, 
                le quali compongono la maggior parte dell’<orgName ref="#DLCL_CF_O0054">Ordine</orgName>, 
-               e in una <bibl type="religious">Dichiarazione litterale</bibl> della <orgName ref="#DLCL_CF_O0011" cert="high">Sacra Congregazione</orgName>. 
+               e in una <bibl type="religious">Dichiarazione litterale</bibl> della <orgName ref="#DLCL_CF_O0011" cert="unknown">Sacra Congregazione</orgName>. 
                Ma quando le suddette <orgName ref="#DLCL_CF_O0054">nostre due Provincie</orgName> persistessero in ciò, son di parere che saria spediente che noi abbracciassimo, 
                come più comune, e rendessimo universale il rito di fare l’<bibl type="religious">officio</bibl> sopradetto, solamente quando non corre semidoppio fisso, né traslato. 
                In fatti maggior gloria ritornerebbe al <rs type="person">Santo Padre</rs> dall’uniformità del culto de’ suoi Figliuoli, 
@@ -159,8 +161,8 @@
                e <foreign xml:lang="la">Domini</foreign> si chiamavano altri Personaggi Sacri, e profani. 
                Ma non trovo che tal voce siasi attribuita a <foreign xml:lang="la">Sancti</foreign>, 
                leggendosi anzi ne’ Mosaici <hi rend="underline"><foreign xml:lang="la">Sanctus</foreign></hi> e <hi rend="underline"><foreign xml:lang="la">Sancta</foreign></hi> 
-               non mai <hi rend="underline"><foreign xml:lang="la">Domnus</foreign></hi> sicché non può convenire a San Pietro. 
-               Chi fosse quel Pietro è difficile conghietturarlo. 
+               non mai <hi rend="underline"><foreign xml:lang="la">Domnus</foreign></hi> sicché non può convenire a <persName ref="#DLCL_CF_PC0821">San Pietro</persName>. 
+               Chi fosse quel <persName>Pietro</persName> è difficile conghietturarlo. 
             </p>
             
             <p>
@@ -181,7 +183,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10048_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10048_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24826/full/636,800/0/default.jpg"/>
             
             <postscript>
                <p>

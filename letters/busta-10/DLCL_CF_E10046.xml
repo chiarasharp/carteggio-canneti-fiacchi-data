@@ -52,14 +52,16 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20678/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21092/full/617,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21093/full/628,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21094/full/610,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21095/full/636,800/0/default.jpg"/>
-      <graphic n="3r" url="https://classense.unibo.it/iiif/2/21096/full/636,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21096/full/636,800/0/default.jpg"/>
+      <graphic n="3r" url="https://classense.unibo.it/iiif/2/24823/full/606,800/0/default.jpg"/>
+      <graphic n="3v" url="https://classense.unibo.it/iiif/2/24824/full/619,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 22 Dicembre 1716)">
       <body>
@@ -95,7 +97,7 @@
                <list type="numbered">
                   <item n="1">
                      <p>
-                        1. di <persName>Santa Sabina</persName>, nell’anno di Cristo 125; o in quel torno, e fuor d’ogni dubbio che infieriva allora la terza persecuzione.
+                        1. di <persName ref="#DLCL_CF_PC0370">Santa Sabina</persName>, nell’anno di Cristo 125; o in quel torno, e fuor d’ogni dubbio che infieriva allora la terza persecuzione.
                      </p>
                      <p>
                         Intorno alla spiegazione <hi rend="underline"><foreign xml:lang="la">Oppidum Vendinensium</foreign></hi> 
@@ -159,7 +161,7 @@
                <persName ref="#DLCL_CF_PC0359">Livio</persName> <bibl type="print">5 Ab Urbe</bibl>, 
                e <persName ref="#DLCL_CF_PC0360">Virgilio</persName> di sopra cit. 8 <bibl type="print">Aeneid</bibl>. 
                così nell’età posteriori sottentrò la voce <hi rend="underline">Basterna</hi> a spiegar’una sorte di cocchio forse da Basterni inventato, 
-               com’era stato dagli Spagnuoli trovato il <hi rend="underline">Pilento</hi>, e da’ Franzesi il Pitorito. 
+               com’era stato dagli Spagnuoli trovato il <hi rend="underline">Pilento</hi>, e da’ Franzesi il <hi rend="underline">Pitorito</hi>. 
                mentovato da <persName ref="#DLCL_CF_PC0358">Orazio</persName> nel luogo di sopra addotto. 
                <persName ref="#DLCL_CF_PC0361">Ammiano Marcellino</persName> <bibl type="print">libro 14</bibl> 
                <hi rend="underline"><foreign xml:lang="la">Matronae complures opertis capitibus, et basternis per latera Civitatis cuncta discurrunt</foreign></hi>. 
@@ -172,7 +174,7 @@
                <hi rend="underline"><foreign xml:lang="la">Basterna vehiculum muliebre: in eo a lectica veterum differebat, quod illa ferretur a servis, haec traheretur a burdonibus, hoc est mulis</foreign></hi>. 
                Gli <bibl type="religious">Atti di Santa Susanna</bibl>: 
                <hi rend="underline"><foreign xml:lang="la">eadem hora praepedigna ascendit caveam basternae, et venit ad domum Gabinij</foreign></hi>. 
-               Che da due animali fosse portata la basterna ce lo ridice <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName> <bibl type="print"></bibl>. 
+               Che da due animali fosse portata la basterna ce lo ridice <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName> <bibl type="print">libro 20</bibl>. 
                <bibl type="print">Origines</bibl> carta 12, e perciò <persName ref="#DLCL_CF_PC0172">Santo Agostino</persName> <bibl type="print">epistola 116</bibl> 
                adoperò a spiegarne il moto, il verbo <hi rend="underline"><foreign xml:lang="la">veho</foreign></hi>. 
                Finalmente un antico <hi rend="underline">Epigramma <bibl type="print">libro 4. Epigr</bibl></hi>. 
@@ -212,7 +214,7 @@
                Mi spedisco presto dalla voce <foreign xml:lang="la"><hi rend="underline">Luxurium</hi>, et <hi rend="underline">Luxorium</hi></foreign>, ch’è la stessa cosa. 
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> la vegga 
                in <persName ref="#DLCL_CF_PC0369">Salviano</persName> <bibl type="print">libro 6 <foreign xml:lang="la">De Gubern. Dei</foreign></bibl>: 
-               <foreign xml:lang="la">Longum est nunc dicere de omnibus, amphiteatris scilicet odeis, lusorijs, pompis</foreign>. 
+               <hi rend="underline"><foreign xml:lang="la">Longum est nunc dicere de omnibus, amphiteatris scilicet odeis, lusorijs, pompis</foreign></hi>. 
                Questa voce usò pure <persName ref="#DLCL_CF_PC0355">Lampridio</persName> in <bibl type="print">Eliogabalo</bibl>. 
                Veda il <persName ref="#DLCL_CF_PC0022">Du Cange</persName> nella <bibl type="print">Costantinopoli Cristiana</bibl>: 
                e credo concluderà che <hi rend="underline"><foreign xml:lang="la">Lusorius</foreign></hi> significa un teatro di giuochi, o spettacoli. 
@@ -258,7 +260,7 @@
             </p>
             
             <p>
-               La osservazione al numero 11 del Presidente Elpidio mal veggente, cammina bene. 
+               La osservazione al numero 11 del <persName>Presidente Elpidio</persName> mal veggente, cammina bene. 
                Che la voce <hi rend="underline"><foreign xml:lang="la">Titulus</foreign></hi> (oltre a molti altri significati) importi confiscazione 
                (come stimo voglia importare in questi Atti) così <foreign xml:lang="la"><hi rend="underline">titulare</hi> et <hi rend="underline">titulatio</hi></foreign>; 
                si riconosca da <persName ref="#DLCL_CF_PC0245">San Gregorio</persName> <bibl type="print">libro 1 epistola 63</bibl> 
@@ -270,7 +272,7 @@
                (e forse parlando di <persName ref="#DLCL_CF_PC0370">Santa Sabina</persName>) <foreign xml:lang="la">Omnes</foreign> 
             </p>
             
-            <pb xml:id="DLCL_CF_E10046_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21096/full/636,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/24823/full/606,800/0/default.jpg"/>
             
             <p>   
                <hi rend="underline"><foreign xml:lang="la">facultates eius publicis</foreign></hi> (ecco la confiscazione) 
@@ -310,13 +312,13 @@
             <closer>
                <salute>Resto di vero cuore confermandomi.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName></dateline> 
-               <salute>DVPMR</salute>. 
-               <dateline><date when-iso="1716-12-22">22 dicembre 1716</date></dateline>. 
+               <salute>DVPMR.</salute> 
+               <dateline><date when-iso="1716-12-22">22 dicembre 1716</date>.</dateline> 
                <salute>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10046_C3V" n="3 - Verso"/>
+            <pb xml:id="DLCL_CF_E10046_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/24824/full/619,800/0/default.jpg"/>
             
             <postscript>
                <p>

@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20682/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21108/full/613,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21109/full/618,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21110/full/614,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24827/full/638,800/0/default.jpg"/>
    </facsimile>
    <facsimile sameAs="https://classense.unibo.it/iiif/21105/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21106/full/631,800/0/default.jpg"/>
@@ -79,7 +81,8 @@
                Vivissimamente ne ringrazio la somma di lei cordialità. 
                Accetto l’offerta cortese: celebrerò quanto prima le cinque Messe. 
                Ed Ella riponga pure il libro tra’ nostri, insieme con gli altri due, che le ha consegnati il <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>. 
-               Desidero sapere se in Libreria (come credo) siavi l’<bibl type="print">Incredulo senza scusa</bibl>, di <placeName ref="#DLCL_CF_L0018">Firenze</placeName>. 
+               Desidero sapere se in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> (come credo) siavi l’<bibl type="print">Incredulo senza scusa</bibl>, 
+               di <placeName ref="#DLCL_CF_L0018">Firenze</placeName>. 
                L’altro di stampa di <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, ch’è tra nostri <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> 
                si contenti pigliarselo, e riporlo tra libri a proprio uso. 
                Vidi l’altro giorno le <bibl type="print">Opere</bibl> del <persName ref="#DLCL_CF_PC0396">Segneri</persName> 
@@ -188,13 +191,13 @@
             
             <p>
                Si contenti che io la conforti nell’impresa di perfezionar l’<bibl type="manuscript">Indice</bibl>, 
-               e di trascrivere la <bibl type="manuscruipt">Storia</bibl> del <persName ref="#DLCL_CF_PC0176">Carrari</persName>. 
+               e di trascrivere la <bibl type="manuscript">Storia</bibl> del <persName ref="#DLCL_CF_PC0176">Carrari</persName>. 
             </p>
            
             <closer>
                <salute>L’abbraccio caramente e mi confermo senza fine.</salute> 
                <salute>D.V.P.M.R.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-02-20">20 Febbraio 1717</date></dateline>. 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-02-20">20 Febbraio 1717</date>.</dateline> 
                <salute>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
@@ -209,7 +212,7 @@
                </p>
             </postscript>
            
-            <pb xml:id="DLCL_CF_E10050_L_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10050_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24827/full/638,800/0/default.jpg"/>
             
             <postscript>
                <p>
@@ -271,7 +274,7 @@
             <pb xml:id="DLCL_CF_E10050_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21107/full/618,800/0/default.jpg"/>
             
             <p>   
-               quel AM, che pare possa leggersi Amen non entra nel verso per altro intiero, come sono gli altri cinque. 
+               quel AM, che pare possa leggersi <hi rend="underline">Amen</hi> non entra nel verso per altro intiero, come sono gli altri cinque. 
                Forse a caso o a cappriccio sarà stato ivi posto quel monogramma, che dovea andar nel fine. 
             </p>
             

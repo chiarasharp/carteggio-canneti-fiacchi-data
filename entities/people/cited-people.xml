@@ -5089,7 +5089,16 @@
          <roleName type="religious">Santa</roleName>
          <forename>Sabina</forename>
       </persName>
+      <birth source="https://it.wikipedia.org/wiki/Santa_Sabina">
+         <date notBefore-iso="0101" notAfter-iso="0200"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Santa_Sabina">
+         <date when-iso="0126"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
       <sex value="f"/>
+      <occupation>martire</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0371" sameAs="http://viaf.org/viaf/61599137">
       <persName xml:lang="de">
@@ -5230,7 +5239,12 @@
       <occupation>re</occupation>
       <occupation>imperatore</occupation>
    </person>
-   
+   <person xml:id="DLCL_CF_PC0383">
+      <persName xml:lang="it">
+         <surname>Villanuova</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
    <person xml:id="DLCL_CF_PC0384" sameAs="http://viaf.org/viaf/88881722">
       <persName xml:lang="it">
          <roleName type="nobility">Imperatore</roleName>
@@ -5374,6 +5388,7 @@
          <surname>Malisardi</surname>
       </persName>
       <sex value="m"/>
+      <occupation>dottore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0395">
       <persName xml:lang="it">
@@ -5636,24 +5651,21 @@
       <sex value="m"/>
       <occupation>cardinale</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0414" sameAs="http://viaf.org/viaf/">
+   <person xml:id="DLCL_CF_PC0414">
       <persName xml:lang="it">
-         <forename>Pietro</forename>
-         <forename></forename>
+         <forename type="religious">Pietro</forename>
+         <forename>Vincenzo</forename>
          <surname>Quirino</surname>
       </persName>
-      <idno type="VIAF"></idno>
-      <birth source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <birth source="https://en.wikipedia.org/wiki/Vincenzo_Querini">
+         <date when-iso="1478" precision="unknown"/>
+         <placeName ref="#DLCL_CF_L0024"></placeName>
       </birth>
-      <death source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <death source="https://en.wikipedia.org/wiki/Vincenzo_Querini">
+         <date when-iso="1514-09-23"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
       </death>
       <sex value="m"/>
-      <occupation></occupation>
-      <occupation></occupation>
    </person>
    <person xml:id="DLCL_CF_PC0415" sameAs="http://viaf.org/viaf/24610819">
       <persName xml:lang="it">
@@ -10873,6 +10885,17 @@
       </persName>
       <sex value="m"/>
       <occupation>tipografo</occupation>
+   </person>
+   
+   
+   
+   <person xml:id="DLCL_CF_PC0821">
+      <persName xml:lang="it">
+         <roleName type="religious">San</roleName>
+         <surname>Pietro</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>santo</occupation>
    </person>
    
    

@@ -52,11 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20684/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21113/full/606,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21114/full/625,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25077/full/611,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25078/full/629,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 13 Marzo 1717)">
       <body>
@@ -68,12 +71,16 @@
             </opener>
             
             <p>
-               Goderò molto se per la via del <persName ref="#DLCL_CF_PC0015">Signor Pagliarini</persName> riceverò da <placeName ref="#">Foligno</placeName> il Manoscritto, 
+               Goderò molto se per la via del <persName ref="#DLCL_CF_PC0015">Signor Pagliarini</persName> riceverò 
+               da <placeName ref="#DLCL_CF_L0023">Foligno</placeName> il <bibl type="manuscript">Manoscritto</bibl>, 
                e il <bibl type="print">Giornale XXV</bibl>. com’ella mi dà grato avviso, del quale distintamente la ringrazio. 
-               Iddio voglia che presto si possa poi vedere <bibl type="print">il XXVI</bibl> che sarà chiaro <del rend="overstrike">di</del> indizio 
+               Iddio voglia che presto si possa poi vedere il <bibl type="print">XXVI</bibl> che sarà chiaro <del rend="overstrike">di</del> indizio 
                della continuazione di così profittevole Opera, ad onta de’ potenti emoli, e particolarmente de’ Gesuiti, che tentavano sopprimerla, 
                e affogarla in modo che mai più non risorgesse. 
                Aspetto sentire che le sia giunta la spiegazione della lapida, la qual penso portar nelle mie Annotazioni: e perciò vorrei che non andasse a male.
+            </p>
+            
+            <p>
                <persName ref="#DLCL_CF_PC0216">Monsignore Fontanini</persName> stampa un’<bibl type="print">Opera sopra la Corona di ferro</bibl>, di cui si coronano i nuovi Imperatori, 
                e si conserva in <placeName ref="#DLCL_CF_L0093">Monza</placeName>, latino <hi rend="underline"><foreign xml:lang="la">Modoëtia</foreign></hi> 
                nello Stato di <placeName ref="#DLCL_CF_L0027">Milano</placeName>, e dicesi formata d’un chiodo del Crocefisso nostro Redentore. 
@@ -98,13 +105,13 @@
             
             <closer>
                <salute>Resto in fretta di tutto cuore.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-13">13 Marzo 1717</date></dateline>. 
-               <salute>DVPMR</salute>. 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-13">13 Marzo 1717</date>.</dateline> 
+               <salute>DVPMR.</salute> 
                <salute>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10052_C2R" n="2 - Recto"/>
+            <pb xml:id="DLCL_CF_E10052_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25077/full/611,800/0/default.jpg"/>
             
             <postscript>
                <p>
@@ -131,7 +138,7 @@
                   <foreign xml:lang="la">XIX Kalendas Ianuaris. Pag. <hi rend="underline">692.</hi> 
                      <persName ref="#DLCL_CF_PC0416">Bonifacij IX</persName> interest. col. <hi rend="underline">713.</hi> 
                      Vivus quando <persName ref="#DLCL_CF_PC0417">Innocentius VII</persName> Papa creatur. col. 716, creat. 
-                     Pont. eundem <persName ref="#DLCL_CF_PC0417">Innocentius VII</persName>. col. <hi rend="underline">751</hi>. 
+                     Pont. eundem <persName ref="#DLCL_CF_PC0417">Innoc. VII</persName>. col. <hi rend="underline">751</hi>. 
                      Creationi <persName ref="#DLCL_CF_PC0418">Gregorij XII</persName>. Interest ex vol. <hi rend="underline">754</hi>. 
                      col. 774. in Pisano Concilio <persName ref="#DLCL_CF_PC0419">Alexandri V</persName> Creationi interest et 78<gap reason="illegible"/>[...]
                   </foreign>
@@ -143,7 +150,7 @@
                
                <p>   
                   [<persName ref="#DLCL_CF_PC0021">Ughelli</persName> <bibl type="print"><foreign xml:lang="la">Ital. Sacr. To. I</foreign></bibl> col. 248. 
-                  <foreign xml:lang="la">Int Episcopos Praenestinos et ejus mentionem facit in Gerardo de Capitaneis Episcopo Laudense Co. 4. col. 9<gap reason="illegible"/>[...]</foreign>  
+                  <foreign xml:lang="la">[Int] Episcopos Praenestinos et ejus mentionem facit in Gerardo de Capitaneis Episcopo Laudense Co. 4. col. 9<gap reason="illegible"/>[...]</foreign>  
                </p>
                
                <p>
@@ -157,7 +164,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10052_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10052_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25078/full/629,800/0/default.jpg"/>
             
             <postscript>
                <p>

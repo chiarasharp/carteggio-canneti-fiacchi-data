@@ -52,11 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20683/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21111/full/610,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21112/full/625,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24830/full/611,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24831/full/644,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 9 Marzo 1717)">
       <body>
@@ -72,10 +75,6 @@
                Libro VII pagina 639 anno 1468 dove dice = 
                <foreign xml:lang="la">Posteriore anno, soluto voto (Fridericus Imperator) Pontificique pollicitus se conventum <placeName ref="#DLCL_CF_L0092">Ratisponae</placeName> 
                   De Regno Boemico <hi rend="underline">quem</hi> occupaverat Georgius Poggibratius vir haereticus, habiturum</foreign>]
-            </p>
-            
-            <p>
-               
             </p>
             
             <p>   
@@ -121,7 +120,7 @@
             
             <p>
                La ringrazio dello scioglimento, ch’ella giudiziosamente ha trovato intorno alla <bibl type="religious">Bolla</bibl> 
-               di <persName>Papa Leone</persName> nella serie delle cose di <persName ref="#DLCL_CF_PC0407">Fabio Calvi</persName>. 
+               di <persName ref="#DLCL_CF_PC0592">Papa Leone</persName> nella serie delle cose di <persName ref="#DLCL_CF_PC0407">Fabio Calvi</persName>. 
                Sarebbe stato un gran miracolo se in tanta fretta, 
                colla testa oppressa da una grave infreddatura io avessi potuto stendere quell’ordine di fatti senza incappare in manifesti errori. 
                Mi avvidi che la cronologia non caminava bene. 
@@ -142,11 +141,17 @@
             
             <closer>
                <salute>Resto di vero cuore.</salute> 
-               <salute>DVPMR</salute>.
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-09">9 Marzo 1717</date></dateline>
+               <salute>DVPMR.</salute>
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-09">9 Marzo 1717</date>.</dateline>
                <salute>Affettuosissimo Servitore e Padre Cordialissimo nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
+            
+            
+            <pb xml:id="DLCL_CF_E10051_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24830/full/611,800/0/default.jpg"/>
+            
+            
+            <pb xml:id="DLCL_CF_E10051_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24831/full/644,800/0/default.jpg"/>
             
          </div>
       </body>
