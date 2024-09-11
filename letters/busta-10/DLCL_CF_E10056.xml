@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-18" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20688/manifest">
@@ -153,7 +154,7 @@
                De’ frammenti di vetro colorati, che si trovano ne’ Cimiteri di <placeName ref="#DLCL_CF_L0008">Roma</placeName>, un’intero volume ha scritto, 
                e pubblicato ora il Senatore <persName ref="#DLCL_CF_PC0458">Filippo Buonarruoti</persName> 
                Autor del <bibl type="print">Libro de’ Medaglioni</bibl> del fu <persName ref="#DLCL_CF_PC0459">Cardinale Carpegna</persName>. 
-               Cotesto scrittore della <bibl type="print">Ravenna Dominante</bibl> ha prodotto il sentimento di Monsignor Bianchini, 
+               Cotesto scrittore della <bibl type="print">Ravenna Dominante</bibl> ha prodotto il sentimento di <persName ref="#DLCL_CF_PC0050">Monsignor Bianchini</persName>, 
                il quale non avrà gradito che si dia fuori una sua conghiettura non ancor digerita, e dalle necessarie maggiori notizie abbandonata: 
                siccome né pur’a me piace che si conservi col mio nome la prima mia interpretazione, della quale io subito recedetti, 
                e intieramente abbracciai quella del <persName ref="#DLCL_CF_PC0009">Padre Abate Bacchini</persName>. 
@@ -174,7 +175,7 @@
             <p>
                Mi spiace esser lontano, e così esser privo di veder la scrittura, alla quale non diffiderei che si trovasse la risposta. 
                È stato bene che i <rs type="person">Reverendissimi Venezianii</rs> abbiano veduta la <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
-               Godo del zelo del <rs type="person">Reverendissimo Ziani Prelato Lettore</rs> per l’opera d’<persName ref="#DLCL_CF_PC0177">Ambrogio</persName>. 
+               Godo del zelo del <persName ref="#DLCL_CF_PC0820">Reverendissimo [Ziani] Prelato Lettore</persName> per l’opera d’<persName ref="#DLCL_CF_PC0177">Ambrogio</persName>. 
                Le Annotazioni sono una grandissima selva. 
                Io non ho tutto il 
             </p>
@@ -191,7 +192,7 @@
             <closer>
                <salute>Caramente l’abbraccio, e mi confermo.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-05-18">18 Maggio 1717</date></dateline>
-               <salute>DVPMR</salute>.
+               <salute>DVPMR.</salute>
             </closer>
             
             <postscript>
@@ -202,7 +203,7 @@
                
                <p>
                   [<foreign xml:lang="la"><persName ref="#DLCL_CF_PC0462">Jo(annes) [Fischerus</persName>' To. 14 Bibl. Roc.] 
-                     Roffensis Ep. scripsit contra <persName ref="#DLCL_CF_PC0463">Lutheri</persName> errores articulos a Leone X damnatus</foreign>.
+                     Roffensis Ep. scripsit contra <persName ref="#DLCL_CF_PC0463">Lutheri</persName> errores articulos a <persName ref="#DLCL_CF_PC0592">Leone X</persName> damnatus</foreign>.
                </p>
                
                <p>
@@ -216,7 +217,7 @@
                </p>
                
                <p>
-                  <bibl type="print"><foreign xml:lang="la">TIt Calvinistas, Lutheranos et alios</foreign></bibl>. A 
+                  <bibl type="print"><foreign xml:lang="la">It Calvinistas, Lutheranos et alios</foreign></bibl>. A 
                </p>
                
                <p>
@@ -229,6 +230,7 @@
                <salute>Affettuosissimo Servitore e Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
+            
          </div>
       </body>
    </text>
@@ -263,7 +265,7 @@
             </p>
             
             <p>
-               <persName ref="#DLCL_CF_PC0442">Gio. Francesco</persName>, Mogl. <persName ref="#DLCL_CF_PC0445">Paola Malat</persName>. 
+               <persName ref="#DLCL_CF_PC0442">Gio. Francesco</persName>, Mogl. <persName ref="#DLCL_CF_PC0445">Paola Malat.</persName> 
             </p>
             
             <p>
@@ -387,7 +389,7 @@
             </p>
             
             <p>
-               <foreign xml:lang="la"><persName ref="#DLCL_CF_PC0456">Margaritas</persName> fil. <persName ref="#DLCL_CF_PC0442">Jo. Francisco</persName> 
+               <foreign xml:lang="la"><persName ref="#DLCL_CF_PC0456">Margarita</persName> fil. <persName ref="#DLCL_CF_PC0442">Jo. Francisco</persName> 
                   anno 1436 in matrimonium traditur <persName ref="#DLCL_CF_PC0457">Leonello Nicolai Estensis</persName> 
                   Marchese <placeName ref="#DLCL_CF_L0013">Ferrariae</placeName> <persName ref="#DLCL_CF_PC0068">Maffei</persName> pagina</foreign> 
                <del rend="overstrike">756</del> <bibl type="print">758</bibl>.

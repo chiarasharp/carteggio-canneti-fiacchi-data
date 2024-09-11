@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20685/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21115/full/608,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21116/full/633,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21117/full/611,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25079/full/616,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Marzo 1717)">
       <body>
@@ -82,7 +84,7 @@
                Il <persName ref="#DLCL_CF_PC0389">Verdizotti</persName>, ch’è tra i più moderni storici delle cose di <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, 
                scrivendo ch’e’ fu monaco Camaldolese, è credibile che l’abbia appreso tale da più antichi, 
                e da’ manoscritti, de’ quali abbonda molto la <bibl type="print">Storia Veneziana</bibl>; 
-               e non avrà curato lo sbaglio di chi lo fece Canonico di <orgName ref="#DLCL_CF_O0061" cert="high">Porto</orgName>. 
+               e non avrà curato lo sbaglio di chi lo fece Canonico di <orgName ref="#DLCL_CF_O0061" cert="unknown">Porto</orgName>. 
                Quest’è un’errore non seguitato da veruno, anzi né pur’applaudito dal <persName ref="#DLCL_CF_PC0338">Pennotto</persName>, 
                né da’ altri scrittori dell’Ordine Canonico, né dagli Storici Ravennati: 
                La testimonianza di <persName ref="#DLCL_CF_PC0421">Paolo Morosini</persName> è considerabile. 
@@ -92,7 +94,7 @@
                che comprai per tre scudi, e poscia barattai per molto più in altri libri. 
                Potrebbe <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> scrivere all’indefesso <persName ref="#DLCL_CF_PC0006">Padre Filippo Amici</persName>, 
                e per mezzo di lui avere quel passo, dal <bibl type="print">Tomo 2°</bibl> del <persName ref="#DLCL_CF_PC0390">Ramusio</persName>. 
-               Veramente mi par che lo chiami <rs type="person">Monaco di San Michele</rs>. 
+               Veramente mi par che lo chiami <rs type="person">Monaco</rs> di <orgName ref="#DLCL_CF_O0058">San Michele</orgName>. 
                Vi entrerebbe l’anacronismo; e converrebbe ponderar se possa salvarsi. 
             </p>
             
@@ -101,7 +103,8 @@
             <p>
                Oggi hà otto giorni che ricevei l’involto da <placeName ref="#DLCL_CF_L0023">Foligno</placeName>, della cui spedizione la ringrazio. 
                L’<bibl type="print">Opera</bibl> dello <persName ref="#DLCL_CF_PC0260">Sbaraglia</persName> è così piena, e voluminosa, 
-               <foreign xml:lang="la">spissum op</foreign><gap reason="illegible"/>[...] direbbe il nostro <persName ref="#DLCL_CF_PC0054">Fiori</persName> mezzo volgar’ e latino, 
+               <hi rend="underline"><foreign xml:lang="la">spissum op</foreign><gap reason="illegible"/>[...]</hi> 
+               direbbe il nostro <persName ref="#DLCL_CF_PC0054">Fiori</persName> mezzo volgar’ e latino, 
                il quale, se la leggerà, potrà facilmente conoscere non rimaner più che dir di vantaggio 
                per sostenere l’<bibl type="print">Anima de’ Bruti contra i Machinisti</bibl>. 
                Chi l’ha mandata fuori senza indici ha preteso troppo, volendo obbligare i Galantuomini a leggere tutto il libro. 
@@ -164,21 +167,21 @@
                ha già stampato che stà la <bibl type="print">copia della Storia</bibl>: e questa è citata dal <persName ref="#DLCL_CF_PC0378">Clementini</persName>, 
                dal <persName ref="#DLCL_CF_PC0379">Chiaramonti</persName>, e da altri. 
                Gran cosa! 
-               Nessuno ha osservato che la Casa de’ Duchi era la stessa de’ <persName ref="#DLCL_CF_PC0375">Traversari</persName>, 
+               Nessuno ha osservato che la Casa de’ Duchi era la stessa de’ <orgName ref="#DLCL_CF_O0066">Traversari</orgName>, 
                quando hanno scritto di <persName ref="#DLCL_CF_PC0017">San Romualdo</persName>: 
-               e si perdevano in cercar s’era de’ <persName ref="#DLCL_CF_PC0377">Sassi</persName>; o degli <persName ref="#DLCL_CF_PC0376">Onesti</persName>. 
+               e si perdevano in cercar s’era de’ <orgName ref="#DLCL_CF_O0068">Sassi</orgName>; o degli <orgName ref="#DLCL_CF_O0067">Onesti</orgName>. 
             </p>
             
             <closer>
                <salute>L’abbraccio caramente.</salute> 
                <salute>Resto di vero cuore.</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-03-23">23 marzo 1717</date></dateline>
-               <salute>DVPMR</salute>.
+               <salute>DVPMR.</salute>
                <salute>Cordialissimo servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10053_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10053_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25079/full/616,800/0/default.jpg"/>
             
             <postscript>
                <p>

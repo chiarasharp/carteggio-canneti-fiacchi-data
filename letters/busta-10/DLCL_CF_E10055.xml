@@ -52,11 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-18" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20687/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21120/full/588,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21121/full/629,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25082/full/586,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25083/full/618,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 27 Aprile 1717)">
       <body>
@@ -93,7 +96,7 @@
                (avverta ch’è una cosa diversa dall’altra tempo fà stampata; onde convien tenere l’una, e l’altra). 
                In oltre evvi il Ritratto del <persName ref="#DLCL_CF_PC0293">Bernini</persName> da mettere nella 
                di lui <bibl type="print">Vita</bibl> del <persName ref="#DLCL_CF_PC0294">Baldinucci</persName>, 
-               una <bibl type="print">Scrittura stampata in materia d’acque</bibl> spettante a <orgName ref="#DLCL_CF_O0001">cotesto Archivio</orgName> rimasta tra le nostre Carte, 
+               una <bibl type="print">Scrittura stampata in materia d’acque</bibl> spettante a <orgName ref="#DLCL_CF_O0001" cert="unknown">cotesto Archivio</orgName> rimasta tra le nostre Carte, 
                tra le quali trovai altresì un’Istromento di <persName ref="#DLCL_CF_PC0435">Santa Argiride</persName>, che vi ho annesso. 
             </p>
             
@@ -125,10 +128,12 @@
             <closer>
                <salute>A rivederci l’ordinario venturo.</salute> 
                <salute>Son tutto suo.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-04-27">27 Aprile 1717</date></dateline>
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-04-27">27 Aprile 1717</date>.</dateline>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10055_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10055_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25082/full/586,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10055_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25083/full/618,800/0/default.jpg"/>
             
             <postscript>
                <p>

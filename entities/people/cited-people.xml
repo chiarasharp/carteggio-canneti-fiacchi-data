@@ -1299,7 +1299,7 @@
       <occupation>cardinale</occupation>
       <occupation>politico</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC088" sameAs="http://viaf.org/viaf/90381077">
+   <person xml:id="DLCL_CF_PC0088" sameAs="http://viaf.org/viaf/90381077">
       <persName xml:lang="it">
          <forename>Ruggero</forename>
          <surname>Calbi</surname>
@@ -4646,12 +4646,12 @@
       </persName>
       <sex value="m"/>
    </person>
-   <person xml:id="DLCL_CF_PC0342" sameAs="http://viaf.org/viaf/">
+   <person xml:id="DLCL_CF_PC0342" sameAs="http://viaf.org/viaf/61569244">
       <persName xml:lang="de">
          <forename>Daniel</forename>
          <surname>Papebroch</surname>
       </persName>
-      <idno type="VIAF"></idno>
+      <idno type="VIAF">61569244</idno>
       <birth source="https://www.treccani.it/enciclopedia/daniel-papebroch/">
          <date when-iso="1628"/>
          <placeName ref="https://www.geonames.org/2803138/">Anversa</placeName>
@@ -5169,9 +5169,50 @@
       <sex value="m"/>
       <occupation>poeta</occupation>
    </person>
-   
-   
-   
+   <person xml:id="DLCL_CF_PC0375">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>D'Anna</surname>
+         <surname>Sommariva</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0376" sameAs="http://viaf.org/viaf/15657129">
+      <persName xml:lang="it">
+         <forename>Secondo</forename>
+         <forename>Vincenzo</forename>
+         <surname>Lancellotti</surname>
+      </persName>
+      <idno type="VIAF">15657129</idno>
+      <birth source="https://it.wikipedia.org/wiki/Secondo_Lancellotti">
+         <date when-iso="1583-03-19"/>
+         <placeName ref="#DLCL_CF_L0028">Perugia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Secondo_Lancellotti">
+         <date when-iso="1643-01-16"/>
+         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>scrittore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0377" sameAs="http://viaf.org/viaf/88031371">
+      <persName xml:lang="it">
+         <forename>Niccolò</forename>
+         <surname>Toppi</surname>
+      </persName>
+      <idno type="VIAF">88031371</idno>
+      <birth source="https://it.wikipedia.org/wiki/Niccol%C3%B2_Toppi">
+         <date when-iso="1607-05-24"/>
+         <placeName ref="https://www.geonames.org/3178796/">Chieti</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Niccol%C3%B2_Toppi">
+         <date when-iso="1681"/>
+         <placeName ref="#DLCL_CF_L0082">Napoli</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>storico</occupation>
+      <occupation>bibliografo</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0378" sameAs="http://viaf.org/viaf/280406055">
       <persName xml:lang="it">
          <forename>Clemente</forename>
@@ -10888,7 +10929,13 @@
    </person>
    
    
-   
+   <person xml:id="DLCL_CF_PC0820">
+      <persName xml:lang="it">
+         <surname>Ziani</surname>
+      </persName>
+      <sex value="m"/>
+      <occupation>prelato</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0821">
       <persName xml:lang="it">
          <roleName type="religious">San</roleName>
