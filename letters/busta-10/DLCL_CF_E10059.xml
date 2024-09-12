@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-05-07" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20691/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21138/full/595,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21139/full/612,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21146/full/603,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25085/full/612,800/0/default.jpg"/>
    </facsimile>
    <facsimile sameAs="https://classense.unibo.it/iiif/21140/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21141/full/587,800/0/default.jpg"/>
@@ -117,7 +119,7 @@
                Parmi che sia in 4to e spetti a materie di Dogmatica. 
                Ma delli <bibl type="print">due Tomi in foglio</bibl> non ho notizia, né del loro prezzo. 
                Un riverente, e cordiale saluto al <persName ref="#DLCL_CF_PC0121">Padre Lettore Guiccioli</persName>, assicurandolo che non ho deposto il buon cuore di servir la sua Casa, 
-               essendo che il tempo, o termine preso, era <foreign xml:lang="la"><hi rend="underline">ad sollicitandum</hi>, non <hi rend="underline">ad praefiniendum</hi></foreign>. 
+               essendo che il tempo, o termine preso, era <foreign xml:lang="la"><hi rend="underline">ad sollicitandum</hi>, [non] <hi rend="underline">ad praefiniendum</hi></foreign>. 
                L’avranno più presto di quel, che pensano. 
                Godo dell’<bibl type="religious">Officio</bibl> usato in ricordarmene. 
                L’<bibl type="religious">Orazione</bibl> del <persName ref="#DLCL_CF_PC0246">Padre Don Abbondio</persName> sta sul tavolino, ove scrivo. 
@@ -165,7 +167,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10059_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10059_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25085/full/612,800/0/default.jpg"/>
             
             <postscript>
                <p>
@@ -193,7 +195,7 @@
                   <placeName ref="#DLCL_CF_L0105">Moldaviam</placeName>, <placeName ref="#DLCL_CF_L0106">Transilvaniam</placeName>, 
                   et <placeName ref="#DLCL_CF_L0100">Hungariam</placeName> sita est. 
                   Polonis dicta Czarna <hi rend="underline">Rusz</hi> ad differentiam Majoris sive Albae. 
-                  Latine Russos et Ruthenos vocant incolas, quos aRoxolanis originem atque nomen habere, putant. 
+                  Latine Russos et Ruthenos vocant incolas, quos [aRoxolanis] originem atque nomen habere, putant. 
                   Suos aliquando habuit Duces, postmodum Poloniae Regno adi<del rend="overstrike">en</del>ucta. 
                   <placeName ref="#DLCL_CF_L0102">Russia</placeName> Alba sive Major Moscovitici Imperij pars est omnium <placeName ref="#DLCL_CF_L0061">Europae</placeName> Regionum 
                   vastissima inculta ac paludibus silvisque invia <hi rend="underline">Moscovia</hi> a capite suo dicta. 

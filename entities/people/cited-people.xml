@@ -3813,6 +3813,7 @@
    <person xml:id="DLCL_CF_PC0282">
       <persName xml:lang="it">
          <roleName type="religious">Abate</roleName>
+         <forename>Diamante</forename>
          <surname>Montemellini</surname>
       </persName>
       <sex value="m"/>
@@ -5989,6 +5990,7 @@
    <person xml:id="DLCL_CF_PC0437" sameAs="http://viaf.org/viaf/2653161211482540070007">
       <persName xml:lang="it">
          <forename>Bruno</forename>
+         <forename type="nickname">Brunone Bonifacio</forename>
          <surname>Di Querfurt</surname>
       </persName>
       <idno type="VIAF">2653161211482540070007</idno>
@@ -6436,6 +6438,7 @@
          <surname>Maggi</surname>
       </persName>
       <sex value="m"/>
+      <occupation>governatore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0465">
       <persName xml:lang="it">
@@ -7030,6 +7033,7 @@
          <surname>Ferdinando</surname>
       </persName>
       <sex value="m"/>
+      <occupation>principe</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0507" sameAs="http://viaf.org/viaf/90639363">
       <persName xml:lang="it">

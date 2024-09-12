@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-04-29" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20689/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21131/full/574,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21132/full/621,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21133/full/584,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25084/full/613,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 25 Maggio 1717)">
       <body>
@@ -127,7 +129,8 @@
                e il <persName ref="#DLCL_CF_PC0144">Padre Lettore Fondi</persName> potrebbe informarsene dal <persName ref="#DLCL_CF_PC0465">Reverendissimo Mazzotti</persName>, 
                ch’è forse l’unico, che sopravviva di quei, ch’erano a quel tempo in <placeName ref="#DLCL_CF_L0020">Classe</placeName>. 
                Qualche cosa ne ho io inteso dalla b.m. del <persName ref="#DLCL_CF_PC0466">Reverendissimo Zaccarelli</persName>: 
-               certamente la sostanza della verità discorda da quel, che ne scrive il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print">de Cultu SS. Ignotis</bibl>, 
+               certamente la sostanza della verità discorda da quel, 
+               che ne scrive il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print"><foreign xml:lang="la">de Cultu SS. Ignotis</foreign></bibl>, 
                E perciò è necessario formarne un veridico Racconto. 
                A quest’oggetto io dissi che si conservasse la Lapida con ogni cautela; la qual però non istava bene dietro l’Altar maggiore, dopo levatone il Corpo; siccome molto meno 
             </p>
@@ -168,7 +171,7 @@
                <salute>Stia allegramente.</salute> 
                <salute>Mi voglia bene, e preghi Dio per me.</salute> 
                <salute>L’abbraccio di cuore.</salute> 
-               <salute>DVPMR</salute>. 
+               <salute>DVPMR.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-05-25">25 Maggio 1717</date></dateline>
                <salute>Affettuosissimo servitore e Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
@@ -180,7 +183,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10057_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10057_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25084/full/613,800/0/default.jpg"/>
             
             <postscript>
                <p>

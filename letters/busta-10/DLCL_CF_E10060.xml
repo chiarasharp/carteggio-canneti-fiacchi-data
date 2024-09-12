@@ -52,12 +52,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-05-07" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20692/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21143/full/610,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21144/full/625,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21145/full/591,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25086/full/682,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 28 Agosto 1717)">
       <body>
@@ -79,7 +81,7 @@
                Mi sarà cara la <bibl type="print">Scanzia XIX</bibl>. 
                Non sò capire come il <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> abbia più tosto voluto rimanersi in <placeName ref="#DLCL_CF_L0031">Comacchio</placeName> 
                a dispetto della Città, che non lo gradisce, né lo vuole, che andar’a <placeName ref="#DLCL_CF_L0048">Fano</placeName> con tanto più considerabile vantaggio. 
-               Né intendo la chiamata del <persName ref="#DLCL_CF_PC0499" cert="high">Duca della Mirandola</persName>, 
+               Né intendo la chiamata del <persName ref="#DLCL_CF_PC0499" cert="unknown">Duca della Mirandola</persName>, 
                ch’è fuor del suo stato, in <placeName ref="#DLCL_CF_L0046">Ispagna</placeName> Cavallerizzo di <persName ref="#DLCL_CF_PC0500">Filippo V</persName>. 
                Ebbi nuova dell’andata a <placeName ref="#DLCL_CF_L0107">Torino</placeName> del <persName ref="#DLCL_CF_PC0039">Signor Cicognini</persName>. 
             </p>
@@ -103,7 +105,7 @@
             
             <p>
                Ho necessità che subito <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi avvisi 
-               che cosa si trova di <persName ref="#DLCL_CF_PC0501">Monsignor Gianfrancesco Rota</persName> nella <bibl type="print">Miscellanea de’ Concordi</bibl> tra’ versi latini. 
+               che cosa si trova di <persName ref="#DLCL_CF_PC0501">Mon[signor] Gianfrancesco Rota</persName> nella <bibl type="print">Miscellanea de’ Concordi</bibl> tra’ versi latini. 
                Basta copiar’ i titoli de’ versi. 
                Ancor mi trascriva la mia dedicatoria a lui della Centuria degli <bibl type="print">Epigrammi</bibl>, 
                e osservi se vi sia alcun’epigramma in lode di esso sul principio della Centuria. 
@@ -150,7 +152,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10060_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10060_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25086/full/682,800/0/default.jpg"/>
             
             <postscript>
                <p>

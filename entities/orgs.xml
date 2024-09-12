@@ -542,7 +542,6 @@
    </org>
    <org xml:id="DLCL_CF_O0055" type="family">
       <orgName xml:lang="it">Gonzaga</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0056" type="university" sameAs="http://viaf.org/viaf/150834169">
       <orgName xml:lang="it">Università di Perugia</orgName>
@@ -666,19 +665,21 @@
    </org>
    <org xml:id="DLCL_CF_O0074" type="family">
       <orgName xml:lang="it">Malpaghini</orgName>
-      <desc></desc>
    </org>
-   <org xml:id="DLCL_CF_O0075" type="library">
-      <orgName xml:lang="it">Biblioteca di San Mattia</orgName>
-      <desc></desc>
+   <org xml:id="DLCL_CF_O0075" type="library" source="https://archiviopossessori.it/archivio/607-monastero-di-san-mattia">
+      <orgName xml:lang="it">Biblioteca del Monastero di San Mattia</orgName>
+      <location>
+         <country key="IT"/>
+         <address>
+            <settlement ref="https://www.geonames.org/3172456/">Murano</settlement>
+         </address>
+      </location>
    </org>
    <org xml:id="DLCL_CF_O0076">
       <orgName xml:lang="it">Casa da Lezze</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0077" type="archive" sameAs="http://viaf.org/viaf/154227577">
       <orgName xml:lang="it">Archivio Segreto Vaticano</orgName>
-      <desc></desc>
       <idno type="VIAF">154227577</idno>
       <location>
          <country key="VA"/>
@@ -699,7 +700,6 @@
    </org>
    <org xml:id="DLCL_CF_O0079" type="library" sameAs="http://viaf.org/viaf/158709775" source="https://www.bncf.firenze.sbn.it/biblioteca/origine-e-sviluppo-della-biblioteca-magliabechiana/#cap-1">
       <orgName xml:lang="it">Biblioteca Magliabechiana</orgName>
-      <desc></desc>
       <idno type="VIAF">158709775</idno>
       <location>
          <country key="IT"/>

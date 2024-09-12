@@ -47,6 +47,7 @@
          </correspDesc>
          <langUsage>
             <language ident="it"/>
+            <language ident="la"/>
          </langUsage>
          <settingDesc>
             <xi:include href="../../entities/places.xml"/>
@@ -59,12 +60,14 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-05-08" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20693/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21147/full/594,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21148/full/625,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21149/full/583,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25087/full/623,800/0/default.jpg"/>
    </facsimile>
    <facsimile sameAs="https://classense.unibo.it/iiif/20694/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21150/full/594,800/0/default.jpg"/>
@@ -89,7 +92,7 @@
             
             <p>
                Copiosissime grazie rendo dell’amorosa cordialità della <rs type="person" ref="#DLCL_CF_PC0002">Paternità Vostra</rs> 
-               per le notizie tutte dalla <bibl type="print">Miscellanea</bibl>, 
+               [per] le notizie tutte dalla <bibl type="print">Miscellanea</bibl>, 
                di cui mi ha favo<gap reason="illegible"/>[...] <gap reason="illegible"/>[...]vono per adornare 
                il voto del Reverendissimo <persName ref="#DLCL_CF_PC0132">Padre Abate Grandi</persName> da lui fatte in approvazione 
                della <bibl type="print">Vita di Monsignore Ruota</bibl> scritta dal <persName ref="#DLCL_CF_PC0244">Signor Dottor Francesco Arisi</persName>, 
@@ -135,14 +138,15 @@
                che accrescono la <bibl type="print">Raccolta Ambrosiana</bibl>: e perché gravissima è la spesa, che vi và, né può reggervi la mia povertà, 
                Santa Beatitudine ha fatto pagar l’<rs type="person">Archivista</rs>, il <rs type="person">Custode</rs>, e il <rs type="person">Copista</rs>, a spese proprie. 
                Vedrà la mia lettera al <rs type="person" ref="#DLCL_CF_PC0504">Papa</rs> e una lettera, che narra il fatto, 
-               di Monsignor Lanc<gap reason="illegible"/>[...] diretta al <persName ref="#DLCL_CF_PC0132">Padre Abate Grandi</persName>, al quale son molto tenuto. 
+               di <persName ref="#DLCL_CF_PC0512">Monsignor Lanc</persName><gap reason="illegible"/>[...] diretta al <persName ref="#DLCL_CF_PC0132">Padre Abate Grandi</persName>, 
+               al quale son molto tenuto. 
             </p>
             
             <p>
                La ringrazio della notizia del <persName ref="#DLCL_CF_PC0505">Padre Giulio Negri</persName>, 
                che già io sapeva aver’in ordine la <bibl type="print">Storia degli Scrittori Fiorentini</bibl>, 
                opera cominciata, e abbozzata dal <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, e finita da lui, nelle mani del quale capitarono gli scritti. 
-               Pensava pubblicarla a spese del <persName ref="#DLCL_CF_PC0506">Principe Ferdinando di Toscana</persName>, di cui godeva la grazia. 
+               Pensava pubblicarla a spese del <persName ref="#DLCL_CF_PC0506">Principe Ferdinando</persName> di <placeName ref="#DLCL_CF_L0079">Toscana</placeName>, di cui godeva la grazia. 
             </p>
             
             <pb xml:id="DLCL_CF_E10061_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21149/full/583,800/0/default.jpg"/>
@@ -185,7 +189,7 @@
             <postscript>
                <p>
                   Al Molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0109">Savignano</placeName> per <orgName ref="#DLCL_CF_O0079">Ribano</orgName>
+                  <placeName ref="#DLCL_CF_L0109">Savignano</placeName> per <orgName ref="#DLCL_CF_O0117">Ribano</orgName>
                </p>
             </postscript>
          </div>
@@ -371,7 +375,7 @@
                neque tandem <persName ref="#DLCL_CF_PC0001">Patrem Abbatem Cannetum</persName>, praeter collectionis <gap reason="illegible"/>[...]ram et vigilias, 
                impensa gravari vellet, statim pecuniam Amanuensibus a Sacri Palatij Praefecto numerari iussit, Tibique a me exempla ipsa literarum iam descripta, 
                quod facio, mittenda mandavit. 
-               Habes igitur non solum <gap reason="illegible"/>[...] in te, et Abbatem Cannetum  observantiae testimonium; 
+               Habes igitur non solum <gap reason="illegible"/>[...] in te, et <persName ref="#DLCL_CF_PC0001">Abbatem Cannetum</persName> observantiae testimonium; 
                sed expeditum quoque Sanctissimi Pontificis ad praeclara opera ponenda, et iuvanda studij et largitatis argumentum. 
                Vale, et <persName ref="#DLCL_CF_PC0001">Abbatem Cannetum</persName> verbis meis salvere iube. 
             </p>
@@ -399,7 +403,7 @@
             <p>   
                Quam cumulato gaudio eximia sane <persName ref="#DLCL_CF_PC0504">Sanctissimi Pontificis Clementis XI</persName> munificentia me affecerit, 
                Tibi, Vir Clarissime, facilius erit perspicere, quam ut ego verbis explicare valeam. 
-               Nobile sane Pontificiae liberalitatis donum accepi, quod ut nostra, precesque non sperare modo, non petere, 
+               Nobile sane Pontificiae liberalitatis donum accepi, quod u[t] nostra, precesque non sperare modo, non petere, 
                sed nec sibi fingere potuisse Maximi autem, et incomparabilis muneris loco tum apud me habetur modo, 
                tum apud omnes nunquam non habebitur praeclarum adeo Doctissimi Pontificis de <persName ref="#DLCL_CF_PC0177">Ambrosij</persName> Camaldulensis eruditione, 
                rebusque gestis testimonium; quum adornan<gap reason="illegible"/>[...] eiusdem Epistolarum editioni nedum 
