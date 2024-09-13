@@ -39,6 +39,7 @@
          </correspDesc>
          <langUsage>
             <language ident="it"/>
+            <language ident="la"/>
          </langUsage>
          <settingDesc>
             <xi:include href="../../entities/places.xml"/>
@@ -51,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20699/manifest">
@@ -74,7 +76,8 @@
             </opener>
                                    
             <p>
-               Io non curo punto saper quel che mediti il <persName ref="#DLCL_CF_PC0436">Padre Laderchi</persName>, e lascio bel volentieri questo pensiero al <persName ref="#DLCL_CF_PC0054">Padre Lettore Fiori</persName>. 
+               Io non curo punto saper quel che mediti il <persName ref="#DLCL_CF_PC0436">Padre Laderchi</persName>, 
+               e lascio bel volentieri questo pensiero al <persName ref="#DLCL_CF_PC0054">Padre Lettore Fiori</persName>. 
                Conferiscano essi tra loro i proprj studj, e si facciano onore colla dottrina, coll’erudizione, e con l’eloquenza. 
                Io scrissi intorno a ciò, ed era dispostissimo a scrivere altre lettere, finché si fosse posta al buon lume della verità la Storia dell’<persName ref="#DLCL_CF_PC0435">Argiride</persName>, 
                che parmi guasta sì appresso il <persName ref="#DLCL_CF_PC0342">Papebrochio</persName>, 
@@ -115,7 +118,8 @@
                e in conto di rara gioia, quantunque non sia unica, siccome né pure unica è quella del <persName ref="#DLCL_CF_PC0526">Signor Cavaliere Aulla</persName>. 
                Mi è venuto alle mani l’<bibl type="manuscript">Indice</bibl> imperfetto di cotesti Codici a penna. 
                Voglio che lo finiamo: ed ella lo avrà. 
-               Frattanto mi dia più distinto, e sicuro ragguaglio de’ <bibl type="manuscript">Manoscritti</bibl> di <persName ref="#DLCL_CF_PC0261">Piero Angelio</persName>, e di <persName>Antonio</persName>.
+               Frattanto mi dia più distinto, e sicuro ragguaglio de’ <bibl type="manuscript">Manoscritti</bibl> di <persName ref="#DLCL_CF_PC0261">Piero Angelio</persName>, 
+               e di <persName>Antonio</persName>.
             </p>
             
             <p>
@@ -192,53 +196,52 @@
             <pb xml:id="DLCL_CF_E10067_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21168/full/590,800/0/default.jpg"/>
             
             <p>
-               <foreign xml:lang="la">Casus resolvendi a Reverendis Patribus Theologis</foreign>
+              Casus resolvendi a Reverendis Patribus Theologis
             </p>
             
             <p>
-               <foreign xml:lang="la">Primus Casus</foreign>
+               Primus Casus
             </p>
             
             <p>
-               <foreign xml:lang="la">
                   <rs type="person">Pater Vitellescus</rs> e societate Iesu in Oratione habita de Annulo <del rend="overstrike">B</del>MV 
                   in <orgName ref="#DLCL_CF_O0082">Cathedrali Perusina</orgName>, die festo Responsationis eiusdem: 
                   fabulas plurimas historicae veritati, ac Traditioni discordes, fuit commentus. 
                   Quaeritur, an peccatum mortale commiserit.
-               </foreign> 
             </p>
             
             <p>
-               <foreign xml:lang="la">Secundus Casus</foreign>
+               Secundus Casus
             </p>
             
             <p>
-               <foreign xml:lang="la">Idem inanis gloriae vento nimium distentus: plenis buccis, atque ore rotundo, gravia mendacia in laudem Sancti Annuli, Populique auscultantis: 
+               Idem inanis gloriae vento nimium distentus: plenis buccis, atque ore rotundo, gravia mendacia in laudem Sancti Annuli, Populique auscultantis: 
                et è contra in Sanctae Domus Lauretanae vilitatem, procaciter, inepte, ne dicam impie, eructavit. 
-               Quaeritur, quae, et quot peccata commiserit.</foreign>
+               Quaeritur, quae, et quot peccata commiserit.
             </p>
             
             <p>
-               <foreign xml:lang="la">Tertius Casus</foreign>
+               Tertius Casus
             </p>
             
             <p>
-               <foreign xml:lang="la">Idem in Oratione constanter asserendo, <rs type="person">Populum Perusinum</rs> et sacrum Annulum, spiritualem affinitatem contraxisse cum Sanctissima Triade: 
+               Idem in Oratione constanter asserendo, <rs type="person">Populum Perusinum</rs> et sacrum Annulum, spiritualem affinitatem contraxisse cum Sanctissima Triade: 
                adeoque eosdem Gratiae divinae thesauros assecutum, ac Deiparam. 
-               Quaeritur, num, nota saltem temeritatis pungendus videatur.</foreign> 
+               Quaeritur, num, nota saltem temeritatis pungendus videatur. 
             </p>
             
             <p>
-               <foreign xml:lang="la">Quartus Casus</foreign>
+               Quartus Casus
             </p>
             
             <p>
-               <foreign xml:lang="la">Priores, sive Administratores Societatis Annuli, qui ex Testamento expendere debent in solemnitate eiusdem Sanctae Reliquiae summam scutorum 40; 
+               Priores, sive Administratores Societatis Annuli, qui ex Testamento expendere debent in solemnitate eiusdem Sanctae Reliquiae summam scutorum 40; 
                pro mercede praedictae Orationis, dimidiatam (ut fertur) pecuniae quantitatem in Jesuitam erogarunt. 
-               Quaeritur, an contrafecerint piae Testatoris intentioni; et sua Reverentia teneatur ad restitutionem stipendij male percepti.</foreign>
+               Quaeritur, an contrafecerint piae Testatoris intentioni; et sua Reverentia teneatur ad restitutionem stipendij male percepti.
             </p>
             
             <pb xml:id="DLCL_CF_E10067_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/24768/full/618,800/0/default.jpg"/>
+            
          </div>
       </body>
    </text>

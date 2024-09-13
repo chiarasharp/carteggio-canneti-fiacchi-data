@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20701/manifest">
@@ -80,7 +81,7 @@
                si accompagnasse con altro simile, in cui si conservasse l’<bibl type="print">Elogio</bibl> del <persName ref="#DLCL_CF_PC0128">Signor Abate Rondoni</persName>, 
                si farebbe all’Autore quella stessa dimostrazione, 
                che fà nella propria Biblioteca l’<persName ref="#DLCL_CF_PC0045">Eminentissimo Orsini</persName>: eccone annessa l’autentica, che le raccomando custodire, o a rimandare. 
-               Né d’altro intende la lettera di Sua Eminenza. 
+               Né d’altro intende la lettera di <rs type="person">Sua Eminenza</rs>. 
             </p>
             
             <p>
@@ -132,7 +133,24 @@
             
             <pb xml:id="DLCL_CF_E10069_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/23195/full/582,800/0/default.jpg"/>
             
+            <postscript>
+               <p>
+                  <persName ref="#DLCL_CF_PC0535">Monsignore Lercari</persName> nostro Governatore è il 
+                  Prediletto del <persName ref="#DLCL_CF_PC0538">Signore Cardinale Orsini</persName>, che lo considera come gli fosse Nipote. 
+                  Esso si è stretto con <persName ref="#DLCL_CF_PC0094">Monsignore de’ Buoi</persName> nostro vescovo, ottimo, e cordial Bolognese; 
+                  ed io entro continuamente per terzo, in ogni luogo. 
+                  In somma si vive da per tutto.
+               </p>
+            </postscript>
+            
             <pb xml:id="DLCL_CF_E10069_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25092/full/623,800/0/default.jpg"/>
+            
+            <postscript>
+               <p>
+                  Al Molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese
+                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>                 
+               </p>
+            </postscript>
             
          </div>
       </body>

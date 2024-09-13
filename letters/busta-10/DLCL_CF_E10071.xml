@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-09" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20703/manifest">
@@ -59,6 +60,10 @@
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21173/full/627,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21174/full/595,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/25094/full/625,800/0/default.jpg"/>
+   </facsimile>
+   <facsimile sameAs="https://classense.unibo.it/iiif/20702/manifest">
+      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21171/full/597,800/0/default.jpg"/>
+      <graphic n="1v" url="https://classense.unibo.it/iiif/2/25093/full/625,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 12 Febbraio 1718)">
       <body>
@@ -75,7 +80,8 @@
                E con esso và accompagnata la <bibl type="print">Storia</bibl> del <persName ref="#DLCL_CF_PC0186">Corno</persName>? 
                Oh mi arriva all’improvviso, e da’ corni bisogna guardarsi. 
                Suppongo che non porti spesa, perché non tornerebbe il conto. 
-               E pure ho comprato ier l’altro un terzo Leggendone del <persName ref="#DLCL_CF_PC0536">Farulli</persName>, che ha per titolo = <bibl type="print">Annali d’Arezzo</bibl> = e non vagliono un corno. 
+               E pure ho comprato ier l’altro un terzo Leggendone del <persName ref="#DLCL_CF_PC0536">Farulli</persName>, 
+               che ha per titolo = <bibl type="print">Annali d’Arezzo</bibl> = e non vagliono un corno. 
             </p>
             
             <p>
@@ -166,23 +172,8 @@
    <text type="attachment" xml:id="DLCL_CF_E10071_A01" n="Canneti a Fiacchi (Perugia, 12 Febbraio 1718) - Allegato 1">
       <body>
          <div type="transcription">
-            <p>
-               <persName ref="#DLCL_CF_PC0535">Monsignore Lercari</persName> nostro Governatore è il 
-               Prediletto del <persName ref="#DLCL_CF_PC0538">Signore Cardinale Orsini</persName>, che lo considera come gli fosse Nipote. 
-               Esso si è stretto con <persName ref="#DLCL_CF_PC0094">Monsignore de’ Buoi</persName> nostro vescovo, ottimo, e cordial Bolognese; 
-               ed io entro continuamente per terzo, in ogni luogo. 
-               In somma si vive da per tutto.
-            </p>
-            <p>
-               Al Molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese
-               <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>                 
-            </p>
-         </div>
-      </body>
-   </text>
-   <text type="attachment" xml:id="DLCL_CF_E10071_A02" n="Canneti a Fiacchi (Perugia, 12 Febbraio 1718) - Allegato 2">
-      <body>
-         <div type="transcription">
+            
+            <pb xml:id="DLCL_CF_E10071_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21171/full/597,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0001">Reverendissimo Padre</rs></salute>
@@ -205,7 +196,9 @@
                <salute>DVP Reverendissima</salute>
                <dateline><placeName ref="#DLCL_CF_L0070">Benevento</placeName> <date when-iso="1718-01-07">7 gennaio 1718</date></dateline>
                <salute>Affettuosissimo</salute>
-            </closer>   
+            </closer> 
+            
+            <pb xml:id="DLCL_CF_E10071_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25093/full/625,800/0/default.jpg"/>
 
          </div>
       </body>

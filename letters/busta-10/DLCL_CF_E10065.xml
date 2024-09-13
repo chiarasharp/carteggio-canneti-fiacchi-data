@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-03" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-12" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20697/manifest">
@@ -74,12 +75,14 @@
                la <bibl type="manuscript">licenza de’ libri proibiti</bibl> di cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
                da trasmettersi a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>. 
                Giunta che sia, le raccomando assicurare quel foglio in modo che si conservi bene, e non venga a perire. 
-               Si tratta di un’ampissimo privilegio illimitato, ed effrenato sì quanto al tempo, sì quanto ad ogni qualunque sorta di libri. 
+               Si tratta di un’ampissimo privilegio illimitato, ed effrenato sì quanto al tempo, [sì] quanto ad ogni qualunque sorta di libri. 
             </p>
             
             <p>
-               Quanto al <bibl type="religious">Calendario</bibl>, non intendo come si supponga aver’io mai voluto escludere la Commemorazione de’ semplici dalla Domenica della Trinità, ch’è festa di 2da Classe. 
-               L’anno 1707 cadde questa festa nel dì 19 di Giugno: e parmi che in tal giorno si facesse commemorazione de’ <persName ref="#DLCL_CF_PC0515">Santi Gervasio</persName> e <persName ref="#DLCL_CF_PC0516">Protasio</persName>, 
+               Quanto al <bibl type="religious">Calendario</bibl>, non intendo come si supponga aver’io mai voluto escludere la Commemorazione de’ semplici dalla Domenica della Trinità, 
+               ch’è festa di 2da Classe. 
+               L’anno 1707 cadde questa festa nel dì 19 di Giugno: e parmi che in tal giorno si facesse commemorazione 
+               de’ <persName ref="#DLCL_CF_PC0515">Santi Gervasio</persName> e <persName ref="#DLCL_CF_PC0516">Protasio</persName>, 
                de’ quali per altro noi non facciamo alcuna memoria, per esser quello il giorno consecrato al Santo Padre nostro con rito di prima classe. 
                Di grazia veda se può trovare copia del <bibl type="religious">Calendario</bibl> di quell’anno. 
                Osservo che l’anno 1714 in tal festa al dì 27 di Maggio, fu notato = <foreign xml:lang="la">De San Joanne, Papa et Mart. nihil hoc anno</foreign> = ma stimo che fosse errore. 
@@ -88,7 +91,8 @@
             </p>
             
             <p>
-               Chi ha curiosità di sapere donde io abbia cavato il <bibl type="religious">decreto</bibl> della <orgName ref="#DLCL_CF_O0012">Congregazione de’ Riti</orgName> intorno al doversi incensar la Croce, 
+               Chi ha curiosità di sapere donde io abbia cavato il <bibl type="religious">decreto</bibl> della <orgName ref="#DLCL_CF_O0012">Congregazione de’ Riti</orgName> 
+               intorno al doversi incensar la Croce, 
                può soddisfarsi con far capo alla Segreteria di quella <orgName ref="#DLCL_CF_O0012">Sacra Congregazione</orgName>. 
                Per altro io né mi ricordo, né son tenuto a ricordarmi da qual libro sia stato cavato. 
                So indubitatamente che non l’ho finto. 
@@ -162,7 +166,7 @@
             
             <closer>
                <salute>Resto con tutto lo spirito.</salute>
-               <salute>DVPMR</salute>.
+               <salute>DVPMR.</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1718-01-22">22 Gennaio 1718</date></dateline>
                <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

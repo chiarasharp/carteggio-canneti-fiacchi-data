@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-03" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-12" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20696/manifest">
@@ -118,7 +119,7 @@
                Pure possono essere anco <bibl type="print">epistole</bibl>, ed <bibl type="print">Orazioni</bibl>. 
                La più rara cosa sarebbe, se si scoprisse, l’<bibl type="print">Orazione</bibl> composta in greco da dirsi nell’arrivo 
                de’ Greci a <placeName ref="#DLCL_CF_L0024">Venezia</placeName>. 
-               Non l’abbiamo se non latina, e questa pure è molto rara. 
+               Non l’abbiamo se <bibl type="print">non latina</bibl>, e questa pure è molto rara. 
             </p>
             
             <p>
@@ -135,7 +136,7 @@
             <closer>
                <salute>L’abbraccio con tutto lo spirito e resto.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1718-01-18">18 Gennaio 1718</date>.</dateline>
-               <salute>DVPMR</salute>.
+               <salute>DVPMR.</salute>
                <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>

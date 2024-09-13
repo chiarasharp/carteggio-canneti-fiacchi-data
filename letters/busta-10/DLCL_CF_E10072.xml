@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20704/manifest">
@@ -84,7 +85,7 @@
                Passiamo a’ Diplomi. 
                L’intenzione di provar’ i beni di prima erezione dee fondarsi sulla Donazione 
                dell’<persName ref="#DLCL_CF_PC0539">Arcivescovo Gualtieri</persName> fatta al <orgName>Sacr’Eremo</orgName>. 
-               In giudicio dovrebbe bastar nel caso nostro la stampa, che ne abbiamo nella <bibl type="print">2a parte del Fortunio</bibl>. 
+               In giudicio dovrebbe bastar nel caso nostro la stampa, che ne abbiamo nella <bibl type="print">2a parte</bibl> del <persName ref="#DLCL_CF_PC0319">Fortunio</persName>. 
                E se più si richiede, facciasi capo all’<orgName>Archivio del Sacr’Eremo</orgName> sopradetto, ove mi persuado senza dubbio che troverassi l’originale. 
             </p>
             
@@ -108,14 +109,14 @@
                onde la <bibl type="print">Bolla</bibl>, che si hà alle mani, sia veramente del <persName ref="#DLCL_CF_PC0540">Quarto Alessandro</persName>, 
                e del <persName ref="#DLCL_CF_PC0542">Terzo</persName> sia stato confermato il <bibl type="print">Diploma</bibl> 
                da <persName ref="#DLCL_CF_PC0543">Urbano III</persName> e <persName ref="#DLCL_CF_PC0406">Innocenzio III</persName>; 
-               i quali ressero la Chiesa ne’ tempi di mezzo, tra i sopradetti due Alessandri. 
+               i quali ressero la Chiesa ne’ tempi di mezzo, tra i sopradetti <persName ref="#DLCL_CF_PC0542 #DLCL_CF_PC0540">due Alessandri</persName>. 
                Che il nostro Storico nomini il <bibl type="print">diploma Pontificio</bibl> sopracitato di <persName ref="#DLCL_CF_PC0542">Alessandro III</persName>; 
                io non me ne meraviglio. 
                Non è l’unico strafalcione del <persName ref="#DLCL_CF_PC0319">Fortunio</persName>, 
                di cui non mi fiderei mai in una stretta urgenza di voler trovare la verità, punto né poco. 
                Al piombo io credo, quando non apparisca nel cordone sospetto che sia stato da una pergamena trasportato ad un’altra. 
                Ces<gap reason="illegible"/>[...] tal sospetto, bisogna prestarvi tutta la fede. 
-               Ma avverta che né pur la mancanza del piombo basterebbe a toglier’il credito alla <gap reason="illegible"/>, quando per altro non sia sospetta. 
+               Ma avverta che né pur la mancanza del piombo basterebbe a toglier’il credito alla <bibl type="print">Bolla</bibl>, quando per altro non sia sospetta. 
                Vi son le Decisioni chiare della Ruota Romana. 
             </p>
             

@@ -710,15 +710,12 @@
    </org>
    <org xml:id="DLCL_CF_O0080">
       <orgName xml:lang="it">Suprema Inquisizione</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0081">
       <orgName xml:lang="it">Studio Fiorentino</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0082" type="church">
       <orgName xml:lang="it">Cattedrale di Perugia</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -728,11 +725,9 @@
    </org>
    <org xml:id="DLCL_CF_O0083" type="academy">
       <orgName xml:lang="it">Accademia di San Gregorio</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0084">
       <orgName xml:lang="it">Casa Guiccioli</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0085" type="church" source="https://it.wikipedia.org/wiki/Chiesa_ed_ex_monastero_di_Santa_Teresa_degli_Scalzi">
       <orgName xml:lang="it">Chiesa di Santa Teresa de' Carmelitani Scalzi</orgName>
