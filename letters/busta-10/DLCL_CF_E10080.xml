@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-13" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20712/manifest">
@@ -73,7 +74,7 @@
                Io vidi l’altro giorno un bellissimo <persName ref="#DLCL_CF_PC0172">Santo Agostino</persName> 
                <bibl type="print"><foreign xml:lang="la">de Civitate Dei</foreign></bibl> stampato in <placeName ref="#DLCL_CF_L0008">Roma</placeName> l’anno 1467; 
                cioè a dire tre anni avanti il famoso, che così abbiamo, altresì di <placeName ref="#DLCL_CF_L0008">Roma</placeName>, 
-               <hi rend="underline"><foreign xml:lang="la">in Domo Petri de Maximo</foreign></hi>. 
+               <bibl type="print"><hi rend="underline"><foreign xml:lang="la">in Domo Petri de Maximo</foreign></hi></bibl>. 
                Non si appose il celebre <persName ref="#DLCL_CF_PC0579">Montfaucon</persName>, 
                il quale nel suo <bibl type="print">Diario Italico</bibl> francamente scrisse che cotesto de’ Massimi, 
                dell’anno 1470 è della prima edizione, che se ne sia fatta. 

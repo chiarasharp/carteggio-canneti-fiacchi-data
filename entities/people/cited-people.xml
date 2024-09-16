@@ -7680,24 +7680,24 @@
       <sex value="m"/>
       <occupation>filologo</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0551" sameAs="http://viaf.org/viaf/">
+   <person xml:id="DLCL_CF_PC0551" sameAs="http://viaf.org/viaf/10185103">
       <persName xml:lang="it">
          <roleName type="religious">Padre Don</roleName>
          <forename>Mariano</forename>
          <surname>Armellini</surname>
       </persName>
-      <idno type="VIAF"></idno>
-      <birth source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <idno type="VIAF">10185103</idno>
+      <birth source="https://it.wikipedia.org/wiki/Mariano_Armellini_(abate)">
+         <date when-iso="1662-12-10"/>
+         <placeName ref="https://www.geonames.org/3183089/">Ancona</placeName>
       </birth>
-      <death source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <death source="https://it.wikipedia.org/wiki/Mariano_Armellini_(abate)">
+         <date when-iso="1737-05-04"/>
+         <placeName ref="#DLCL_CF_L0023">Foligno</placeName>
       </death>
       <sex value="m"/>
-      <occupation></occupation>
-      <occupation></occupation>
+      <occupation>abate</occupation>
+      <occupation>letterato</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0552" sameAs="http://viaf.org/viaf/41145304390078571901">
       <persName xml:lang="it">

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-11" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20705/manifest">
@@ -91,7 +92,7 @@
             <p>
                Il <bibl type="print">Catalogo delle Opere</bibl> <rs type="person" ref="#DLCL_CF_PC0521">dell’uno</rs>, 
                e dell’altro <persName ref="#DLCL_CF_PC0522">Pico</persName> concorda co’ i <bibl type="print">Tomi</bibl> da me acquistati. 
-               Solo vi manca nel fine del Tomo 2° il <bibl type="print">Trattato <foreign xml:lang="la">de Reformandis moribus</foreign></bibl>, 
+               Solo vi manca nel fine del <bibl type="print">Tomo 2° il Trattato <foreign xml:lang="la">de Reformandis moribus</foreign></bibl>, 
                di <persName ref="#DLCL_CF_PC0522">Giovanfrancesco</persName>. 
                Ma in fine del <bibl type="print">Tomo primo dell’Opere</bibl> di <persName ref="#DLCL_CF_PC0521">Giovanni</persName> 
                stà aggiunta l’<bibl type="print">Opera Cabalistica</bibl> del <persName ref="#DLCL_CF_PC0525">Reuclino</persName>, ch’è stimatissima, e rara al maggior segno. 
@@ -118,7 +119,7 @@
                Con quest’ordinario medesimo ho la lettera da <placeName ref="#DLCL_CF_L0001">Cremona</placeName>, 
                del <persName ref="#DLCL_CF_PC0244">Signor Dottor Arisi</persName>, in data delli 24 febbraio, 
                che suppone aver consegnate al <persName ref="#DLCL_CF_PC0528">Padre Binda</persName> l’<bibl type="print">Opera</bibl> 
-               del <persName ref="#DLCL_CF_PC0528">Capra</persName> partito al principio della precedente settimana, per me, 
+               del <persName ref="#DLCL_CF_PC0423">Capra</persName> partito al principio della precedente settimana, per me, 
                e per il <persName ref="#DLCL_CF_PC0132">Reverendissimo Grandi</persName>. 
                Si sarà ingannato. 
             </p>

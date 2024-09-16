@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-12" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20708/manifest">
@@ -129,7 +130,7 @@
                Fin qui all’ultima di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> che ricevo oggi. 
                Quanto all’altra precedente, restai libero dalla sollecitudine provata 
                nel veder differito il ricapito della <bibl type="manuscript">Licenza</bibl> della <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
-               la quale io con premura, ma inutilmente raccoman- 
+               la quale io con premura, ma inutilmente raccoman<pc force="inter">-</pc>
             </p>
             
             <pb xml:id="DLCL_CF_E10076_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21188/full/582,800/0/default.jpg"/>

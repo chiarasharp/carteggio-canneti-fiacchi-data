@@ -731,7 +731,6 @@
    </org>
    <org xml:id="DLCL_CF_O0085" type="church" source="https://it.wikipedia.org/wiki/Chiesa_ed_ex_monastero_di_Santa_Teresa_degli_Scalzi">
       <orgName xml:lang="it">Chiesa di Santa Teresa de' Carmelitani Scalzi</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -741,11 +740,9 @@
    </org>
    <org xml:id="DLCL_CF_O0086" type="church">
       <orgName xml:lang="it">Chiesa della Sapienza Vecchia</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0087" type="cathedral">
       <orgName xml:lang="it">Duomo di Volturara</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0088" type="university" sameAs="http://viaf.org/viaf/126121637">
       <orgName xml:lang="it">Regia Università di Torino</orgName>
@@ -1167,6 +1164,14 @@
          <country key="IT"/>
       </location>
    </org>
-   
+   <org xml:id="DLCL_CF_O0146" type="family">
+      <orgName xml:lang="it">Volpi</orgName>
+   </org>
+   <org xml:id="DLCL_CF_O0147" type="family">
+      <orgName xml:lang="it">Mannucci</orgName>
+   </org>
+   <org xml:id="DLCL_CF_O0148" type="family">
+      <orgName xml:lang="it">Stefani</orgName>
+   </org>
    
 </listOrg>

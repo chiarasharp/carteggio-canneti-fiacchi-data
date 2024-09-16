@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-12" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20710/manifest">
@@ -70,7 +71,7 @@
             </opener>
             
             <p>
-               Godo che siano costà giunte le <bibl type="print">Opere</bibl> del <persName>Capra</persName> legate. 
+               Godo che siano costà giunte le <bibl type="print">Opere</bibl> del <persName ref="#DLCL_CF_PC0287 #DLCL_CF_PC0423" cert="unknown">Capra</persName> legate. 
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> sul frontispizio scriva 
                che sono state a me donate dall’<hi rend="underline">Eruditissimo, ed Ottimo Amico <persName ref="#DLCL_CF_PC0244">Francesco Arisi</persName></hi>. 
                E le riponga in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, sostituendole al <bibl type="print">Tomo scarso</bibl>, che vi è dello stesso Autore. 
@@ -102,7 +103,7 @@
                vi da <placeName ref="#DLCL_CF_L0005">Faenza</placeName>, che feci già 27 o 28 anni fa. 
                Appena ne <gap reason="illegible"/>[...] specie, come di un sogno, per ravvisarle mie. 
                È stata gran sincerità di chi le avea in mano, e le ha messe fuor col mio, 
-               quando a man salva e’ poteva mettervi il suo, in <gap reason="illegible"/>...]po che io non ne conservo copia, anzi né pur memoria alcuna. 
+               quando a man salva e’ poteva mettervi il suo, in <gap reason="illegible"/>[...]po che io non ne conservo copia, anzi né pur memoria alcuna. 
                Il <persName ref="#DLCL_CF_PC0575">Signor Zappata</persName> ha fatte le annotazioni a Vescovi di <placeName ref="#DLCL_CF_L0031">Comacchio</placeName>; 
                e vi ha inserito il nostro <persName ref="#DLCL_CF_PC0123">Onorato</persName>, aggiungendo che da me provviene la notizia. 
             </p>
