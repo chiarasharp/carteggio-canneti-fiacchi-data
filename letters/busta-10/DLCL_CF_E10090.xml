@@ -53,6 +53,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-17" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20722/manifest">
@@ -78,7 +79,7 @@
                Appagai con l’ordinario scorso la sete di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>. 
                A quella lettera mi occorre aggiungere che <bibl type="print">l’Aulio Gellio</bibl> quì trovato non è di quel carattere, che si chiama elegante. 
                <bibl type="print">Il Plinio</bibl>, e l’altro libro non li ho veduti. 
-               Subito che mi sarà giunta la risposta intorno <bibl type="print">al Sant’Agostino</bibl>, la parteciperò a lei, e avviserò insieme se altro siasi scoperto. 
+               Subito che mi sarà giunta la risposta intorno al <bibl type="print">Sant’Agostino</bibl>, la parteciperò a lei, e avviserò insieme se altro siasi scoperto. 
                Ho caro sapere che sieno desiderati i codici delle prime edizioni, de’ Santi Padri. 
             </p>
             
@@ -86,10 +87,10 @@
                Adorabili, e tremende, sono tutte le disposizioni di Dio, ma più d’ogni altra, quelle, 
                che servono all’economia inscrutabile della grazia, e delle nostre anime fanno que’ diversi lavori, che fa il vasaio della sua creta. 
                Perciò non so che dire della risoluzione di quel <rs type="person">Dottissimo Monaco Casinense</rs> 
-               portatosi ad abbracciare il rigidissimo <orgName ref="#DLCL_CF_O0093">istituto della Trappa</orgName> in <orgName ref="#DLCL_CF_O0100">Casamari</orgName>. 
+               portatosi ad abbracciare il rigidissimo <orgName ref="#DLCL_CF_O0100">istituto della Trappa in Casamari</orgName>. 
                I motivi, che si adducono in contrario o si fondano sulla prudenza della carne, 
                o agevolmente si confondono con quella infallibile massima dell’Incarnata Verità = 
-               Quam dabit homo commutationem pro anima sua? = 
+               <foreign xml:lang="la">Quam dabit homo commutationem pro anima sua?</foreign> = 
                Né pur tutta l’utilità, che potesse recarsi collo studio alla Chiesa, può eguagliar il prezzo dell’anima, 
                la cui salute può dipendere questa gran mutazione tanto dispiacevole, e tanto apposta alla prudenza degli uomini ancor più savj, e disciplinati. 
                Ho inteso che in <placeName ref="#DLCL_CF_L0008">Roma</placeName> 

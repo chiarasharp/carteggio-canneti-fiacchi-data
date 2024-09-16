@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-13" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20713/manifest">
@@ -147,7 +148,7 @@
                </p>
                <p>
                   [<persName ref="#DLCL_CF_PC0016">Pasolini</persName> <bibl type="print">Istor. di Rav.</bibl> Par. 3 pag. 207. 
-                  <persName ref="#DLCL_CF_PC0591">Alberto Guiccioli</persName> Canonico, d’Alessandro gran Teologo 
+                  <persName ref="#DLCL_CF_PC0591 #DLCL_CF_PC0121" cert="unknown">Alberto Guiccioli</persName> Canonico, d’Alessandro gran Teologo 
                   fù da <persName ref="#DLCL_CF_PC0592" cert="unknown">Leone Papa</persName> dichiarato suo Commensale anno 1515]
                </p>
             </postscript>

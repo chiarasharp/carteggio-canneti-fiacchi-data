@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-17" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20724/manifest">
@@ -101,7 +102,7 @@
                <salute>L’abbraccio, e sono con tutto lo spirito.</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> nel suburbano. <date when-iso="1719-01-07">7 Gennaio 1719</date></dateline>
                <salute>DVPMR.</salute>
-               <salute>ordialissimo Servitore e Affettuosissimo Figlio nel Signore</salute> 
+               <salute>Cordialissimo Servitore e Affettuosissimo Figlio nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
@@ -116,16 +117,6 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10092_C2R" n="2 - Recto"/>
-            
-            <pb xml:id="DLCL_CF_E10092_C2V" n="2 - Verso"/>
-            
-            <postscript>
-               <p>
-                  Al Molto Reverendo Padre Mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-               </p>
-            </postscript>
          </div>
       </body>
    </text>

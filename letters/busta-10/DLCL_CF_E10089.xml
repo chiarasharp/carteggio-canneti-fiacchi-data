@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-16" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20721/manifest">
@@ -86,7 +87,7 @@
                che io penso sia la prima edizione di tal’opera, ignota a’ <rs type="person">Giornalisti</rs> di <placeName ref="#DLCL_CF_L0024">Venezia</placeName> [XIII pag. 467]. 
                Il nostro <bibl type="print">Plinio</bibl> [1472](che mi comprò il buon <persName ref="#DLCL_CF_PC0034">Dottor Veratti</persName>) di quale stampa è? 
                Ho ancora alle mani un <bibl type="print">Aulio Gellio</bibl>, di <placeName ref="#DLCL_CF_L0125">Brescia</placeName> 
-               1485 per <persName ref="#DLCL_CF_PC0814">Boninum de Boninis</persName> fol. 
+               1485 per <persName ref="#DLCL_CF_PC0699">Boninum de Boninis</persName> fol. 
                Ma questi tra i libri non si avranno per meno di cinque scudi. 
             </p>
             
@@ -140,7 +141,7 @@
             <p>
                Ebbi gli <bibl type="print">opuscoli</bibl> del <persName ref="#DLCL_CF_PC0101">Padre Abate Corazzi</persName>, che scrive con perfetto gusto, e buon giudicio in latino. 
                Egli è uomo grande. 
-               Il <persName ref="#DLCL_CF_PC0246">Padre Don Abondio</persName> ha egli fatto il panegirico del Santo Cremonese? 
+               Il <persName ref="#DLCL_CF_PC0246">Padre Don Abondio</persName> ha egli fatto il panegirico del <rs type="person">Santo Cremonese</rs>? 
                La Storia d’<placeName ref="#DLCL_CF_L0019">Arezzo</placeName> <foreign xml:lang="la">nec nominetur</foreign>. 
                Ho sentito il gran male che se ne dice in quella Città; e l’ho inteso da Cavalieri di prima sfera, e intendenti della prima letteratura. 
                Si trattava di farla bruciare per mano infame, e non merita altr’onore, né altro lume. 

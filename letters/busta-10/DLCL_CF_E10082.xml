@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-15" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20714/manifest">
@@ -82,7 +83,11 @@
                In fatti diverso molto è il carattere dell’edizione famosa, la quale costì abbiamo, 
                <hi rend="underline"><bibl type="print"><foreign xml:lang="la">in Domo Petri de Maximo</foreign></bibl></hi>, dell’anno seguente 1468. 
                Il <persName ref="#DLCL_CF_PC0579">Padre Montfaucon</persName> nel suo <bibl type="print">Diario Italico</bibl> cap. 18 pag. 255 scrive = 
-               <hi rend="underline"><bibl type="print"><foreign xml:lang="la">In Aedibus Maximorum anno 1470 casus primo fuit Augustinus de Civitate Dei in fol.</foreign></bibl></hi> = 
+               <cit>
+                  <quote>
+                     <hi rend="underline"><bibl type="print"><foreign xml:lang="la">In Aedibus Maximorum anno 1470 casus primo fuit Augustinus de Civitate Dei in fol.</foreign></bibl></hi>
+                  </quote>
+               </cit> = 
                Ecco come il buon <rs type="person">Franzese</rs>, volendo favellare delle cose di <placeName ref="#DLCL_CF_L0008">Roma</placeName>, 
                ha preso due abbagli, non essendo quell’edizione assolutamente la prima in <placeName ref="#DLCL_CF_L0008">Roma</placeName>, 
                né essendo la prima fatta in <bibl type="print">Casa Massimi</bibl>, se pur’egli non ha scritto <hi rend="underline">1470</hi> invece di 1468. 
@@ -141,9 +146,9 @@
                È uscita delle stampe la <bibl type="print">Dissertazione</bibl> del <persName ref="#DLCL_CF_PC0114">Padre Quirini</persName> 
                <hi rend="underline"><bibl type="print"><foreign xml:lang="la">De Monastica Italiae historia conscribenda</foreign></bibl></hi> ch’è veramente bellissima per ogni capo. 
                Si trattiene chiusa finattanto che esca unitamente col primo Tomo dell’<bibl type="print">Istoria Monastica d’Italia</bibl>. 
-               Io ne ho avuta una copia per finezza del <rs type="person">Padre Reverendissimo Presidente</rs> della <orgName>Congregazione Casinense</orgName>, 
-               che risiede qui <rs type="person">Abate</rs> di <orgName>S. Pietro</orgName>, mio amico e Padrone. 
-               Né pur li <rs type="person">Monaci</rs> del <orgName>Monastero</orgName> medesimo possono vederla. 
+               Io ne ho avuta una copia per finezza del <rs type="person">Padre Reverendissimo Presidente</rs> della <orgName ref="#DLCL_CF_O0149">Congregazione Casinense</orgName>, 
+               che risiede qui <rs type="person">Abate</rs> di <orgName ref="#DLCL_CF_O0019">S. Pietro</orgName>, mio amico e Padrone. 
+               Né pur li <rs type="person">Monaci</rs> del <orgName ref="#DLCL_CF_O0019">Monastero medesimo</orgName> possono vederla. 
             </p>
             
             <p>

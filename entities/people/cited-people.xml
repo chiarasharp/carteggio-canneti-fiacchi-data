@@ -8231,12 +8231,24 @@
       <sex value="m"/>
       <occupation>scrittore</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0588">
+   <person xml:id="DLCL_CF_PC0588" sameAs="http://viaf.org/viaf/69005084">
       <persName xml:lang="it">
          <roleName type="religious">San</roleName>
          <forename>Carlo</forename>
+         <surname>Borromeo</surname>
       </persName>
+      <idno type="VIAF">69005084</idno>
+      <birth source="https://it.wikipedia.org/wiki/Carlo_Borromeo">
+         <date when-iso="1538-10-02"/>
+         <placeName ref="https://www.geonames.org/3182812/">Arona</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Carlo_Borromeo">
+         <date when-iso="1584-11-03"/>
+         <placeName ref="#DLCL_CF_L0027">Milano</placeName>
+      </death>
       <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>arcivescovo</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0589" sameAs="http://viaf.org/viaf/23043298">
       <persName xml:lang="it">
@@ -8468,11 +8480,23 @@
       </persName>
       <sex value="m"/>
    </person>
-   <person xml:id="DLCL_CF_PC0607">
+   <person xml:id="DLCL_CF_PC0607" sameAs="http://viaf.org/viaf/22150523">
       <persName xml:lang="it">
+         <forename>Matteo</forename>
          <surname>Bandello</surname>
       </persName>
+      <idno type="VIAF">22150523</idno>
+      <birth source="https://it.wikipedia.org/wiki/Matteo_Bandello">
+         <date when-iso="1485"/>
+         <placeName ref="https://www.geonames.org/3179513/">Castelnuovo Scrivia</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Matteo_Bandello">
+         <date when-iso="1561"/>
+         <placeName ref="https://www.geonames.org/3034450/">Bazens</placeName>
+      </death>
       <sex value="m"/>
+      <occupation>vescovo</occupation>
+      <occupation>scrittore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0608" sameAs="http://viaf.org/viaf/52030716">
       <persName xml:lang="fr">
@@ -8832,7 +8856,6 @@
    </person>
    <person xml:id="DLCL_CF_PC0638">
       <persName xml:lang="fr">
-         <roleName type="religious">Cardinale</roleName>
          <surname>de Quignones</surname>
       </persName>
       <sex value="m"/>

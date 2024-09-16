@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-07-18" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20725/manifest">
@@ -85,7 +86,7 @@
                     nel secolo nono stà nelle <bibl type="print">nostre Istorie</bibl> paragrafo 2 libro 1 capitolo 5, 
                     e nel <bibl type="print">Fabbri</bibl> paragrafo 1 pagina 95. 
                     Ma nell’uno, e nell’altro autore è imperfetta. 
-                    Trovasi intiera nel <bibl type="manuscript">Manoscritto del nostro Vitale Acquedotto de Mirabilibus Templi Classensis</bibl>, 
+                    Trovasi intiera nel <bibl type="manuscript">Manoscritto del nostro Vitale Acquedotto <foreign xml:lang="la">de Mirabilibus Templi Classensis</foreign></bibl>, 
                     il quale fiorì dugento anni fa ed è tale = 
                     <foreign xml:lang="la">
                         Tempore Dominici Rhavennae Urbis Archiepiscopus Ursus Levita et Abbas huius regularis Monasterij in nomine Dei 

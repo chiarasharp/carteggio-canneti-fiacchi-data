@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Tirinelli (Perugia, 23 Luglio 1718)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Perugia, 23 Luglio 1718)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt><ab></ab></publicationStmt>
@@ -35,7 +35,7 @@
                <placeName ref="#DLCL_CF_L0028" key="DLCL_CF_L0028">Perugia</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#DLCL_CF_PC0600">Giacomo Tirinelli</persName>
+               <persName ref="#DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-15" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20716/manifest">
@@ -60,13 +61,13 @@
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21210/full/579,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/25106/full/607,800/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Tirinelli (Perugia, 23 Luglio 1718)">
+   <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Luglio 1718)">
       <body>
          <div type="transcription">
             <pb xml:id="DLCL_CF_E10084_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21208/full/583,800/0/default.jpg"/>
             
             <opener>
-               <salute><rs type="person" ref="#DLCL_CF_PC0600" key="DLCL_CF_PC0600">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
             </opener>
             
             <p>
@@ -102,7 +103,7 @@
                Le <bibl type="print">Satire Scoliastiche</bibl> del <persName ref="#DLCL_CF_PC0604">Cervi</persName> è libro di rarità non ordinaria, 
                degno anco per altro di particolare stima. 
                Esso è però tra nostri libri. 
-               Così <bibl type="print">Bellum Grammaticale</bibl> <del rend="overstrike">trovo</del> del <persName ref="#DLCL_CF_PC0605">Guarna Cremonese</persName> 
+               Così <bibl type="print"><foreign xml:lang="la">Bellum Grammaticale</foreign></bibl> <del rend="overstrike">trovo</del> del <persName ref="#DLCL_CF_PC0605">Guarna Cremonese</persName> 
                stà nelle Dissertazioni Ludicre tra nostri libri. 
                Avrò caro sapere quali siano le <bibl type="print">Opere Grammaticali</bibl> dello <persName ref="#DLCL_CF_PC0250">Scioppio</persName>, 
                e quali altri sieno i libri aggiunti. 
@@ -111,7 +112,7 @@
             
             <p>
                I due libri propostimi son degni che si applichi al loro acquisto. 
-               Del <persName ref="#DLCL_CF_PC0607">Bandello</persName> ne parlano lo <persName ref="#DLCL_CF_PC0606">Strozzi</persName> 
+               Del <persName ref="#DLCL_CF_PC0607" cert="unknown">Bandello</persName> ne parlano lo <persName ref="#DLCL_CF_PC0606">Strozzi</persName> 
                nella <bibl type="print">Istoria della Concezione</bibl>, e il <persName ref="#DLCL_CF_PC0608">Rainaudo</persName> nell’<bibl type="print">Apopompeo</bibl>. 
                <rs type="person" ref="#DLCL_CF_PC0600">Vostra Paternità</rs> se tra i nostri libri di belle lettere volgari siavi qualche cosa che appaghi il genio del padrone di essi, 
                e sia duplicato rispettivamente alla libreria, e mi avvisi; che io darò subito risposta. 
@@ -156,7 +157,7 @@
             
             <postscript>
                <p>
-                  Al Molto Reverendo Padre Mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  Al Molto Reverendo Padre Mio Osservandissimo Il <persName ref="#DLCL_CF_PC0600">Padre Don Giacomo Tirinelli</persName> Procuratore Generale 
                   <orgName ref="#DLCL_CF_O0094">San Romualdo</orgName> <placeName ref="#DLCL_CF_L0008">Roma</placeName>
                </p>
             </postscript>

@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-16" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20720/manifest">
@@ -96,7 +97,7 @@
                colla venuta per le visite dei nostri <rs type="person">Reverendissimi Visitali</rs>. 
                Può raccomandargli a <persName ref="#DLCL_CF_PC0613">Frate Giuseppe</persName> Converso del <persName ref="#DLCL_CF_PC0614">Reverendissimo Celini</persName>. 
                Quel <rs type="person" ref="#DLCL_CF_PC0101">Padre Abate</rs> scrive bene latino, 
-               e mi piacque molto la sua prefazione sopra l’<orgName ref="#DLCL_CF_O0097">Istituto Marsiliano</orgName>. 
+               e mi piacque molto la sua <bibl type="print">prefazione sopra</bibl> l’<orgName ref="#DLCL_CF_O0097">Istituto Marsiliano</orgName>. 
                Io farò aver l’altra copia al <persName ref="#DLCL_CF_PC0615">Signor Dottore Neri</persName> Matematico di questa <orgName ref="#DLCL_CF_O0097">Università</orgName>, 
                sotto cui mi ricordo ch’egli qui apprese i principj della matematica. 
                Se verranno anco i <bibl type="print">Giornali</bibl> l’avrò a caro. 
