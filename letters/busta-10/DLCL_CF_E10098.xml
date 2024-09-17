@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-07-19" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20730/manifest">
@@ -109,6 +110,12 @@
                 <p>
                     Mi avvisi se costì vi è il <bibl type="print">Floridante</bibl> di <persName ref="#DLCL_CF_PC0674">Bernardo Tasso</persName>, 
                     e di quale stampa, e il <bibl type="print">Petrarca</bibl> del <persName ref="#DLCL_CF_PC0161">Giolito</persName>, di qual figura, e anno. 
+                </p>
+                
+                <p>
+                    Al <persName ref="#DLCL_CF_PC0121">Padre Lettore Guiccioli</persName> i miei cordiali rispetti, con promessa di scrivergli, 
+                    subito che avrò un poco di ozio di farlo con comodo, 
+                    e di notificargli <gap reason="illegible"/>[...] capi dell’Istoria occulta. 
                 </p>
                 
                 <closer>

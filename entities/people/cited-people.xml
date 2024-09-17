@@ -9158,12 +9158,21 @@
       <occupation>numismatico</occupation>
       <occupation>avvocato</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0661">
-      <persName xml:lang="la">
-         <forename>Franciscum</forename>
-         <surname>de Hailbrun</surname>
+   <person xml:id="DLCL_CF_PC0661" sameAs="http://viaf.org/viaf/193901627">
+      <persName xml:lang="de">
+         <forename>Franz</forename>
+         <surname>Renner</surname>
       </persName>
+      <idno type="VIAF">193901627</idno>
+      <birth source="https://www.treccani.it/enciclopedia/franz-renner_%28Dizionario-Biografico%29/">
+         <date notBefore-iso="1450"/>
+         <placeName ref="https://www.geonames.org/2907669/">Heilbronn</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/franz-renner_%28Dizionario-Biografico%29/">
+         <date when-iso="1487" cert="unknown"/>
+      </death>
       <sex value="m"/>
+      <occupation>stampatore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0662">
       <persName xml:lang="la">
@@ -9183,7 +9192,7 @@
       <persName xml:lang="la">
          <roleName type="religious">Don</roleName>
          <forename>Antonio</forename>
-         <surname>Spizzica Gigli</surname>
+         <surname>Spizzicagigli</surname>
       </persName>
       <sex value="m"/>
    </person>
@@ -9240,8 +9249,76 @@
       <sex value="m"/>
       <occupation>vescovo</occupation>
    </person>
-   
-   
+   <person xml:id="DLCL_CF_PC0668" sameAs="http://viaf.org/viaf/42199563">
+      <persName xml:lang="it">
+         <forename>Guglielmina</forename>
+         <forename>Amalia</forename>
+         <surname>di Brunswick e Lüneburg</surname>
+      </persName>
+      <idno type="VIAF">42199563</idno>
+      <birth source="https://it.wikipedia.org/wiki/Guglielmina_Amalia_di_Brunswick-L%C3%BCneburg">
+         <date when-iso="1673-04-26"/>
+         <placeName ref="https://www.geonames.org/2910831/">Hannover</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Guglielmina_Amalia_di_Brunswick-L%C3%BCneburg">
+         <date when-iso="1742-04-10"/>
+         <placeName ref="#DLCL_CF_L0115">Vienna</placeName>
+      </death>
+      <sex value="f"/>
+      <occupation>imperatrice</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0669" sameAs="http://viaf.org/viaf/89065230">
+      <persName xml:lang="it">
+         <forename>Giacomo</forename>
+         <surname>Boncompagni</surname>
+      </persName>
+      <idno type="VIAF">89065230</idno>
+      <birth source="https://it.wikipedia.org/wiki/Giacomo_Boncompagni_(cardinale)">
+         <date when-iso="1652-05-15"/>
+         <placeName ref="https://www.geonames.org/3175427/">Isola del Liri</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giacomo_Boncompagni_(cardinale)">
+         <date when-iso="1731-03-24"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>cardinale</occupation>
+      <occupation>arcivescovo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0670" sameAs="http://viaf.org/viaf/261563431">
+      <persName xml:lang="it">
+         <forename>Giuseppe</forename>
+         <genName>I</genName>
+         <surname>d'Asburgo</surname>
+      </persName>
+      <idno type="VIAF">261563431</idno>
+      <birth source="https://it.wikipedia.org/wiki/Giuseppe_I_d%27Asburgo">
+         <date when-iso="1678-07-26"/>
+         <placeName ref="#DLCL_CF_L0115">Vienna</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Giuseppe_I_d%27Asburgo">
+         <date when-iso="1711-04-17"/>
+         <placeName ref="#DLCL_CF_L0115">Vienna</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>imperatore</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0671">
+      <persName xml:lang="it">
+         <forename>Giovanni</forename>
+         <forename>Battista</forename>
+         <surname>Rondoni</surname>
+      </persName>
+      <birth source="https://www.catholic-hierarchy.org/bishop/brondoni.html">
+         <date when-iso="1678-01-15"/>
+         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
+      </birth>
+      <death source="https://www.catholic-hierarchy.org/bishop/brondoni.html">
+         <date when-iso="1735-09-12"/>
+      </death>
+      <sex value="m"/>
+      <occupation>vescovo</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0672">
       <persName xml:lang="it">
          <roleName type="religious">Padre Don</roleName>

@@ -425,7 +425,6 @@
    </org>
    <org xml:id="DLCL_CF_O0041" type="library">
       <orgName xml:lang="it">Libreria del Cardinale Altieri</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0042" type="board">
       <orgName xml:lang="it">Collegio Apostolico</orgName>
@@ -859,7 +858,6 @@
    </org>
    <org xml:id="DLCL_CF_O0102" type="convent">
       <orgName xml:lang="it">Convento di Foligno</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -869,7 +867,6 @@
    </org>
    <org xml:id="DLCL_CF_O0103" type="library">
       <orgName xml:lang="it">Libreria del Seminario di Foligno</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -879,7 +876,6 @@
    </org>
    <org xml:id="DLCL_CF_O0104" type="library">
       <orgName xml:lang="it">Libreria pubblica di Reggio Calabria</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -889,7 +885,6 @@
    </org>
    <org xml:id="DLCL_CF_O0105" type="library">
       <orgName xml:lang="it">Biblioteca pubblica di Pistoia</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -910,7 +905,6 @@
    </org>
    <org xml:id="DLCL_CF_O0107" type="hospital" sameAs="http://viaf.org/viaf/156654090" source="https://it.wikipedia.org/wiki/Arcispedale_di_Santo_Spirito_in_Saxia">
       <orgName xml:lang="it">Ospedale Santo Spirito in Sassia</orgName>
-      <desc></desc>
       <idno type="VIAF">156654090</idno>
       <location>
          <country key="IT"/>
@@ -921,11 +915,9 @@
    </org>
    <org xml:id="DLCL_CF_O0108" type="library">
       <orgName xml:lang="it">Libreria di San Michele</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0109">
       <orgName xml:lang="it">Casa Massimi</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0110" type="monastery">
       <orgName xml:lang="it">Monastero di San Sebastiano</orgName>

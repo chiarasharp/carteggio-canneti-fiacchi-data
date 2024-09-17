@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-07-19" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20727/manifest">
@@ -104,7 +105,7 @@
                     che mi rovina. 
                     <bibl type="print">L’altro Plinio</bibl> di <placeName ref="#DLCL_CF_L0126">Treviso</placeName> è stato venduto. 
                     <bibl type="print">Il Perotto</bibl> mi è stato donato, e lo tengo per cotesta nostra <orgName ref="#DLCL_CF_O0001">Biblioteca</orgName>. 
-                    Aspetto risposta d’<bibl type="print">un Quintiliano</bibl> della prima prima edizione bellissimo, 
+                    Aspetto risposta d’<bibl type="print">un Quintiliano della prima prima edizione</bibl> bellissimo, 
                     e d’una <bibl type="print">Bibbia</bibl> in carta <del rend="overstrike">pecor</del> semplice e senza miniature, simile, e coetanea alla nostra, 
                     benche di altro stampatore di cui scriverei più precisa notizia, che or mi si è smarrita. 
                     Piaccia a Dio che anco in questo affare io non riesca un Tantalo, 
@@ -114,7 +115,7 @@
                 <p>
                     Ho veduti codici a penna, e di antiche edizioni nella <orgName ref="#DLCL_CF_O0103">Libreria del Seminario di Foligno</orgName> fondata, 
                     o arricchita dal celebre <persName ref="#DLCL_CF_PC0656">Jacobilli</persName>. 
-                    Tra gli altri vi è un <bibl type="print">Aulio Gellio</bibl> senza luogo, tempo, né stampatore, 
+                    Tra gli altri vi è un <bibl type="print">Aulio Gellio senza luogo, tempo, né stampatore</bibl>, 
                     con una prefazione a <persName ref="#DLCL_CF_PC0580">Paolo II</persName>, 
                     che incomincia = 
                     <foreign xml:lang="la">
@@ -122,7 +123,7 @@
                     </foreign>
                     = non so discernere se sia di <persName ref="#DLCL_CF_PC0657">Teodoro Gaza</persName>, 
                     come mi pare (non essendovi nome dell’Autore) ovvero [di] <rs type="person" ref="#DLCL_CF_PC0637">Aleriense</rs>, 
-                    di cui il <persName ref="#DLCL_CF_PC0658">Pansa</persName> nella Libreria Vaticana [pag. 27 et 28. Morto del 1475]. 
+                    di cui il <persName ref="#DLCL_CF_PC0658">Pansa</persName> nella <orgName>Libreria Vaticana</orgName> [pag. 27 et 28. Morto del 1475]. 
                     Vegga un poco il <persName ref="#DLCL_CF_PC0212">Gronovio</persName> che nel suo <bibl type="print">Aulio Gellio</bibl> dà notizia dell’edizioni. 
                     Mi preme aver lume di ciò. 
                 </p>
@@ -147,6 +148,10 @@
                     Chi campa, trova a tutte le cose il fine. 
                 </p>
                 
+                <p>
+                    Volendomi rispondere, lo faccia subito. 
+                </p>
+                
                 <closer>
                     <salute>L’abbraccio con tutti i buoni Amici.</salute>
                     <salute>DVPMR.</salute>
@@ -156,9 +161,9 @@
                 <postscript>
                     <p>
                         <persName ref="#DLCL_CF_PC0660">Vaillant</persName> 
-                        <bibl type="print"><foreign xml:lang="la">Selectiora Numismata in aere in maximi moduli e Museo de Camps</foreign></bibl> 
+                        <bibl type="print"><foreign xml:lang="la">Selectiora Numismata in aere in maximi <del rend="overstrike">moduli</del> e Museo de Camps</foreign></bibl> 
                         <placeName ref="#DLCL_CF_L0017">Paris</placeName>. 1694 in 4. 
-                        Vi è costì in libreria?
+                        Vi è costì in <orgName ref="#DLCL_CF_O0001">libreria</orgName>?
                     </p>
                     <p>
                         <bibl type="print"><foreign xml:lang="la">Biblia impressa</foreign></bibl> 

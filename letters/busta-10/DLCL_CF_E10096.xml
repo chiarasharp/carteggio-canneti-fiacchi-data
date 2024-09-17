@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-07-19" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20728/manifest">
@@ -85,7 +86,7 @@
                     Qui v’è il modo di perdersi d’animo al vedere le grandissime Biblioteche, i grandissimi Corpi d’opere, e sentire intonarsi i grandissimi prezzi. 
                     Il lusso è arrivato a raccogliere più esemplari de’ libri rarissimi. 
                     In casa del <persName ref="#DLCL_CF_PC0663">Signor Marchese Capponi</persName> 
-                    mi furono da lui mostrate due Copie benissimo conservate del <bibl type="print">Decamerone</bibl> del 1527. 
+                    mi furono da lui mostrate <bibl type="print">due Copie benissimo conservate del Decamerone</bibl> del 1527. 
                 </p>
                 
                 <p>

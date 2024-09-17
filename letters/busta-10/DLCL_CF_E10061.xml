@@ -201,7 +201,7 @@
             <pb xml:id="DLCL_CF_E10061_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21150/full/594,800/0/default.jpg"/>
             
             <opener>
-               <salute></foreign>Beatissime <rs type="person" ref="#DLCL_CF_PC0504" key="DLCL_CF_PC0504">Pater</rs></salute>
+               <salute>Beatissime <rs type="person" ref="#DLCL_CF_PC0504" key="DLCL_CF_PC0504">Pater</rs></salute>
             </opener>
             
             <p> 

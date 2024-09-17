@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-07-23" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20732/manifest">
@@ -85,7 +86,7 @@
                     Io starò attento ad acquistare, offerendomesene la congiuntura un altr’<bibl type="print">Orazio</bibl>, ed un altro <bibl type="print">Giovenale</bibl>. 
                     Del <bibl type="print">Plinio</bibl> del <persName ref="#DLCL_CF_PC0636">Jenson</persName> non ebbi mai più altra nuova, 
                     né del <persName ref="#DLCL_CF_PC0172">Santo Agostino</persName> <bibl type="print"><foreign xml:lang="la">de Civitate Dei</foreign></bibl> 
-                    più antico di quello della stampa in <orgName ref="#DLCL_CF_O0109">Casa Massimi</orgName>. 
+                    più antico di <bibl type="print">quello della stampa</bibl> in <orgName ref="#DLCL_CF_O0109">Casa Massimi</orgName>. 
                     In breve, mi porterò a <placeName ref="#DLCL_CF_L0132">Camerino</placeName>, ove sta il <rs type="person">Librajo</rs>, che gli aveva: 
                     ma egli è un’Uomo pieno di specie confuse, col quale è difficilissimo trattare, in riguardo al timore di essere circonvenuto. 
                     Arriva perciò a segno di negare d’aver’i libri, che hà, per timore di vendergli meno de’ vigorosi prezzi, che 
@@ -181,14 +182,6 @@
                     <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                 </closer>
 
-                <pb xml:id="DLCL_CF_E10100_C3R" n="3 - Recto"/>
-                
-                <postscript>
-                    <p>
-                        Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                        <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-                    </p>
-                </postscript>
             </div>
         </body>
     </text>
