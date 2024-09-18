@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-22" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20742/manifest">
@@ -113,14 +114,15 @@
                Mi mandi copia di quanto scrive l’<bibl type="print">Ughelli</bibl> di <persName ref="#DLCL_CF_PC0727">Gasparo da Perugia Vescovo</persName>. 
                Frequentino in Regno, e lo troverà tra i Vescovi di <placeName ref="#DLCL_CF_L0137">Avellino</placeName> nella Provincia Beneventana, 
                essendo ora il Vescovado di <placeName ref="#DLCL_CF_L0138">Frigento</placeName> unito a quel di <placeName ref="#DLCL_CF_L0137">Avellino</placeName>. 
-               Nella Collezione de’ <bibl type="print">Concilj del Bini</bibl> [al Concilio di <placeName ref="#DLCL_CF_L0074">Costanza</placeName>] 
+               Nella <bibl type="print">Collezione de’ Concilj</bibl> del <persName ref="#DLCL_CF_PC0728">Bini</persName> [al Concilio di <placeName ref="#DLCL_CF_L0074">Costanza</placeName>] 
                raccolga succintissimamente quel che costui vi fece. 
                Veda la Storia a parte di detto Concilio. 
                Non accade [sopra] tutto, basta un brevissimo estratto. 
                Osservi se vien nominato nel Concilio di <placeName ref="#DLCL_CF_L0042">Basilea</placeName>, dove pur si trovò. 
                Io ne fò menzione non breve nella mia <bibl type="print">Orazione stampata della Perfezione del Beneficio</bibl>; 
                e lo metto tra’ nostri; e poco fà ne ho avuta una forte prova. 
-               Egli fu Abate di <orgName ref="#DLCL_CF_O0116">San Giovanni dell’Eremo</orgName> nel Perugino; e colà vi è memoria che vi stettero fino all’anno 1471 i Camaldolesi. 
+               Egli fu Abate di <orgName ref="#DLCL_CF_O0116">San Giovanni dell’Eremo</orgName> nel Perugino; 
+               e colà vi è memoria che vi stettero fino all’anno 1471 i <rs type="person">Camaldolesi</rs>. 
                Che fà il <bibl type="manuscript">Catalogo della Biblioteca</bibl>? 
                Che fà il <persName ref="#DLCL_CF_PC0176">Carrari</persName>? 
                Un caro abbraccio al <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>. 

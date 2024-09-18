@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-20" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20738/manifest">
@@ -72,7 +73,7 @@
             <p>
                Io mi son contentato già di dar nome di mio tentatore a VPMR: ora non posso a meno di riguardarla come traditore. 
                Ella mi scrisse che per dieci scudi potevasi avere il <bibl type="print">Santo Ambrogio</bibl> de’ Monaci, 
-               e insieme il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print">de Re Diplomatica</bibl>. 
+               e insieme il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print"><foreign xml:lang="la">de Re Diplomatica</foreign></bibl>. 
                Io da buon Lombardo corsi al buon mercato; e non è finito il giuoco, che appena ho avuto il solo <persName ref="#DLCL_CF_PC0129">Mabillone</persName> per tredici scudi. 
                Piaccia a Dio che una qualche occulta rete non si asconda nel contratto, che ora mi propone. 
                Non ostante la sperienza del passato, e il timore dell’avvenire, ecco mi aggiro, come un incauto uccelletto intorno alla Civetta, 

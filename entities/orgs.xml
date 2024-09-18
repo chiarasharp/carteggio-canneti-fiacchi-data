@@ -792,7 +792,6 @@
    </org>
    <org xml:id="DLCL_CF_O0094" type="church" source="https://it.wikipedia.org/wiki/Chiesa_di_San_Romualdo_(Roma)">
       <orgName xml:lang="it">Chiesa di San Romualdo</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -924,7 +923,6 @@
    </org>
    <org xml:id="DLCL_CF_O0111" type="library">
       <orgName xml:lang="it">Libreria de' Luperti</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -934,11 +932,9 @@
    </org>
    <org xml:id="DLCL_CF_O0112" type="library">
       <orgName xml:lang="it">Libreria d'Adda</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0113" type="church" sameAs="http://viaf.org/viaf/139652584">
       <orgName xml:lang="it">Duomo di Foligno</orgName>
-      <desc></desc>
       <idno type="VIAF">139652584</idno>
       <location>
          <country key="IT"/>
@@ -949,7 +945,6 @@
    </org>
    <org xml:id="DLCL_CF_O0114" type="church">
       <orgName xml:lang="it">Chiesa di San Francesco</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -959,7 +954,6 @@
    </org>
    <org xml:id="DLCL_CF_O0115" type="church" sameAs="http://viaf.org/viaf/241887388">
       <orgName xml:lang="it">San Carlo al Corso</orgName>
-      <desc></desc>
       <idno type="VIAF">241887388</idno>
       <location>
          <country key="IT"/>
@@ -970,7 +964,6 @@
    </org>
    <org xml:id="DLCL_CF_O0116" type="abbey">
       <orgName xml:lang="it">San Giovanni dell'eremo</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -990,11 +983,9 @@
    </org>
    <org xml:id="DLCL_CF_O0118" type="monastery">
       <orgName xml:lang="it">Monastero degli Angeli</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0119" type="accademy">
       <orgName xml:lang="it">Accademia dei Rinvigoriti di Foligno</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1004,11 +995,9 @@
    </org>
    <org xml:id="DLCL_CF_O0120" type="family">
       <orgName xml:lang="it">Casa Maffei</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0121" type="monastery" source="http://dati.san.beniculturali.it/SAN/produttore_SIAS_san.cat.sogP.54652">
       <orgName xml:lang="it">Monastero di Santa Maria d'Urano</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1018,7 +1007,6 @@
    </org>
    <org xml:id="DLCL_CF_O0122" type="monastery">
       <orgName xml:lang="it">San Piero in Vincoli</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0123" type="library">
       <orgName xml:lang="it">Libreria di Monsignor de Totis</orgName>
@@ -1026,7 +1014,6 @@
    </org>
    <org xml:id="DLCL_CF_O0124" type="cathedral">
       <orgName xml:lang="it">Cattedrale di Cesena</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1036,16 +1023,13 @@
    </org>
    <org xml:id="DLCL_CF_O0125" type="church">
       <orgName xml:lang="it">Chiesa di Santa Maria del Lago</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0126" type="church">
       <orgName xml:lang="it">Chiesa di San Benedetto</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0127" type="church">
       <orgName xml:lang="it">Chiesa di San Pietro in Campo Gallina</orgName>
       <orgName xml:lang="it">Chiesa di Sant'Antonio</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1056,15 +1040,12 @@
    <org xml:id="DLCL_CF_O0128" type="religious-order" sameAs="http://viaf.org/viaf/152491765" source="https://it.wikipedia.org/wiki/Cavalieri_templari">
       <orgName xml:lang="it">Ordine dei Templari</orgName>
       <idno type="VIAF">152491765</idno>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0129" type="monastery">
       <orgName xml:lang="it">Monastero della Trinità di Monte Ercole</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0130">
       <orgName xml:lang="it">Monte Fiascone</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0131">
       <orgName xml:lang="it">Libreria di Padre Isolani</orgName>

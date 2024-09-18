@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-23" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20736/manifest">
@@ -136,7 +137,7 @@
                Sul principio sta manoscritta una lettera [volgare] di <persName ref="#DLCL_CF_PC0690">Marco Antonio</persName> 
                (che io credo il Flamminio) a <persName ref="#DLCL_CF_PC0691">Messer Carlo Gualteruzzi</persName> 
                (quel che diede in luce il <bibl type="print">Novelliere antico</bibl>) 
-               in lode dell’Opera <hi rend="underline"><bibl type="print">de Imitatione Christi</bibl><foreign xml:lang="la"></foreign></hi> con la censura dell’Opera, 
+               in lode dell’Opera <hi rend="underline"><bibl type="print"></bibl><foreign xml:lang="la">de Imitatione Christi</foreign></hi> con la censura dell’Opera, 
                in quanto non approva che conduca per via del timore.
             </p>
             

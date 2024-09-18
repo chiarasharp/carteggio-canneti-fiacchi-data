@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-21" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20741/manifest">
@@ -227,14 +228,14 @@
             
             <p>
                Desidero sapere qualche cosa di <persName ref="#DLCL_CF_PC0722">Paolo Egineta Medico</persName>. 
-               Vegga il Vanderlinden. 
-               Ae
+               Vegga il <bibl type="print">Vanderlinden</bibl>. 
+               <hi rend="underline">Ae</hi>
             </p>
             
             <pb xml:id="DLCL_CF_E10109_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21268/full/533,800/0/default.jpg"/>
             
             <p>
-               Da che anno comincia il <bibl type="manuscript">Diario</bibl> di <persName>Frate Aurelio dalla Rocca Contrada</persName> Romitano Manoscritto, e in qual’anno finisce? 
+               Da che anno comincia il <bibl type="manuscript">Diario</bibl> di <persName ref="#DLCL_CF_PC0822">Frate Aurelio dalla Rocca Contrada</persName> Romitano Manoscritto, e in qual’anno finisce? 
                Noti i successi memorabili ivi riferiti. 
                Con comodo. 
                Il <persName ref="#DLCL_CF_PC0232">Signore Boccolini</persName> in <placeName ref="#DLCL_CF_L0023">Foligno</placeName> 

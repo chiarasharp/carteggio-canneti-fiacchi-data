@@ -2027,7 +2027,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0147">
       <persName xml:lang="it">
-         <roleName type="honorific">Reverendissimo</roleName>
+         <roleName type="religious">Padre Abate</roleName>
          <surname>Caramelli</surname>
       </persName>    
       <sex value="m"/>
@@ -3158,10 +3158,13 @@
       <occupation>bibliografo</occupation>
       <occupation>storico</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0232">
+   <person xml:id="DLCL_CF_PC0232" sameAs="http://viaf.org/viaf/314871489">
       <persName>
+         <forename>Giovanni</forename>
+         <forename>Battista</forename>
          <surname>Boccolini</surname>
       </persName>
+      <idno type="VIAF">314871489</idno>
       <sex value="m"/>
    </person>
    <person xml:id="DLCL_CF_PC0233" sameAs="http://viaf.org/viaf/97105654">
@@ -11047,6 +11050,24 @@
       </persName>
       <sex value="m"/>
       <occupation>santo</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0822" sameAs="http://viaf.org/viaf/41907420">
+      <persName xml:lang="it">
+         <forename>Angelo</forename>
+         <surname>Rocca</surname>
+      </persName>
+      <idno type="VIAF">41907420</idno>
+      <birth source="https://it.wikipedia.org/wiki/Angelo_Rocca">
+         <date when-iso="1545-03-03"/>
+         <placeName ref="https://www.geonames.org/3182916/">Rocca Contrada</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Angelo_Rocca">
+         <date when-iso="1620-04-08"/>
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>bibliotecario</occupation>
+      <occupation>vescovo</occupation>
    </person>
    
    

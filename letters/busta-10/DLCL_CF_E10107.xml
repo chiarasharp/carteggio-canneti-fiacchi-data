@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-21" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20739/manifest">
@@ -98,7 +99,7 @@
             <p>
                nelli <bibl type="print">tre volumi delle Chiese di Roma</bibl>. 
                Legati poi che siano, si rimandino quà, eccettuati i <bibl type="print">sette Tometti delle Rime</bibl>; 
-               e le <bibl type="print">Rime del Marmitta</bibl> da aggiungersi a nostri libri. 
+               e le <bibl type="print">Rime</bibl> del <persName ref="#DLCL_CF_PC0705">Marmitta</persName> da aggiungersi a nostri libri. 
                I <bibl type="print">tre tometti delle Prose</bibl> ritornino. 
                Troverà <bibl type="print">due Opuscoli</bibl> di due Medici Perugini, <persName ref="#DLCL_CF_PC0269">Viti</persName>, 
                e <persName ref="#DLCL_CF_PC0108">Pascoli</persName>: li riponga in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>.
@@ -127,7 +128,7 @@
             
             <p>
                Alli <bibl type="print">due famosi Tomi</bibl> del <persName ref="#DLCL_CF_PC0622">Plinio</persName> 
-               mi si è aggiunto il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print">de Re Diplomatica</bibl> della 2a edizione accresciuta, 
+               mi si è aggiunto il <persName ref="#DLCL_CF_PC0129">Mabillon</persName> <bibl type="print"><foreign xml:lang="la">de Re Diplomatica</foreign></bibl> della 2a edizione accresciuta, 
                e migliorata, col Supplemento in un solo tomo, il quale con vantaggio ho pagato tredici scudi. 
                Da <placeName ref="#DLCL_CF_L0024">Venezia</placeName> aspetto la <bibl type="print">Bibliografia</bibl> 
                del <persName ref="#DLCL_CF_PC0679">Fabricio</persName> in un Tomo in folio, 
