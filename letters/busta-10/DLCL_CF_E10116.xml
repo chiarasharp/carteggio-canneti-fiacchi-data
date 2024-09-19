@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-28" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20748/manifest">
@@ -109,12 +110,7 @@
             
             <pb xml:id="DLCL_CF_E10116_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25224/full/610,800/0/default.jpg"/>
             
-            <postscript>
-               <p>
-                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-               </p>
-            </postscript>
+            
          </div>
       </body>
    </text>

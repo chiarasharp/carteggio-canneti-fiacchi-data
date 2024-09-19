@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-28" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20746/manifest">
@@ -73,7 +74,7 @@
                Strana parerà, e forse inaspettata, ma è pur vera la risposta, 
                che mio mal grado sono costretto a dare alle premurose raccomandazioni di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> 
                concernenti la degna persona del <persName ref="#DLCL_CF_PC0757">Signor Don Alessandro Rinaldi</persName>. 
-               In Roma non ho a chi appoggiare con sicura speranza tali suppliche. 
+               In <placeName ref="#DLCL_CF_L0008">Roma</placeName> non ho a chi appoggiare con sicura speranza tali suppliche. 
                L’esperienza mi ha insegnato che i Corrispondenti Letterati non escono della loro sfera, e gli altri si riserbano per gl’interessi proprj i Padroni. 
                Mi spiace non poter fare quel, ch’Ella vorrebbe, e quel, che io stesso vorrei, e creda che il mio buon genio vi patisce molto. 
                Un solo esempio le addurrò di <persName ref="#DLCL_CF_PC0216">Monsignor Fontanini</persName> per altro mio parzialissimo. 

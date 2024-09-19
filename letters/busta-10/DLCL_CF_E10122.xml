@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-09-02" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/s/Classense/item/20754">
@@ -95,7 +96,8 @@
                per lui impegnare una delle quattro Copie a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> spedite, che non sento ancor sieno arrivate. 
                E ciò devo fare, tanto più ch’esso <rs type="person" ref="#DLCL_CF_PC0775">Signor Conte</rs> 
                mi donò (se non erro) il <bibl type="print">Libro Genealogico</bibl> di <orgName ref="#DLCL_CF_O0134">casa Ricciardelli</orgName> di <placeName ref="#DLCL_CF_L0033">Rimini</placeName>. 
-               <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi avvisi se è in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, ove dovrebbe essere, secondo quel, che la memoria mi suggerisce. 
+               <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi avvisi se è in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
+               ove dovrebbe essere, secondo quel, che la memoria mi suggerisce. 
                Il <bibl type="print">Quintiliano</bibl> resti tra nostri libri: sarà applicato alla <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, salvo l’uso.
             </p>
             
@@ -118,7 +120,8 @@
             
             <p>
                I <bibl type="manuscript">versi</bibl> di <persName ref="#DLCL_CF_PC0778">Tideo elpidiense</persName> erano in 4to o in 8 grande Manoscritti in pergamena con miniatura sul principio: 
-               entrarono in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> con li tanti altri comprati in <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> dal <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
+               entrarono in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> con li tanti altri comprati 
+               in <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> dal <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
                Può essere che sia perito, o smarrito il Codice. 
                Se questa è la prima disgrazia, Iddio faccia che sia l’ultima ancora. 
                Stia cauta, non si fidi di alcuno. 
@@ -141,7 +144,7 @@
             
             <postscript>
                <p>
-                  Se le capita occasione; mi mandi i <bibl type="print">quattro Tomi della Teologia Regolare</bibl> del <persName ref="#DLCL_CF_PC0820">Caramuele</persName>. 
+                  Se le capita occasione; mi mandi i <bibl type="print">quattro Tomi della Teologia Regolare</bibl> del <persName ref="#DLCL_CF_PC0790">Caramuele</persName>. 
                   Voglio mettergli in questa Libreriuccia, ch’è tutta di cose canoniche, teologiche, e poco più.
                </p>
             </postscript>

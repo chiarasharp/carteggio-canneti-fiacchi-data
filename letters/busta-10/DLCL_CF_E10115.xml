@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-28" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20747/manifest">
@@ -83,7 +84,7 @@
                Gli attendo a suo tempo con gli altri. 
                Ritenga del consaputo danaro il prezzo di essi libri, e lo rimetta al <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>. 
                Se il nostro <persName ref="#DLCL_CF_PC0313">Paolino</persName> vuole altre Cartepecore, avvisi quali, e quante. 
-               Copiosamente la ringrazio del giudicioso estratto del <bibl type="print">Diario di Frate Aurelio della Rocca Contrada</bibl>, 
+               Copiosamente la ringrazio del giudicioso estratto del <bibl type="manuscript">Diario</bibl> di <persName ref="#DLCL_CF_PC0822">Frate Aurelio della Rocca Contrada</persName>, 
                detto però nel <bibl type="print">Catalogo de’ Teologi del Concilio di Trento, da Corinaldo</bibl>. 
                Aspetto il passo <persName ref="#DLCL_CF_PC0734">Tentzelio</persName> sopra <persName ref="#DLCL_CF_PC0177">Ambrogio</persName>. 
                Desidero copia del necrologio dell’
@@ -96,10 +97,10 @@
                In fretta non posso stendermi più oltre. 
                Mi scriva più spesso. 
                Un abbraccio al <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>. 
-               Resto senza fine.
             </p>
             
             <closer>
+               <salute>Resto senza fine.</salute>
                <salute>DVPMR.</salute>
                <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1720-06-14">14 Giugno 1720</date></dateline>
             </closer>
@@ -119,12 +120,7 @@
             
             <pb xml:id="DLCL_CF_E10115_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25221/full/607,800/0/default.jpg"/>
             
-            <postscript>
-               <p>
-                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-               </p>
-            </postscript>
+
          </div>
       </body>
    </text>

@@ -52,11 +52,12 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-29" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20752/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21291/full/509,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21291/full/509,800/0/default.jpg"/>
+      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21292/full/533,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21293/full/533,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/25230/full/612,800/0/default.jpg"/>
    </facsimile>
@@ -92,7 +93,7 @@
                Se ne
             </p>
             
-            <pb xml:id="DLCL_CF_E10120_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21291/full/509,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10120_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21292/full/533,800/0/default.jpg"/>
             
             <p>
                rammarica e duole, né sà capire né figurarsi il motivo, il quale se gli tiene per carità celato. 

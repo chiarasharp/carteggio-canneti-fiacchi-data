@@ -582,7 +582,6 @@
    </org>
    <org xml:id="DLCL_CF_O0061" type="church" sameAs="http://viaf.org/viaf/241907176">
       <orgName xml:lang="it">Santa Maria in Porto</orgName>
-      <desc></desc>
       <idno type="VIAF">241907176</idno>
       <location>
          <country key="IT"/>
@@ -973,7 +972,6 @@
    </org>
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1049,7 +1047,6 @@
    </org>
    <org xml:id="DLCL_CF_O0131">
       <orgName xml:lang="it">Libreria di Padre Isolani</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0132" type="library">
       <orgName xml:lang="it">Biblioteca del Monastero di Fonte Avellana</orgName>
@@ -1064,11 +1061,9 @@
    <org xml:id="DLCL_CF_O0133" type="congregation" sameAs="http://viaf.org/viaf/125014217" source="https://it.wikipedia.org/wiki/Congregazione_dei_vescovi_e_regolari">
       <orgName xml:lang="it">Sacra Congregazione dei Vescovi e Regolari</orgName>
       <idno type="VIAF">125014217</idno>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0134" type="family">
       <orgName xml:lang="it">Casa Ricciardelli</orgName>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1079,7 +1074,6 @@
    <org xml:id="DLCL_CF_O0135" type="library" sameAs="http://viaf.org/viaf/155437292" source="https://it.wikipedia.org/wiki/Biblioteca_Augusta">
       <orgName xml:lang="it">Libreria Augusta</orgName>
       <idno type="VIAF">155437292</idno>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1089,11 +1083,9 @@
    </org>
    <org xml:id="DLCL_CF_O0136">
       <orgName xml:lang="it">Badia di San Zeno</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0137" type="library">
       <orgName xml:lang="it">Libreria de' Zoccolanti</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0138" type="church" sameAs="http://viaf.org/viaf/143141719" source="https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Cosmedin">
       <orgName xml:lang="it">Chiesa di Santa Maria in Cosmedin</orgName>

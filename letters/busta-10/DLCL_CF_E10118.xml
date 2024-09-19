@@ -52,6 +52,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-29" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20750/manifest">
@@ -112,7 +113,7 @@
                gli feci più parlare in <placeName ref="#DLCL_CF_L0008">Roma</placeName> dal <persName ref="#DLCL_CF_PC0132">Reverendissimo Grandi</persName> sopra detta lettera, 
                ricevendone promessa di risposta dopo il ritorno da <placeName ref="#DLCL_CF_L0078">MonteCassino</placeName>; 
                né mai l’ho avuta; se pur la detta lettera non và in conto di quella risposta. 
-               Ma nulla di ciò tocchi <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> col <persName ref="#DLCL_CF_PC0640" cert="unknown">Padre Lettore Giustinian</persName>; 
+               Ma nulla di ciò tocchi <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> col <persName ref="#DLCL_CF_PC0640" cert="unknown">Padre Lettore Giustiniani</persName>; 
                solo l’assicuri che scriverò quanto prima.
             </p>
             
