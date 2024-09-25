@@ -284,7 +284,6 @@
    <org xml:id="DLCL_CF_O0026" type="monastery" source="https://it.wikipedia.org/wiki/Monastero_di_Fonte_Avellana" sameAs="http://viaf.org/viaf/141945081">
       <orgName xml:lang="it">Monastero di Fonte Avellana</orgName>
       <idno type="VIAF">141945081</idno>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -388,7 +387,6 @@
    <org xml:id="DLCL_CF_O0037" type="library" sameAs="http://viaf.org/viaf/147341799">
       <orgName xml:lang="it">Biblioteca Ambrosiana</orgName>
       <idno type="VIAF">147341799</idno>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1008,7 +1006,6 @@
    </org>
    <org xml:id="DLCL_CF_O0123" type="library">
       <orgName xml:lang="it">Libreria di Monsignor de Totis</orgName>
-      <desc></desc>
    </org>
    <org xml:id="DLCL_CF_O0124" type="cathedral">
       <orgName xml:lang="it">Cattedrale di Cesena</orgName>
@@ -1090,7 +1087,6 @@
    <org xml:id="DLCL_CF_O0138" type="church" sameAs="http://viaf.org/viaf/143141719" source="https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_in_Cosmedin">
       <orgName xml:lang="it">Chiesa di Santa Maria in Cosmedin</orgName>
       <idno type="VIAF">143141719</idno>
-      <desc></desc>
       <location>
          <country key="IT"/>
          <address>
@@ -1120,7 +1116,6 @@
    <org xml:id="DLCL_CF_O0145" type="duchy" source="https://it.wikipedia.org/wiki/Ducato_di_Parma_e_Piacenza" sameAs="http://viaf.org/viaf/146578889">
       <orgName xml:lang="it">Ducato di Parma e Piacenza</orgName>
       <idno type="VIAF">146578889</idno>
-      <desc></desc>
       <location>
          <country key="IT"/>
       </location>

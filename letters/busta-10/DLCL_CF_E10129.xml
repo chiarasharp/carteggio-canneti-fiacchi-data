@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-09-04" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-19" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20761/manifest">
@@ -96,7 +97,7 @@
                 </p>
                 
                 <p>
-                    Se il <bibl type="print">Budeo</bibl> della stampa elegantissima di <persName ref="#DLCL_CF_PC0804">Aldo</persName> è migliore di quel, 
+                    Se il <bibl type="print">Budeo</bibl> della stampa elegantissima di <persName ref="#DLCL_CF_PC0581">Aldo</persName> è migliore di quel, 
                     ch’è in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> 
                 </p>
                 

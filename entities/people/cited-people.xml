@@ -10970,6 +10970,27 @@
       <occupation>poeta</occupation>
       <occupation>librettista</occupation>
    </person>
+   <person xml:id="DLCL_CF_PC0809">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Natale</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0810">
+      <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
+         <forename>Lorenzo</forename>
+      </persName>
+      <sex value="m"/>
+   </person>
+   <person xml:id="DLCL_CF_PC0811">
+      <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
+         <surname>Tinti</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
    
    <person xml:id="DLCL_CF_PC0813" sameAs="http://viaf.org/viaf/100899394">
       <persName xml:lang="pt">

@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-09-04" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-09-24" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20764/manifest">
@@ -87,22 +88,12 @@
                 <closer>
                     <salute>A rivederci con più agio.</salute>
                     <salute>Resto con tutto lo spirito abbracciandola più che carissimamente, e non si lasci mai venir’il magone.</salute>
-                    <dateline><placeName ref="#DLCL_CF_L0004"></placeName> <date when-iso="1720-12-23">23 Dicembre 1720</date>.</dateline>
+                    <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1720-12-23">23 Dicembre 1720</date>.</dateline>
                     <salute>DVPMR.</salute>
                     <salute>Cordialissimo Servitore e Padre Affettuosissimo nel Signore</salute> 
                     <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                 </closer>
-                
-                <pb xml:id="DLCL_CF_E10132_C2R" n="2 - Recto"/>
-                
-                <pb xml:id="DLCL_CF_E10132_C2V" n="2 - Verso"/>
-                
-                <postscript>
-                    <p>
-                        Al Molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName>  
-                        <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-                    </p>
-                </postscript>
+               
             </div>
         </body>
     </text>
