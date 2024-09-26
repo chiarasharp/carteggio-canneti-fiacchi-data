@@ -51,6 +51,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-01-25" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20642/manifest">
@@ -70,7 +71,7 @@
                <gap reason="illegible"/>[...] l’altra dell’ordinario passato, nel rivedere i nostri libri, trovo tra essi le <bibl type="print">Vite de’ Pittori Antichi</bibl> del <persName ref="#DLCL_CF_PC0070">Dati</persName>. 
                Ma di due tometti in 12 delle <bibl type="print">lettere di M. Simon in franzese</bibl>, non trovo che quello legato alla franzese, un altro in rustico sarà restato costi. 
                E se è così, me lo mandi; insieme colle <bibl type="print">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> tutte; alle quali aggiunga sei copie della <bibl type="print">Scanzia IX</bibl>; se non erro, dedicata a me; e altrettante della <bibl type="print">VI</bibl>, o altra che sia dedicata al <persName ref="#DLCL_CF_PC0071">Cavaliere Mandosio</persName>. 
-               Vi metta altresì le <bibl type="print">Lezioni</bibl> del <persName ref="#DLCL_CF_PC0050">Bianchini</persName>, e un libro in 12 legato alla franzese intitolato <bibl type="print"><foreign xml:lang="fr">Moynes empruntez</foreign></bibl> e il <bibl type="print">Lattanzio Firmiano</bibl> del Cellario in 8.
+               Vi metta altresì le <bibl type="print">Lezioni</bibl> del <persName ref="#DLCL_CF_PC0050">Bianchini</persName>, e un libro in 12 legato alla franzese intitolato <bibl type="print"><foreign xml:lang="fr">Moynes empruntez</foreign></bibl> e il <bibl type="print">Lattanzio Firmiano</bibl> del <rs type="person">Cellario</rs> in 8.
             </p>
             
             <p>
@@ -103,15 +104,6 @@
                <gap reason="illegible"/>[...] <rs type="person">Olivetani</rs> han qui stampato un <bibl>Calendario</bibl> per tre <gap reason="illegible"/>[...] e han tralasciato (né so perché) <rs type="person" ref="#DLCL_CF_PC0079">questo Santo</rs>. 
                Del co<gap reason="illegible"/>[...] paonazzo usato da’ <rs type="person">Vescovi</rs>, e altri <rs type="person">Prelati</rs> nelle M<gap reason="illegible"/>[...] di Requiem, altra ragione non può assegnarsi, 
                che la <gap reason="illegible"/>[...]tudine, contraria alle <bibl>Rubriche</bibl>, e <bibl>Ceremoniale</bibl>. 
-            </p>
-           
-            <pb xml:id="DLCL_CF_E10010_C2R" n="2 - Recto"/>
-            
-            <pb xml:id="DLCL_CF_E10010_C2V" n="2 - Verso"/>
-            
-            <p>
-               Al molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-               <placeName ref="#DLCL_CF_L0020">Classe</placeName> <persName ref="#DLCL_CF_L0002">Ravenna</persName>
             </p>
             
          </div>

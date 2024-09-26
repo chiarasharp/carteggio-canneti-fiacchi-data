@@ -51,11 +51,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-06" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20651/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20883/full/570,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20884/full/592,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25071/full/595,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25072/full/594,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi">
       <body>
@@ -119,6 +122,10 @@
                In questo mentre con tutto lo spirito mi confermo, e l’abbraccio insieme co’ <persName ref="#DLCL_CF_PC0007">Padri Don Bonifazio</persName> e <persName ref="#DLCL_CF_PC0090">Don Leando</persName>. 
                Quando vedrà il <persName ref="#DLCL_CF_PC0162">Signor Giacomo Anziani</persName>, me lo riverisca.
             </p>
+            
+            <pb xml:id="DLCL_CF_E10019_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25071/full/595,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10019_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25072/full/594,800/0/default.jpg"/>
             
          </div>
       </body>

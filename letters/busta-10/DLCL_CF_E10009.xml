@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-01-24" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20641/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20845/full/586,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20846/full/569,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20847/full/578,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24791/full/580,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 17 Luglio 1714)">
       <body>
@@ -155,7 +157,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10009_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10009_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24791/full/580,800/0/default.jpg"/>
              
             <postscript>
                <p>

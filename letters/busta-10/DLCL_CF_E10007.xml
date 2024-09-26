@@ -54,11 +54,14 @@
          <change when-iso="2024-01-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">riferimenti stampe</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20639/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20827/full/564,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20828/full/571,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24838/full/571,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24839/full/569,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Bertinoro, 2 Maggio 1714)">
       <body>
@@ -118,6 +121,11 @@
             </closer>
 
             <pb xml:id="DLCL_CF_E10007_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20828/full/571,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10007_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24838/full/571,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10007_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24839/full/569,800/0/default.jpg"/>
+            
          </div>
          
          <div type="notes">

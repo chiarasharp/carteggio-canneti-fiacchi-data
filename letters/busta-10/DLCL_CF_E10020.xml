@@ -51,6 +51,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-07" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20652/manifest">
@@ -83,11 +84,9 @@
             </p>
             
             <closer>
-               <salute>
-                  A rivederci, perché la posta è per partire. 
-                  Addio. 
-                  L’abbraccio di cuore. 
-               </salute>
+               <salute>A rivederci, perché la posta è per partire.</salute> 
+               <salute>Addio.</salute> 
+               <salute>L’abbraccio di cuore.</salute> 
             </closer>
 
             <pb xml:id="DLCL_CF_E10020_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20888/full/592,800/0/default.jpg"/>

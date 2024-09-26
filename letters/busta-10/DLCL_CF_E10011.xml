@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-01-25" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20643/manifest">
@@ -176,11 +177,11 @@
                Il <persName ref="#DLCL_CF_PC0043">Padre Don Pietro</persName> è il più sano di tutti. 
                Studia; e il giorno dell’Assunta farà il discorso nell’<orgName ref="#DLCL_CF_O0015">Oratorio de’ Filippini</orgName> su questo nostro <placeName ref="#DLCL_CF_L0034">Colle di Porta Sole</placeName>, ch’è come in <placeName ref="#DLCL_CF_L0007">Bologna</placeName> <orgName ref="#DLCL_CF_O0016">San Onofrio</orgName>. 
                Preghi Dio per me. 
-               L’abbraccio, e resto di tutto cuore.
             </p>
             
             <closer>
-               <salute>DVPMR</salute>.
+               <salute>L’abbraccio, e resto di tutto cuore.</salute> 
+               <salute>DVPMR.</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1714-07-31">31 luglio 1714</date></dateline>. 
                <salute>Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>

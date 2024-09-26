@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-06" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20650/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20879/full/601,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20880/full/585,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20881/full/583,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24797/full/581,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 30 Marzo 1715)">
       <body>
@@ -120,10 +122,10 @@
                Mi raccomando per <bibl type="manuscript">la nota de’ nostri libri</bibl>. 
                Di grazia me la spedisca. 
                Qui si va accrescendo qualche cosa, anco del buono. 
-               Resto con abbracciare entrambi. 
             </p>
             
             <closer>
+               <salute>Resto con abbracciare entrambi.</salute> 
                <salute>DVPMR</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-03-30">30 Marzo 1715</date></dateline>
                <salute>Ai Padri Lettori <persName ref="#DLCL_CF_PC0121">Guiccioli</persName>, e <persName ref="#DLCL_CF_PC0093">Onestini</persName> i miei riverenti saluti.</salute> 
@@ -131,7 +133,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10018_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10018_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24797/full/581,800/0/default.jpg"/>
             
             <postscript>
                <p>

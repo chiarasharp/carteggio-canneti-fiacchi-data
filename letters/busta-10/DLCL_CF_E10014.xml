@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-01-30" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20646/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20863/full/589,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20864/full/580,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20865/full/593,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24795/full/584,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Collina (Perugia, 25 Settembre 1714)">
       <body>
@@ -160,7 +162,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10014_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10014_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24795/full/584,800/0/default.jpg"/>
             
             <postscript>
                <p>

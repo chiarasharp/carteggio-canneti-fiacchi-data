@@ -53,11 +53,14 @@
          <change when-iso="2024-01-02" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">correzioni e riferimenti stampe</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/2/20633/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20815/full/605,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20816/full/566,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24832/full/594,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24833/full/580,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Ribano, 31 Ottobre 1711)">
       <body>
@@ -106,6 +109,10 @@
             </closer>
             
             <pb xml:id="DLCL_CF_E10001_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20816/full/566,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10001_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24832/full/594,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10001_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24833/full/580,800/0/default.jpg"/>
             
          </div>
       </body>

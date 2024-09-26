@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20653/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/20889/full/586,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20890/full/587,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/20891/full/585,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24800/full/588,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 8 Maggio 1715)">
       <body>
@@ -155,17 +157,17 @@
                A me ne scrive con passione. 
                Ma io son risoluto in ciò valermi dell’indifferenza, e noncuranza praticata in cose di più sensibile rilievo. 
                Ben può saltare un piccolo ruscello chi ha col nuoto trascorsi golfi vasti, e procellosi. 
-               Resto confermandomi con tutto lo spirito, e alle sue orazioni raccomandandomi di cuore. 
             </p>
             
             <closer>
-               <salute>DVPMR</salute>.
+               <salute>Resto confermandomi con tutto lo spirito, e alle sue orazioni raccomandandomi di cuore.</salute> 
+               <salute>DVPMR.</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1715-05-08">8 Maggio 1715</date></dateline>
                <salute> Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10021_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10021_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24800/full/588,800/0/default.jpg"/>
             
             <postscript>
                <p>

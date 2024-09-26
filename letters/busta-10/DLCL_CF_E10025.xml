@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-12" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20657/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21024/full/587,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21025/full/603,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21026/full/589,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24805/full/599,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 29 Ottobre 1715)">
       <body>
@@ -176,7 +178,7 @@
             </p>
             
             <p>
-               Ha un pezzo che doveva ringraziarla della copia del <bibl type="religious">Testamento Ravennate</bibl> tratta dallo <persName>Spon</persName> a me dianzi ignota. 
+               Ha un pezzo che doveva ringraziarla della copia del <bibl type="religious">Testamento Ravennate</bibl> tratta dallo <persName ref="#DLCL_CF_PC0812" cert="unknown">Spon</persName> a me dianzi ignota. 
                La ringrazio, e mi consolo infinitamente al vederla intenta a disseppellire, e studiare le più belle erudizioni. 
                Quell’aggiunto di <hi rend="underline">Salida</hi> io lo considero un depravamento di <hi rend="underline">Salita</hi> detta così della salsedine dell’acque, 
                sopra la quale scherza tanto giocosamente <persName ref="#DLCL_CF_PC0202">Sidonio Apollinare</persName>. 
@@ -198,7 +200,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10025_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10025_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24805/full/599,800/0/default.jpg"/>
             
             <postscript>
                <p>

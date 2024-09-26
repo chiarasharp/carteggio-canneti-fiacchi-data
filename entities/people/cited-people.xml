@@ -10991,7 +10991,24 @@
       </persName>
       <sex value="m"/>
    </person>
-   
+   <person xml:id="DLCL_CF_PC0812" sameAs="http://viaf.org/viaf/49290079">
+      <persName xml:lang="fr">
+         <forename>Jacob</forename>
+         <surname>Spon</surname>
+      </persName>
+      <idno type="VIAF">49290079</idno>
+      <birth source="https://it.wikipedia.org/wiki/Jacob_Spon">
+         <date when-iso="1647"/>
+         <placeName ref="#DLCL_CF_L0044">Lione</placeName>
+      </birth>
+      <death source="https://it.wikipedia.org/wiki/Jacob_Spon">
+         <date when-iso="1685-12-26"/>
+         <placeName ref="https://www.geonames.org/2658145/">Vevey</placeName>
+      </death>
+      <sex value="m"/>
+      <occupation>antropologo</occupation>
+      <occupation>archeologo</occupation>
+   </person>
    <person xml:id="DLCL_CF_PC0813" sameAs="http://viaf.org/viaf/100899394">
       <persName xml:lang="pt">
          <forename>Manoel</forename>
@@ -11055,8 +11072,13 @@
       <sex value="m"/>
       <occupation>tipografo</occupation>
    </person>
-   
-   
+   <person xml:id="DLCL_CF_PC0819">
+      <persName xml:lang="it">
+         <roleName type="religious">Beato</roleName>
+         <surname>Gomezio</surname>
+      </persName>
+      <sex value="m"/>
+   </person>
    <person xml:id="DLCL_CF_PC0820">
       <persName xml:lang="it">
          <surname>Ziani</surname>
@@ -11067,7 +11089,7 @@
    <person xml:id="DLCL_CF_PC0821">
       <persName xml:lang="it">
          <roleName type="religious">San</roleName>
-         <surname>Pietro</surname>
+         <forename>Pietro</forename>
       </persName>
       <sex value="m"/>
       <occupation>santo</occupation>
@@ -11090,6 +11112,10 @@
       <occupation>bibliotecario</occupation>
       <occupation>vescovo</occupation>
    </person>
+   
+   
+   
+   
    
    
    
