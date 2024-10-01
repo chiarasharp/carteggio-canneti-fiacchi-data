@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-18" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20688/manifest">
@@ -102,7 +103,7 @@
             <pb xml:id="DLCL_CF_E10056_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21123/full/629,800/0/default.jpg"/>
             
             <p>
-               Se ciò fosse vero, la <persName ref="#DLCL_CF_PC0444">Cecilia</persName> non saria la stessa fanciulla lodata da <persName ref="#DLCL_CF_PC0177">Ambrogio</persName>, 
+               Se ciò fosse vero, la <persName ref="#DLCL_CF_PC0444 #DLCL_CF_PC0469" cert="unknown">Cecilia</persName> non saria la stessa fanciulla lodata da <persName ref="#DLCL_CF_PC0177">Ambrogio</persName>, 
                ma Nipote di quella. 
                Che questa, cui è indiritta la lettera del <persName ref="#DLCL_CF_PC0443">Corario</persName>, può credersi bastarda, 
                e renduta Monaca, per occultare il difetto de’ Natali, repugna la lettera medesima, ove è nominata la <rs type="person">Madre Illustre Femmina</rs>, 

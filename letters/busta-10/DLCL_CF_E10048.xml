@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-09" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20680/manifest">
@@ -84,7 +85,7 @@
                avrà prima che arriviamo alla <bibl type="religious">Dieta</bibl>, 
                nella quale contesto <rs type="person" ref="#DLCL_CF_PC0002">Padre Reverendissimo</rs> potrebbe trattare una tale uniformità. 
                Io preveggo che né <rs type="person">i Toscani</rs>, né <rs type="person">i Veneziani</rs> 
-               vorranno recedere dall’uso loro fondato nella consuetudine degli <rs type="person">Eremiti</rs> delle <orgName ref="#DLCL_CF_O0054" cert="unknown">due nostre Congregazioni</orgName>, 
+               vorranno recedere dall’uso loro fondato nella consuetudine degli <rs type="person">Eremiti</rs> delle <orgName ref="#DLCL_CF_O0054 #DLCL_CF_O0034" cert="unknown">due nostre Congregazioni</orgName>, 
                le quali compongono la maggior parte dell’<orgName ref="#DLCL_CF_O0054">Ordine</orgName>, 
                e in una <bibl type="religious">Dichiarazione litterale</bibl> della <orgName ref="#DLCL_CF_O0011" cert="unknown">Sacra Congregazione</orgName>. 
                Ma quando le suddette <orgName ref="#DLCL_CF_O0054">nostre due Provincie</orgName> persistessero in ciò, son di parere che saria spediente che noi abbracciassimo, 
@@ -177,7 +178,7 @@
             
             <closer>
                <salute>Resto caramente abbracciandola.</salute> 
-               <salute>DVPMR</salute>. 
+               <salute>DVPMR.</salute>  
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-01-23">23 Gennaio 1717</date></dateline>
                <salute>Affettuosissimo Servitore e Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
