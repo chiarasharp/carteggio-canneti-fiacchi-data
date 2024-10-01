@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-04-03" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20672/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21077/full/604,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21078/full/607,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21079/full/595,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24818/full/592,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 9 Novembre 1716)">
       <body>
@@ -174,13 +176,13 @@
             
             <closer>
                <salute>L’abbraccio caramente e di tutto cuore mi confermo.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-11-09">9 Novembre 1716</date></dateline>. 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-11-09">9 Novembre 1716</date>.</dateline>  
                <salute>DVPMR</salute>
                <salute>Affettuosissimo Servo e Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>         
             
-            <pb xml:id="DLCL_CF_E10040_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10040_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24818/full/592,800/0/default.jpg"/>
             
             <postscript>
                <p>

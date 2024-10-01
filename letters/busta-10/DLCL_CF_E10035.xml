@@ -53,16 +53,20 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20667/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21058/full/601,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21059/full/608,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21062/full/610,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24811/full/603,800/0/default.jpg"/>
    </facsimile>
    <facsimile sameAs="https://classense.unibo.it/iiif/23170/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/23171/full/601,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/23172/full/600,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24812/full/602,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24813/full/603,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" xml:id="DLCL_CF_E10035_L" n="Canneti a Fiacchi (Perugia, 14 Luglio 1716) - Lettera">
       <body>
@@ -143,7 +147,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
            
-            <pb xml:id="DLCL_CF_E10035_L_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10035_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24811/full/603,800/0/default.jpg"/>
             
             <postscript>
                <p>
@@ -205,6 +209,10 @@
                sua Patria scritta al <persName ref="#DLCL_CF_PC0281">Padre Orazio Canauli</persName> Preposito 
                dell’<orgName ref="#DLCL_CF_O0046">Oratorio di Perugia</orgName> in data delli <date when-iso="1716-07-09">9 Luglio 1716</date>
             </p>
+            
+            <pb xml:id="DLCL_CF_E10035_A01_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24812/full/602,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10035_A01_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24813/full/603,800/0/default.jpg"/>
             
          </div>
       </body>

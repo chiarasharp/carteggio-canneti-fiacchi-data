@@ -53,12 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-20" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20664/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21049/full/610,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21050/full/592,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21051/full/598,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24810/full/595,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 24 Marzo 1716)">
       <body>
@@ -138,10 +140,10 @@
             <p>
                Mille altre cose avrei da scrivere. 
                Rimettiamo ciò ad altro ordinario. 
-               Resto intanto. 
             </p>
             
             <closer>
+               <salute>Resto intanto.</salute> 
                <salute>DVPMR</salute>
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-03-24">24 marzo 1716</date></dateline>
             </closer>
@@ -158,7 +160,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer> 
 
-            <pb xml:id="DLCL_CF_E10032_C2V" n="2 - Verso"/>
+            <pb xml:id="DLCL_CF_E10032_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24810/full/595,800/0/default.jpg"/>
             
             <postscript>
                <p>

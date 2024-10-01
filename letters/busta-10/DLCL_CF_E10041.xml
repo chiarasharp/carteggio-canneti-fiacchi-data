@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20673/manifest">
@@ -103,7 +104,7 @@
             <closer>
                <salute>In fretta di vero cuore mi confermo.</salute> 
                <salute>D.V.P.M.R.</salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-11-17">17 Novembre 1716</date></dateline>. 
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1716-11-17">17 Novembre 1716</date>.</dateline>  
             </closer>
              
             <postscript>

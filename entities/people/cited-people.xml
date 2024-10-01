@@ -4687,31 +4687,30 @@
          <surname>Cardoni</surname>
       </persName>
       <sex value="m"/>
-   </person>
-   <person xml:id="DLCL_CF_PC0346">
+   </person>  
+   <person xml:id="DLCL_CF_PC0346" sameAs="http://viaf.org/viaf/307289731">
       <persName xml:lang="it">
          <forename>Cosimo</forename>
          <surname>Della Rena</surname>
       </persName>
-      <sex value="m"/>
-   </person>
-   <person xml:id="DLCL_CF_PC0347" sameAs="http://viaf.org/viaf/">
-      <persName xml:lang="it">
-         <forename>Cosimo</forename>
-         <surname>Della Rena</surname>
-      </persName>
-      <idno type="VIAF"></idno>
-      <birth source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <idno type="VIAF">307289731</idno>
+      <birth source="https://www.treccani.it/enciclopedia/cosimo-della-rena_%28Dizionario-Biografico%29/">
+         <date when-iso="1615-01-08"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
       </birth>
-      <death source="">
-         <date when-iso=""/>
-         <placeName ref=""></placeName>
+      <death source="https://www.treccani.it/enciclopedia/cosimo-della-rena_%28Dizionario-Biografico%29/">
+         <date when-iso="1696-12-09"/>
+         <placeName ref="#DLCL_CF_L0018">Firenze</placeName>
       </death>
       <sex value="m"/>
-      <occupation></occupation>
-      <occupation></occupation>
+      <occupation>classicista</occupation>
+      <occupation>antiquario</occupation>
+   </person>
+   <person xml:id="DLCL_CF_PC0347">
+      <persName xml:lang="it">
+         <forename>Grisostomo</forename>
+      </persName>
+      <sex value="m"/>
    </person>
    <person xml:id="DLCL_CF_PC0348" sameAs="http://viaf.org/viaf/19762519">
       <persName xml:lang="it">

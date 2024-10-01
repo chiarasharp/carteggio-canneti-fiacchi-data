@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20677/manifest">
@@ -146,7 +147,7 @@
                e nello scrivere che l’<bibl type="print">epistole</bibl> del <persName ref="#DLCL_CF_PC0258">Delfino</persName> stesso 
                sono stampate in <placeName ref="#DLCL_CF_L0044">Lione</placeName> (quando l’unica edizione, che ne abbiamo, vedesi fatta in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>); 
                e nel riferire che appresso i Padri dell’<orgName ref="#DLCL_CF_O0050" cert="low">eremo</orgName> vi sia un <bibl type="print">Tomo d’epistole</bibl> di lui inedite 
-               (quando i Tomi e ivi, e in <orgName>San Michele</orgName> sono più). 
+               (quando i Tomi e ivi, e in <orgName ref="#DLCL_CF_O0108">San Michele</orgName> sono più). 
                I <bibl type="print">sonetti</bibl> del <persName ref="#DLCL_CF_PC0113">Signor Zappata</persName> mi piacciono molto, 
                ammirando argomento così secco maneggiato con tanta varietà sugosa di formule; e di pensieri veramente poetici. 
                Gli scrivo in ringraziamento. 

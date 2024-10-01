@@ -53,6 +53,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20678/manifest">
@@ -174,8 +175,8 @@
                <hi rend="underline"><foreign xml:lang="la">Basterna vehiculum muliebre: in eo a lectica veterum differebat, quod illa ferretur a servis, haec traheretur a burdonibus, hoc est mulis</foreign></hi>. 
                Gli <bibl type="religious">Atti di Santa Susanna</bibl>: 
                <hi rend="underline"><foreign xml:lang="la">eadem hora praepedigna ascendit caveam basternae, et venit ad domum Gabinij</foreign></hi>. 
-               Che da due animali fosse portata la basterna ce lo ridice <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName> <bibl type="print">libro 20</bibl>. 
-               <bibl type="print">Origines</bibl> carta 12, e perciò <persName ref="#DLCL_CF_PC0172">Santo Agostino</persName> <bibl type="print">epistola 116</bibl> 
+               Che da due animali fosse portata la basterna ce lo ridice <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName> <bibl type="print">libro 20. Origines</bibl> carta 12, 
+               e perciò <persName ref="#DLCL_CF_PC0172">Santo Agostino</persName> <bibl type="print">epistola 116</bibl> 
                adoperò a spiegarne il moto, il verbo <hi rend="underline"><foreign xml:lang="la">veho</foreign></hi>. 
                Finalmente un antico <hi rend="underline">Epigramma <bibl type="print">libro 4. Epigr</bibl></hi>. 
             </p>
@@ -268,7 +269,7 @@
                è lo stesso che <hi rend="underline"><foreign xml:lang="la">Domus titulata</foreign></hi>. 
                <persName ref="#DLCL_CF_PC0022">Du Cange</persName> Lo stesso <persName ref="#DLCL_CF_PC0245">San Gregorio</persName> <bibl type="print">libro 4 epistola 33</bibl>. 
                <hi rend="underline"><foreign xml:lang="la">In <placeName ref="#DLCL_CF_L0056">Sicilia</placeName> autem Insula Stephanus quidam marinarum partium Chartularius tanta praeiudicia, tantasque oppressiones operari dicitur, invadendo loca singulorum, atque sine dictione causarum per possessiones, ac domos titulos ponendo</foreign></hi>. 
-               Adone nel <bibl type="print">Martitologio 29</bibl>. Agost. cit. dal <persName ref="#DLCL_CF_PC0022">Du Cange</persName> 
+               <persName ref="#DLCL_CF_PC0350" cert="unknown">Adone</persName> nel <bibl type="print">Martitologio 29</bibl>. Agost. cit. dal <persName ref="#DLCL_CF_PC0022">Du Cange</persName> 
                (e forse parlando di <persName ref="#DLCL_CF_PC0370">Santa Sabina</persName>) <foreign xml:lang="la">Omnes</foreign> 
             </p>
             

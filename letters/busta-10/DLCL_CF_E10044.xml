@@ -53,10 +53,14 @@
       <revisionDesc status="created">
          <change when-iso="2024-03-19" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20676/manifest">
       <graphic n="1r" url="https://classense.unibo.it/iiif/2/21088/full/603,800/0/default.jpg"/>
+      <graphic n="1v" url="https://classense.unibo.it/iiif/2/24821/full/617,800/0/default.jpg"/>
+      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25073/full/613,800/0/default.jpg"/>
+      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25074/full/623,800/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 28 Novembre 1716)">
       <body>
@@ -97,6 +101,12 @@
                <salute>Affettuosissimo Servitore Padre nel Signore Cordialissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
+            
+            <pb xml:id="DLCL_CF_E10044_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/24821/full/617,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10044_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25073/full/613,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10044_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25074/full/623,800/0/default.jpg"/>
             
          </div>
       </body>
