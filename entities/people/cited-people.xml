@@ -7014,6 +7014,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0505" sameAs="http://viaf.org/viaf/34796473">
       <persName xml:lang="it">
+         <roleName type="religious">Padre</roleName>
          <forename>Giulio</forename>
          <surname>Negri</surname>
       </persName>
@@ -7032,7 +7033,7 @@
    <person xml:id="DLCL_CF_PC0506">
       <persName xml:lang="it">
          <roleName type="nobility">Principe di Toscana</roleName>
-         <surname>Ferdinando</surname>
+         <forename>Ferdinando</forename>
       </persName>
       <sex value="m"/>
       <occupation>principe</occupation>
@@ -7147,7 +7148,7 @@
    <person xml:id="DLCL_CF_PC0513" sameAs="http://viaf.org/viaf/29569554">
       <persName xml:lang="it">
          <forename>Giovanni</forename>
-         <surname>Di Bernardo</surname>
+         <surname>di Bernardo</surname>
          <surname>Rucellai</surname>
       </persName>
       <idno type="VIAF">29569554</idno>
@@ -7336,7 +7337,7 @@
    <person xml:id="DLCL_CF_PC0525" sameAs="http://viaf.org/viaf/66542815">
       <persName xml:lang="de">
          <forename>Johannes</forename>
-         <surname type="nickname">Reuclino</surname>
+         <surname type="translation" xml:lang="it">Reuclino</surname>
          <surname>Reuchlin</surname>
       </persName>
       <idno type="VIAF">66542815</idno>
@@ -7510,6 +7511,7 @@
          <surname>Orsini</surname>
       </persName>
       <sex value="m"/>
+      <occupation>cardinale</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0539">
       <persName xml:lang="it">
@@ -7625,9 +7627,11 @@
    </person>
    <person xml:id="DLCL_CF_PC0547">
       <persName xml:lang="it">
+         <roleName type="religious">Padre Abate</roleName>
          <surname>Tassis</surname>
       </persName>
       <sex value="m"/>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0548" sameAs="http://viaf.org/viaf/64016044">
       <persName xml:lang="it">
@@ -7647,23 +7651,12 @@
       <occupation>poeta</occupation>
       <occupation>botanico</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0549" sameAs="http://viaf.org/viaf/69868760">
-      <persName xml:lang="fr">
-         <forename>Jacques</forename>
-         <surname type="nickname">Saliano</surname>
-         <surname>Salian</surname>
+   <person xml:id="DLCL_CF_PC0549">
+      <persName xml:lang="it">
+         <forename>Filippo</forename>
+         <surname>Meniconi</surname>
       </persName>
-      <idno type="VIAF">69868760</idno>
-      <birth source="https://data.bnf.fr/en/16156463/jacques_salian/">
-         <date when-iso="1558-02-12"/>
-         <placeName ref="https://www.geonames.org/3035681/">Avignon</placeName>
-      </birth>
-      <death source="https://data.bnf.fr/en/16156463/jacques_salian/">
-         <date when-iso="1640-01-23"/>
-         <placeName ref="#DLCL_CF_L0017">Parigi</placeName>
-      </death>
       <sex value="m"/>
-      <occupation>teologo</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0550" sameAs="http://viaf.org/viaf/74961015">
       <persName xml:lang="it">
@@ -7805,6 +7798,7 @@
       <persName xml:lang="it">
          <forename>Dionigi</forename>
          <forename type="nickname">il Piccolo</forename>
+         <forename type="nickname">Dionisio</forename>
       </persName>
       <idno type="VIAF">249536247</idno>
       <birth source="https://it.wikipedia.org/wiki/Dionigi_il_Piccolo">
@@ -7819,7 +7813,7 @@
    <person xml:id="DLCL_CF_PC0559" sameAs="http://viaf.org/viaf/32005691">
       <persName xml:lang="fr">
          <forename>Jean</forename>
-         <forename type="nickname">Arduino</forename>
+         <surname type="translation" xml:lang="it">Arduino</surname>
          <surname>Hardouin</surname>
       </persName>
       <idno type="VIAF">32005691</idno>
@@ -7838,7 +7832,7 @@
    <person xml:id="DLCL_CF_PC0560" sameAs="http://viaf.org/viaf/51680309">
       <persName xml:lang="fr">
          <forename>Barthélemy</forename>
-         <forename type="nickname">Germonio</forename>
+         <surname type="translation" xml:lang="it">Germonio</surname>
          <surname>Germon</surname>
       </persName>
       <idno type="VIAF">51680309</idno>
@@ -7863,6 +7857,7 @@
       <persName xml:lang="fr">
          <forename>Jean</forename>
          <surname>Bolland</surname>
+         <surname type="translation" xml:lang="it">Bollando</surname>
       </persName>
       <idno type="VIAF">44321670</idno>
       <birth source="https://www.treccani.it/enciclopedia/jean-bolland/">
@@ -8106,6 +8101,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0579" sameAs="http://viaf.org/viaf/24624390">
       <persName xml:lang="fr">
+         <roleName type="religious">Padre</roleName>
          <forename>Bernard</forename>
          <surname>de Montfaucon</surname>
       </persName>
@@ -8178,6 +8174,7 @@
    <person xml:id="DLCL_CF_PC0583" sameAs="http://viaf.org/viaf/51713137">
       <persName xml:lang="fr">
          <forename>Philippe</forename>
+         <surname type="nickname">Labbè</surname>
          <surname>Labbe</surname>
       </persName>
       <idno type="VIAF">51713137</idno>
@@ -8191,7 +8188,6 @@
       </death>
       <sex value="m"/>
       <occupation>storico</occupation>
-      <occupation>gesuita</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0584">
       <persName xml:lang="it">
@@ -8337,9 +8333,9 @@
    </person>
    <person xml:id="DLCL_CF_PC0596" sameAs="http://viaf.org/viaf/88944588">
       <persName xml:lang="it">
-         <roleName type="religious">Padre</roleName>
+         <roleName type="religious">Padre Don</roleName>
          <forename>Francesco</forename>
-         <forename>Maria</forename>
+         <forename>Alessio</forename>
          <surname>Davia</surname>
       </persName>
       <idno type="VIAF">88944588</idno>
@@ -8416,7 +8412,6 @@
    <person xml:id="DLCL_CF_PC0602" sameAs="http://viaf.org/viaf/57676686">
       <persName xml:lang="it">
          <forename>Marco</forename>
-         <forename>Battista</forename>
          <surname>Battaglini</surname>
       </persName>
       <idno type="VIAF">57676686</idno>
@@ -8503,6 +8498,7 @@
    <person xml:id="DLCL_CF_PC0608" sameAs="http://viaf.org/viaf/52030716">
       <persName xml:lang="fr">
          <forename>Theopile</forename>
+         <surname type="translation" xml:lang="it">Rainaudo</surname>
          <surname>Raynaud</surname>
       </persName>
       <idno type="VIAF">52030716</idno>
@@ -8512,7 +8508,7 @@
       </birth>
       <death source="https://it.wikipedia.org/wiki/Th%C3%A9ophile_Raynaud">
          <date when-iso="1663-10-31"/>
-         <placeName ref="https://www.geonames.org/2996944/">Lione</placeName>
+         <placeName ref="#DLCL_CF_L0044">Lione</placeName>
       </death>
       <sex value="m"/>
       <occupation>teologo</occupation>
@@ -8521,7 +8517,7 @@
       <persName xml:lang="">
          <roleName type="religious">Papa</roleName>
          <forename>Clemente</forename>
-         <surname>VII</surname>
+         <genName>VII</genName>
       </persName>
       <idno type="VIAF">90633828</idno>
       <birth source="https://www.treccani.it/enciclopedia/papa-clemente-vii_(Dizionario-Biografico)/">
@@ -8579,10 +8575,10 @@
    </person>
    <person xml:id="DLCL_CF_PC0615">
       <persName xml:lang="it">
+         <roleName>Dottore</roleName>
          <surname>Neri</surname>
       </persName>
       <sex value="m"/>
-      <occupation>dottore</occupation>
       <occupation>matematico</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0616">
@@ -8595,7 +8591,7 @@
    <person xml:id="DLCL_CF_PC0617">
       <persName xml:lang="it">
          <roleName type="religious">Padre Don</roleName>
-         <forename>Gio.</forename>
+         <forename>Giovanni</forename>
          <forename>Antonio</forename>
          <surname>Bernardini</surname>
       </persName>
@@ -8644,6 +8640,7 @@
    <person xml:id="DLCL_CF_PC0622" sameAs="http://viaf.org/viaf/100219162">
       <persName xml:lang="it">
          <forename>Plinio</forename>
+         <forename type="nickname">Il Vecchio</forename>
          <forename>Gaio</forename>
          <surname>Secondo</surname>
       </persName>
@@ -8668,8 +8665,10 @@
       <occupation>autore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0624" sameAs="http://viaf.org/viaf/88770049">
-      <persName>
+      <persName xml:lang="de">
          <forename>André</forename>
+         <surname xml:lang="it" type="translation">Schotto</surname>
+         <surname xml:lang="it" type="translation">Scoto</surname>
          <surname>Schott</surname>
       </persName>
       <idno type="VIAF">88770049</idno>
@@ -8686,7 +8685,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0625">
       <persName xml:lang="it">
-         <roleName type="religious">Don</roleName>
+         <roleName type="religious">Padre Don</roleName>
          <forename>Ippolito</forename>
          <surname>Pugnetti</surname>
       </persName>
@@ -8694,7 +8693,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0626">
       <persName xml:lang="it">
-         <roleName type="religious">Don</roleName>
+         <roleName type="religious">Padre Don</roleName>
          <forename>Benedetto</forename>
          <surname>Bondigli</surname>
       </persName>
@@ -8741,7 +8740,7 @@
       <idno type="VIAF">307174275</idno>
       <birth source="https://www.treccani.it/enciclopedia/papa-pio-ii_(Dizionario-Biografico)/">
          <date when-iso="1405-10-18"/>
-         <placeName ref="https://www.geonames.org/6544049">Corsignano</placeName>
+         <placeName ref="https://www.geonames.org/6544049/">Corsignano</placeName>
       </birth>
       <death source="https://www.treccani.it/enciclopedia/papa-pio-ii_(Dizionario-Biografico)/">
          <date when-iso="1464-08-14"/>
@@ -8789,6 +8788,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0633" sameAs="http://viaf.org/viaf/89222759">
       <persName xml:lang="it">
+         <roleName type="religious">Frate</roleName>
          <forename>Giovanni</forename>
          <forename>Paolo</forename>
          <surname>Meniconi</surname>
@@ -8800,7 +8800,7 @@
       </birth>
       <death source="https://www.gentedituscia.it/meniconi-giovanni-paolo/">
          <date when-iso="1694-12-24"/>
-         <placeName ref="#DLCL_CF_L0028">Perugia</placeName>
+         <placeName ref="https://www.geonames.org/3182494/">Bagnoregio</placeName>
       </death>
       <sex value="m"/>
       <occupation>vescovo</occupation>
@@ -8811,6 +8811,7 @@
          <forename>Domenico</forename>
       </persName>
       <sex value="m"/>
+      <occupation>santo</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0635">
       <persName xml:lang="it">
@@ -8853,11 +8854,12 @@
          <placeName ref="#DLCL_CF_L0008">Roma</placeName>
       </death>
       <sex value="m"/>
-      <occupation>vescovo</occupation>
+      <occupation>vescovo aleriense</occupation>
       <occupation>umanista</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0638">
       <persName xml:lang="fr">
+         <roleName type="religious">Cardinale</roleName>
          <surname>de Quignones</surname>
       </persName>
       <sex value="m"/>
@@ -8898,9 +8900,11 @@
    <person xml:id="DLCL_CF_PC0642">
       <persName xml:lang="it">
          <roleName type="religious">Abate</roleName>
+         <forename>Greco</forename>
          <surname>dalla Mirandola</surname>
       </persName>
       <sex value="m"/>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0643" sameAs="http://viaf.org/viaf/29557732">
       <persName xml:lang="it">
@@ -8942,6 +8946,7 @@
       <persName xml:lang="fr">
          <forename>Jacques</forename>
          <forename>Auguste</forename>
+         <surname type="translation" xml:lang="it">Tuano</surname>
          <surname>de Thou</surname>
       </persName>
       <idno type="VIAF">64012440</idno>
@@ -8967,6 +8972,7 @@
    <person xml:id="DLCL_CF_PC0647" sameAs="http://viaf.org/viaf/39475804">
       <persName xml:lang="it">
          <forename>Niccolò</forename>
+         <surname type="nickname">Perrotto</surname>
          <surname>Perrotti</surname>
       </persName>
       <idno type="VIAF">39475804</idno>
@@ -8988,13 +8994,13 @@
          <surname>Orso</surname>
       </persName>
       <sex value="m"/>
+      <occupation>diacono</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0649">
       <persName xml:lang="it">
          <surname>Guidi</surname>
       </persName>
       <sex value="m"/>
-      <occupation>signore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0650">
       <persName xml:lang="it">
@@ -9002,6 +9008,7 @@
          <surname>Gattola</surname>
       </persName>
       <sex value="m"/>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0651" sameAs="http://viaf.org/viaf/76712761">
       <persName xml:lang="it">
@@ -9012,6 +9019,7 @@
       </persName>
       <idno type="VIAF">76712761</idno>
       <sex value="m"/>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0652" sameAs="http://viaf.org/viaf/100160415">
       <persName xml:lang="it">
@@ -9069,6 +9077,7 @@
    <person xml:id="DLCL_CF_PC0655" sameAs="http://viaf.org/viaf/95296771">
       <persName xml:lang="it">
          <forename>Niccolò</forename>
+         <forename type="nickname">Lirano</forename>
          <surname>di Lira</surname>
       </persName>
       <idno type="VIAF">95296771</idno>
@@ -9138,6 +9147,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0659">
       <persName xml:lang="it">
+         <roleName>Dottor</roleName>
          <surname>Traversari</surname>
       </persName>
       <sex value="m"/>
@@ -9185,6 +9195,7 @@
    </person>
    <person xml:id="DLCL_CF_PC0663">
       <persName xml:lang="it">
+         <roleName>Marchese</roleName>
          <surname>Capponi</surname>
       </persName>
       <sex value="m"/>
@@ -9192,11 +9203,12 @@
    </person>
    <person xml:id="DLCL_CF_PC0664">
       <persName xml:lang="la">
-         <roleName type="religious">Don</roleName>
+         <roleName type="religious">Don Abate</roleName>
          <forename>Antonio</forename>
          <surname>Spizzicagigli</surname>
       </persName>
       <sex value="m"/>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0665" sameAs="http://viaf.org/viaf/89065899">
       <persName xml:lang="it">
@@ -11147,7 +11159,6 @@
       <sex value="m"/>
       <occupation>presidente</occupation>
    </person>
-   
    
    
    
