@@ -99,11 +99,13 @@
             </p>
             
             <p>
-               Sopra le <bibl>Rubriche</bibl>; i <bibl type="print">Decreti della Congregazione de’ Riti</bibl> fanno a’<gap reason="illegible"/>[...] tra loro. 
-               Di <persName ref="#DLCL_CF_PC0079">S. Gio. di Dio</persName> non sò qual messa sia assegnata. 
-               <gap reason="illegible"/>[...] <rs type="person">Olivetani</rs> han qui stampato un <bibl>Calendario</bibl> per tre <gap reason="illegible"/>[...] e han tralasciato (né so perché) <rs type="person" ref="#DLCL_CF_PC0079">questo Santo</rs>. 
-               Del co<gap reason="illegible"/>[...] paonazzo usato da’ <rs type="person">Vescovi</rs>, e altri <rs type="person">Prelati</rs> nelle M<gap reason="illegible"/>[...] di Requiem, altra ragione non può assegnarsi, 
-               che la <gap reason="illegible"/>[...]tudine, contraria alle <bibl>Rubriche</bibl>, e <bibl>Ceremoniale</bibl>. 
+               Sopra le <bibl type="religious">Rubriche</bibl>; i <bibl type="print">Decreti della Congregazione de’ Riti</bibl> fanno a’<gap reason="illegible"/>[...] tra loro. 
+               Di <persName ref="#DLCL_CF_PC0079">S. Gio. di Dio</persName> non sò qual <bibl type="religious">messa</bibl> sia assegnata. 
+               <gap reason="illegible"/>[...] <rs type="person">Olivetani</rs> han qui stampato un <bibl type="religious">Calendario</bibl> per tre <gap reason="illegible"/>[...] 
+               e han tralasciato (né so perché) <rs type="person" ref="#DLCL_CF_PC0079">questo Santo</rs>. 
+               Del co<gap reason="illegible"/>[...] paonazzo usato da’ <rs type="person">Vescovi</rs>, 
+               e altri <rs type="person">Prelati</rs> nelle M<gap reason="illegible"/>[...] di Requiem, altra ragione non può assegnarsi, 
+               che la <gap reason="illegible"/>[...]tudine, contraria alle <bibl type="religious">Rubriche</bibl>, e <bibl type="religious">Ceremoniale</bibl>. 
             </p>
             
          </div>

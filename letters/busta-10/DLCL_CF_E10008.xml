@@ -145,7 +145,7 @@
                Gli altri libri di <placeName ref="#DLCL_CF_L0023">Foligno</placeName> venuti da <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> furon colà da me osservati; 
                ma nova avvertii che ve ne fossero degli imperfetti; trattone il <bibl type="print" source="#DLCL_CF_BS0014 #DLCL_CF_BS0015">Sansovino della Casa Orsina</bibl>, dal quale, 
                e dall’altro potrà farne comporre uno Tomo intiero. 
-               L’altro <bibl xml:id="DLCL_CF_E10008_N001" type="print">esemplare del Boezio</bibl> del <persName ref="#DLCL_CF_PC0047">Tanzo</persName> 
+               L’altro <bibl type="print" xml:id="DLCL_CF_E10008_N001">esemplare del Boezio</bibl> del <persName ref="#DLCL_CF_PC0047">Tanzo</persName> 
                (benché cosa di niun pregio) mi pare lo mettessi tra nostri. 
                Avrei caro vi fosse. 
                L’<bibl type="print" source="#DLCL_CF_BS0016 #DLCL_CF_BS0017">edizione de’ Marmi del Doni</bibl> è intiera? 

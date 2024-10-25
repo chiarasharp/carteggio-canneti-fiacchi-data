@@ -57,7 +57,7 @@
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/2/20633/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20815/full/605,800/0/default.jpg"/>
+      <graphic n="1r" url="https://classense.unibo.it/iiif/2/24771/full/605,800/0/default.jpg"/>
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/20816/full/566,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/24832/full/594,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/24833/full/580,800/0/default.jpg"/>
@@ -66,7 +66,7 @@
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10001_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20815/full/605,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10001_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/24771/full/605,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -77,7 +77,7 @@
                ricevo la nota de' libri di <placeName ref="#DLCL_CF_L0005" key="DLCL_CF_L0005">Faenza</placeName> 
                e insieme la certa notizia dell'offerta già fatta dal mio <persName ref="#DLCL_CF_PC0004" key="DLCL_CF_PC0004">Marozzi</persName>. 
                Con questo lume ora potrò regolarmi nel rispondere alla richiesta di dieci scudi. 
-               Mi spiace che ancora non siano giunti i <bibl source="#DLCL_CF_BM0001 #DLCL_CF_BM0002">due Manoscritti del Quadriregio</bibl>; 
+               Mi spiace che ancora non siano giunti i <bibl type="manuscript" source="#DLCL_CF_BM0001 #DLCL_CF_BM0002">due Manoscritti del Quadriregio</bibl>; 
                perché non avrò costì l’ozio, che qui posso godere, per collazionarli con lo stampato. 
                Avrò caro che presto arrivino i libri del <persName ref="#DLCL_CF_PC0005" key="DLCL_CF_PC0005">Ruinetti</persName>. 
                Raccomando a <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> sollecitare la copia del <bibl type="religious">Calendario</bibl>; 

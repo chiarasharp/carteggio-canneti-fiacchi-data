@@ -67,7 +67,7 @@
             
             <p>
                Desidero aver meco il <bibl type="print">Libro Stampato</bibl>, 
-               e i due <bibl source="#DLCL_CF_BM0001 #DLCL_CF_BM0002" type="manuscript">Manoscritti del Quadriregio</bibl> con tutte le lettere 
+               e i due <bibl type="manuscript" source="#DLCL_CF_BM0001 #DLCL_CF_BM0002">Manoscritti del Quadriregio</bibl> con tutte le lettere 
                del <persName ref="#DLCL_CF_PC0015" key="DLCL_CF_PC0015">Pagliarini</persName>, che vi sono appresso. 
                Li troverà su uno de’ tavolini vicino alla porta dell’ingresso della Camera, ove dormo. 
                Per entrarvi in compagnia di <rs type="person">Frate Natale</rs>, gli mostri la lettera presente; 
