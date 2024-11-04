@@ -52,6 +52,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-09-03" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20758/manifest">
@@ -64,114 +65,118 @@
         <graphic n="1r" url="https://classense.unibo.it/iiif/2/21309/full/495,800/0/default.jpg"/>
         <graphic n="1v" url="https://classense.unibo.it/iiif/2/25242/full/607,800/0/default.jpg"/>
     </facsimile>
-    <text type="letter" n="Canneti a Fiacchi (Fabriano, 16 Settembre 1720)">
-        <body>
-            <div type="transcription">
-                <pb xml:id="DLCL_CF_E10126_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21307/full/531,800/0/default.jpg"/>
-                
-                <opener>
-                    <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
-                </opener>
-                
-                <p>
-                    Ecco il nostro <persName ref="#DLCL_CF_PC0090">Don Leandro</persName> rappezzato, che se ne ritorna con una totale innocenza intorno il fatto accaduto, 
-                    di cui toccherà a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> destramente informarlo a suo tempo, quando altri in ciò non vogliano prevenirla. 
-                    Non essendo ritornato il <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> da <placeName ref="#DLCL_CF_L0051">Nocera</placeName>, 
-                    non mi ha potuto consegnare gli scudi due bai. 
-                    44 residuo de’ nostri conti. 
-                    Dunque la Cassettina de’ libri, e l’involto della carta sono arenati? 
-                    Gran fatalità! 
-                    Veramente il <persName ref="#DLCL_CF_PC0768">Padre Don Deodato</persName> non partì che Lunedì giorno dopo la Madonna, ma prima non ebbe la roba da portare, 
-                    per la quale il giovedì precedente era stato a <orgName ref="#DLCL_CF_O0117">Ribano</orgName> in persona. 
-                    Né pure il prete verrà, per non aver l’età capace di beneficio curato. 
-                    Il <persName ref="#DLCL_CF_PC0788">Martinetti</persName> fu quì in Monastero; ed ebbi contento di farlo servire di alloggio. 
-                    Mando una Cassetta di Libri, de quali accludo la nota. 
-                </p>
-     
-                <closer>
-                    <salute>Con che abbracciandola caramente resto.</salute>
-                    <salute>DVPMR.</salute>
-                </closer>
-                
-                <postscript>
-                    <p>
-                        che riceverà cento pietre focaie
-                    </p>
-                </postscript>
-                
-                <closer>
-                    <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1720-09-16">16 settembre 1720</date></dateline>
-                    <salute>Par.mo Cordialissimo Servitore e Padre</salute> 
-                    <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
-                </closer>
-                
-                <pb xml:id="DLCL_CF_E10126_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25239/full/616,800/0/default.jpg"/>
-                
-                <pb xml:id="DLCL_CF_E10126_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25240/full/475,800/0/default.jpg"/>
-                
-                <pb xml:id="DLCL_CF_E10126_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25241/full/617,800/0/default.jpg"/>
-
-            </div>
-        </body>
-    </text>
-    <text type="attachment" xml:id="DLCL_CF_E10126_A01" n="Canneti a Fiacchi (Fabriano, 16 Settembre 1720) - Allegato 1">
-        <body>
-            <div type="transcription">
-                
-                <pb xml:id="DLCL_CF_E10126_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21309/full/495,800/0/default.jpg"/>
-                
-                <p>
-                    <bibl type="print">Compilazione de’ Privilegi della Casa Meniconi</bibl> fol. 
-                    Dono alla <orgName ref="#DLCL_CF_O0001">Libreria di Classe</orgName>.
-                </p>
-                
-                <p>
-                    <bibl type="print">Registro delle Posizioni delle Cause sopra i privilegi della Famiglia Sacrati</bibl> in 4to a detta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>.
-                </p>
-                
-                <p>
-                    Involto sigillato da mandarsi a <placeName ref="#DLCL_CF_L0040">Imola</placeName>.
-                </p>
-                
-                <p>
-                    Involto da mandarsi a <placeName ref="#DLCL_CF_L0024">Venezia</placeName> / con pagare il porto, notando a conto nostro la spesa.
-                </p>
-                
-                <p>
-                    <bibl type="print">Bibbia antica sciolta</bibl> / da esitare. Mi costa s. 1 : 10.
-                </p>
-                
-                <p>
-                    <bibl type="print">Plinio Antico</bibl> / da esitare per quel, che si può.
-                </p>
-                
-                <p>
-                    <persName ref="#DLCL_CF_PC0777">Vitellionis</persName> <bibl type="print">Optica</bibl> da legare, e metter tra’ nostri libri.
-                </p>
-                
-                <p>
-                    <persName ref="#DLCL_CF_PC0647">Perotti</persName> <bibl type="print">Grammatica</bibl> da legare, e metter tra nostri libri.
-                </p>
-                
-                <p>
-                    <persName ref="#DLCL_CF_PC0789">Giustino</persName> <bibl type="print">Istorico Antico</bibl> da legare, e metter come sopra.
-                </p>
-                
-                <p>
-                    <bibl type="print">Quintiliano</bibl> fol. Antico, da metter tra nostri libri.
-                </p>
-                
-                <p>
-                    <bibl type="print">Istoria di Cingoli</bibl> / da legare, e mettere come sopra.
-                </p>
-                
-                <p>
-                    <bibl type="print">Vita S. Caroli</bibl> da legare, e rimandare.
-                </p>
-                
-                <pb xml:id="DLCL_CF_E10126_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25242/full/607,800/0/default.jpg"/>
-
-            </div>
-        </body>
-    </text>
+    <text>
+        <group>
+            <text type="letter" xml:id="DLCL_CF_E10126_L" n="Canneti a Fiacchi (Fabriano, 16 Settembre 1720) - Lettera">
+                <body>
+                    <div type="transcription">
+                        <pb xml:id="DLCL_CF_E10126_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21307/full/531,800/0/default.jpg"/>
+                        
+                        <opener>
+                            <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+                        </opener>
+                        
+                        <p>
+                            Ecco il nostro <persName ref="#DLCL_CF_PC0090">Don Leandro</persName> rappezzato, che se ne ritorna con una totale innocenza intorno il fatto accaduto, 
+                            di cui toccherà a <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> destramente informarlo a suo tempo, quando altri in ciò non vogliano prevenirla. 
+                            Non essendo ritornato il <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> da <placeName ref="#DLCL_CF_L0051">Nocera</placeName>, 
+                            non mi ha potuto consegnare gli scudi due bai. 
+                            44 residuo de’ nostri conti. 
+                            Dunque la Cassettina de’ libri, e l’involto della carta sono arenati? 
+                            Gran fatalità! 
+                            Veramente il <persName ref="#DLCL_CF_PC0768">Padre Don Deodato</persName> non partì che Lunedì giorno dopo la Madonna, ma prima non ebbe la roba da portare, 
+                            per la quale il giovedì precedente era stato a <orgName ref="#DLCL_CF_O0117">Ribano</orgName> in persona. 
+                            Né pure il prete verrà, per non aver l’età capace di beneficio curato. 
+                            Il <persName ref="#DLCL_CF_PC0788">Martinetti</persName> fu quì in Monastero; ed ebbi contento di farlo servire di alloggio. 
+                            Mando una Cassetta di Libri, de quali accludo la nota. 
+                        </p>
+                        
+                        <closer>
+                            <salute>Con che abbracciandola caramente resto.</salute>
+                            <salute>DVPMR.</salute>
+                        </closer>
+                        
+                        <postscript>
+                            <p>
+                                che riceverà cento pietre focaie
+                            </p>
+                        </postscript>
+                        
+                        <closer>
+                            <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1720-09-16">16 settembre 1720</date></dateline>
+                            <salute>Par.mo Cordialissimo Servitore e Padre</salute> 
+                            <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+                        </closer>
+                        
+                        <pb xml:id="DLCL_CF_E10126_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25239/full/616,800/0/default.jpg"/>
+                        
+                        <pb xml:id="DLCL_CF_E10126_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25240/full/475,800/0/default.jpg"/>
+                        
+                        <pb xml:id="DLCL_CF_E10126_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25241/full/617,800/0/default.jpg"/>
+                        
+                    </div>
+                </body>
+            </text>
+            <text type="attachment" xml:id="DLCL_CF_E10126_A01" n="Canneti a Fiacchi (Fabriano, 16 Settembre 1720) - Allegato 1">
+                <body>
+                    <div type="transcription">
+                        
+                        <pb xml:id="DLCL_CF_E10126_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21309/full/495,800/0/default.jpg"/>
+                        
+                        <p>
+                            <bibl type="print">Compilazione de’ Privilegi della Casa Meniconi</bibl> fol. 
+                            Dono alla <orgName ref="#DLCL_CF_O0001">Libreria di Classe</orgName>.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Registro delle Posizioni delle Cause sopra i privilegi della Famiglia Sacrati</bibl> in 4to a detta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>.
+                        </p>
+                        
+                        <p>
+                            Involto sigillato da mandarsi a <placeName ref="#DLCL_CF_L0040">Imola</placeName>.
+                        </p>
+                        
+                        <p>
+                            Involto da mandarsi a <placeName ref="#DLCL_CF_L0024">Venezia</placeName> / con pagare il porto, notando a conto nostro la spesa.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Bibbia antica sciolta</bibl> / da esitare. Mi costa s. 1 : 10.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Plinio Antico</bibl> / da esitare per quel, che si può.
+                        </p>
+                        
+                        <p>
+                            <persName ref="#DLCL_CF_PC0777">Vitellionis</persName> <bibl type="print">Optica</bibl> da legare, e metter tra’ nostri libri.
+                        </p>
+                        
+                        <p>
+                            <persName ref="#DLCL_CF_PC0647">Perotti</persName> <bibl type="print">Grammatica</bibl> da legare, e metter tra nostri libri.
+                        </p>
+                        
+                        <p>
+                            <persName ref="#DLCL_CF_PC0789">Giustino</persName> <bibl type="print">Istorico Antico</bibl> da legare, e metter come sopra.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Quintiliano</bibl> fol. Antico, da metter tra nostri libri.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Istoria di Cingoli</bibl> / da legare, e mettere come sopra.
+                        </p>
+                        
+                        <p>
+                            <bibl type="print">Vita S. Caroli</bibl> da legare, e rimandare.
+                        </p>
+                        
+                        <pb xml:id="DLCL_CF_E10126_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25242/full/607,800/0/default.jpg"/>
+                        
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text> 
 </TEI>
