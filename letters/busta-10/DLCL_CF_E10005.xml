@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Ravenna, 6 Agosto 1713)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -55,6 +60,7 @@
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-04-17" who="#DLCL_CF_PS001">riferimenti stampe</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-20" who="#DLCL_CF_PS001">nuove trascrizioni buste</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20637/manifest">
@@ -66,7 +72,7 @@
    <text type="letter" n="Canneti a Fiacchi (Ravenna, 6 Agosto 1713)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10005_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20823/full/581,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20823/full/581,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -99,7 +105,7 @@
                Son’ arrivati i libri di <placeName ref="#DLCL_CF_L0023">Foligno</placeName>; e vi ho trovate di belle cose. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10005_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20824/full/568,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20824/full/568,800/0/default.jpg"/>
             
             <p>
                Ieri, dovendosi consegnare al <persName ref="#DLCL_CF_PC0034">Signor Veratti</persName> la sua porzione de’ libri 
@@ -116,9 +122,52 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10005_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24836/full/568,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24836/full/568,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10005_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24837/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24837/full/573,800/0/default.jpg"/>
+            
+            <postscript>
+               <p>
+                  <foreign xml:lang="la">
+                     Commentarij deVita. 
+                  </foreign>
+               </p>
+               <p>
+                  <foreign xml:lang="la">
+                     Jacobi Augusti Thuani 
+                  </foreign>
+               </p>
+               <p> 
+                  <foreign xml:lang="la">
+                     [...] in calce Vol. 2. et 
+                  </foreign>
+               </p>
+               <p>   
+                  <foreign xml:lang="la">
+                     [cons.] lib. VI. pag. 106.
+                  </foreign>
+               </p>
+               <p>  
+                  Al Molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  <placeName ref="#DLCL_CF_L0007">Bologna</placeName> 
+               </p>
+               <p>  
+                  [...] 
+               </p>
+               <p>   
+                  Antonio Andrea 
+               </p>
+               <p>  
+                  <foreign xml:lang="la">
+                     P. Candidus Decembrius 
+                  </foreign>
+               </p>
+               <p>   
+                  <foreign xml:lang="la">
+                     Abbas 
+                  </foreign>
+               </p>
+            </postscript>
 
          </div>
       </body>

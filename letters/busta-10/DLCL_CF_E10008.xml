@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 3 Luglio 1714)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -66,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 3 Luglio 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10008_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20839/full/583,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10008_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20839/full/583,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -96,7 +101,7 @@
                Scriverò col primo ordinario al <rs type="person" ref="#DLCL_CF_PC0006">Padre suddetto</rs>, studiando di raddolcire la nuova, come meglio sarà possibile.  
             </p>
             
-            <pb xml:id="DLCL_CF_E1E10008_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20840/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E1E10008_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20840/full/573,800/0/default.jpg"/>
 
             <p>
                Non l’ho fatto prima; perché fino ad ora qui non ho provato migliore ozio, di quello io godessi già costì; 
@@ -114,12 +119,12 @@
             
             <p>
                Si prenda pur cura <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
-               di ricuperare la <bibl type="print">Scanzia</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, 
+               di ricuperare la <bibl type="print" source="#DLCL_CF_BS0011">Scanzia</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, 
                e la unisca alle altre, osservando se ora il Corpo sia intiero, e come possa legarsi con meno deformità possibile. 
                Godo che i libri del <persName ref="#DLCL_CF_PC0011">Volpi</persName> siano arrivati. 
-               <bibl type="print">Le Satire</bibl> del <persName ref="#DLCL_CF_PC0045">Duca di Bracciano</persName> (se non erro) dovranno segnarsi alla lettera O; 
+               <bibl type="print" source="#DLCL_CF_BS0020">Le Satire</bibl> del <persName ref="#DLCL_CF_PC0045">Duca di Bracciano</persName> (se non erro) dovranno segnarsi alla lettera O; 
                essendo l’Autor di Casa Orsini. 
-               Vegga nell’<bibl type="print">Indice Imperialense</bibl>. 
+               Vegga nell’<bibl type="print" source="#DLCL_CF_BS0021" cert="unknown">Indice Imperialense</bibl>. 
                Quando non vi sia, mi avvisi. 
                Troveremo il nome, e cognome. 
                Il <bibl type="print"><foreign xml:lang="la">Tomo de Divinis Officiis</foreign></bibl> è stimato assai, per comprendere uniti i Ritualisti; 
@@ -129,7 +134,7 @@
                Ordinai per l’uso mio par<pc force="inter">-</pc> 
             </p>
             
-            <pb xml:id="DLCL_CF_E1E10008_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20841/full/562,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E1E10008_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20841/full/562,800/0/default.jpg"/>
             
             <p>
                ticolare il <bibl type="print">Tomai</bibl>, anzi il <persName ref="#DLCL_CF_PC0011">Signor Volpi</persName> ne fece a me dono. 
@@ -154,21 +159,21 @@
             </p>
             
             <p>
-               Aspetto di <placeName ref="#DLCL_CF_L0008">Roma</placeName> la ristampa dell’<bibl type="print">Istoria</bibl> del <persName ref="#DLCL_CF_PC0033">Crescimbeni</persName>, 
-               il quale non vuol rifare i <bibl type="print">Commentarii</bibl>.
+               Aspetto di <placeName ref="#DLCL_CF_L0008">Roma</placeName> la ristampa dell’<bibl type="print" source="#DLCL_CF_BS0023">Istoria</bibl> del <persName ref="#DLCL_CF_PC0033">Crescimbeni</persName>, 
+               il quale non vuol rifare i <bibl type="print" source="#DLCL_CF_BS0022">Commentarii</bibl>.
                È necessario ritenere anco la prima edizione per confrontarla colla seconda; che io manderò a cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
-               insieme col 3° Tomo delle <bibl type="print">Vite degli Arcadi</bibl>. 
-               Sto leggendo la suddetta nuova <bibl type="print">Istoria</bibl>, dentro cui sono inserite le tante notizie mandate nell’estate passata, colle stesse parole. 
-               Abbia cura che si leghino bene i <bibl type="print">Tomi</bibl> del <persName ref="#DLCL_CF_PC0049">Gamurrini</persName>. 
+               insieme col 3° Tomo delle <bibl type="print" source="#DLCL_CF_BS0024">Vite degli Arcadi</bibl>. 
+               Sto leggendo la suddetta nuova <bibl type="print" source="#DLCL_CF_BS0023">Istoria</bibl>, dentro cui sono inserite le tante notizie mandate nell’estate passata, colle stesse parole. 
+               Abbia cura che si leghino bene i <bibl type="print" source="#DLCL_CF_BS0025">Tomi</bibl> del <persName ref="#DLCL_CF_PC0049">Gamurrini</persName>. 
                A <persName ref="#DLCL_CF_PC0029">Frate Ferdinando</persName> rimetterò i nove paoli, anzi m’intenderò col <rs type="person">Padre Camerlingo</rs>. 
-               Di man’ in mano che usciranno gli altri <bibl type="print">Giornali</bibl>, ne farò costà venir quattro Copie, 
+               Di man’ in mano che usciranno gli altri <bibl type="print" source="#DLCL_CF_BS0026">Giornali</bibl>, ne farò costà venir quattro Copie, 
                una per <placeName ref="#DLCL_CF_L0020">Classe</placeName>, e tre per me. 
             </p>
             
-            <pb xml:id="DLCL_CF_E1E10008_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/20842/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E1E10008_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/20842/full/573,800/0/default.jpg"/>
             
             <p>                        
-               Mi mandi ancora, oltre gli altri, il libretto della <bibl type="print">Traslazione di S. Bartolommeo</bibl>, e i due Tomi della <bibl type="print">Biblioteca Critica franzese</bibl>. 
+               Mi mandi ancora, oltre gli altri, il libretto della <bibl type="print">Traslazione di S. Bartolommeo</bibl>, e i due Tomi della <bibl type="print" source="#DLCL_CF_BS0027">Biblioteca Critica franzese</bibl>. 
                Gli altri due (che goderò sian legati) sono un duplicato; e sono mezzo impegnati. 
                Gli congiunga a’ nostri. 
                Il <rs type="person">Padre Lettore</rs> mi scrisse intorno agl’<bibl type="manuscript">Indici</bibl>: apprendeva fosse inutile il cominciato. 

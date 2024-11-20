@@ -5,7 +5,12 @@
                 <title xml:lang="it">Canneti a Fiacchi (Fabriano, 16 Settembre 1720)</title>
                 <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
             </titleStmt>
-            <publicationStmt><ab></ab></publicationStmt>
+            <publicationStmt>
+                <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
             <seriesStmt>
                 <title type="main">Epistolario Canneti Fiacchi</title>
                 <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>

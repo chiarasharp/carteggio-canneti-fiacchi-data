@@ -8,7 +8,11 @@
             <author role="attachment-2-og-author" ref="#DLCL_CF_PC0512">Giovanni Maria Lancisi</author>
          </titleStmt>
          <publicationStmt>
-            <ab></ab></publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -21,11 +25,9 @@
                   <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
                   <repository></repository>
-                  <collection>
-                     
+                  <collection>                  
                   </collection>
-                  <idno>
-                     
+                  <idno>                  
                   </idno>
                   <altIdentifier>
                      <idno></idno>
@@ -187,7 +189,7 @@
                      <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                   </closer>
                   
-                  <pb xml:id="DLCL_CF_E10061_L_C2V" n="2 - Verso"/>
+                  <pb xml:id="DLCL_CF_E10061_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25087/full/623,800/0/default.jpg"/>
                   
                   <postscript>
                      <p>

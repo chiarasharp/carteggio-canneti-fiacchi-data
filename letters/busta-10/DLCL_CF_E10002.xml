@@ -62,7 +62,7 @@
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10002_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20817/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10002_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20817/full/598,800/0/default.jpg"/>
 
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -72,7 +72,7 @@
                Al mio ritorno dunque troverò i libri da spedirsi dal <persName ref="#DLCL_CF_PC0005" key="DLCL_CF_PC0005">Ruinetti</persName>. 
                Se il prezzo o è inalterabile, o stabilito in 22 scudi, non accade altro discorrerne. 
                Se v’ha luogo ad alterarlo con vantaggio, mi rimetto al nostro <persName ref="#DLCL_CF_PC0004" key="DLCL_CF_PC0004">Marozzi</persName>, che di cuore saluto. 
-               Ricevo il <bibl type="print">Martello</bibl> legato approposito per una Libreria. 
+               Ricevo il <bibl type="print" source="#DLCL_CF_BS0001">Martello</bibl> legato approposito per una Libreria. 
                Quando non possa aversi sciolto, si avrà questa copia che mi piace, e questa basterà, 
                non volendone che una per la <orgName key="DLCL_CF_O0001" ref="#DLCL_CF_O0001">Libreria</orgName>. 
                Aspetteremo che da <placeName ref="#DLCL_CF_L0007" key="DLCL_CF_L0007">Bologna</placeName> ritorni la copia delle <bibl type="print">Ipercrisi</bibl> 
@@ -83,7 +83,7 @@
             </p>
             
             <closer>
-               <salute>DVP</salute>. 
+               <salute>DVP.</salute> 
                <dateline><placeName ref="#DLCL_CF_L0006" key="DLCL_CF_L0006">Ribano</placeName> <date when-iso="1711-11-03">3 Novembre 1711</date></dateline>
             </closer>
 
@@ -109,11 +109,11 @@
                <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
-            <pb xml:id="DLCL_CF_E10002_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20818/full/579,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10002_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20818/full/579,800/0/default.jpg"/>
 
-            <pb xml:id="DLCL_CF_E10002_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24779/full/591,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10002_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24779/full/591,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10002_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24780/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10002_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24780/full/586,800/0/default.jpg"/>
             
             <closer>
                <salute>

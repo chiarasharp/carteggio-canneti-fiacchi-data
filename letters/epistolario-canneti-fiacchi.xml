@@ -10,32 +10,41 @@
             <author ref="#DLCL_CF_PC0001">Pietro Canneti</author>
             <author ref="#DLCL_CF_PC0002">Mariangelo Fiacchi</author>
             <respStmt>
-               <resp>Transcription</resp>
-               <persName></persName>
-               <persName></persName>
-               <persName></persName>
+               <resp xml:lang="en">Transcription</resp>
+               <resp xml:lang="it">Trascrizione</resp>
+               <persName>Bianca Sorbara</persName>
+               <persName>Dott.ssa Silvia Tripodi</persName>
+               <persName>Prof.ssa Elisa Bianchi</persName>
             </respStmt>
             <respStmt>
-               <resp>Marking</resp>
+               <resp xml:lang="en">Marking</resp>
+               <resp xml:lang="it">Marcatura</resp>
                <persName ref="#DLCL_CF_PS001">Chiara Manca</persName>
             </respStmt>
             <respStmt>
-               <resp>Edited</resp>
-               <persName></persName>
+               <resp xml:lang="en">Editing</resp>
+               <resp xml:lang="it">Editing</resp>
+               <persName>Prof.ssa Fiammetta Sabba</persName>
+            </respStmt>
+            <respStmt>
+               <resp xml:lang="en">Other Collaborations</resp>
+               <resp xml:lang="it">Altre Collaborazioni</resp>
+               <persName>Vittorio Davide Bionda</persName>
+               <persName>Danilo Casiddu</persName>
+               <persName>Arianna Collari</persName>
+               <persName>Simone Lonati</persName>
+               <persName>Marco Antonio Lugnan</persName>
+               <persName>Francesca Nepori</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher></publisher>
-            <pubPlace ref="#DLCL_CF_L002">Ravenna</pubPlace>
-            <date></date>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
-            <title type="genre">Lettere</title>
-            <idno type="ISSN"></idno>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
@@ -43,12 +52,6 @@
                   <country key="IT">Italia</country>
                   <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-                  <repository></repository>
-                  <collection></collection>
-                  <idno></idno>
-                  <altIdentifier>
-                     <idno></idno>
-                  </altIdentifier>
                </msIdentifier>
             </msDesc>
             <xi:include href="../entities/manuscripts.xml"/>
