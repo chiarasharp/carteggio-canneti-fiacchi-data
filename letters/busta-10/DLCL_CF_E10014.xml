@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Collina (Perugia, 25 Settembre 1714)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-01-30" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20646/manifest">
@@ -65,7 +71,8 @@
    <text type="letter" n="Canneti a Collina (Perugia, 25 Settembre 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10014_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20863/full/589,800/0/default.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E10014_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20863/full/589,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0007" key="DLCL_CF_PC0007">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -85,13 +92,13 @@
             <p>
                Carissima mi sarà l’Orazione del <persName ref="#DLCL_CF_PC0101">Padre Corazzi</persName>, che aspetto con impazienza. 
                Solleciti il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo</persName> alla spedizione, colla quale aspetto altri libri già ordinati. 
-               Se ancora non sono partiti, gli dica che vi aggiunga l’<bibl type="print">Antico Martirologio</bibl>, colle note del <persName ref="#DLCL_CF_PC0102">Fiorentini</persName>, 
+               Se ancora non sono partiti, gli dica che vi aggiunga l’<bibl type="print" source="#DLCL_CF_BS0058" cert="unknown">Antico Martirologio</bibl>, colle note del <persName ref="#DLCL_CF_PC0102">Fiorentini</persName>, 
                in foglio, di cui ora ho necessita. 
                Me lo saluti carissimamente; e gli dica che aspetto l’<bibl type="manuscript">Indice de’ nostri libri</bibl>. 
-               Se può far legare il restante delle <bibl type="print">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> e mandarmele l’avrò a caro. 
+               Se può far legare il restante delle <bibl type="print" source="#DLCL_CF_BS0011">Scanzie</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> e mandarmele l’avrò a caro. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10014_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20864/full/580,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10014_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20864/full/580,800/0/default.jpg"/>
             
             <p>
                Quando avrà letto l’<bibl type="religious">Oratorio</bibl> a lei inviato, mi scriva come le sia piacciuto. 
@@ -100,20 +107,20 @@
                Ma <rs type="person">egli</rs> è distratto dalle faccende del suo Istituto, essendo Prete della <orgName ref="#DLCL_CF_O0033">Congregazione della Missione</orgName>: 
                Uomo di rari talenti, che fu in <placeName ref="#DLCL_CF_L0035">Bergamo</placeName> per molti anni Vicario Generale del Ven. Servo di Dio <persName ref="#DLCL_CF_PC0103">Monsignor Ruzzini</persName> Vescovo di quella Città, 
                di cui ora leggo la vita scritta dal famoso <persName ref="#DLCL_CF_PC0104">Padre Ceva</persName>. 
-               La <bibl type="print">Merope</bibl> non è ella una bella cosa? 
+               La <bibl type="print" source="#DLCL_CF_BS0041">Merope</bibl> non è ella una bella cosa? 
                Sicché non è necessario vestir’il genio, e i versi del <persName ref="#DLCL_CF_PC0008">Martello</persName>, per riuscir con lode nella Tragedia. 
                Anzi di questo sarà sempre vantaggio non venire al confronto. 
                Di grazia non abbandoni l’affare de’ <bibl type="print">Ciceroni</bibl>, e non perda di vista la melensaggine del <persName ref="#DLCL_CF_PC0004">Marozzi</persName>. 
                Sia gloria di lei dar finire a cotesta noiosa faccenda, come fu suo vanto terminare la lunghissima tela dell’altro interesse degli <rs type="person">Aldrovandi</rs>. 
-               Riceverò le 25 copie della <bibl type="print">Poetica</bibl> del <persName ref="#DLCL_CF_PC0008">Martello</persName> e me ne farò onore. 
-               Dodici Copie della <bibl type="print">Cilauda</bibl> spedirò quanto prima al nostro <persName ref="#DLCL_CF_PC0105">Giorgini</persName>. 
+               Riceverò le 25 copie della <bibl type="print" source="#DLCL_CF_BS0001">Poetica</bibl> del <persName ref="#DLCL_CF_PC0008">Martello</persName> e me ne farò onore. 
+               Dodici Copie della <bibl type="print" source="#DLCL_CF_BS0010">Cilauda</bibl> spedirò quanto prima al nostro <persName ref="#DLCL_CF_PC0105">Giorgini</persName>. 
                Oh quanto avrei avuto gusto ch’ella fosse stata a passar quest’autunno in <placeName ref="#DLCL_CF_L0028">Perugia</placeName>, 
                ove giovedì avrebbe qui ascoltata una nobile <orgName ref="#DLCL_CF_O0018">Accademia della Colonia Arcadica</orgName> di <placeName ref="#DLCL_CF_L0028">Perugia</placeName> in un prato, 
                ch’questi <rs type="person">Arcadi</rs> hanno eletto per loro sede, erettavi una lapide di marmo ad eterna memoria. 
                Ma più avrei goduto che avesse per dieci giorni udita, e mirata la missione fatta qui con frutto,  
             </p>
             
-            <pb xml:id="DLCL_CF_E10014_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20865/full/593,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10014_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20865/full/593,800/0/default.jpg"/>
             
             <p>
                e con edificazione infinita, ed universale dal <persName ref="#DLCL_CF_PC0106">Padre Crivelli</persName> Gesuita uomo in verità colmo dello spirito del Signore. 
@@ -153,7 +160,7 @@
                   <label>P.S.</label> Era preparata questa lettera da spedirsi l’ordinario passato, ma per errore restò sul tavolino, 
                   e, in vece di lei fu mandata a <rs type="person" ref="#DLCL_CF_PC0007">Vostra Paternità</rs> un’altra lettera diretta al <persName ref="#DLCL_CF_PC0110">Padre Filippo</persName>. 
                   <rs type="person" ref="#DLCL_CF_PC0007">Vostra Paternità</rs> invii quella al suo viaggio; e ritengasi questa per se. 
-                  La <bibl type="print">Merope</bibl> è ristampata in <placeName ref="#DLCL_CF_L0012">Modena</placeName>, con prefazione del <persName ref="#DLCL_CF_PC0111">Signore March. Orsi</persName>. 
+                  La <bibl type="print" source="#DLCL_CF_BS0042">Merope</bibl> è ristampata in <placeName ref="#DLCL_CF_L0012">Modena</placeName>, con prefazione del <persName ref="#DLCL_CF_PC0111">Signore March. Orsi</persName>. 
                </p>
             </postscript>
             
@@ -162,7 +169,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10014_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24795/full/584,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10014_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24795/full/584,800/0/default.jpg"/>
             
             <postscript>
                <p>

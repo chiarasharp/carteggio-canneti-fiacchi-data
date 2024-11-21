@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 30 Marzo 1715)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-02-06" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20650/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 30 Marzo 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10018_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20879/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10018_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20879/full/601,800/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Carissimo</salute>
@@ -82,16 +88,16 @@
                che caramente saluto perché mi si mandino quanto prima è mai possibile, 
                facendone indirizzo a <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> al <persName ref="#DLCL_CF_PC0154">Reverendissimo Magni</persName>. 
                Di là a <placeName ref="#DLCL_CF_L0028">Perugia</placeName> vi son’occasioni continue per via di <placeName ref="#DLCL_CF_L0036">Gubbio</placeName>. 
-               So ch’ella ha avuto i <bibl type="print">Giornali</bibl>, le due coppie della <bibl type="print">Merope</bibl>, delle quali ho necessità.
+               So ch’ella ha avuto i <bibl type="print" source="#DLCL_CF_BS0026">Giornali</bibl>, le due coppie della <bibl type="print" source="#DLCL_CF_BS0042">Merope</bibl>, delle quali ho necessità.
             </p>
             
-            <pb xml:id="DLCL_CF_E10018_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20880/full/585,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10018_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20880/full/585,800/0/default.jpg"/>
             
             <p>
                Al mio <persName ref="#DLCL_CF_PC0007">Padre Don Bonifazio</persName> mille saluti con tutto l’ cuore. 
-               Non so se mi abbia fatto venire l’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> degli <bibl type="print">Scrittori Bolognesi</bibl>. 
+               Non so se mi abbia fatto venire l’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> degli <bibl type="print" source="#DLCL_CF_BS0063">Scrittori Bolognesi</bibl>. 
                L’aspetto legato. 
-               Già diedi l’assenso perché in cambio si dassero le <bibl type="print">Prose</bibl> del <persName ref="#DLCL_CF_PC0148">Firenzuola</persName> 
+               Già diedi l’assenso perché in cambio si dassero le <bibl type="print" source="#DLCL_CF_BS0075 #DLCL_CF_BS0076 #DLCL_CF_BS0077" cert="unknown">Prose</bibl> del <persName ref="#DLCL_CF_PC0148">Firenzuola</persName> 
                col supposto che ve ne sia altra copia in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
                Quando non sia venuto, solleciti. 
                Ma non per questo si differisca la spedizione degli altri. 
@@ -111,7 +117,7 @@
                Ho empiti già 
             </p>
             
-            <pb xml:id="DLCL_CF_E10018_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20881/full/583,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10018_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20881/full/583,800/0/default.jpg"/>
             
             <p>
                cinque quinterni di carta. 
@@ -133,7 +139,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10018_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24797/full/581,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10018_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24797/full/581,800/0/default.jpg"/>
             
             <postscript>
                <p>

@@ -2573,11 +2573,22 @@
       <sex value="m"/>
       <occupation>autore</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0189">
+   <person xml:id="DLCL_CF_PC0189" sameAs="http://viaf.org/viaf/59520702">
       <persName xml:lang="it">
+         <forename>Giuseppe</forename>
          <surname>Lanzoni</surname>
       </persName>
+      <idno type="VIAF">59520702</idno>
+      <birth source="https://www.treccani.it/enciclopedia/giuseppe-lanzoni_(Enciclopedia-Italiana)/">
+         <date when-iso="1665-10-29"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </birth>
+      <death source="https://www.treccani.it/enciclopedia/giuseppe-lanzoni_(Enciclopedia-Italiana)/">
+         <date when-iso="1730-01-01"/>
+         <placeName ref="#DLCL_CF_L0013">Ferrara</placeName>
+      </death>
       <sex value="m"/>
+      <occupation>medico</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0190" sameAs="http://viaf.org/viaf/49226033">
       <persName xml:lang="ch">

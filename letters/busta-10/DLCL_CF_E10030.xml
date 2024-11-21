@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 21 Gennaio 1716)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-02-15" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20662/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 21 Gennaio 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10030_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21042/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21042/full/601,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -80,9 +86,9 @@
                La riflessione prudenziale del <persName ref="#DLCL_CF_PC0143">Baruffaldi</persName>, che dice essersi astenuto dal mostrarsi amico di un <rs type="person">Letterato</rs>, 
                che <gap reason="illegible"/>[...] la sua figura in paese (per lui) sospetto, 
                dovea ragionevolmente appagare il <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> 
-               dal <persName ref="#DLCL_CF_PC0143">Baruffaldi</persName> nominato nella sua penultima opera, che fu quella delle <bibl type="print">Prefiche</bibl>. 
+               dal <persName ref="#DLCL_CF_PC0143">Baruffaldi</persName> nominato nella sua penultima opera, che fu quella delle <bibl type="print" source="#DLCL_CF_BS0116" cert="unknown">Prefiche</bibl>. 
                Sò che egli mostra non curarsi di aver luogo in quel ditirambo da lui disprezzato. 
-               Ma questa è un’affettazione renduta manifesta dalla passione, che dà a conoscere nella <bibl type="print">Scanzia XVII</bibl> 
+               Ma questa è un’affettazione renduta manifesta dalla passione, che dà a conoscere nella <bibl type="print" source="#DLCL_CF_BS0101">Scanzia XVII</bibl> 
                con una puntura <gap reason="illegible"/>[...], ma necessaria, e meritevole di biasimo, e di censura. 
                Se non se ne <gap reason="illegible"/>[...] perché investire quella Poesia? 
                Perché scriver’a me ch’egli <gap reason="illegible"/>[...]? 
@@ -99,7 +105,7 @@
                né mi ricordo in quali sentimenti precisamente prorompesse il mio lamento, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21043/full/605,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21043/full/605,800/0/default.jpg"/>
             
             <p>
                che so di certo essere stato breve, e non caricato, tale in somma, che non mi dispiacerebbe fosse pubblicato eziandio colle stampe. 
@@ -129,7 +135,7 @@
                ch’era giustissimo, stimo spediente, e necessario astenersi 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21044/full/597,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21044/full/597,800/0/default.jpg"/>
             
             <p>
                dal comunicar seco per via di lettere, e di confidenza. 
@@ -140,30 +146,30 @@
                e conservar così memoria di tante <bibl type="print">Operette</bibl> <gap reason="illegible"/>[...]. 
                Insigni, è faccenda, che merita la sua lode. 
                Il <persName ref="#DLCL_CF_PC0038">Cinelli</persName> ne riportò grandi applausi, anco da più fini <rs type="person">Critici Oltramontani</rs>, 
-               aiutato dal celebratissimo <persName ref="#DLCL_CF_PC0060">Magliabechi</persName> e nel tessere la <bibl type="print">Biblioteca Volante</bibl>, 
+               aiutato dal celebratissimo <persName ref="#DLCL_CF_PC0060">Magliabechi</persName> e nel tessere la <bibl type="print" source="#DLCL_CF_BS0011">Biblioteca Volante</bibl>, 
                e nell’<gap reason="illegible"/>[...] per tutta <placeName ref="#DLCL_CF_L0061">Europa</placeName> le lodi. 
                Ancora il buon vecchio <persName ref="#DLCL_CF_PC0242">Carlo Cartari</persName> Avvocato Concistoriale, mio Amico si accinse a questo lavoro, 
                per gli soli <bibl type="religious">Opuscoli</bibl> della <orgName ref="#DLCL_CF_O0041">Libreria</orgName> del <persName ref="#DLCL_CF_PC0243">Cardinale Altieri</persName>, 
-               e ne stampò il primo tometto in 4to con certo titolo di cattivo gusto intitolandolo <bibl type="print">“Pallade Bambina”</bibl> <gap reason="illegible"/>[...] 
+               e ne stampò il primo tometto in 4to con certo titolo di cattivo gusto intitolandolo <bibl type="print" source="#DLCL_CF_BS0117">“Pallade Bambina”</bibl> <gap reason="illegible"/>[...] 
                ne ordinasse una Raccolta con metodo, e scelta (lo che non han fatto né <persName ref="#DLCL_CF_PC0038">Cinelli</persName> 
                né <persName ref="#DLCL_CF_PC0242">Cartari</persName>) occuperebbe un nuovo posto <gap reason="illegible"/>[...] Repubblica Letterata. 
                <persName ref="#DLCL_CF_PC0038">Cinelli</persName> (e colla penna di lui il <persName ref="#DLCL_CF_PC0060">Magliabechi</persName>) <gap reason="illegible"/>[...] tutta l’Opera. 
                Né in ciò dovea seguirne le pedate il <persName ref="#DLCL_CF_PC0056">Sancassiani</persName>, riflettendo all’infelice frutto, 
                che ne ricolse il <persName ref="#DLCL_CF_PC0038">Cinelli</persName> stesso <gap reason="illegible"/>[...] e, 
-               dopo ristampato per mano del <rs type="person">Carnefice</rs> un tomo della <bibl type="print">Biblioteca sua Volante</bibl>, esiliato, ramingo, mendico, 
+               dopo ristampato per mano del <rs type="person">Carnefice</rs> un tomo della <bibl type="print" source="#DLCL_CF_BS0011">Biblioteca sua Volante</bibl>, esiliato, ramingo, mendico, 
                e morto in gran povertà in <placeName ref="#DLCL_CF_L0062">Dalmazia</placeName>.
             </p>
             
             <p>
                Vorrei finire di querelarmi de <persName ref="#DLCL_CF_PC0056">Sancassani</persName>. 
-               Eppur bisogna che io mi dolga che di 50 Copie della <bibl type="print">Notomia dell’acqua</bibl> andate in sue mani 
+               Eppur bisogna che io mi dolga che di 50 Copie della <bibl type="print" source="#DLCL_CF_BS0118">Notomia dell’acqua</bibl> andate in sue mani 
                io con tutto l’onore della Dedicatoria non ne ho avuto pur’un esemplare. 
                Come posso servirne di due il <persName ref="#DLCL_CF_PC0244">Signor Arisi</persName>? 
                Da questo ho lettera nel presente ordinario. 
                Sabbato risponderò, e penserò il modo di soddisfare alle sue richieste. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21045/full/602,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21045/full/602,800/0/default.jpg"/>
             
             <p>
                Veda un poco se nell’<bibl type="manuscript">Istoria manoscritta</bibl> del <persName ref="#DLCL_CF_PC0176">Carrari</persName> 
@@ -189,8 +195,8 @@
                all’istoria de’ Concilii, alla Cronologia; come io tengo per evidente che sarà utilissima; 
                così lo tengono i più eruditi della nostra <placeName ref="#DLCL_CF_L0026">Italia</placeName>. 
                Bisogna aver’occhi per veder i colori, e darne giudizio. 
-               Può <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> far vedere negli <bibl type="print">atti Bollandiani</bibl> la luce, 
-               che ha dato l’<bibl type="print">Odeporico</bibl> di <persName ref="#DLCL_CF_PC0177">Ambrogio</persName> alla Vita di <persName ref="#DLCL_CF_PC0254" cert="unknown">Eugenio</persName> 
+               Può <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> far vedere negli <bibl type="print" source="#DLCL_CF_BS0119">atti Bollandiani</bibl> la luce, 
+               che ha dato l’<bibl type="print" source="#DLCL_CF_BS0107">Odeporico</bibl> di <persName ref="#DLCL_CF_PC0177">Ambrogio</persName> alla Vita di <persName ref="#DLCL_CF_PC0254" cert="unknown">Eugenio</persName> 
                avendosi unicamente da quell’<bibl type="religious">Opuscolo</bibl> il <gap reason="illegible"/>[...] 
                del ricevimento di questo <rs type="person">Papa</rs> in <placeName ref="#DLCL_CF_L0018">Firenze</placeName>. 
                Ed oh quanto di <gap reason="illegible"/>[...] Generale, e nel nome Camaldolese ciò, 
@@ -222,7 +228,7 @@
                   Mi saluti il caro <persName ref="#DLCL_CF_PC0091">Frate Fausto</persName>. 
                   Mi spiace la morte della <persName ref="#DLCL_CF_PC0247">Signora Anna Fattorini</persName>. 
                   E del <persName ref="#DLCL_CF_PC0248">Padre Abate Pasolini</persName> defunto nulla mi dice? 
-                  Il <bibl type="print">Tomo XXII del Giornale</bibl> è arrivato?]
+                  Il <bibl type="print" source="#DLCL_CF_BS0109">Tomo XXII del Giornale</bibl> è arrivato?]
                </p>
             </postscript>
          </div>

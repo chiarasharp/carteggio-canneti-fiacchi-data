@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 26 Febbraio 1715)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-02-06" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20649/manifest">
@@ -66,7 +72,7 @@
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10017_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20875/full/580,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20875/full/580,800/0/default.jpg"/>
             
             <opener>
                <salute>Carissimo <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName></salute>
@@ -86,17 +92,17 @@
             </p>
             
             <p>
-               Il <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> mi scrive oggi aver mandato i <bibl type="print">Giornali</bibl>, 
-               e che manderà due esemplari qui aspettati della <bibl type="print">Merope</bibl>, e il <bibl type="print">libro della Peste</bibl> del <persName ref="#DLCL_CF_PC0013">Muratori</persName>. 
+               Il <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> mi scrive oggi aver mandato i <bibl type="print" source="#DLCL_CF_BS0026">Giornali</bibl>, 
+               e che manderà due esemplari qui aspettati della <bibl type="print" source="#DLCL_CF_BS0042">Merope</bibl>, e il <bibl type="print" source="#DLCL_CF_BS0073">libro della Peste</bibl> del <persName ref="#DLCL_CF_PC0013">Muratori</persName>. 
                Con tutto ciò <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> non indugi; e spedisca sollecitamente quanto ha in ordine di nostri libri. 
                Vi aggiunga delle Copie della <bibl type="print"><hi rend="underline">Vocazione</hi></bibl>; 
                e ne parli al <persName ref="#DLCL_CF_PC0146">Signor Giuseppe Mauro</persName>, che saluto caramente. 
                Ebbi il libro ieri da <persName ref="#DLCL_CF_PC0094">Monsignor Vescovo de’ Buoi</persName> nostro. 
                Mi rallegro che il <bibl type="print">Landi</bibl> esce degli stracci, e supera se stesso. 
-               Ho bisogno del <bibl type="print">Libro degli Uomini Illustri Vallombrosani</bibl>, e della <bibl type="print">Vita di San Giovan Gualberto</bibl>, ch’è tra’ nostri; dovendo io scrivere di d<gap reason="illegible"/>[...]. 
+               Ho bisogno del <bibl type="print">Libro degli Uomini Illustri Vallombrosani</bibl>, e della <bibl type="print" source="#DLCL_CF_BS0074" cert="unknown">Vita di San Giovan Gualberto</bibl>, ch’è tra’ nostri; dovendo io scrivere di d<gap reason="illegible"/>[...]. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10017_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20876/full/590,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20876/full/590,800/0/default.jpg"/>
             
             <p>
                Sono altamente in collera col <persName ref="#DLCL_CF_PC0056">Sancassani</persName>, che mi ha stampato un prezzo di lettera ed ha lasciato ciò, ch’era contro di se. 
@@ -112,8 +118,8 @@
             
             <p>
                Soggetti di quell’Ordine. 
-               Risponderò al <persName ref="#DLCL_CF_PC0146">Mauro</persName>; al qual dica che mi contento barattar le <bibl type="print">Prose</bibl> 
-               del <persName ref="#DLCL_CF_PC0148">Firenzuola</persName> negli <bibl type="print">Scrittori</bibl> dell’<persName ref="#DLCL_CF_PC0127">Orlandi</persName>, libro bell’è legato, e che aspetto. 
+               Risponderò al <persName ref="#DLCL_CF_PC0146">Mauro</persName>; al qual dica che mi contento barattar le <bibl type="print" source="#DLCL_CF_BS0075 #DLCL_CF_BS0076 #DLCL_CF_BS0077" cert="unknown">Prose</bibl> 
+               del <persName ref="#DLCL_CF_PC0148">Firenzuola</persName> negli <bibl type="print" source="#DLCL_CF_BS0063">Scrittori</bibl> dell’<persName ref="#DLCL_CF_PC0127">Orlandi</persName>, libro bell’è legato, e che aspetto. 
                Gli dia nuova che quella carta grande, di cui mi fece dono, è impiegata nell’<bibl type="print">Opera</bibl>, che si stà scrivendo. 
             </p>
             
@@ -149,9 +155,9 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10017_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20877/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20877/full/601,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10017_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24799/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24799/full/586,800/0/default.jpg"/>
             
             <postscript>
                <p>

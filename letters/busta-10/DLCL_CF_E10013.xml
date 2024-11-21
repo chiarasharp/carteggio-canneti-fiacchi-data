@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 14 Agosto 1714)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab/></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20645/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 14 Agosto 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10013_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20859/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20859/full/598,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -91,7 +97,7 @@
                Ella si appigli a qual giudica 
             </p>
             
-            <pb xml:id="DLCL_CF_E10013_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20860/full/575,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20860/full/575,800/0/default.jpg"/>
             
             <p>
                meglio. 
@@ -106,9 +112,9 @@
                È stato ben’impiegato il Volume delle nostre Istorie trasportato in <placeName ref="#DLCL_CF_L0056">Sicilia</placeName>, 
                donde abbiam necessità di averne diversi <bibl type="religious">Tomi di cose Monastiche</bibl> colà stampati. 
                Per altro di <placeName ref="#DLCL_CF_L0056">quell’Isola</placeName> poco si ha in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, 
-               restringendosi al <bibl type="print">primo tomo della Biblioteca Sicula</bibl> del <persName ref="#DLCL_CF_PC0096">Mongitore</persName>, 
+               restringendosi al <bibl type="print" source="#DLCL_CF_BS0055">primo tomo della Biblioteca Sicula</bibl> del <persName ref="#DLCL_CF_PC0096">Mongitore</persName>, 
                all’<persName ref="#DLCL_CF_PC0097">Inchofer</persName> della <bibl type="print">Lettera della Beata Vergine</bibl>; 
-               alle <bibl type="print">medaglie della Magna Grecia</bibl> del <persName ref="#DLCL_CF_PC0098">Parisio</persName>, 
+               alle <bibl type="print" source="#DLCL_CF_BS0057" cert="unknown">medaglie della Magna Grecia</bibl> del <persName ref="#DLCL_CF_PC0098">Parisio</persName>, 
                e non so se ad altro, di quel molto, che n’è stato scritto. 
                La storia del <persName ref="#DLCL_CF_PC0009">padre Abbate Bacchini</persName> rimasto senza Scuolari è curiosa. 
             </p>
@@ -123,7 +129,7 @@
                Per non moltiplicar lettere, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10013_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20861/full/585,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20861/full/585,800/0/default.jpg"/>
             
             <p>
                mandai, alcuni ordinari sono un viglietto a lui, in una lettera del <persName ref="#DLCL_CF_PC0043">Padre Don Pietro</persName>; ma non ne veggo risposta. 
@@ -143,7 +149,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10013_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24794/full/569,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24794/full/569,800/0/default.jpg"/>
             
             <postscript>
                <p>

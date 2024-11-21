@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 6 Agosto 1715)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-02-09" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20655/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 6 Agosto 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10023_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21017/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10023_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21017/full/606,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -94,15 +100,15 @@
                Gli è piacciuto 
             </p>
             
-            <pb xml:id="DLCL_CF_E10023_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21018/full/604,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10023_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21018/full/604,800/0/default.jpg"/>
             
             <p>
                sommamente lo spirito di <rs type="person" ref="#DLCL_CF_PC0162">cotesto Signore</rs> sincero, giudicioso, purgato e ben’intendente nelle materie di pittura. 
-               Ho a caro che esso <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName> sia stato servito del <bibl type="print">Molano</bibl>: 
+               Ho a caro che esso <persName ref="#DLCL_CF_PC0167">Padre Morelli</persName> sia stato servito del <bibl type="print" source="#DLCL_CF_BS0090">Molano</bibl>: 
                ma mi spiace insieme che manchi detto libro costì. 
                Io mi ricordo precisamente del sito, ove stava nella Libreria vecchia: né so persuadermi che siasi perduto. 
                Con tutto ciò se <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, che ha maneggiati tutti i volumi, non l’ha veramente trovato, converrà pur troppo credere sia perito, e pensare a trovarne un’altro. 
-               Tra nostri libri, che in buona parte son’ancora fuor delle scanzie ammassati, trovai <bibl type="print"><foreign xml:lang="la"><hi rend="underline">Perezii Dissertationes</hi></foreign></bibl>. 
+               Tra nostri libri, che in buona parte son’ancora fuor delle scanzie ammassati, trovai <bibl type="print" source="#DLCL_CF_BS0091"><foreign xml:lang="la"><hi rend="underline">Perezii Dissertationes</hi></foreign></bibl>. 
                Avendo l’<bibl type="manuscript">indice desiderato</bibl>, che mi servirà in molte, e varie occasioni. 
                Noti insieme con distinzione i libri dati al <persName ref="#DLCL_CF_PC0003">Reverendissimo Galamini</persName>, e al <persName ref="DLCL_CF_PC0122">Padre Don Enrico</persName>. 
             </p>
@@ -111,7 +117,7 @@
                Ricevei le notizie di <persName ref="#DLCL_CF_PC0171">Massimo Planude</persName>, che mi sono state carissime, 
                massimamente per aver dalle medesime scorto che la versione da lui fatta de’ <bibl type="print">libri</bibl> di <persName ref="#DLCL_CF_PC0172">Sant’Agostino</persName> <bibl type="print"><foreign xml:lang="la">de Trinitate</foreign></bibl> tuttavia è inedita, e vien creduta, qual’è, cosa rara. 
                E donde ha <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> tratto quel pezzo, 
-               che di lui hanno scritto i <rs type="person">Monaci</rs> di <orgName ref="#DLCL_CF_O0030">San Mauro</orgName> nella loro edizione del <bibl type="print">Sant’Agostino</bibl>? 
+               che di lui hanno scritto i <rs type="person">Monaci</rs> di <orgName ref="#DLCL_CF_O0030">San Mauro</orgName> nella loro edizione del <bibl type="print" source="#DLCL_CF_BS0093 #DLCL_CF_BS0094" cert="unknown">Sant’Agostino</bibl>? 
                Si trova forse appresso qualcheduno tal corpo in <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>? 
             </p>
             
@@ -123,7 +129,7 @@
                Alla Teologia assegnerei l’ulivo, del cui ramo si cingevano il crine gli antichi Sacerdoti 
             </p>
             
-            <pb xml:id="DLCL_CF_E10023_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21019/full/600,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10023_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21019/full/600,800/0/default.jpg"/>
             
             <p>
                Gentili. 
@@ -137,7 +143,7 @@
                <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi diede il primo avviso del suo avvanzamento alla lettura. 
                Or sì è vero che i <rs type="person">Bolognesi</rs> cominciano a far figura. 
                Mi par mille anni che si vegga l’<bibl type="print">Articolo della Filosofia in Sonetti</bibl> nel <bibl type="print">Giornale</bibl>. 
-               Ma io non veggo il <bibl type="print">Giornale XX</bibl>. 
+               Ma io non veggo il <bibl type="print" source="#DLCL_CF_BS0092">Giornale XX</bibl>. 
             </p>
             
             <p>
@@ -171,7 +177,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10023_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24804/full/587,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10023_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24804/full/587,800/0/default.jpg"/>
             
             <postscript>
                <p>

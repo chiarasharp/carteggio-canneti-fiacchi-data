@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 29 Ottobre 1715)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-02-12" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20657/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 29 Ottobre 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10025_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21024/full/587,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10025_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21024/full/587,800/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> mio Amatissimo</salute>
@@ -73,21 +79,21 @@
             
             <p>
                Copiosissime grazie rendo alla <rs type="person" ref="#DLCL_CF_PC0002">Paternità Vostra</rs> dell’involtino, che ho ricevuto, 
-               con entrovi le <bibl type="print">Opere</bibl> del <persName ref="#DLCL_CF_PC0156">Panormita</persName>, tre copie del <bibl type="print">Giornale XX</bibl>, 
-               sei esemplari della <bibl type="print">6a Scanzia</bibl> del <persName ref="#  DLCL_CF_PC0038">Cinelli</persName>, e sei altri della <bibl type="print">9a</bibl>, 
-               e il <persName ref="#DLCL_CF_PC0165">Valla</persName> della <bibl type="print">Donazione</bibl> di <persName ref="#DLCL_CF_PC0166">Costantino</persName>, 
+               con entrovi le <bibl type="print">Opere</bibl> del <persName ref="#DLCL_CF_PC0156">Panormita</persName>, tre copie del <bibl type="print" source="#DLCL_CF_BS0092">Giornale XX</bibl>, 
+               sei esemplari della <bibl type="print" source="#DLCL_CF_BS0046">6a Scanzia</bibl> del <persName ref="#  DLCL_CF_PC0038">Cinelli</persName>, e sei altri della <bibl type="print" source="#DLCL_CF_BS0045">9a</bibl>, 
+               e il <persName ref="#DLCL_CF_PC0165">Valla</persName> della <bibl type="print" source="#DLCL_CF_BS0088">Donazione</bibl> di <persName ref="#DLCL_CF_PC0166">Costantino</persName>, 
                alli quali libri mi ha favorito aggiunger la <bibl type="print">Raccolta</bibl> delle <orgName ref="#DLCL_CF_O0031">Monache di Sant’Andrea</orgName>. 
-               Non accade ch’ella mi mandi altre copie delle dette <bibl type="print">Scanzie</bibl>. 
-               In avvenire converrà tenerle in riputazione, perché saran cercate essendosi ora stampata la <bibl type="print">XVII</bibl> 
-               e stampandosi la <bibl type="print">XVIII</bibl> postume, ed essendo per farsene venir’altre appresso, che si raccolgono da altri. 
-               Scrivo al <persName ref="#DLCL_CF_PC0193">Reverendissimo Amigoni</persName> se in quel <orgName cert="unknown" ref="#DLCL_CF_O0005 #DLCL_CF_O0031 #DLCL_CF_O0032">Monastero</orgName> vi siano più copie della <bibl type="print">9a</bibl>, 
+               Non accade ch’ella mi mandi altre copie delle dette <bibl type="print" source="#DLCL_CF_BS0011">Scanzie</bibl>. 
+               In avvenire converrà tenerle in riputazione, perché saran cercate essendosi ora stampata la <bibl type="print" source="#DLCL_CF_BS0101">XVII</bibl> 
+               e stampandosi la <bibl type="print" source="#DLCL_CF_BS0101">XVIII</bibl> postume, ed essendo per farsene venir’altre appresso, che si raccolgono da altri. 
+               Scrivo al <persName ref="#DLCL_CF_PC0193">Reverendissimo Amigoni</persName> se in quel <orgName cert="unknown" ref="#DLCL_CF_O0005 #DLCL_CF_O0031 #DLCL_CF_O0032">Monastero</orgName> vi siano più copie della <bibl type="print" source="#DLCL_CF_BS0045">9a</bibl>, 
                rimastevi fin da quando io ne partij l’anno 1704. 
                E non è poco che tutte non siano ite a male. 
                Faccia ancor’Ella diligenza, e quando ve ne siano, con opportuna congiuntura se le faccia mandare, e le conservi tra nostri libri. 
             </p>
             
             <p>
-               Ma intanto io mi muoio di voglia di vedere la <bibl type="print">Tabaccheide</bibl>, e l’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> degli <bibl type="print">scrittori Bolognesi</bibl>. 
+               Ma intanto io mi muoio di voglia di vedere la <bibl type="print" source="#DLCL_CF_BS0069">Tabaccheide</bibl>, e l’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> degli <bibl type="print" source="#DLCL_CF_BS0063">scrittori Bolognesi</bibl>. 
                Tra lei, e il <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> è possibile che non si trovi modo di consolar la mia? 
                Volli dir’impazienza; ma meglio è dir flemma; che tale sarebbe in un’anno divenuta la più ardente smania del mondo. 
                Sù presto, senza aspettare che s’uniscano insieme, vengano anche ad uno ad uno, ma vengano, volli dir presto. 
@@ -95,7 +101,7 @@
                Vengano a su’agio, or che han goduto l’agio d’un anno. 
                Vengano in buon’ora, e si lascin vedere quanto prima. 
                L’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> non sò quale scusa abbia. 
-               Me lo esibì bell’e legato il <rs type="person" ref="#DLCL_CF_PC0007">Padre Lettore</rs> in cambio del <bibl type="print">Firenzuola</bibl>. 
+               Me lo esibì bell’e legato il <rs type="person" ref="#DLCL_CF_PC0007">Padre Lettore</rs> in cambio del <bibl type="print" source="#DLCL_CF_BS0075 #DLCL_CF_BS0076 #DLCL_CF_BS0077">Firenzuola</bibl>. 
             </p>
             
             <p>
@@ -106,11 +112,11 @@
                Trovino anche modo di cavar dalle mani al 
             </p>
             
-            <pb xml:id="DLCL_CF_E10025_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21025/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10025_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21025/full/603,800/0/default.jpg"/>
             
             <p>
-               <persName ref="#DLCL_CF_PC0143">Baruffaldi</persName> la <bibl type="print">Tabaccheide</bibl>. 
-               Aspetto a suo tempo il <bibl type="print">Giornale XXI</bibl>. 
+               <persName ref="#DLCL_CF_PC0143">Baruffaldi</persName> la <bibl type="print" source="#DLCL_CF_BS0069">Tabaccheide</bibl>. 
+               Aspetto a suo tempo il <bibl type="print" source="#DLCL_CF_BS0103">Giornale XXI</bibl>. 
                Vorrei in oltre appresso di me certa <bibl type="print">Raccolta Miscellanea di Orazioni Latine</bibl> in 4. 
                È libro antico, e son’Orazioni tutte, o quasi tutte di Veneziani. 
                Devono venir quà certe casse spedite dal <persName ref="#DLCL_CF_PC0194">Munghini</persName>. 
@@ -131,7 +137,7 @@
                in <placeName ref="#DLCL_CF_L0041">Umbria</placeName> = e ciò non solo per segnar la Provincia, ove stà <placeName ref="#DLCL_CF_L0051">Nocera</placeName>; 
                né per distinguerla da <placeName ref="#DLCL_CF_L0052">Nocera de’ Pagani</placeName>, ch’è in <orgName ref="#DLCL_CF_O0043">Regno</orgName>, 
                della qual seconda fu <del rend="overstrike">il</del> vescovo il <persName ref="#DLCL_CF_PC0197">Giovio</persName>, come della prima fu vescovo il <persName ref="#DLCL_CF_PC0198">Varino</persName>, 
-               Autore del <bibl type="print">Lessico Greco</bibl> ora ristampato, in paragone di cui sarà sempre in maggior pregio la prima edizione, 
+               Autore del <bibl type="print" source="#DLCL_CF_BS0104">Lessico Greco</bibl> ora ristampato, in paragone di cui sarà sempre in maggior pregio la <bibl type="print" source="#DLCL_CF_BS0105">prima edizione</bibl>, 
                che stà in cotesta <orgName ref="#DLCL_CF_O0001">Biblioteca</orgName>. 
                Quando <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> trovi opposizione, avrei caro che alla Traslazione di <persName ref="#DLCL_CF_PC0040">San Severo</persName> 
                facesse <hi rend="underline"><foreign xml:lang="la">Partis corporis</foreign></hi> in cambio dell’<hi rend="underline"><foreign xml:lang="la">Insignium Reliquiarium</foreign></hi>. 
@@ -149,7 +155,7 @@
                A <placeName ref="#DLCL_CF_L0054">Parma</placeName> non volli scrivere allora perché non potevano le spedizioni farsi a <placeName ref="#DLCL_CF_L0001">Cremona</placeName> in tempo. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10025_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21026/full/589,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10025_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21026/full/589,800/0/default.jpg"/>
             
             <p>
                [Si son fatte copiose scoperte in <placeName ref="#DLCL_CF_L0019">Arezzo</placeName>, e in <placeName ref="#DLCL_CF_L0018">Firenze</placeName> per accrescere, 
@@ -200,7 +206,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10025_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24805/full/599,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10025_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24805/full/599,800/0/default.jpg"/>
             
             <postscript>
                <p>

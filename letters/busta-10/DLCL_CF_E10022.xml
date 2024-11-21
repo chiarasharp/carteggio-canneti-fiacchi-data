@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 3 Agosto 1715)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-02-09" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20654/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 3 Agosto 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10022_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21014/full/599,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10022_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21014/full/599,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -91,7 +97,7 @@
                Ma tosto il riso cede alla inopportunità di 
             </p>
             
-            <pb xml:id="DLCL_CF_E10022_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21015/full/594,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10022_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21015/full/594,800/0/default.jpg"/>
             
             <p>
                tale per altro caritatevole officio. 
@@ -119,7 +125,7 @@
                Si accosta al fine la grata <bibl type="print">Raccolta</bibl> delle lettere digerite con ordine nuovo, e moltiplicate in numero 
             </p>
             
-            <pb xml:id="DLCL_CF_E10022_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21016/full/593,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10022_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21016/full/593,800/0/default.jpg"/>
             
             <p>
                al doppio della più copiosa collezione, che prima se ne trovasse, e ancora la più assai del doppio, 
@@ -129,11 +135,11 @@
                Può ella avvisare il <rs type="person">Padre Lettore</rs> che faccia legar subito quel, che dentro vi sarà sciolto, 
                e poi a dirittura per la condotta del <persName ref="#DLCL_CF_PC0183">Belloni</persName> lo spedisca a <placeName ref="#DLCL_CF_L0048">Fano</placeName>, 
                e di là a <placeName ref="#DLCL_CF_L0036">Gubbio</placeName>, raccomandato al <rs type="person">Padre Reverendissimo Inquisitore</rs>. 
-               Così l’avrò sollecitamente ma non si scordi aggiungervi l’<bibl type="print">Orlandi</bibl> legato e il <bibl type="print">Martelli</bibl>, di cui ancora sia legata una copia. 
+               Così l’avrò sollecitamente ma non si scordi aggiungervi l’<bibl type="print" source="#DLCL_CF_BS0063">Orlandi</bibl> legato e il <bibl type="print" source="#DLCL_CF_BS0001">Martelli</bibl>, di cui ancora sia legata una copia. 
                Per le spese ricorra al <rs type="person">Padre Camerlingo</rs>, o a <persName ref="#DLCL_CF_PC0029">Frate Ferdinando</persName>, che io avvisato rimborserò. 
                Se poi vi fosse da <placeName ref="#DLCL_CF_L0007">Bologna</placeName> occasione per <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>, si potrebbe unir tutto costì. 
                Altrimenti <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> spedisca separatamente, 
-               avuto che abbia il <bibl type="print">Giornale XX</bibl>, ch’è giunto un pezzo fa a <placeName ref="#DLCL_CF_L0028">Perugia</placeName>. 
+               avuto che abbia il <bibl type="print" source="#DLCL_CF_BS0092">Giornale XX</bibl>, ch’è giunto un pezzo fa a <placeName ref="#DLCL_CF_L0028">Perugia</placeName>. 
                Con l’ordine venturo scriverò infallibilmente al <persName ref="#DLCL_CF_PC0056">Signor Dottor Sancassani</persName>, e al <persName ref="#DLCL_CF_PC0162">Signor Anziani</persName>. 
                E finirò insieme di rispondere alle dolcissime sue lettere. 
             </p>
@@ -157,7 +163,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10022_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24803/full/595,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10022_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24803/full/595,800/0/default.jpg"/>
             
             <postscript>
                <p>
