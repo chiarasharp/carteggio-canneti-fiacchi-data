@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 25 Maggio 1717)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-29" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20689/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 25 Maggio 1717)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10057_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21131/full/574,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10057_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21131/full/574,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -96,7 +102,7 @@
                Con prima occasione di rivederlo, la prego rappresentargli i miei vivissimi sentimenti, in confermazione della stima, e obbligo, che io gli professo. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10057_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21132/full/621,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10057_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21132/full/621,800/0/default.jpg"/>
             
             <p>
                Godo che abbia ricevuto l’involto dal <rs type="person">Padre Lettore</rs> di <orgName ref="#DLCL_CF_O0029">San Vitale</orgName>, 
@@ -135,7 +141,7 @@
                A quest’oggetto io dissi che si conservasse la Lapida con ogni cautela; la qual però non istava bene dietro l’Altar maggiore, dopo levatone il Corpo; siccome molto meno 
             </p>
             
-            <pb xml:id="DLCL_CF_E10057_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21133/full/584,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10057_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21133/full/584,800/0/default.jpg"/>
             
             <p>
                vi era in Chiesa luogo per la lapida, e l’Arme sopra la porta laterale verso San Niccolò. 
@@ -183,7 +189,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10057_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25084/full/613,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10057_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25084/full/613,800/0/default.jpg"/>
             
             <postscript>
                <p>

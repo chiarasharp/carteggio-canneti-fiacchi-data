@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 19 Dicembre 1716)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20677/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 19 Dicembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10045_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21089/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10045_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21089/full/603,800/0/default.jpg"/>
             
             <opener>
                <salute>Carissimo <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo</persName></salute>
@@ -107,7 +113,7 @@
                Tra nostri libri vi sono le <bibl type="print">Tragedie</bibl> suddette: e quella, ove si porta il vocabolo 
             </p>
             
-            <pb xml:id="DLCL_CF_E10045_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21090/full/626,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10045_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21090/full/626,800/0/default.jpg"/>
             
             <p>
                sopradetto è di argomento de’ secoli bassi; e se non erro, appartiene a <persName ref="#DLCL_CF_PC0334">Federigo Barbarossa</persName>; 
@@ -156,7 +162,7 @@
                Sarà invenzione di chi fece quell’aggiunta poetica di nuova <gap reason="illegible"/>[...] al <persName ref="#DLCL_CF_PC0068">Maffei</persName>: non hò 
             </p>
             
-            <pb xml:id="DLCL_CF_E10045_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21091/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10045_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21091/full/606,800/0/default.jpg"/>
             
             <p>
                mai saputo quel che scrisse il <persName ref="#DLCL_CF_PC0132">Padre Abate Grandi</persName>, fosse favorevole, 
@@ -238,7 +244,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10045_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24822/full/631,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10045_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24822/full/631,800/0/default.jpg"/>
             
             <postscript>
                <p>

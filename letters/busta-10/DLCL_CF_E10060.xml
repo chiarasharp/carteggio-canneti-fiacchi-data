@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 28 Agosto 1717)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-05-07" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20692/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 28 Agosto 1717)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10060_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21143/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10060_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21143/full/610,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -92,7 +98,7 @@
                Dispero venirne a capo. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10060_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21144/full/625,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10060_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21144/full/625,800/0/default.jpg"/>
             
             <p>
                Mi partecipi il foglio stampato della <bibl type="print">Vita</bibl>, ed <bibl type="print">Opere</bibl> del nostro <persName ref="#DLCL_CF_PC0177">Ambrogio</persName>. 
@@ -124,7 +130,7 @@
                Un cordialissimo saluto 
             </p>
             
-            <pb xml:id="DLCL_CF_E10060_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21145/full/591,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10060_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21145/full/591,800/0/default.jpg"/>
             
             <p>
                a <persName ref="#DLCL_CF_PC0007">Padri Collina</persName>, e al <persName ref="#DLCL_CF_PC0090">Padre Don Leandro</persName>. 
@@ -152,7 +158,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10060_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25086/full/682,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10060_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25086/full/682,800/0/default.jpg"/>
             
             <postscript>
                <p>

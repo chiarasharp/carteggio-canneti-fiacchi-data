@@ -5,7 +5,12 @@
                 <title xml:lang="it">Canneti a Fiacchi (Roma, 10 Maggio 1719)</title>
                 <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
             </titleStmt>
-            <publicationStmt><ab></ab></publicationStmt>
+            <publicationStmt>
+                <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
             <seriesStmt>
                 <title type="main">Epistolario Canneti Fiacchi</title>
                 <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
         <revisionDesc status="created">
             <change when-iso="2024-07-19" who="#DLCL_CF_PS001">creato</change>
             <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
+            <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20728/manifest">
@@ -64,7 +70,7 @@
     <text type="letter" n="Canneti a Fiacchi (Roma, 10 Maggio 1719)">
         <body>
             <div type="transcription">
-                <pb xml:id="DLCL_CF_E10096_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21234/full/586,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10096_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21234/full/586,800/0/default.jpg"/>
                 
                 <opener>
                     <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -99,7 +105,7 @@
                     Così son convenuto seco, essendo egli per subito inviarsi a <placeName ref="#DLCL_CF_L0128">Reggio di Calabria</placeName>, 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10096_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21235/full/603,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10096_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21235/full/603,800/0/default.jpg"/>
                 
                 <p>
                     ove ha di suo eretta una <orgName ref="#DLCL_CF_O0104">pubblica Libreria</orgName>. 
@@ -146,7 +152,7 @@
                     A suo tempo c’intenderemo. 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10096_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21236/full/574,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10096_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21236/full/574,800/0/default.jpg"/>
                 
                 <p>
                     Non manchi di mandar subito la copia della <bibl type="print">Dedicatoria</bibl> al <rs type="person">Signor Decano</rs>, 
@@ -176,7 +182,7 @@
                     <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                 </closer>
                 
-                <pb xml:id="DLCL_CF_E10096_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25184/full/598,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10096_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25184/full/598,800/0/default.jpg"/>
                 
                 <postscript>
                     <p>

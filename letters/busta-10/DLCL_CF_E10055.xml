@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 27 Aprile 1717)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-18" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20687/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 27 Aprile 1717)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10055_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21120/full/588,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10055_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21120/full/588,800/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Carissimo</salute>
@@ -100,7 +106,7 @@
                tra le quali trovai altresì un’Istromento di <persName ref="#DLCL_CF_PC0435">Santa Argiride</persName>, che vi ho annesso. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10055_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21121/full/629,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10055_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21121/full/629,800/0/default.jpg"/>
             
             <p>
                In proposito di questa <persName ref="#DLCL_CF_PC0435">Argiride</persName>, 
@@ -131,9 +137,9 @@
                <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1717-04-27">27 Aprile 1717</date>.</dateline>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10055_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25082/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10055_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25082/full/586,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10055_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25083/full/618,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10055_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25083/full/618,800/0/default.jpg"/>
             
             <postscript>
                <p>

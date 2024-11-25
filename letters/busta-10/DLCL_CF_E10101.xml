@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Fabriano, 21 Luglio 1719)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -52,6 +57,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-08-19" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">nuove trascrizioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20733/manifest">
@@ -63,7 +69,7 @@
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 21 Luglio 1719)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10101_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21246/full/571,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10101_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21246/full/571,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -94,7 +100,7 @@
                e anco in ciò si proccurerà ridurre la spesa a tutto il meno, che sia possibile. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10101_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21247/full/613,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10101_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21247/full/613,800/0/default.jpg"/>
             
             <p>
                Vi pensi, la discorra col nostro <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>, che di tutto cuore riverisco. 
@@ -131,9 +137,16 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10101_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25194/full/568,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10101_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25194/full/568,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10101_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25195/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10101_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25195/full/606,800/0/default.jpg"/>
+            
+            <postscript>
+               <p>
+                  Al Molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+               </p>
+            </postscript>
             
          </div>
       </body>

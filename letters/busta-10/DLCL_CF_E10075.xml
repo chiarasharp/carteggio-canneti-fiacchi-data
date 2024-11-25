@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 15 Marzo 1718)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -52,6 +57,7 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2024-07-12" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20707/manifest">
@@ -62,7 +68,7 @@
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10075_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21185/full/594,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10075_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21185/full/594,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -88,7 +94,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
            
-            <pb xml:id="DLCL_CF_E10075_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25097/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10075_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25097/full/606,800/0/default.jpg"/>
             
          </div>
       </body>

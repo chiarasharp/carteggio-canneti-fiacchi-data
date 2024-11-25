@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Fabriano, 19 Gennaio 1720)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-08-21" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20741/manifest">
@@ -66,7 +72,7 @@
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 19 Gennaio 1720)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10109_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21264/full/559,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21264/full/559,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -98,7 +104,7 @@
                ch’è in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, predicato per libro rarissimo.
             </p>
             
-            <pb xml:id="DLCL_CF_E10109_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21265/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21265/full/603,800/0/default.jpg"/>
             
             <p>
                E anco da vedere se quanto si adduce delle <bibl type="print">Regole degli Studi de’ Gesuiti</bibl> si trovi nel Corpo, 
@@ -134,7 +140,7 @@
                Convien contentarsi di quel, che si può.
             </p>
             
-            <pb xml:id="DLCL_CF_E10109_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21266/full/532,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21266/full/532,800/0/default.jpg"/>
             
             <p>
                Col <persName ref="#DLCL_CF_PC0659">Signor Dottore Traversari</persName> proccuri, come da se, e per zelo di servirlo, di ricavar quanto si può. 
@@ -167,7 +173,7 @@
                Nel
             </p>
             
-            <pb xml:id="DLCL_CF_E10109_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21267/full/609,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21267/full/609,800/0/default.jpg"/>
             
             <p>
                citato <bibl type="print">tomo 6</bibl> si legge di lui al libro 5 cap. 5 pag. 484 
@@ -232,7 +238,7 @@
                <hi rend="underline">Ae</hi>
             </p>
             
-            <pb xml:id="DLCL_CF_E10109_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21268/full/533,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21268/full/533,800/0/default.jpg"/>
             
             <p>
                Da che anno comincia il <bibl type="manuscript">Diario</bibl> di <persName ref="#DLCL_CF_PC0024">Frate Aurelio dalla Rocca Contrada</persName> Romitano Manoscritto, e in qual’anno finisce? 
@@ -277,7 +283,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10109_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/25210/full/580,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10109_L_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/25210/full/580,800/0/default.jpg"/>
 
          </div>
       </body>

@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 22 Dicembre 1716)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-05" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20678/manifest">
@@ -67,7 +73,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 22 Dicembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10046_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21092/full/617,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21092/full/617,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -127,7 +133,7 @@
                dice l’<rs type="person">Autor</rs> della tavola delle voci difficili, che si trovano nel <bibl type="print">Poema</bibl> di 
             </p>
             
-            <pb xml:id="DLCL_CF_E10046_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21093/full/628,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21093/full/628,800/0/default.jpg"/>
             
             <p>
                <persName ref="#DLCL_CF_PC0233">Dante</persName>, il quale usò, dal latino portandolo nella lingua nostra con tanti altri, 
@@ -181,7 +187,7 @@
                Finalmente un antico <hi rend="underline">Epigramma <bibl type="print">libro 4. Epigr</bibl></hi>. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10046_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21094/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21094/full/610,800/0/default.jpg"/>
             
             <p>
                <hi rend="underline"><foreign xml:lang="la">veterum Pithoei</foreign></hi> pagina 157. 
@@ -234,7 +240,7 @@
                Questo, e 
             </p>
             
-            <pb xml:id="DLCL_CF_E10046_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21095/full/636,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21095/full/636,800/0/default.jpg"/>
             
             <p>
                simili altri passi, che s’incontrano negli <bibl type="religious">Atti de’ Martiri</bibl>, danno a divedere la rabbia de’ Pagani altamente irritati dal disprezzo, 
@@ -273,7 +279,7 @@
                (e forse parlando di <persName ref="#DLCL_CF_PC0370">Santa Sabina</persName>) <foreign xml:lang="la">Omnes</foreign> 
             </p>
             
-            <pb xml:id="DLCL_CF_E10046_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/24823/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/24823/full/606,800/0/default.jpg"/>
             
             <p>   
                <hi rend="underline"><foreign xml:lang="la">facultates eius publicis</foreign></hi> (ecco la confiscazione) 
@@ -319,7 +325,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10046_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/24824/full/619,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10046_L_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/24824/full/619,800/0/default.jpg"/>
             
             <postscript>
                <p>

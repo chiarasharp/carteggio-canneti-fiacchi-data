@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Fabriano, 17 Giugno 1720)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-08-28" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">nuova trascrizione</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20748/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Giugno 1720)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10116_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21284/full/546,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10116_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21284/full/546,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -87,7 +93,7 @@
                Ora tutto il Corpo si vende in <placeName ref="#DLCL_CF_L0139">Livorno</placeName> dal <persName ref="#DLCL_CF_PC0766">Donati</persName> 200 piastre. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10116_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25222/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10116_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25222/full/573,800/0/default.jpg"/>
             
             <closer>
                <salute>Resto in fretta con un caro abbraccio confermandomi.</salute>
@@ -106,10 +112,38 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10116_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25223/full/519,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10116_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25223/full/519,800/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10116_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25224/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10116_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25224/full/610,800/0/default.jpg"/>
             
+            <postscript>
+               <p>
+                  [<bibl type="print">Messaggero al Signor Vincenzo Gonzaga</bibl> <placeName ref="#DLCL_CF_L0024">Venezia</placeName> 
+                  per <persName ref="#DLCL_CF_PC0814">Vernardo Giunti</persName> 1582 4 
+               </p>
+               
+               <p>
+                  <bibl type="print">Della virtù eroica e della Carità</bibl> ivi 4 
+               </p>
+               
+               <p>
+                  <bibl type="print">Gonzaga secondo</bibl> ivi 
+               </p>
+               
+               <p>
+                  <bibl type="print">Discorsi Poetici dell’Accademia Fiorentina in difesa di Aristotile</bibl> <placeName ref="#DLCL_CF_L0018">Fiorenza</placeName> 
+                  per l’<persName ref="#DLCL_CF_PC0815">Marescotti</persName> 1597 4. 
+               </p>
+               
+               <p>
+                  <bibl type="print">Demetrio Fallereo della locuzi[o]ne volgarizzato da Pier Segni, con le postille</bibl>. 
+                  <placeName ref="#DLCL_CF_L0018">Firenze</placeName> pe <persName ref="#DLCL_CF_PC0816">Cosimo Giunti</persName> 1603. 4]
+               </p>
+               <p>
+                  Al Molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
+               </p>
+            </postscript>
             
          </div>
       </body>

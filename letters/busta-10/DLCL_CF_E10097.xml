@@ -6,7 +6,12 @@
                 <author role="main-author" ref="#DLCL_CF_PC0668" key="DLCL_CF_PC0668">Guglielmina Amalia di Brunswick e Lüneburg</author>
                 <author role="copyist" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</author>
             </titleStmt>
-            <publicationStmt><ab></ab></publicationStmt>
+            <publicationStmt>
+                <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
             <seriesStmt>
                 <title type="main">Epistolario Canneti Fiacchi</title>
                 <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
         </profileDesc>
         <revisionDesc status="created">
             <change when-iso="2024-09-17" who="#DLCL_CF_PS001">creato</change>
+            <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20729/manifest">
@@ -65,7 +71,7 @@
     <text type="letter" n="Guglielmina a Boncompagni (Vienna, 18 Marzo 1719) - Trascrizione Fiacchi">
         <body>
             <div type="transcription">
-                <pb xml:id="DLCL_CF_E10097_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21237/full/545,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10097_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21237/full/545,800/0/default.jpg"/>
                 
                 <p>
                     Transumptum Epistolae <persName ref="#DLCL_CF_PC0668">Wilhelminae Amaliae</persName> Imper. Rom. 
@@ -106,11 +112,11 @@
                     <signed>Benevola <persName ref="#DLCL_CF_PC0668">Amalia</persName></signed>
                 </closer>
                 
-                <pb xml:id="DLCL_CF_E10097_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25186/full/566,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10097_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25186/full/566,800/0/default.jpg"/>
                 
-                <pb xml:id="DLCL_CF_E10097_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25187/full/549,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10097_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25187/full/549,800/0/default.jpg"/>
                 
-                <pb xml:id="DLCL_CF_E10097_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25188/full/576,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10097_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25188/full/576,800/0/default.jpg"/>
                 
                 <postscript>
                     <p>
@@ -118,7 +124,7 @@
                     </p>
                 </postscript>
                 
-                <pb xml:id="DLCL_CF_E10097_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/25189/full/562,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10097_L_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/25189/full/562,800/0/default.jpg"/>
                 
             </div>
         </body>

@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 24 Novembre 1716)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -54,6 +59,7 @@
          <change when-iso="2024-03-18" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20675/manifest">
@@ -65,7 +71,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 24 Novembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10043_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21085/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10043_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21085/full/601,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -100,7 +106,7 @@
                e al <persName ref="#DLCL_CF_PC0318">Signor Apostolo Zeno</persName> arrivò nuova la notizia di questa <bibl type="print">Vita</bibl>, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10043_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21086/full/623,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10043_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21086/full/623,800/0/default.jpg"/>
             
             <p>
                ch’è forse unica nell’esemplare di cotesta <orgName ref="#DLCL_CF_O0001">Biblioteca</orgName>, 
@@ -129,7 +135,7 @@
                Io adesso 
             </p>
             
-            <pb xml:id="DLCL_CF_E10043_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21087/full/606,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10043_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21087/full/606,800/0/default.jpg"/>
             
             <p>
                non posso far’altro che attendere a terminare l’Opera, che hò alle mani tanto più desiderata dagli esteri, quanto meno curata da’ nostri. 
@@ -184,7 +190,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10043_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24820/full/613,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10043_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24820/full/613,800/0/default.jpg"/>
             
             <postscript>
                <p>

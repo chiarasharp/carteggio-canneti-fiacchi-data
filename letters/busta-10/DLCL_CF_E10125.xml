@@ -5,7 +5,12 @@
                 <title xml:lang="it">Canneti a Fiacchi (Fabriano, 6 Dicembre 1720)</title>
                 <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
             </titleStmt>
-            <publicationStmt><ab></ab></publicationStmt>
+            <publicationStmt>
+                <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+                </availability>
+            </publicationStmt>
             <seriesStmt>
                 <title type="main">Epistolario Canneti Fiacchi</title>
                 <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
         <revisionDesc status="created">
             <change when-iso="2024-09-03" who="#DLCL_CF_PS001">creato</change>
             <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
+            <change when-iso="2024-11-25" who="#DLCL_CF_PS001">correzioni</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://classense.unibo.it/iiif/20757/manifest">
@@ -64,7 +70,7 @@
     <text type="letter" n="Canneti a Fiacchi (Fabriano, 6 Dicembre 1720)">
         <body>
             <div type="transcription">
-                <pb xml:id="DLCL_CF_E10125_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21303/full/608,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10125_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21303/full/608,800/0/default.jpg"/>
                 
                 <opener>
                     <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -96,7 +102,7 @@
                     La mano rapace è stata di qualche Filosofastro chimico, spargirico ed una sola sarà stata l’involatrice di tutti e tre.
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10125_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21304/full/633,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10125_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21304/full/633,800/0/default.jpg"/>
                 
                 <p>
                     Giunto che costà sia l’involto con le quattro copie del consaputo Libro, 
@@ -123,7 +129,7 @@
                     Confido molto nell’amore di <persName ref="#DLCL_CF_PC0015">Pagliarini</persName>,
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10125_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21305/full/528,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10125_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21305/full/528,800/0/default.jpg"/>
                 
                 <p>
                     il quale verso me non può esser più grande, e nel suo buon gusto, ch’è assai fine, e diligente. 
@@ -153,7 +159,7 @@
                     Tra quelle Iscrizioni, vi lascia una cassetta colla breve iscrizione recata dal <persName ref="#DLCL_CF_PC0123">Fabri</persName> 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10125_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21306/full/622,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10125_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21306/full/622,800/0/default.jpg"/>
                 
                 <p>
                     nelle sue <bibl type="print">Memorie Sacre</bibl>, a <hi rend="underline"><orgName ref="#DLCL_CF_O0061">Santa Maria in Porto</orgName></hi>. 

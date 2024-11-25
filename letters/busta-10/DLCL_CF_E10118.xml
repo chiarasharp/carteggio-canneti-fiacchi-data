@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Fabriano, 19 Agosto 1720)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-08-29" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20750/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 19 Agosto 1720)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10118_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21287/full/487,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10118_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21287/full/487,800/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo</persName> Carissimo</salute>
@@ -94,7 +100,7 @@
                Forse l’ 
             </p>
             
-            <pb xml:id="DLCL_CF_E10118_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21288/full/609,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10118_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21288/full/609,800/0/default.jpg"/>
             
             <p>
                avrà fatto, perché si conosca la diversità della mano del legatore: ma non vi era in ordine a ciò il bisogno. 
@@ -121,7 +127,7 @@
                Al 3°. Mi dia tempo, non avendo più io fresca la memoria de’ prezzi di libri, la qual tempo si perderà nelle dense tenebre di questo paese.
             </p>
             
-            <pb xml:id="DLCL_CF_E10118_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21290/full/502,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10118_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21290/full/502,800/0/default.jpg"/>
             
             <p>
                Il nostro <persName ref="#DLCL_CF_PC0090">Don Leandro</persName> è senza febbre, e senza forze, le quali il signor Iddio gli conceda quanto prima.
@@ -140,7 +146,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10118_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25227/full/627,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10118_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25227/full/627,800/0/default.jpg"/>
             
             <postscript>
                <p>

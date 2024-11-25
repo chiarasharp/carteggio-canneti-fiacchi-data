@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 25 Giugno 1718)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-07-15" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20714/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 25 Giugno 1718)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10082_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21202/full/596,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10082_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21202/full/596,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -104,7 +110,7 @@
                perché ancor sotto quel più freddo clima egli manterrà vivo il fuoco dell’amor suo verso il <bibl type="print">Giornale</bibl>, e conti- 
             </p>
             
-            <pb xml:id="DLCL_CF_E10082_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21203/full/615,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10082_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21203/full/615,800/0/default.jpg"/>
             
             <p>
                nuerà l’opera del <bibl type="print">Giornale</bibl> unitamente con altri Letterati, 
@@ -130,7 +136,7 @@
                una copiosa <orgName ref="#DLCL_CF_O0090">Libreria</orgName> lasciata an[ni] 
             </p>
             
-            <pb xml:id="DLCL_CF_E10082_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21204/full/579,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10082_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21204/full/579,800/0/default.jpg"/>
             
             <p>
                fà dal suo <rs type="person" ref="#DLCL_CF_PC0594">zio Vescovo</rs> di <placeName ref="#DLCL_CF_L0119">Todi</placeName> a pubblico beneficio. 
@@ -168,7 +174,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10082_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25104/full/607,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10082_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25104/full/607,800/0/default.jpg"/>
             
             <postscript>
                <p>

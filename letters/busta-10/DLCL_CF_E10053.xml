@@ -5,7 +5,12 @@
             <title xml:lang="it">Canneti a Fiacchi (Perugia, 23 Marzo 1717)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
-         <publicationStmt><ab></ab></publicationStmt>
+         <publicationStmt>
+            <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
          <seriesStmt>
             <title type="main">Epistolario Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
@@ -53,6 +58,7 @@
       <revisionDesc status="created">
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20685/manifest">
@@ -64,7 +70,7 @@
    <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Marzo 1717)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10053_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21115/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10053_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21115/full/608,800/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -98,7 +104,7 @@
                Vi entrerebbe l’anacronismo; e converrebbe ponderar se possa salvarsi. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10053_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21116/full/633,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10053_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21116/full/633,800/0/default.jpg"/>
             
             <p>
                Oggi hà otto giorni che ricevei l’involto da <placeName ref="#DLCL_CF_L0023">Foligno</placeName>, della cui spedizione la ringrazio. 
@@ -133,7 +139,7 @@
                Basta farlo avere alla Nunziata di <placeName ref="#DLCL_CF_L0007">Bologna</placeName> con soprascritta al <rs type="person">Padre Reverendo Lettore</rs> 
             </p>
             
-            <pb xml:id="DLCL_CF_E10053_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21117/full/611,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10053_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21117/full/611,800/0/default.jpg"/>
             
             <p>
                <rs type="person">Cavedo Esprovinciale</rs> [<orgName ref="#DLCL_CF_O0063">San Luca</orgName>. <placeName ref="#DLCL_CF_L0001">Cremona</placeName>]. 
@@ -181,7 +187,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10053_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25079/full/616,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10053_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25079/full/616,800/0/default.jpg"/>
             
             <postscript>
                <p>
