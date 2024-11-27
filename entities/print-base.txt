@@ -1,7 +1,7 @@
 <biblStruct xml:id="DLCL_CF_BS" sameAs="http://id.sbn.it/bid/">
         <monogr>
-            <author ref="#">
-                <persName>
+            <author>
+                <persName xml:lang="" ref="">
                     <forename></forename>
                     <forename></forename>
                     <surname></surname>
