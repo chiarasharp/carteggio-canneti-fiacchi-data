@@ -1,10 +1,6 @@
 # Dati edizione digitale Carteggio Canneti Fiacchi
 
 Dataset TEI XML del carteggio fra i monaci camaldolesi Pietro Canneti e Mariangelo Fiacchi, una collaborazione con il laboratorio LUDI del Dipartimento di Beni Culturali dell'Università di Bolognaa insieme all Biblioteca Classense di Ravenna.
- 
-Il progetto è finanziato dall’Unione Europea - NextGenerationEU a valere sul Piano Nazionale di Ripresa e Resilienza (PNRR) – Missione 4 Istruzione e ricerca – Componente 2 Dalla ricerca all’impresa – Investimento Investimento 1.3, Avviso D.D. 341 del 15/03/2022, dal titolo: Cultural Heritage Active Innovation for Sustainable Society, codice proposta PE0000020.
-
-![Testata PNRR](testata-pnrr.png "Testata PNRR")
 
 ### Struttura del Dataset
 Il dataset è organizzato nelle seguenti directory principali:
@@ -21,3 +17,8 @@ Il dataset è organizzato nelle seguenti directory principali:
 * **schema**: contiene i file che definiscono la struttura del progetto TEI:
   * `epist-cannetifiacchi-odd.odd`: file ODD (One Document Does it All) che descrive il progetto e specifica gli elementi TEI utilizzati;
   * `epist-cannetifiacchi-rng.rng`: schema Relax NG derivato dal file ODD, utilizzato per la validazione dei file XML.
+
+ 
+Il progetto è finanziato dall’Unione Europea - NextGenerationEU a valere sul Piano Nazionale di Ripresa e Resilienza (PNRR) – Missione 4 Istruzione e ricerca – Componente 2 Dalla ricerca all’impresa – Investimento Investimento 1.3, Avviso D.D. 341 del 15/03/2022, dal titolo: Cultural Heritage Active Innovation for Sustainable Society, codice proposta PE0000020.
+
+![Testata PNRR](testata-pnrr.png "Testata PNRR")
