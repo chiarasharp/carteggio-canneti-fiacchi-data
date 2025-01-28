@@ -130,9 +130,7 @@
       <idno type="VIAF">141617233</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0013" type="abbey" sameAs="http://viaf.org/viaf/316508960" source="https://it.wikipedia.org/wiki/Abbazia_di_Montecorona">
@@ -140,18 +138,14 @@
       <idno type="VIAF">316508960</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3165052/">Umbertide</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3165052/">Umbertide</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0014" type="monastery" source="https://it.wikipedia.org/wiki/Santa_Maria_di_Meleda">
       <orgName xml:lang="it">Congregazione di Meleda</orgName>
       <location>
          <country key="HR"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3194965/">Meleda</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3194965/">Meleda</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0015" type="congregation" sameAs="http://viaf.org/viaf/122561858">
@@ -165,9 +159,7 @@
       <orgName xml:lang="it">San Onofrio</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0017" type="monastery" sameAs="http://viaf.org/viaf/143222159">
@@ -175,9 +167,7 @@
       <idno type="VIAF">143222159</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0018" type="academy" sameAs="http://viaf.org/viaf/149313319">
@@ -185,9 +175,7 @@
       <idno type="VIAF">149313319</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0019" type="abbey" sameAs="http://viaf.org/viaf/146919850">
@@ -195,8 +183,7 @@
       <idno type="VIAF">146919850</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
          </address>
       </location>
    </org>
@@ -205,9 +192,7 @@
       <idno type="VIAF">155972474</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0021" type="abbey" sameAs="http://viaf.org/viaf/153062209">
@@ -215,18 +200,14 @@
       <idno type="VIAF">153062209</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0010">Padova</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0010">Padova</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0022" type="church">
       <orgName xml:lang="it">San Felice di Bologna</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0023" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Farfa" sameAs="http://viaf.org/viaf/137282486">
@@ -234,9 +215,7 @@
       <idno type="VIAF">137282486</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3177207/">Fara in Sabina</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3177207/">Fara in Sabina</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0024" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Cluny" sameAs="http://viaf.org/viaf/129020265">
@@ -244,9 +223,7 @@
       <idno type="VIAF">129020265</idno>
       <location>
          <country key="FR"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3024534">Cluny</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3024534">Cluny</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0025" type="library" source="https://it.wikipedia.org/wiki/Biblioteca_apostolica_vaticana" sameAs="http://viaf.org/viaf/146085455">
@@ -277,9 +254,7 @@
       <orgName xml:lang="it">Monastero di Bertinoro</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0025">Bertinoro</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0025">Bertinoro</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0028" type="church" sameAs="http://viaf.org/viaf/293479551">
@@ -287,9 +262,7 @@
       <idno type="VIAF">293479551</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0029" type="church" sameAs="http://viaf.org/viaf/56145857802623020950">
@@ -297,9 +270,7 @@
       <idno type="VIAF">56145857802623020950</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0030" type="monastery">
@@ -314,18 +285,14 @@
       <idno type="VIAF">238542523</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0032" type="monastery" source="http://dati.san.beniculturali.it/SAN/complarc_GGASI_san.cat.complArch.40511">
       <orgName xml:lang="it">Monastero di San Salvatore</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0043">Forlì</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0043">Forlì</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0033" type="congregation" sameAs="http://viaf.org/viaf/154348943">
@@ -339,18 +306,14 @@
       <desc>Istituto religioso maschile di diritto pontificio costituito da eremi e monasteri sui iuris.</desc>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement sameAs="https://www.geonames.org/3168726/">Camaldoli</settlement>
-         </address>
+         <settlement sameAs="https://www.geonames.org/3168726/">Camaldoli</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0035" type="gallery" source="https://it.wikipedia.org/wiki/Galleria_d%27arte_moderna_Ricci_Oddi">
       <orgName xml:lang="it">Galleria d'Oddi</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement sameAs="https://www.geonames.org/3171058/">Piacenza</settlement>
-         </address>
+         <settlement sameAs="https://www.geonames.org/3171058/">Piacenza</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0036" type="villa">
@@ -361,25 +324,21 @@
       <idno type="VIAF">147341799</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0027">Milano</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0027">Milano</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0038" type="university">
       <orgName xml:lang="it">Archiginnasio della Sapienza</orgName>
       <location>
          <country key="IT"/>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0039" type="library">
       <orgName xml:lang="it">Libreria Sclama</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0040" type="church" sameAs="http://viaf.org/viaf/156624582">
@@ -416,18 +375,14 @@
       <orgName xml:lang="it">Congregazione dell'Oratorio di Montefalco</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0069">Montefalco</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0069">Montefalco</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0046" type="congregation">
       <orgName xml:lang="it">Congregazione dell'Oratorio di Perugia</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0047" type="congregation">
@@ -449,18 +404,14 @@
       <idno type="VIAF">122752152</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0075">Pisa</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0075">Pisa</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0050" type="monastery" source="https://www.cistercensi.info/abbazie/abbazie.php?ab=132">
       <orgName xml:lang="it">Monastero San Giacomo di Veglia</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3164028/">San Giacomo di Veglia, Vittorio Veneto</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3164028/">San Giacomo di Veglia, Vittorio Veneto</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0051" type="monastery" sameAs="http://viaf.org/viaf/133865391">
@@ -478,9 +429,7 @@
       <idno type="VIAF">143077072</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0053">
@@ -503,9 +452,7 @@
       <idno type="VIAF">150834169</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0018">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0018">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0057">
@@ -516,9 +463,7 @@
       <idno type="VIAF">122726330</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0024">Venezia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0024">Venezia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0059" type="monastery">
@@ -529,9 +474,7 @@
       <idno type="VIAF">166641031</idno>
       <location>
          <country key="VA"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0061" type="church" sameAs="http://viaf.org/viaf/241907176">
@@ -539,18 +482,14 @@
       <idno type="VIAF">241907176</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0062" type="monastery" source="https://fondoambiente.it/luoghi/chiesa-di-san-maglorio">
       <orgName xml:lang="it">Monastero di San Maglorio</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0005">Faenza</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0005">Faenza</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0063" type="church" sameAs="http://viaf.org/viaf/243209870" source="https://fondoambiente.it/luoghi/complesso-di-san-luca">
@@ -558,18 +497,14 @@
       <idno type="VIAF">243209870</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0001">Cremona</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0001">Cremona</settlement>
       </location>
    </org>   
    <org xml:id="DLCL_CF_O0064" type="family" source="https://www.treccani.it/enciclopedia/geremei_%28Enciclopedia-Italiana%29/">
       <orgName xml:lang="it">Geremei</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0007">Bologna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0065" type="family">
@@ -582,9 +517,7 @@
       <orgName xml:lang="it">Onesti</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0002">Ravenna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0068" type="family">
@@ -612,9 +545,7 @@
       <orgName xml:lang="it">Biblioteca del Monastero di San Mattia</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3172456/">Murano</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3172456/">Murano</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0076" type="family">
@@ -625,18 +556,14 @@
       <idno type="VIAF">154227577</idno>
       <location>
          <country key="VA"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3164670/">Città del Vaticano</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0078" type="abbey">
       <orgName xml:lang="it">Abbazia San Severo</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0079" type="library" sameAs="http://viaf.org/viaf/158709775" source="https://www.bncf.firenze.sbn.it/biblioteca/origine-e-sviluppo-della-biblioteca-magliabechiana/#cap-1">
@@ -644,9 +571,7 @@
       <idno type="VIAF">158709775</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0018">Firenze</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0080">
@@ -659,9 +584,7 @@
       <orgName xml:lang="it">Cattedrale di Perugia</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0083" type="academy">
@@ -674,9 +597,7 @@
       <orgName xml:lang="it">Chiesa di Santa Teresa de' Carmelitani Scalzi</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0086" type="church">
@@ -690,9 +611,7 @@
       <idno type="VIAF">126121637</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0107">Torino</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0107">Torino</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0089" type="theatre">
@@ -702,9 +621,7 @@
       <orgName xml:lang="it">Libreria Pianetti</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0114">Jesi</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0114">Jesi</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0091" type="sanctuary" sameAs="http://viaf.org/viaf/134963198">
@@ -712,9 +629,7 @@
       <idno type="VIAF">134963198</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3174567/">Loreto</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3174567/">Loreto</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0092" type="monastery" sameAs="http://viaf.org/viaf/296424682">
@@ -722,9 +637,7 @@
       <idno type="VIAF">296424682</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3181754/">Borgo San Lorenzo</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3181754/">Borgo San Lorenzo</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0093" type="institute">
@@ -734,9 +647,7 @@
       <orgName xml:lang="it">Chiesa di San Romualdo</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0095" type="monastery" sameAs="http://viaf.org/viaf/155669411" source="https://it.wikipedia.org/wiki/Monastero_di_Camaldoli">
@@ -744,9 +655,7 @@
       <idno type="VIAF">155669411</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3170172/">Poppi</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3170172/">Poppi</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0096" type="sanctuary" sameAs="http://viaf.org/viaf/170049188" source="https://it.wikipedia.org/wiki/Santuario_della_Verna">
@@ -754,9 +663,7 @@
       <idno type="VIAF">170049188</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3178750/">Chiusi della Verna</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3178750/">Chiusi della Verna</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0097" type="university">
@@ -770,63 +677,49 @@
       <orgName xml:lang="it">Chiesa di San Silvestro a Montecavallo</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0100" type="abbey" source="https://it.wikipedia.org/wiki/Abbazia_di_Casamari">
       <orgName xml:lang="it">Abbazia di Casamari</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3164528/">Veroli</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3164528/">Veroli</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0101" type="library">
       <orgName xml:lang="it">Libreria di Cesena</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3178957/">Cesena</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3178957/">Cesena</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0102" type="convent">
       <orgName xml:lang="it">Convento di Foligno</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0103" type="library">
       <orgName xml:lang="it">Libreria del Seminario di Foligno</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0104" type="library">
       <orgName xml:lang="it">Libreria pubblica di Reggio Calabria</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0128">Reggio Calabria</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0128">Reggio Calabria</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0105" type="library">
       <orgName xml:lang="it">Biblioteca pubblica di Pistoia</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0129">Pistoia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0129">Pistoia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0106" type="library" sameAs="http://viaf.org/viaf/25165628873342400000" source="https://www.movio.beniculturali.it/uniroma1/livesandlibraries/it/biblioteca-lancisiana">
@@ -834,9 +727,7 @@
       <idno type="VIAF">25165628873342400000</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0107" type="hospital" sameAs="http://viaf.org/viaf/156654090" source="https://it.wikipedia.org/wiki/Arcispedale_di_Santo_Spirito_in_Saxia">
@@ -844,9 +735,7 @@
       <idno type="VIAF">156654090</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0108" type="library">
@@ -862,9 +751,7 @@
       <orgName xml:lang="it">Libreria de' Luperti</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0135">Cagli</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0135">Cagli</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0112" type="library">
@@ -875,18 +762,14 @@
       <idno type="VIAF">139652584</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0114" type="church">
       <orgName xml:lang="it">Chiesa di San Francesco</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0033">Rimini</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0033">Rimini</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0115" type="church" sameAs="http://viaf.org/viaf/241887388">
@@ -894,27 +777,21 @@
       <idno type="VIAF">241887388</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0116" type="abbey">
       <orgName xml:lang="it">San Giovanni dell'Eremo</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0117" type="castle" source="https://fondoambiente.it/luoghi/castello-di-ribano">
       <orgName xml:lang="it">Castello di Ribano</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0109">Savignano sul Rubicone</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0109">Savignano sul Rubicone</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0118" type="monastery">
@@ -924,9 +801,7 @@
       <orgName xml:lang="it">Accademia dei Rinvigoriti di Foligno</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0023">Foligno</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0120" type="family">
@@ -936,9 +811,7 @@
       <orgName xml:lang="it">Monastero di Santa Maria d'Urano</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#https://www.geonames.org/3182133/">Bertinoro</settlement>
-         </address>
+         <settlement ref="#https://www.geonames.org/3182133/">Bertinoro</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0122" type="monastery">
@@ -951,9 +824,7 @@
       <orgName xml:lang="it">Cattedrale di Cesena</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0009">Cesena</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0009">Cesena</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0125" type="church">
@@ -967,9 +838,7 @@
       <orgName xml:lang="it">Chiesa di Sant'Antonio</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0025">Bertinoro</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0025">Bertinoro</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0128" type="religious-order" sameAs="http://viaf.org/viaf/152491765" source="https://it.wikipedia.org/wiki/Cavalieri_templari">
@@ -989,9 +858,7 @@
       <orgName xml:lang="it">Biblioteca del Monastero di Fonte Avellana</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3166653/">Serra Sant'Abbondio</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3166653/">Serra Sant'Abbondio</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0133" type="congregation" sameAs="http://viaf.org/viaf/125014217" source="https://it.wikipedia.org/wiki/Congregazione_dei_vescovi_e_regolari">
@@ -1002,9 +869,7 @@
       <orgName xml:lang="it">Casa Ricciardelli</orgName>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="https://www.geonames.org/3169361/">Rimini</settlement>
-         </address>
+         <settlement ref="https://www.geonames.org/3169361/">Rimini</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0135" type="library" sameAs="http://viaf.org/viaf/155437292" source="https://it.wikipedia.org/wiki/Biblioteca_Augusta">
@@ -1012,9 +877,7 @@
       <idno type="VIAF">155437292</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0028">Perugia</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0136">
@@ -1028,9 +891,7 @@
       <idno type="VIAF">143141719</idno>
       <location>
          <country key="IT"/>
-         <address>
-            <settlement ref="#DLCL_CF_L0008">Roma</settlement>
-         </address>
+         <settlement ref="#DLCL_CF_L0008">Roma</settlement>
       </location>
    </org>
    <org xml:id="DLCL_CF_O0139" type="family">
