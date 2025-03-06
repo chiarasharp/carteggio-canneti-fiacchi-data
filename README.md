@@ -1,6 +1,6 @@
 # Dati edizione digitale Carteggio Canneti Fiacchi
 
-Dataset TEI XML del carteggio fra i monaci camaldolesi Pietro Canneti e Mariangelo Fiacchi, una collaborazione con il laboratorio LUDI del Dipartimento di Beni Culturali dell'Università di Bolognaa insieme all Biblioteca Classense di Ravenna.
+Dataset TEI XML del carteggio fra i monaci camaldolesi Pietro Canneti e Mariangelo Fiacchi, una collaborazione con il laboratorio LUDI del Dipartimento di Beni Culturali dell'Università di Bologna insieme alla Biblioteca Classense di Ravenna.
 
 ### Struttura del Dataset
 Il dataset è organizzato nelle seguenti directory principali:
