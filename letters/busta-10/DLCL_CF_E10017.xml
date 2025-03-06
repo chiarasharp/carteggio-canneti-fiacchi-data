@@ -12,7 +12,7 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="main">Carteggio Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
             <biblScope unit="letter">17</biblScope>
          </seriesStmt>
@@ -155,7 +155,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10017_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20877/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24798/full/601,800/0/default.jpg"/>
             
             <pb xml:id="DLCL_CF_E10017_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24799/full/586,800/0/default.jpg"/>
             

@@ -12,7 +12,7 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="main">Carteggio Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
             <biblScope unit="letter">102</biblScope>
          </seriesStmt>
@@ -110,7 +110,7 @@
             
             <postscript>
                <p>
-                  Al Molto Reverendo Padre [Signore] Osservandissimo I <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
+                  Al Molto Reverendo Padre [Signore] Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
                   <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
                </p>
             </postscript>

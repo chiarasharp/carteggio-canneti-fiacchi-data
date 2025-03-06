@@ -15,8 +15,8 @@ Il dataset è organizzato nelle seguenti directory principali:
   * `EYY`: indica il numero della busta in cui è contenuta la lettera (esempio: E10 per la Busta 10);
   * `XXX`: è un numero progressivo a tre cifre per ogni lettera (esempio:`DLCL_CF_E10001.xml` è la prima lettera della Busta 10);
 * **schema**: contiene i file che definiscono la struttura del progetto TEI:
-  * `epist-cannetifiacchi-odd.odd`: file ODD (One Document Does it All) che descrive il progetto e specifica gli elementi TEI utilizzati;
-  * `epist-cannetifiacchi-rng.rng`: schema Relax NG derivato dal file ODD, utilizzato per la validazione dei file XML.
+  * `carteggio-cannetifiacchi-odd.odd`: file ODD (One Document Does it All) che descrive il progetto e specifica gli elementi TEI utilizzati;
+  * `carteggio-cannetifiacchi-rng.rng`: schema Relax NG derivato dal file ODD, utilizzato per la validazione dei file XML.
 
  
 Il progetto è finanziato dall’Unione Europea - NextGenerationEU a valere sul Piano Nazionale di Ripresa e Resilienza (PNRR) – Missione 4 Istruzione e ricerca – Componente 2 Dalla ricerca all’impresa – Investimento Investimento 1.3, Avviso D.D. 341 del 15/03/2022, dal titolo: Cultural Heritage Active Innovation for Sustainable Society, codice proposta PE0000020.

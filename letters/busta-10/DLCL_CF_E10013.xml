@@ -12,7 +12,7 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title type="main">Epistolario Canneti Fiacchi</title>
+            <title type="main">Carteggio Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E10" key="DLCL_CF_E10">Busta 10</title>
             <biblScope unit="letter">13</biblScope>
          </seriesStmt>
@@ -144,7 +144,7 @@
             
             <closer>
                <salute>DVPMR alla quale replico le mie premure per l’<bibl type="manuscript">Indice de’ nostri libri</bibl></salute> 
-               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1714-08-14"/>14 agosto 1714</dateline>
+               <dateline><placeName ref="#DLCL_CF_L0028">Perugia</placeName> <date when-iso="1714-08-14">14 agosto 1714</date></dateline>
                <salute>Affettuosissimo Servo e Padre nel Signore</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
