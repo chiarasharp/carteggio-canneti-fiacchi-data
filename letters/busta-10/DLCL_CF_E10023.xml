@@ -60,6 +60,7 @@
          <change when-iso="2024-03-14" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-05-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20655/manifest">
@@ -67,6 +68,7 @@
       <graphic n="1v" url="https://classense.unibo.it/iiif/2/21018/full/604,800/0/default.jpg"/>
       <graphic n="2r" url="https://classense.unibo.it/iiif/2/21019/full/600,800/0/default.jpg"/>
       <graphic n="2v" url="https://classense.unibo.it/iiif/2/24804/full/587,800/0/default.jpg"/>
+      
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 6 Agosto 1715)">
       <body>
@@ -109,7 +111,7 @@
                Io mi ricordo precisamente del sito, ove stava nella Libreria vecchia: né so persuadermi che siasi perduto. 
                Con tutto ciò se <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, che ha maneggiati tutti i volumi, non l’ha veramente trovato, converrà pur troppo credere sia perito, e pensare a trovarne un’altro. 
                Tra nostri libri, che in buona parte son’ancora fuor delle scanzie ammassati, trovai <bibl type="print" source="#DLCL_CF_BS0091"><foreign xml:lang="la"><hi rend="underline">Perezii Dissertationes</hi></foreign></bibl>. 
-               Avendo l’<bibl type="manuscript">indice desiderato</bibl>, che mi servirà in molte, e varie occasioni. 
+               Attendo l’<bibl type="manuscript">indice desiderato</bibl>, che mi servirà in molte, e varie occasioni. 
                Noti insieme con distinzione i libri dati al <persName ref="#DLCL_CF_PC0003">Reverendissimo Galamini</persName>, e al <persName ref="DLCL_CF_PC0122">Padre Don Enrico</persName>. 
             </p>
             

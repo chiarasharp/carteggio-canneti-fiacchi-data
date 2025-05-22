@@ -60,6 +60,7 @@
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">riferimenti stampe</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-05-22" who="#DLCL_CF_PS001">correzioni</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://classense.unibo.it/iiif/20640/manifest">
@@ -144,11 +145,11 @@
                Vi aggiunga la <bibl type="print" source="#DLCL_CF_BS0013">Biblioteca Mariana</bibl>, quando non l’abbia posta in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>. 
                Se il <bibl type="print">Tomai</bibl> mandatomi è migliore dell’altro donato dal <persName ref="#DLCL_CF_PC0046">Signor Co. Ippolito</persName>, 
                ch’era macchiato, lo tenga e faccia legare; e mandi a me l’altro difettoso. 
-               Mandi l’involto a <placeName ref="#DLCL_CF_L0030">Sinigalia</placeName> per mezzo di persona, che vada alla fiera; 
+               Mandi l’involto a <placeName ref="#DLCL_CF_L0030">Sinigaglia</placeName> per mezzo di persona, che vada alla fiera; 
                e lo raccomandi al <rs type="person">padre Camerlingo</rs>, il quale in ogni caso di non esser’a tempo, potrà inviarlo a <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>, 
                di dove si trova occasione per <placeName ref="#DLCL_CF_L0028">Perugia</placeName>. 
                Gli altri libri di <placeName ref="#DLCL_CF_L0023">Foligno</placeName> venuti da <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> furon colà da me osservati; 
-               ma nova avvertii che ve ne fossero degli imperfetti; trattone il <bibl type="print" source="#DLCL_CF_BS0014 #DLCL_CF_BS0015">Sansovino della Casa Orsina</bibl>, dal quale, 
+               ma non avvertij che ve ne fossero degl'imperfetti; trattone il <bibl type="print" source="#DLCL_CF_BS0014 #DLCL_CF_BS0015">Sansovino della Casa Orsina</bibl>, dal quale, 
                e dall’altro potrà farne comporre uno Tomo intiero. 
                L’altro <bibl type="print" xml:id="DLCL_CF_E10008_N001">esemplare del Boezio</bibl> del <persName ref="#DLCL_CF_PC0047">Tanzo</persName> 
                (benché cosa di niun pregio) mi pare lo mettessi tra nostri. 
