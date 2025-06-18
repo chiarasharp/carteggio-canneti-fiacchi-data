@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11008">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">8</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Signore Osservandissimo</p>
+        <p>Sull’idea delle notizie de’ libri compresi nel Catalogo di Monsignor Fontanini a lei partecipato con l’ordinario scorso, che io desidero, ora porto a VPMR la nota di que’ pochissimi, i quali ho acquistati, dopo ritornato a me il Catalogo medesimo. E son questi</p>
+        <p>pag. 43. Annotazioni sopra la Gerusalemme Liberata del Martinelli. Il Goffredo col commento di Paolo Beni.</p>
+        <p>Pag. 110. Nel fine del § III aggiunto colla penna. Cronica di Giovanni Casione tradotta per Piero Lauro. Venezia per Michele Tramezino 1548 in 8vo e nell’Indice a Lauro Piero si aggiunge 110.</p>
+        <p>Pag. 127. nel fine, a penna. La Morale Filosofia brevemente descritta per due Filosofi Epitteto, e Aristotile; e il trattato di Plutarco dell’amor de’ Genitori verso i Figliuoli Opere ridotte in volgare da Giulio Ballino in Venezia per Gio.Andrea Valvassori 1565 in 8vo e nell’Indice, a Ballino Giulio, si aggiunge 127.</p>
+        <p>Pag. 141 I tredici libri della Preparazione Evangelica.</p>
+        <p>Pag. 144 Opere Spirituali di Tommaso Malleolo da Chempis, in fine a penna e prima l’anno 1568 appresso Gasparo, e Domenico della Speranza.</p>
+        <p>Se altro di tempo in tempo si accrescerà, io non tralascio di prontamente darne avviso, quando con egual corrispondenza venga notificato a me ciò, che costì si accresce. La qual vicendevole notizia è necessaria per non moltiplicare il superfluo, ove manca il necessario.</p>
+        <pb n="1v"/>
+        <p>Presi anco ultimamente le Rime di Ascanio Pignattello, le quali non so se costì siano in Libreria, oltre al Quadriregio della prima edizione di Perugia per Maestro Stefano Arns Alemano 1481 fol. Sopra tutti è raro l’acquisto di Andreę Baccij Historia Vinorum fogl., che và nella serie della Storia Naturale. Ed è pregiabile l’altra delle Opere di Sinesio Gr. Lat. della versione del Petavio, con le note del medesimo, che vanno fra Santi Padri in fol.</p>
+        <p>Con l’ordinario ultimo mi è giunto sotto una sola sopracoperta il Catalogo stampato de’ libri dell’Argelati, che non so se tuttavia si trattenga in Modena, o ritornato sia a Bologna. A nulla ciò serve, che a darmi la spesa di quattro baiocchi. I libri son tutti quasi nuovi, ch’è quanto dire da facilmente trovarsi da ognuno che abbia pronto il danaro, il quale io non ho. Vi sono segnati alcuni pochi libri di stampe antichissime, e buone, con l’aggiunta Editio nitidissima prestantissima e che sò io, indizio di alta stima e di gran pretenzione. Può ancor’essere che tutti quei pochi non gli abbia, e gli abbia aggiunti per vanità, essendo egli uomo pien di bugie e capace di simili ostentazioni, e imposture. Con che abbracciandola senza perder di vista anco il Carissimo Padre Bibliotecario degno di tutti gli amplessi, resto. Fabriano 23 Maggio 1721</p>
+        <p>DVPMR | Suo Pa. Cordialissimo Servitore</p>
+        <p>D. Pietro Canneti</p>
+        <pb n="2r"/>
+        <p>fine di Ascanio Pignatello […] Stigliola in 4. – e. accresciuta di alcuni pochi componimenti licenza per Giorgio Greco 1608 in 12.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11030">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">30</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Padre D. Michelangelo Carissimo</p>
+        <p>Con l’occasione della venuta di Frate Giovanni Battista in coteste parti, mando a VP. La dozina de’ Cingoli ordinata. Ho per essi pagato scudo uno bai:44 i quali potrà Ella contare, a defalco di mio debito, a cotesto Libraio Brocchi. Non mi si offeriscono occasioni per le Cartepecore, se non fino a Sinigaglia. Io colà le spedirò ogni volta che VP mi avvisi a chi debbo indirizzarle per ricapito. Trasmetto altresì i due Tometti del Gelli, co’ i quali, e con l’acquisto di certi altri accennatissimi, goderò sommamente si possa compire l’intiero corpo delle Lezioni, e delle Letture di costui. Per la posta farò sopraggiungere la nota intiera delle sue Opere, per maggiore lume di VP.</p>
+        <p>Tenga conto di alcune poche carte mal conservate, che vi stanno appresso. Le confronti con quel Ms. da me costì lasciato, scritto con certa tinta lucida, che a buon lume pare poco meno che di argento, e ornato di miniature di rozza geografia. Troverà ch’è la stessa Opera nella stampa, e a penna; se non che la stampa ci dà il nome dell’Autore, e l’aggiunta fatta un altro. Quantunque siano mal conci i pochi fogli, meritano</p>
+        <pb n="1v"/>
+        <p>esser conservati. Non tralasci di farsi prontamente rilegare il Ms e con diligenza, per ovviare al pericolo che tante carte staccate non vadano a male. Potrà Ella confrontarlo con la stampa per vedere se sia intiero, e se stiano a lor luogo le carte.</p>
+        <p>Ho finita ieri la nota de’ libri antichi, i quali stanno appresso di me. Le mando questa prima, e unica copia, che desidero mi sia rimandata, insieme colla nota degli altri di nostro uso, e che sono in Libreria. Mi sono steso fino al 1500 col metodo del Maittaire, facendo anco riflessione che molti libri riguardevoli sono stati la prima volta stampati dopo il 1480 o dopo quel torno, e avanti; né in quel torno medesimo era cominciata la stampa del Greco. Resto abbracciandola caramente.</p>
+        <p>Fabriano 11 maggio 1722</p>
+        <p>DVPMR</p>
+        <p>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

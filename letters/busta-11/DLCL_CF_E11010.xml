@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11010">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">10</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Io sono un creditore galantuomo, che non mi prendo picca di esigere tutta intiera la somma del debito, e mi contento anzi di riceverla a poco a poco spicciolata. Per l’opposta VP., ch’è l’idea della puntualità, appunto per volere pagar intieramente, fa stridere chi aspetta. Sia detto ciò, non per rimprovero ma per dichiarazione del piede, su cui dovrà in avvenire camminar il nostro commercio. Per altro mi creda che dopo tre mesi, e due giorni di desiderio, molto mi han consolato i caratteri del mio Amatissimo Padre D. Mariangelo. Or via non lasci di scrivere, se non può scrivere appieno. La scusa non l’ammetto; quando anzi considero che la scusa stessa dà maggiore, e distinto motivo di scrivere, accendendo la curiosità di chi ama l’antichità di cotesta Basilica, e nudriva un vivissimo desiderio di far quanto cotesto Reverendissimo opera, senza invidia, e con mia inesplicabile consolazione. L’unica pena, che provo, nasce la gelosia della salute di VP. in quell’aria, e in questa stagione. Si abbia cura e non pretenda mettere Santo Apollinare in impegno di conservarla con miracolo. Si abbia cura. A proposito della Basilica di Classe, ha VP. trovato alcun documento, che basti ad assodare l’esistenza del pozzo del sangue de’ Martiri, e il fatto dell’anello calatovi da Giulio Secondo? Confesso che io ne dubito di maniera che forse non vi credo punto. L’Acquedotti sì minuto non ne parla; e viveva a quella stagione.</p>
+        <pb n="1v"/>
+        <p>La lapida di S. Damiano a me deve il suo essere, il suo sito, il suo onore. Istromento è stato il Padre Giorgini Priore, anco quanto alla spesa. Si è fatto comparir promotore il Reverendissimo Grandi, che per altro ne avea grande zelo, perché riuscisse meglio l’opera. Ora VP ha da farsi onore con metter all’onore del mondo i Sassi Ravennati raccolti già, e da lei accresciuti. Animo. Aspetto l’iscrizione mandata al Monastero che mi promette trascrivere. Non sarà a lei difficile cavar di matto al Toschini con un baratto l’altra, che ora mi ha comunicata. Ella è imperfetta e tronca: pur è da farsene conto, per esser una di quelle altrove verissime, che fa menzione della trieri, o triremi. Io la leggo trieri Minerva.</p>
+        <p>Il Corpo del Lirano sarà da me fatto rilegare, per averlo intierissimo, e perfettissimo, e perciò arcirarissimo, aggiungendovi la 3a lettera del Vescovo Aleriense. Sarà nulla di meno, ancorché non intiero, stimabile l’altro proposto al Padre Maestro Greco insieme col Plinio del Jenson. Ogni tomo separato è una gioia rara. Noi avremo la versione di un’Opera di Santo Atanasio fatta da Cristoforo Persona, di cui a lungo i Giornalisti. è pregio di questo libro che i medesimi affermino non avere mai veduta questa versione.</p>
+        <p>Al Padre Lettore Collina do parte di alcuni pochi libri da me acquistati, e da aggiungersi all’Indice Fontaniniano, non meno che di un Ms. in pergamena di Stazio, assai bello. Ho anco trovato un Opuscolo a penna Geometrico di Don Jacopo Torricelli da Faenza nostro Monaco Zio, ed educatore del famosissimo Matematico Evangelista Torricelli, che illustrò il secolo passato. Di questo Don Jacopo, e di un’altra opera di esso a penna, si parla nella Vita di Evangelista stampata in fronte alle Lezioni</p>
+        <pb n="2r"/>
+        <p>di questo date non ha molto in luce. Avrò a caso intendere di qual’anno sia la stampa del S. Bernardo, che abbiamo in Libreria attenderò il Vossio per altra occasione, che quella della fiera di Sinigaglia, poiché quest’anno non si è per fare. Ha ragione di rampognarmi per non aver mandati i prezzi de libri da esitare. Qualche cosa scriverò quanto prima, e il resto rimetterò a chi maneggierà la vendita. Per opportuna occasione riceverò la Historia di S. Maria in Cosmodin con le Opere di Galeotto Marzio. A Venezia ho ordinate le Opere ultime del Marchese Maffei, e nominatamente l’Operetta de Traduttori del Giornale de’ Letterati non posso dar nuova alcuna. Lo suppongo se non morto, almeno in agonia.</p>
+        <p>^ Ho un Messale monastico della Congregazione di Santa Giustina in fol. 1526. Ne abbiamo altra copia in Libreria. Uno ne ho Romano 1491.</p>
+        <p>Godo siano stati riconosciuti per diversi i due Tomi del Mantovano, e tra loro distinti: perché, se non erro, in una nota VP avea notato il piccolo per duplicato. Sarà bene notar ciò nel Catalogo.</p>
+        <p>Al Padre Lettore Guiccioli i miei cordialissimi rispetti. Questa mattina è da me partito il Padre Ferranti, che la riverisce caramente. Sono stato seco undici giorni al Massaccio, ove ho vedute le feste per la creazione di Nostro Signore. Esso è stato parecchi giorni meco qui. Aspetta lettere da lei, e non se ne scorda anco tra le allegrezze concepite per Monsignor Elemosiniere di lui Fratello. Con lei mi rallegro della professione di D. Carlo suo Germano. L’abbraccio caramente</p>
+        <p>DVPMR. | Valdicastro 2 luglio 1721. | Suo Cordialissimo Servitore Affettuosissimo Padre nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

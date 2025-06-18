@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">28</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>A caso mi è venuto alle mani il tomo secondo delle Storie Camaldolesi, il quale io credeva rimasto costì. Non so se lo stesso sbaglio siasi da me preso intorno al Manoscritto delle Costituzioni Camaldolesi. Attendo che VP. mi sciolga il nodo. In questo mentre la prego trascrivermi quanto di Cesena, e de’ Cesenati scrivono Sidonio Apollinare, e il di lui Commentatore Sirmondo, valendosi del doppio indice dell’uno, e dell’altro.</p>
+        <p>Gli Annali Tipografici si stendono dal principio dall’Arte trovata fino a tutto l’Anno 1500. Per farvi un’aggiunta, converrebbe abbracciar tutto quel tempo. In questo mentre riceverò quella nota, ch’era vicina al fine sul mio partire, come mi disse il carissimo Padre Calogerà che di cuore saluto.</p>
+        <p>Una volta ebbi di costà le Canzonette sopra la Passione del Signore date fuori (se non erro) dal Brunori. Suppongo siano in Libreria: nel qual caso penso donar questa copia a Monsignor Ercolani qui Governatore, bravo Poeta, con cui vado stringendo amicizia. Ho sotto gli occhi un’Opera di esso composta di Sonetti, e Canzoni in lode della Madre Santissima. Alcune di queste composizioni stanno tra le Rime degli Arcadi. Dica al Padre Lettore Collina che le legga attentamente, e me ne scriva il suo candido sentimento. Lo riverisco ben caramente. Nel Teologico ho incontrato de’ sentimenti duri, e arditi.</p>
+        <pb n="1v"/>
+        <p>Si ricordi che ha Libri Antichi duplicati euvi il Quaresimale di Roberto da Lecce. Se cotesti Padri dal Corno volessero il Plinio il Quintiliano per li dieci scudi già pattuiti col Greco, glieli […] e si può far di meno di rivelar la carta mancante non essendovi di ciò obbligo ne’ libri vecchi. Insieme co’ i libri di […]dava, e altri mi mandi anche il nostro Platelia così che mi confermo, abbracciandola toto cordis affectu. Fabriano 27 aprile</p>
+        <p>Affezionatissimo Servitore e Padre nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

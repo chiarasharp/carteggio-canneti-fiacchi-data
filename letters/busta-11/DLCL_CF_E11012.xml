@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">12</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Con sommo godimento ricevo descritti per mano del diligente Sig. Carlo Onestini i caratteri, che stanno sopra la Croce di musaico nella Tribuna della Basilica di Classe veduti da VP; e da lui ben da vicino con gli occhi, toccati con le mani. La vista è stata per l’addietro ingannata dalla lontananza: onde hanno preso sbaglio non meno l’Acquedotti, che Monsignore Ciampini, il quale si lusinga di avern’avuto un fedele disegno del Musaico. Io son di parere, che siccome la lettera di mezzo O senza dubbio è greca così tutte le altre quattro sieno greche, e l’ultima non sia il C. latino ma il Sigma greco, solito esprimersi col nostro C. Leggo adunque così. I. Jisus X Christhos O Teos YC Ischiros, trovandosi anco ne’ moderni scritto Yschiros con l’ipsilon, benche scriversi debba con l’ita. Sicchè in latino suona: Gesus Christij Deus Fortis. La quale interpretazione, se vogliam riferirla all’altra posta sotto alla Croce Salus mundi, viene sostenuta mirabilmente, e illustrata da varj passi della Divina Scrittura; come per cagion di esempio: Deus fortis salutis me.. 2 Reg. 22.4 Dominus Deus tuus in medio tui fortis ipse salvabit. Sophon 3.17; tralasciando altri molti, che si potrebbero addurre. Fu disgrazia di Ciampini ricevere il disegno stranamente alterato. Quindi inciampò in gravissimi errori nella spiegazione delle due Istorie laterali, mal guidato ancora dall’Acquedotti, di cui io gli aveva comunicati certi squarci copiati</p>
+        <pb n="1v"/>
+        <p>originale MS. Se io non avessi scoperto le lettere chi coperte dianzi dalla polvere, stanno sopra il capo delle figure rappresentanti i tre sacrifici, avessimo perseverato nell’errore di chi intendeva tutt’altro in quel Musaico. VP., se ben mi ricordo si trovò presente alla scoperta, che una mattina, si fece operando con tanto gusto il buon F. Bastiano Zabaroni: e v’era eziando il Padre D. Alfonso Ma., in cui godo siasi trasfuso il buon gusto di vendicare l’antichità dimostrato nel liberare dall’obbrobrio il sepolcro dell’Arcivescovo Teodoro. Un favore desidero dal mio carissimo Padre D. Mariangelo, ed è che mi faccia fare un’esatto disegno in carta di tutto il Musaico, con le lettere a suo luogo, di tal grandezza, che comodamente si possa mettere in un ramo intagliato, e stampare in un foglio da inserirsi piegato in un libro. Lo faccia fare al Sig. Onestini, con usargli una propria, non rigorosa, ricognizione, secondo il consiglio del Padre Lettore Guiccioli, da cui levi per mia parte il danaro. Mi pare che un’altra volta io facessi a lei una simile istanza ma poi ce n’eravamo scordati. Ora è tempo di far il disegno con proprietà di buon gusto.</p>
+        <p>Quanto al supplire quel, che manca corroso dalle ingiurie dell’antichità, io sono del parere che vi resti arbitrio di farlo, ove non vi sia punto pericolo di sbaglio come sarebbe a dire nella palma, che suppongo si sarà col pennello supplito dal corno dell’Evangelo, prendendone tutto il disegno dall’altra, ch’è insieme</p>
+        <pb n="2r"/>
+        <p>dal corno dell’epistola. Il S. Matteo assolutamente non lo supplirei, appunto perche, secondo il di lei accorgimento non potiamo sapere se l’altra mano fosse o no scoperta, e se tenesse il libro del suo Evangelio, e se questo fosse un libro ovvero un volume involto. Così pure lascerei stare, qual è, l’altra figura opposta, non mancando modo al Pittore di dar’una tal quale soddisfazione all’occhio del volgo con qualche intonacatura di color dilavato, senza offender lo sguardo erudito, che non ama le arbitrarie rappezzature. Il quadro delli sacrificj nella carta del disegno di Ciampini è intiero: credo pertanto che poco sia offeso, e possa o supplirsi senza temerità, o lasciarsi senza deformità qual si trova. Importa che le lettere esprimenti i nomi delle persone rappresentate in quelle figure appariscano ben chiare, e lucide, per dsingannare chi credeva ivi espressa la concessione de’ privilegi, la quale anzi è rappresentata nel quadro opposto; se crediamo al moderno supplemento, che in certo volume ha i caratteri vil o altri simili rimasti dell’antico privil. Io non ho dubbio che legittimo, e sincero non sia quel supplemento, e però che non debba ora rifarsi. Le figure son tutte di uomini di Chiesa; e tali si conoscono alla tonsura. Direi pertanto che si possa dipingere la testa, che manca, imitandola a similitudine delle altre, e imitar similmente gli abiti, le mani, e i piedi. Ma non così è da arrischiarsi di metter mano nella figura di mezzo diademata. Loderei per ultimo che il Padre Abate facesse fare un quadro, ch’esprimesse co’ i colori il musaico nello stato, in cui al presente si trova.</p>
+        <pb n="2v"/>
+        <p>Se i nostri Antecessori avessero fatta una simile diligenza, ora francamente potressimo supplire quel, che manca.</p>
+        <p>Osservo meglio la lettera di VP. sopra i difetti de’ Musaici: e resto ammirato che le figure degli Arcivescovi abbiano pur qualche poco patito, le quali, se non mi inganno, erano intiere. Una volta Ella mi mandò i nomi di essi. Di grazia me’ li mandi un’altra volta. I tre sacrificj stanno intieramente descritti nel Tomo 2° di Monsignor Ciampini. E’ bene veder quel rame. Il libro sarà in Ravenna presso il Sig. Butrighelli, o altri. Benche non sia fatto diligentissimo può aiutar molto il vederlo. L’altro opposto non era forse tanto rovinato in tempo, che se ne fece il disegno: che però non sarà se non profittevole averlo sotto a gli occhi.</p>
+        <p>Nel tomo 2 di Ciampini sopraccennato alla pag. 6 Tav. 3 sul principio stà il disegno del Sepolcro più bello, figurato, ma non esattamente delineato. Sarebbe bene farlo fare di nuovo, anco della parte dietro, che non sò ora come resti salvata dalle tenebre, a cui era prima condannata. Farò la predica per ricuperar’ a Classe, donde è stato levato, il Sepolcro di Teodoro. Bacchini a riguardo mio non ne fece menzione.</p>
+        <p>Quello exnaufragus non mi quadra; né vale l’esempio di exconsul e nomi di dignitari altre volte ottenute. Mi riverisca di vero cuore il Sancasiani. Lo stuzzichi a trovare anticaglie di prime stampe, o di Ms. I medici, ch’entrano da per tutto, possono far de’ buoni servizi. Ho acquistato adesso un Poema in</p>
+        <pb n="3r"/>
+        <p>ottava Rima intiero ms. in fogl. tratto dall’Eneide, ch’è stimabile, benchè altro non sia che una storpiatura di Virgilio. Scuopro che l’Autore è da Gubbio, fiorì e poetò intorno all’anno 1450 con quel pessimo gusto, che allora correva. Ho ancora trovati le Opere di Francesco Florido Sabino, di Basilea, 1540 intiere. Misi questo libro in fol. piccolo nella Libreria, ma era imperfetto, e non conteneva il Volume tutto ciò, che promette nel frontispizio. Lo veda, e osservi bene. La prima Opera è contra […]uti et linguę latine, Calumniatores. Credo manchino costì […] subsecive, ch’è il meglio.</p>
+        <p>Con dolore grandissimo ho inteso il danno delle passate piogge recato alla Ragazina. Nel tempo stesso venuto da me il Padre Guardiano de’ Cappuccini mi avea detto per relazione di un passeggero che l’acqua avea portato via il ponte Savio. Anco in queste parti le piogge di que’ giorni medesimi han fatto delle rovine. Il Martedì 8 feci esporre la Reliquia del Padre S. Romualdo con la consueta solennità, e pienissimo concorso. Ebbimo subito la grazia della serenità. Ieri però ripigliò la pioggia, è durata questa notte, e seguita il tempo turbato. Resto di vero cuore confermandomi, e abbracciandola caramente.</p>
+        <p>DVPMR | Fabriano 14 luglio 1721 | Cordialissimo Affezionatissimo Servitore Padre nel Signore</p>
+        <p>[A lato] Mi faccia venir da Faenza 12 copie legate del libro descritto […]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

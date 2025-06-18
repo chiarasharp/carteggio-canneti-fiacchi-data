@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">18</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Ricevei ieri il libro del Grassi con l’involto de’ dodici libretti di Faenza, che sollecitamente dal Massaccio mi ha spedito avanti il di lui arrivo il Cancelliere. Accennandomi esso avere per di lei ordine comprati questi libriccini, farò a lui il rimborso dello speso, per minore incomodo di VP, dalla quale aspetto con impazienza avviso del ricapito degl’involtini consegnati al P.D. Deodato, e della spedizione di uno d’essi a Venezia al Reverendissimo Tassis, Uomo, che essendo di sommissima puntualità, altrettanta ne esigge da chi tratta seco: quantunque egli in ciò costituisca nel genere umano una specie distinta, e unica.</p>
+        <p>Non mi scordo dello studio da farsi sopra il Disegno dell’antico frammento. Preveggo di non poter altro concludere se non che nel risarcirlo, una qualche volta sia stato guastato. Ma se ciò si ammette, qual fede me[...] tutta quanta essa è l’anticaglia? Che è stato di quello Ursus Levita et Abbas? Se è stato scartato, e obbligato a cedere luogo a nuovi pensieri, è gran male. Mi è venuto il Libretto de’ Traduttori del Marchese Scipione Maffei. L’aggiunta intorno alle Iscrizione, ove attentamente si legga, può fare innamorare un cuor di sasso. Ed è possibile che quando anco sia di pietra il cuore, non si accenda allo scritto, al parlare, all’esempio di sì erudito Cavaliere venuto costà per vedere que’ marmi? Resto abbracciandola caramente.</p>
+        <p>DVPME | Fabriano 19 settembre 1721.</p>
+        <p>Affezionatissimo Servitore Cordialissimo Padre nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

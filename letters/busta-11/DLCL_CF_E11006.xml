@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">6</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Ricevo con sommo piacere l’iscrizione di nuovo scoperta, la quale sul principio leggo: ex naufragio. Manca il principio col nome del Marito, che a se, ed alla moglie stabilì in cotesto Porto di Classe la sepoltura, dopo giuntovi dal naufragio. Serve ad illustrare la memoria del Porto medesimo di Ravenna, al quale altresì spettano le altre rare iscrizioni, che lasciai in Classe ove di più Navi intitolate dalle false Deità si fa menzione. Questo epitafio è sparso per l’ignoranza de’ soldati, o dello scarpellino, di più altri errori, oltre alli due da lei notati. Manca in ultimo nella voce Arabice l’A del dittongo. Doverebbe indi appresso leggersi Coniugi Carissimæ. Può essere che il vivi riferiscasi al marito, ed alla moglie: e si trovano appresso i Latini, ancor fuori delle Lapide certi simili passaggi. Per altro, nel pretto rigore gramaticale doverebbe stare vivus pos. Non credo sia facile trovare in alcuno Autore la spiegazione delle ultime lettere abbreviate. Se ne interrogherà Sancassani, farà subito francamente da Edipo al suo solito: non so con qual felicità. Confesso poi giungermi cosa nuova che per la sepoltura di un Arcivescovo siasi impiegata l’urna di un antico Gentile: né mai avrei creduto ciò verisimile. Nelle catacombe è cosa frequente trovare su una lapida stessa, al di fuori la rozza iscrizione posta ad un Cristiano, e dalla parte di dentro un’altra di un’Etnico.</p>
+        <pb n="1v"/>
+        <p>Nasceva di ciò la ragione dalla povertà, e dalla miseria, che accompagnavano i poveri Cristiani nelle persecuzioni, appigliandosi a quelle pietre, che potevano avere, per conservar le memorie de’ nomi de’ Martiri, e de’ Confessori. Ma qual motivo di servirsi di un sasso de’ gentili potevano avere gli Eredi, e il Clero di un de’ maggiori, e più ricchi Prelati della Chiesa di Dio? Questa è una particolarità degnissima di riflessione. Io pertanto non loderei che si segasse dall’arca l’iscrizione. Ma dirà Ella non potersi poi vedere, ne leggere, ogni volta che conservata, ove stà, si rimetta al muro. La difficoltà è grande. Nulla di meno amerei meglio guadagnar sito, e parte allontanar le arche dal muro, e parte scavar il muro stesso, di maniera che dall’una, e dall’altra parte si guadagnasse tanto luogo, che bastasse per appagar l’erudizione di chi volesse vedere i bassi rilievi, e le iscrizioni, che stanno dietro. E’ troppo gran male che si perda, e si asconda la facciata dietro di cotesta bellissima Arca riportata da Monsignor Ciampini. Di grazia me ne faccia fare uno schizzetto. Non posso dire quanto mi consola l’attenzione di cotesto Padre Rmo a riabbellire la Basilica di Classe, e a ristorare l’antichità di cui somma, e inarrivabile è la preziosità. Or che il ferro è caldo, lodo che si rivegga l’arca condannata alla cucina, da cui, quando altro non si potesse fare, tornerebbe conto segare i bassi rilievi, che vi sono, e mettergli fissi nel muro di detta Basilica, donde è probabile fosse levata l’arca intiera, come anco quella ch’è in S. Maria in Orto, e più altre, che certo vi erano.</p>
+        <pb n="2r"/>
+        <p>E’ più indegna la memoria della semplicità d’uno de’ nostri Abati di Bertinoro, il quale dal portico della Chiesa levò il sepolcro di Teodoro Arcivescovo, e lo condannò a conservare l’olio, facendone due vasi, cioè uno del sepolcro, e l’altro del coperchio, ove stà scolpito il nome dell’Arcivescovo rivoltato all’ingiù, e facendo fare di tavole i coperchi all’uno, e all’altro. Il Padre Abate Bacchini, quando preparava l’edizione dell’Agnello, mi chiese notizia di quel sepolcro: io imbrogliai la risposta. Mi vergogno pensando non avere colà messa in esecuzione l’idea di liberare dall’obbrobrio quei sassi. Sarà lodevole impresa ritoccare, ma con giudicio, i musaici. Godo che sia stata collocata in sito opportuno la lapida della Donazione. Nel metterla da principio nel muro io tengo per certo che non sia stata fatta punto di riflessione all’urna del Donatore. Un cancello di ferro starebbe bene al primo ingresso della Chiesa per decoro, e guardia dalle bestie, e per riverenza delle Capelle, che stanno lateralmente tra detto ingresso e la porta maggiore. In quel sito forse capirebbono le nostre lapide, che io raccolsi. Quella dell’Argiride si potrebbe fissare nel muro sopra la porta d’una delle Capelle. Oh quanto maggior conto si farà in avvenire degli eruditi Oltramontani di cotesta Basilica. Il Mabillon ne scrive pochissimo, e male: né alcuno ne ha mostrata la stima, che merita, per non essere tenuti con decoro i maggiori suoi ornamenti. Aspetto le altre risposte. E con vero cuore abbracciandola resto.</p>
+        <p>DVPMR. | Fabriano 17 Marzo 1721 | Affettuosissimo Servitore Cordialissimo</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

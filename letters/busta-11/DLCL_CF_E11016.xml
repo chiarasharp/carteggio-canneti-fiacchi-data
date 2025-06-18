@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11016">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">16</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Mercoledì il Padre D. Deodato Pedroni nel partire di qua per la sua nuova stanza di Bertinoro seco portò due involti diretti a VP., uno con dodici Cingoli l’altro con quattro libri, che alla diligenza di lei raccomando perché con prima occasione siano spediti a Venezia al Reverendissimo Abate D. Giovanni Benedetto Tassis, senza spesa di porto, il quale farà VP pagare a mio conto, facendo fare nel soprascritto Franco di porto. Potrà soddisfare alla erudita curiosità con vedere il Tomo 8 e 9 Della Biblioteca greca di Gio. Alberto Fabricio, e il Tomo primo e 2° dell’Istoria Bibliotecaria di Giovanni Fabricio, ch’è Autor diverso dall’altro Fabricio sopramenzionato. I primi due Tomi li mando perché il Tomo IX si renda più conforme all’ottavo nel cartello, e ambi ritornino col Tomo X già comprato. Parimenti gli altri due ritorneranno col Tomo 3° e 4to, già usciti, e nel cartello migliorati. Ora in Roma non si usano più i cartelli di pelle, ma si tragono i libri con un colore di durata, e vi si fanno in quel sito le lettere d’oro. Posso mostrar qui qualche libro così finito egregiamente da’ famosi Librai Pagliarini Aretini. Sarà opportuna la congiuntura della venuta del Padre Cancelliere qua per mandarmi i dodici libretti di Faenza col libro di S. Maria in Cosmedin. Mille cose avrei da dirle: ma temo che il moltiplicar queste specie in tempo d’altra applicazione, riesca a lei di tedio, non di sollievo. Resto pertanto confermandomi di mio cuore.</p>
+        <p>DVPMR la qual procuri da Bertinoro i due involti | Fabriano 29 agosto 1721.</p>
+        <p>Affettuosissimo Servitore e Padre Cor. nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

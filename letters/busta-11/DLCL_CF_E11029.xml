@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11029">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">29</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Quando VP della felice sua memoria viene assicurata di aver messo nel Bauulo, o nella borsa da viaggio il consaputo manoscritto, io altresì vengo per certo di ritrovarlo un giorno in qualcheduna delle confusioni, ove giacciono i nostri libri, che non han luogo nelle scanzie; siccome alla mano mi venne, come l’avvisai, la seconda parte delle nostre storie. Riceverò il discorso co’i libri di Padova, ma non più il Platelio, essendomi cessato il motivo del desiderio. Impresa degna dell’accortezza del Padre Lettore Collina sarebbe divertire il pensiero della stampa dell’Accademia, perché i componimenti in gran parte non reggeranno alla critica dell’occhio più severa di quella dell’orecchio, e in parte scopriranno più palese la propria debolezza. Mi è stato scritto aver’il Maestro del Seminario fatta un’Orazione sopra Monsignore, in cui esalta la nobiltà della famiglia, e gli uomini illustri da quella usciti con certe annotazioni marginali. VP veda di averne copia, e mandarmela col Discorso, e i libri in una cassettina. In ogni caso mi basterebbe copia di quanto sopra ho accennato. La spesa delle legature Padovane non può negarsi ch’è eccessiva: onde ce ne guarderemo in avvenire.</p>
+        <p>Il conto del Brocchi sta bene, e resta terminato col credito del Libraro, in somma di scudi sette baiocchi 10. Solleciterò la spedizione delle 50 cartapecore grandi; e 25 mezzane, colle quali verranno i Cingoli, e i due Tometti del Gelli. Il Padre Bianconi non partirà che verso il fine di Giugno. Egli si porterà seco le Romane per farne esito in Bologna a quei, che scrivono i Privilegi de’ Dottorati; e ne ricaverà il giusto prezzo, essendo già rase, e pulite per l’uso di scrivere. Che si fa degli Annali del Torelli? Non li lasci scappare.</p>
+        <pb n="1v"/>
+        <p>Ottimamente e con vantaggio è seguito il baratto delle Opere del Camilli, che sono do[…] e di poco pregio nel libro del Governo de’ Principi attribuito comunemente a S.Tommaso d’Acquino ed io ne godo, perché considero questo cambio come un’opportuna congiuntura a’ cambj divisati col Padre Reggente Pugnetti. Nulla pertanto d[…] della perdita delle Api del Rucellai in 8vo, ch’era libro tra nostri raro, perchè intiero, contenendo alcuni versi, che sono stati levati nelle altre edizioni, e in quella son cancellati colla penna, in maniera però che comodamente si leggono. Sia detto ciò per avvertenza, ed erudizione, non per aggiungere scrupoli, nè pusillanimità. VP. Operi con franchezza.</p>
+        <p>Penso che le 300 epistole che si dice siano per aggiungersi alla nuova edizione nostro Delfino fossero portate in Francia dal Mabillon, se è vero che il fu Abate Zanardi a di lui istanza facesse copia di tutte, o d’una parte delle […]te di S. Michele, ove è da sapere, che vi stanno in quella Biblioteca dup[…] per esservisi trasportati anco i volumi Mss del Monastero delle Carceri. Nell’itinerario il suddetto Mabillon porta lo squarcio d’una dell’Epistole stampate, il qual’era stato tralasciato; e scuopre, e riempie la lacuna. Dal qualcaso può apprendersi quanto saviamente discorrano coloro, i quali vorrebbono che si dassero fuori le Lettere di Ambrogio, per non pubblicare alcune cose degne di biasimo; come se non fossero moltiplicati i Mss forse intorno a venti copie, uno de quuali il Pez nel primo Tomo del Tesoro degli Anedoti ci fa sapere trovarsi nella Biblioteca Elettorale di Monaco in Baviera. Se poi veramente si farà o no’ la ristampa accresciuta, lo dirà il tempo. Non mi spiace il pensiero dell’edizione in Francia dell’Epistole Ambrosiane; e vi farò le dovute riflessioni sopra</p>
+        <pb n="2r"/>
+        <p>Considero che i Libri di Padova si potrebbono consegnare al Reverendissimo Magni cortesissimo in favorir tutti, e me distintamente.</p>
+        <p>La risposta sopra la difficoltà di Bertinoro non arriva a tempo. Non v’ha dubbio che i Regolari a far l’officio della Dedicazione della Cattedrale. Per ogni Eremo (se non erro) la nota il Calendario di Monte Corona. O per obbligo, o per consuetudine noi la celebriamo: ciò posto, devesi antiporre, come festa particolare, alle feste universali di rito eguale.</p>
+        <p>Le Monache Cisterciensi di S. Giuliana di Perugia sono soggette al Vescovo: procurerò copia del loro Calendario, al ritorno da Roma del Padre Mastri. I loro Capellani recitano le messe conformi all’officio delle Monache: così fan qui i confessori di quattro Monasteri Benedettini dipendenti dall’Ordinario, ma tutti col Messale Romano, e perciò quasi sempre celebrando la Messa de’ communi. Serva allegramente le Monache di S. Andrea. Ritornato che sia a Roma il Reverendissimo Valmori, manderò la licenza da confermare. Il Padre Grilli è incomodato da mossa di bile con dolori, che l’obbligano al letto, ma senza febbre, ed io sento lo stesso incomodo, ma più mite. Resto confermandomi senza fine. Fabriano primo Maggio 1722.</p>
+        <p>DVPMR</p>
+        <p>Affettuosissimo Servitore e Padre Cordialissimo nel Signore</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

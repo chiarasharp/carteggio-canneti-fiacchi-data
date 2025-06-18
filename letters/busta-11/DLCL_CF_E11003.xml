@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">3</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Con l’ordinaria passata la ragguagliai del grosso diffetto osservato nel Corpo del Lirano. 
+          Ora chiamo il mio P.D. Mariangelo a parte del contento provato al ricever subito nuova che si è trovato quanto manca, essendo per equivoco restato addietro un Tomo creduto superfluo, e duplicato. 
+          Io stimo sia da farsi conto di questo Corpo, non solo per la rara, ed insigne, prima edizione, 
+          ma ancora perché in Libreria, ove stanno due corpi di questo Autore, dubito non vi sia quest’opera, 
+          la quale forma sette Tomi maiuscoli in foglio, e non abbraccia il testo della Bibbia. 
+          Mi figuro che altro siano lepostille brevi, e marginali, altro le diffuse; 
+          le quali servono di un Commento pieno alla Sacra Scrittura. 
+          Dal Cave, che ho presso di me, non posso essere chiarito. 
+          L’intiero lume potrà forse aversi dal Dupin, della cui biblioteca mi</p>
+        <pb n="1v"/>
+        <p>occorre dire essere stata proseguita fino a tempi nostri, fino al Padre Laderchi e non si pensa a compire il corpo; 
+          ne si risolve di perfezionar l’altro de’ Bollandisti. E sopra tutto importa avere il 5° tomo degli Annali del Mabillon. 
+          Una volta si vorrà, e non potrà aversi separato. 
+          Così ora io voleva comprare il 3. e 4.to Tomo della Biblioteca Critica di M. Richard Simon in francese, 
+          che va sotto nome di Sainjoure, ed ho in risposta che mi si da il Corpo intiero di quattro Tometti, 
+          ma non i due separati posteriori. 
+          Ecco ciò, che accade Se pertanto VP. può esitare cotesti tometti p.mo, e 2° a persona, che abbia licenza, fa un gran bene. 
+          A me costano13 paoli sciolti. Se non può cavar il prezzo della legatura, gliela doni.</p>
+        <p>Un bellissimo Ms. in pergamena, oltre più altri ho</p>
+        <pb n="2r"/>
+        <p>acquistato, in cui, senza nome degli Autori stanno i seguenti quattro Opuscoli: Cordiale, de quatuor Novissimis. 
+          Comincia: Memorare novissima tua [&amp;] indi Speculum Monachorum che stimo sia tra le Opere dubie di S. Bernardo. Primo considerare debes: è il principio. Segue: De Imitatione Christi, et contemptu Omnium vanitatum mundi: ed è il primo libro della famosa opera del Gersen. Il 4° è de Disciplina Claustralium distinto in 16 capi. Comincia Apprehendite disciplinam. Il primo, e l’ultimo non so di qual Autore sieno. Il carattere è del secolo XIV; bello in quel genere, e corretto.</p>
+        <p>Torniamo al Lirano. Fra libri acquistati euvi un’antica edizione della Bibbia colle postille di Niccolò di Lira in fogl. reale grande. Venetjis o.p(er)e et sumptibus Octavis Scotti 1489 di carattere semigottico. Mi dica VP. se occorre tenerla a noi e v’è in 4.to senza luogo, né anno, né stampatore di bella stampa antica L’Apocalisse volgare con l esposizione del Lirano. Libro di grande rarità. Veda se ne parla Monsu Simon. Resto abbracciandola caramente Suo Parz. Osservandissimo Servitore DV PMR| Fabriano 24 Gennaio 1721</p>
+        <p>D. Pietro Canneti</p>
+      </div>
+    </body>
+  </text>
+</TEI>

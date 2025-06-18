@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">11</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <repository/>
+            <collection/>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso=""/>
+          <placeName ref="" key=""/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (, )">
+    <body>
+      <div type="transcription">
+        <pb n="1r"/>
+        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <p>Con felice vantaggio tentando di risvegliare un addormentato, ricevo ad un tempo stesso due risposte egualmente care. Di chi già che il buon esempio vicino avrebbe giovato più della mia voce. Mille grazie all’uno, e all’altro. Ho ricevuta adunque la nota de’ libri da segnarsi nel Catalogo Fontaniniano. Sopra di essa mi occorre un dubbio che il Trattato dello Stile del Pallavicino a carta 29 non sia dell’edizione 3za ivi descritta: e che parimenti noi non abbiamo costì l’edizione accresciuta delle Orazioni raccolte dal Sansovino, e notata a carta 34 che però io mi sono ritenuto da segnare l’uno, e l’altro de sopradetti libri. Simil dubbio mi nasce sopra i due Orlandi Innamorati alla pag. 48.</p>
+        <p>Io per lo stesso riguardo non aveva segnato a pag. 83 le Lagrime di S. Pietro del Tansillo, perché a noi mancava l’edizione buona intiera ivi addotta. Ma questa appunto ora mi è venuta alle mani. Che però, senza veruno scrupolo può farsi il segno a quel libro, che sta presso di me poco fa acquistato.</p>
+        <p>Parmi altresì che noi non possiamo segnare a pag. 85 Le Rime, e Prose della Matraini, né a pag. 92. la Fiammetta, e il Filocolo, né a pag. 93 gli Asolani; per non essere tali libri delle buone edizioni dal Fontanini, e da altri molti accreditate.</p>
+        <p>Se io abbia il Commento di Jerocle volgarizzato non me ne ricordo: ciò avviserò al mio ritorno. Delle Opere di Plutarco non mi sovviene avere in Fabriano altrochè gli Opuscoli Morali in due Tomi in 4to che da VP mi furono mandati in cambio di altri libri.</p>
+        <p>Venghiamo ora ad un’altra piccola aggiunta di libri acquistati da me in un breve viaggetto.</p>
+        <pb n="1v"/>
+        <p>Pag. 49 L’Atamante Tragedia degli Accademici Catenati. In Macerata appresso Sebastiano Martellini 1579 in 4to.</p>
+        <p>Pag 50 da aggiungersi con la penna Quintia Tragedia del Cav. Vincenzio Panciatichi. In Fiorenza per Cosimo Giunti 1600 in 8vo.</p>
+        <p>Pag. 65 La Matrigna. Commedia di Giovanfrancesco Loredano il Vecchio. In Venezia alla Libreria via della Speranza 1601. In 8vo.</p>
+        <p>Pag. 68 Difesa del Pastorfido da quanto gli è stato scritto contro dal Summo, e dal Malacreta con una risoluzione de’ dubbi del Beni, per Orlando Pescetti. Verona per Angelo Tamo 1601 in 4to.</p>
+        <p>Pag. 70 in fine delle Poesie Pastorali da aggiungersi colla penna. L’esilio amoroso Favola Boschereccia di Alessandro Calderoni da Faenza. In Ferrara per Vittorio Baldini 1607 in 12.</p>
+        <p>La Pastorella Regia Favola Tragica Pastorale di Giovanmaria Guicciardi da Bagnacavallo. In Ferrara per Vittorio Baldini 1602 in 8.</p>
+        <p>In fine del S-7. L’insidiata Nisa. Favola Pescatoria di GiovanPaolo Pocobelli. In Venezia per Angelo Salvatori 1623 in 12. Molte altre Opere Dramaiche si tralasciano, perché non può capirle il libro. Pag. 83 Lagrime di S. Pietro. In Vinezia appresso Barezzo Barezzi 1606 in 4to.</p>
+        <p>Pag. 116 Sopra l’Impresa degli Accademici Umoristi Discorso di Girolamo Aleandro. Son questi libri, che meco porto a casa, di nuovo acquisto insieme con un Codice di cartapecora ben miniato, in cui stanno i cinque libri delle Selve di Stazio scritte a penna, con infine</p>
+        <pb n="2r"/>
+        <p>aggiuntavi di mano diversa, e di un secolo più giovane un’Elegia a Pio Secondo di Gregorio da Città di Castello, la quale ho però anco stampata dentro il libro rarissimo de’ versi latini dello stesso Autore.</p>
+        <p>Quanto alla ristampa degl’Istorici Greci e Latini tradotti in volgar lingua, io loderei il generoso pensiero, se quelle traduzioni fossero tutte buone. Ma essendo esse, almeno per la maggior parte, io dubito fortemente che non solo inutile, e di poco applauso, e di niuno spaccio sarebbe l’edizione, ma pregiudicherebbe a quella qualunque siasi stima, in essi ora sono con tanto guadagno de librai que’ volgarizzamenti e quelli massimamente, che convergono la Collana ideata dal Porcacchi. Nulladimeno, quando a mente eminentissima paia diversamente, non mi ritiro da darvi mano. E della stampa del Tasso che si fa in Firenze, che si pensa in Bologna? Sommamente loderei che si applicasse a formare il Corpo de’ Critici Italiani, il quale con un giudicioso Indice servirebbe a darci una compita Poetica esattamente disputata. L’abbraccio caramente confermandomi.</p>
+        <p>DVPMR | Valdicastro 2 luglio 1721.</p>
+        <p>In confidenza Il Padre Ferranti anderà per Ottobre a Roma. Rifletto che, se siamo in tempo, potrebbesi avere da Monsignor Elemosiniere qualche liberale aiuto per la sorella del PD.M.A. nostro. | Par. Cordialissimo Servitore Vero</p>
+        <p>D. Pietro Canneti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
