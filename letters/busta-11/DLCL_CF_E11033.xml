@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11026">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11033">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 17 Aprile 1722)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 1 Giugno 1722)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -14,7 +14,7 @@
       <seriesStmt>
         <title type="main">Carteggio Canneti Fiacchi</title>
         <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
-        <biblScope unit="letter">26</biblScope>
+        <biblScope unit="letter">33</biblScope>
       </seriesStmt>
       <sourceDesc>
         <msDesc>
@@ -30,7 +30,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso="1722-04-17"/>
+          <date when-iso="1722-06-01"/>
           <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
@@ -50,34 +50,39 @@
       </particDesc>
     </profileDesc>
     <revisionDesc status="created">
-      <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20919/manifest">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20926/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Aprile 1722)">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 1 Giugno 1722)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11026_C1R_L" n="1 - Recto" facs=""/>
+        
+        <pb n="1r" xml:id="DLCL_CF_E11033_C1R_L" facs=""/>
         
         <opener>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-04-17">17 aprile 1722</date></dateline>
+          <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Mariangelo</persName> Amatissimo</salute>
         </opener>
         
-        <p>I libri della nota trasmessavi stanno nelle mani del P. Don Mariangelo, il quale, pure è attento per l’esito de medesimi. 
-          Occorrendovi trovar occasione approposito, potete intendervi col medesimo, o col P. Priore di S. Damiano, facendo venire quei, che accorrono secondo le congiunture. 
-          Il Kircker Musurgia mi accomoderò di darlo per sei scudi; siccome lascerò qualche paolo nel Vuillis. 
-          Così in altro negozio non si ha da guastare per bagattelle.</p>
-        <p>Le Cartepecore grandi da due libri in foglio scelte si pagano 14 baiocchi. 
-          Vi ringrazio della notizia del soggetto della Satira, di cui goderò aver’il nome preciso dell’Autore. Con che di cuore mi confermo.</p>
-        <p>Ho avuto da Amsterdam gli Annali Tipografici del Maittaire: e intendo si stampi la 2.a parte.</p>
+        <p>
+          Ecco servita VP della licenza de’ libri proibiti confermata. 
+          Al ritorno di Frate Giovanni Batista, se non avrò la di lei persona, spero almeno i suoi caratteri colla risposta a diverse mie lettere, delle quali per la distanza del tempo non mi ricordo il numero. 
+          Dal Reverendissimo Magni ritornato a Pesaro non ho nuova della Cassetta de’ libri di Padova: gli tenga fino al tempo della fiera di Sinigaglia; allora li riceverò. 
+          Ma prima, e quanto prima desidero sentire arrivate le Cartepecore. 
+          Mi avvisi se in Libreria siano le Opere del Martello Bolognese, anco le ultime. Un caro saluto al Padre Calogerà. 
+          Il Canone del Salvioni sta per uscire, se non anche è uscito, del torchio. 
+        </p>
         
         <closer>
-          <salute>Vostro Affezionatissimo e Cordialissimo sempre</salute>
+          <salute>Resto abbracciandola caramente.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-06-01">primo giugno 1722</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Cordialissimo Servitore e Padre Affettuosissimo nel Signore</salute>
           <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
         </closer>
         

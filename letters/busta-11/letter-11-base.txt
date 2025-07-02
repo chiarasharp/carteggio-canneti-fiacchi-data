@@ -22,12 +22,6 @@
                   <country key="IT">Italia</country>
                   <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-                  <repository></repository>
-                  <collection></collection>
-                  <idno></idno>
-                  <altIdentifier>
-                     <idno></idno>
-                  </altIdentifier>
                </msIdentifier>
             </msDesc>
          </sourceDesc>

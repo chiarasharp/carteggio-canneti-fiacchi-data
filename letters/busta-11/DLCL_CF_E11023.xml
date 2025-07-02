@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 27 Marzo 1722)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1722-03-27"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,22 +53,34 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20916/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 27 Marzo 1722)">
     <body>
       <div type="transcription">
-        <p>Fabriano 27 marzo 1722</p>
-        <pb n="1r"/>
+        
+        <pb xml:id="DLCL_CF_E11023_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-03-27">27 marzo 1722</date></dateline>
+        </opener>
+        
         <p>Dal P. Priore di S. Damiano intendo l’esito, che prontamente la vostra industria ha dato a due Tomi delle Opere de’ Pichi; del che vi ringrazio ben vivamente. Il medesimo mi avvisa averne ricevuto per prezzo scudi sette, secondo il concordato. Ancor’io ho avvertito più volte che la cartolazione non cammina nell’unir le Opere del Mirandolano colla Cabala del Reuchino: ma non ho mai saputo indovinar la cagione dello sbaglio. Io mi son’acquietato sulla riflessione che tutto è intiero, e in sostanza nulla vi manca. Se vi dà l’animo di vendere la Musurgia del Kirker per 65 paoli, tutto il di più, che ne potiate ritrarre, sia vostro. Di più ho da esitare = Manfredij Ephemerides 4° vol. 2 cum fig. in rustico paoli 26 = Zahn Oculus artificialis fol. Norimbergę cum figur. In pergam. paoli 40 = Grammatica Hebraica 8. Patavij paoli 4. in pergam. = Farnabij Index Rhetoricus Amstelod 12. pergam. paoli 2 = Vitali Lexicon Mathematicum 4 Romę pergam. paoli 20 = Valla Elegantię 8. Lugduni perg. p. 4 = Uvillis Opera Omnia 4. vol. 2 Genevę figur. p. 30 = Una nota piena si va fruendo di altri molti libri, che son parte qui, parte in Ravenna</p>
-        <pb n="1v"/>
-        <p>– La Musurgia è della buona stampa, cioè di Roma in pergamena usata, ben tenuta. Attenderò altre notizie del Libro Satirico, per averne la chiave, e desidero saper il nome del Sig. Marchese Montalbani Autor del medesimo. Io resto sempre più</p>
-        <p>Vostro e Affezionatissimo di cuore</p>
-        <p>D. Pietro Canneti</p>
+        
+        <pb xml:id="DLCL_CF_E11023_C1V_L" n="1 - Verso" facs=""/>
+        
+        <p>– La Musurgia è della buona stampa, cioè di Roma in pergamena usata, ben tenuta. Attenderò altre notizie del Libro Satirico, per averne la chiave, e desidero saper il nome del Sig. Marchese Montalbani Autor del medesimo.</p>
+        
+        <closer>
+          <salute>Io resto sempre più</salute>
+          <salute>Vostro e Affezionatissimo di cuore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
       </div>
     </body>
   </text>

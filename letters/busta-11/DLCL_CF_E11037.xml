@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11037">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 28 Agosto 1722)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">37</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso="1722-08-28"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20930/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 28 Agosto 1722)">
+    <body>
+      <div type="transcription">
+        <pb n="1r" xml:id="DLCL_CF_E11037_C1R_L" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>I medici consultati sopra il male di VP concludono che poche dramme di docilità, e altrettante di risoluzione sono l’unico specifico per preservarla, e guarirla. Ma se ella non vuol prendere il medicamento, a chi ha da imputarsi il male? So che delle apprensioni fu colpa la ritrosia. Ma quante altre vere, e reali, e fondate, non chimeriche, come le prime sono poi insorte, e insorgono a dar fermento al malore. Ella dirà che col rimprovero aggiungo afflizione all’afflitto. Rispondo che il sollievo, e la sanità sono in mano dell’angustiato, e dell’infermo. Qual tempo più proprio pel viaggio?</p>
+        <p>Sentirò volentieri terminato l’affare di libri per Faenza. Così goderò che si termini colla meditata felicità il contratto del Plinio, e del Quintiliano imperfetto per nove scudi. Del Zahn Oculus avvisai già il prezzo intorno a quaranta paoli. M’intenderò col Padre Prior di S. Damiano. Quando la stessa sia la versione di Luciano, non ostante la diversità delle Annotazioni, io non avrei avuto scrupolo in cambiarlo, salvo se le Annotazioni non fossero copiose. Meglio sarà se resti l’uno, e l’altro; come a lei non mancherà modo, e destrezza di conseguirlo. Se al Marozzi dasse l’animo di esitare i quattro Tomi, che ho del Lirano, io prenderei il Luciano. Delli detti quattro Tomi ne pretendo trenta scudi. Quasi il doppio varrebbono, se fosse intiero il Corpo. Nulladimeno né pur posson dirsi libri spezzati, essendo ogni volume da se, senza ordine di primo, secondo.</p>
+        <pb n="1v" xml:id="DLCL_CF_E11037_C1V_L" facs=""/>
+        <p>Il Padre Bianconi per cagion del Compagno è stato astretto a pentirsi. Riceverò al di lui arrivo i Tometti del Giornale 34. e 35. e manderò al Reverendissimo […]ti le sue copie. Con altra prima occasione mi mandi le note dell’edizione fino al 1504. Ho impegno di comunicarle al Padre Maestro Orlandi, il quale in appendice le aggiungerà ad un libro, che tiene sotto al torchio, ed è ino[…] fino alla lettera N. A me basta ricever le prime copie: e può ancora andarle poco a poco mandando per la posta.</p>
+        <p>Non capisco come il Reverendissimo Ferranti possa bonificarsi con Paolino. Avranno forse conti insieme. I nostri furono saldati. Con l’ultima lettera riverij il Sig. Abate suddetto (ma egli era in letto con un’effimera) per parte di VP. Mi ha fatto intendere che risponderà, subito che sia ben rimesso. Del furto della Cassetta non ho inteso mai nulla.</p>
+        <p>La lunghezza nell’affare di Monte Alboddo ha dato tempo di pentimento al P[…] de’ libri. Passa per colà il Padre Bianconi, e vi arriverà, al conto mio, domani. Gli scrivo tentando se per mezzo della di lui efficacia possa arrivare a carpirne almeno 35. pezzi, di cento dieci in circa, che stanno descritti nella Nota.</p>
+        <p>Replicherò per il Calendario di Perugia. L’Officio de’ Sette Dolori omittitur: né vedo motivo di scrupolirne. Se gli eremiti di Monte Corona non son soliti dire Credo nelle feste di 2.a Classe de’ nostri Santi; e noi siamo soliti. La consuetudine ne scioglie la difficoltà. S. Gio. di Dio è doppio. Il Santo Isidoro nuovamente concesso al</p>
+        <pb n="2r" xml:id="DLCL_CF_E11037_C2R_L" facs=""/>
+        <p>
+          versale dubito che sia l’Agricola, 10 Maggio. S’informi. Il Santo Anselmo Abate di Nonantola, e fondator di esso Monastero, mentr’era dinanzi Duca del Friuli, viene alli 3. Marzo. 
+        </p>
+        
+        <closer>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-08-28">28 agosto 1722</date>.</dateline>
+          <salute>DVPMR</salute>
+        </closer>
+        
+        <postscript>
+          <p>Dica al Padre Leandro che per</p>
+          <p>[...]ia parte i saluti F. Mansueto</p>
+        </postscript>
+        
+        <closer>
+          <salute>Affettuosissimo Servitore e Padre Cordialissimo nel Signore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

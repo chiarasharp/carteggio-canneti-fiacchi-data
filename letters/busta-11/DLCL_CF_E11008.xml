@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 23 Maggio 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-05-23"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,17 +53,21 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20902/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 23 Maggio 1721)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Signore Osservandissimo</p>
+        <pb xml:id="DLCL_CF_E11008_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
         <p>Sull’idea delle notizie de’ libri compresi nel Catalogo di Monsignor Fontanini a lei partecipato con l’ordinario scorso, che io desidero, ora porto a VPMR la nota di que’ pochissimi, i quali ho acquistati, dopo ritornato a me il Catalogo medesimo. E son questi</p>
         <p>pag. 43. Annotazioni sopra la Gerusalemme Liberata del Martinelli. Il Goffredo col commento di Paolo Beni.</p>
         <p>Pag. 110. Nel fine del § III aggiunto colla penna. Cronica di Giovanni Casione tradotta per Piero Lauro. Venezia per Michele Tramezino 1548 in 8vo e nell’Indice a Lauro Piero si aggiunge 110.</p>
@@ -77,13 +75,30 @@
         <p>Pag. 141 I tredici libri della Preparazione Evangelica.</p>
         <p>Pag. 144 Opere Spirituali di Tommaso Malleolo da Chempis, in fine a penna e prima l’anno 1568 appresso Gasparo, e Domenico della Speranza.</p>
         <p>Se altro di tempo in tempo si accrescerà, io non tralascio di prontamente darne avviso, quando con egual corrispondenza venga notificato a me ciò, che costì si accresce. La qual vicendevole notizia è necessaria per non moltiplicare il superfluo, ove manca il necessario.</p>
-        <pb n="1v"/>
+        
+        <pb xml:id="DLCL_CF_E11008_C1V_L" n="1 - Verso" facs=""/>
+        
         <p>Presi anco ultimamente le Rime di Ascanio Pignattello, le quali non so se costì siano in Libreria, oltre al Quadriregio della prima edizione di Perugia per Maestro Stefano Arns Alemano 1481 fol. Sopra tutti è raro l’acquisto di Andreę Baccij Historia Vinorum fogl., che và nella serie della Storia Naturale. Ed è pregiabile l’altra delle Opere di Sinesio Gr. Lat. della versione del Petavio, con le note del medesimo, che vanno fra Santi Padri in fol.</p>
-        <p>Con l’ordinario ultimo mi è giunto sotto una sola sopracoperta il Catalogo stampato de’ libri dell’Argelati, che non so se tuttavia si trattenga in Modena, o ritornato sia a Bologna. A nulla ciò serve, che a darmi la spesa di quattro baiocchi. I libri son tutti quasi nuovi, ch’è quanto dire da facilmente trovarsi da ognuno che abbia pronto il danaro, il quale io non ho. Vi sono segnati alcuni pochi libri di stampe antichissime, e buone, con l’aggiunta Editio nitidissima prestantissima e che sò io, indizio di alta stima e di gran pretenzione. Può ancor’essere che tutti quei pochi non gli abbia, e gli abbia aggiunti per vanità, essendo egli uomo pien di bugie e capace di simili ostentazioni, e imposture. Con che abbracciandola senza perder di vista anco il Carissimo Padre Bibliotecario degno di tutti gli amplessi, resto. Fabriano 23 Maggio 1721</p>
-        <p>DVPMR | Suo Pa. Cordialissimo Servitore</p>
-        <p>D. Pietro Canneti</p>
-        <pb n="2r"/>
-        <p>fine di Ascanio Pignatello […] Stigliola in 4. – e. accresciuta di alcuni pochi componimenti licenza per Giorgio Greco 1608 in 12.</p>
+        <p>Con l’ordinario ultimo mi è giunto sotto una sola sopracoperta il Catalogo stampato de’ libri dell’Argelati, che non so se tuttavia si trattenga in Modena, o ritornato sia a Bologna. 
+          A nulla ciò serve, che a darmi la spesa di quattro baiocchi. 
+          I libri son tutti quasi nuovi, ch’è quanto dire da facilmente trovarsi da ognuno che abbia pronto il danaro, il quale io non ho. Vi sono segnati alcuni pochi libri di stampe antichissime, e buone, con l’aggiunta Editio nitidissima prestantissima e che sò io, indizio di alta stima e di gran pretenzione. 
+          Può ancor’essere che tutti quei pochi non gli abbia, e gli abbia aggiunti per vanità, essendo egli uomo pien di bugie e capace di simili ostentazioni, e imposture. 
+          Con che abbracciandola senza perder di vista anco il Carissimo Padre Bibliotecario degno di tutti gli amplessi, resto. 
+        </p>
+        
+        <closer>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-05-23">23 Maggio 1721</date></dateline>
+          <salute>DVPMR</salute>
+          <salute>Suo Pa. Cordialissimo Servitore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+        <pb xml:id="DLCL_CF_E11008_C2R_L" n="2 - Recto" facs=""/>
+        
+        <postscript>
+          <p>fine di Ascanio Pignatello […] Stigliola in 4. – e. accresciuta di alcuni pochi componimenti licenza per Giorgio Greco 1608 in 12.</p>
+        </postscript>
+
       </div>
     </body>
   </text>

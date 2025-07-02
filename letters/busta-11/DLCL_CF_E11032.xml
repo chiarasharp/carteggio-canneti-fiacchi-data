@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11032">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 22 Maggio 1722)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">32</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso="1722-05-22"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20925/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 22 Maggio 1722)">
+    <body>
+      <div type="transcription">
+        <pb n="1r" xml:id="DLCL_CF_E11032_C1R_L" facs=""/>
+        
+        <p>
+          Unitamente con VP, che ne ha l’incomodo, rendo grazie al Padre Amici nostro Compitissimo. per gli avvisi a me partecipati. 
+          È mancato un uomo di gusto singolare nella morte del P. Adami, la quale per altro potiamo pienamente credere che al medesimo abbia recato l’eterno riposo, olt5e al fine della grave indisposizione, in cui era caduto. 
+          Non so figurarmi ch’egli avesse libri degni del nostro desiderio: con tutto ciò ella potrebbe, come da se, prenderne notizia. 
+          Confusamente parmi ch’esso mi mostrasse una volta il Concilio di Trento coll’autentica del sigillo, e sottoscrizione, la qual manca nel nostro, e cotesto in tal caso vendendosi, si potrebbe in quello rinvestire il prezzo. L’opera del Fontanini del Dominio della sede Apostolica sopra Parma, e Piacenza io l’ho donatami dall’Autore, e legata dalli Pagliarini di Roma. 
+          Prenderò l’altra del Nicoli, quando sia a prezzo discreto, rimettendone a VP il giudicio. 
+          Godo che il Padre D. Cerbonio sia Priore dell’eremo di Bologna, e pensi di proseguir la fabbrica di quella Chiesa. 
+          Mi ricordi riverentissimo Servitore al suddetto Padre Amici. 
+          Si potrebbe intendere se i libri del Padre Adami si diano per messe. 
+          Non mi ricordo bene se il Padre Lettore Collina per me abbia tempo fa preso il Bellarmino in Psalmos per 13 paoli, come avevane fatto il patto: 
+          mi pare che dal Padre Lettore Guiccioli gli fu somministrato il danaro. 
+          Se così sta sarà il libro in di lei mano: nel qual caso mi favorisca procurarne l’esito per 13 messe, non avendone io presentemente bisogno. 
+          E della Musurgia
+        </p>
+        
+        <pb n="1v" xml:id="DLCL_CF_E11032_C1V_L" facs=""/>
+        <p>che si è fatto? Se è capitata in mano a Marozzi, converà invigilare e badare che non vengano a sparire i libri, e i danari ad un tempo medesimo. Mi spiace della mala soddisfazione del Signore Volpi per conto del Lessico Platino. Se questo ha patito nel viaggio, a me non tocca il danno, né il pensiero essendo trasferito il dominio nel compratore, seguita che sia la spedizione secondo il di lui ordine. Nulladimento antepongo all’interesse il servizio, e la soddisfazione dell’Amico. VP ritenga il migliore tra nostri libri, e mandi a lui l’altro de nostri due esemplari. Per [...] altro, che ha patito, si faccia mandare il nuovo Petrarca legato, e al S. D. Gaetano per il soprapiù faccia celebrar quelle messe secondo la mia applicazione, che potrà, e stimerà proprio.</p>
+        <p>Or ch’è cessato il Vaiuolo, e ogni malanno, potrebbe VP procurarsi un poco di sollievo, venendo con Frate Giovanni Batista, anco a cavallo. Fino a Pesaro non è gran viaggio. Da Pesaro se n’andrebbe al Massaccio, o al Monte […] e poi qua. Sarebbe qui per la festa del P. S. Romualdo, e subito andereste a Nocera, dove si fa un insignissimo triduo per S. Rinaldo. Alla processione vi averà luogo la Religione nostra, assistendo al Sacro Corpo inco[…] quattro Abati mitrati, e i Monaci in due ali in cocolla con le torce. Vi saranno due Cardinali, Vescovi, Prelati, e mezzo mondo. Io ho assicurata l’abitazione ne’ Filippini, ove vi sarà luogo per tutti i nostri. Le altre case son tutte impegnate</p>
+        <pb n="2r" xml:id="DLCL_CF_E11032_C2R_L" facs=""/>
+        <p>per la foresteria. Il Duca di Modena ha mandata una cedola di 150 scudi per limosina. Vegga il libretto in 8vo della Traslazione di S. Giovanni di Lodi dell’Armanni, e mi trascriva e mandi subito quel, che ivi stà scritto degli Abati, che furono a quella funzione, affinche serva di regola.</p>
+        <p>
+          Il nostro, D. Giovanni è perfettamente guarito, essendosi sgravato dalle materie ed impurità di cotesta aria più grossa. Tutto si rinvigorì e finì di star male al sentir cessare il pericolo di dover partire di qua, ove sta così volentieri, che non può esprimersi la sua soddisfazione. In questo luogo, che pare un angolo del mondo egli ha veduto una copia grande delle antiche edizioni appresso i Domenicani, e tanti bellissimi Manoscritti appresso i Silvestrini, che basterebbono ad accreditare in tal genere qualunque delle Città di Romagna. Gli restano da vedere i libri pare stimabili de’ Minori Osservanti. La Libreria de Domenicani fu fabbricata appunto nel principio della Stampa; ond’ella si figuri com’è provveduta. E qui, essendo fuori di mano, non vi son capitati uccellatori: e in oggi ha ormai ognuno aperti gli occhi. 
+        </p>
+        
+        <closer>
+          <salute>Resto caramente abbracciandola.</salute>
+          <salute>DVPMR</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-05-22">22 maggio 1722</date>.</dateline>
+        </closer>
+        
+        <postscript>
+          <p>Col Padre Lettore Guiccioli m’intenderò</p>
+          <p>a dirittura.</p>
+        </postscript>
+        
+        <closer>
+          <salute>Affettuosissimo Servitore e Carissimo Padre nel Signore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

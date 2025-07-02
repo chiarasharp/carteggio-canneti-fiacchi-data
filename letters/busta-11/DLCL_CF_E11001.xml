@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 17 Gennaio 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-01-17"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,22 +53,75 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20893/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+  </facsimile>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20895/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
-    <body>
-      <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Osservandissimo</p>
-        <p>Per rompere il troppo lungo silenzio, e riaprire il commercio delle lettere, e riprendere il filo dell’Indice de’ nostri libri, ora non altro incomodo reco a VP con questa mia, che la curiosità anzi dilettevole di leggere nell’annessa copia la lettera del famoso Vescovo di Aleria Custode della Pontificia Biblioteca, in cui scorgerà i libri dal principio della stampa fino alla primavera dell’anno 1472 impressi in Roma dalli due tedeschi introduttori della nuova arte in casa Massimi. Stà questa lettera in fronte all’ultimo volume delle Postille del Lirano, che contiene l’epistole di S.Paolo, e le altre Canoniche con l’Apocalisse. Un’altra lettera niente meno curiosa del medesimo Vescovo è in fronte a tutta l’Opera, avanti alle Postille sopra la Genesi: ma questa io stimo infinitamente per la notizia dell’edizioni infino a quell’ora seguite, e col distinto numero delle copie. Li mille e cento volumi del Lirano, se io non mi appongo fanno 275. esemplari dell’Opera, la quale parmi riconoscere distinta in quattro grossissimi volumi; benchè per comodo sia stato ripartito in sei il Corpo da me acquistato, ch’è bello, ben conservato, con grande margine, e nobilmente rilegato in certa pelle di capra, che qui si lavora, tinta di colore rosso vivo, non facile a scorticarsi. Sicchè (dirà VP.) noi abbiam fatto acquisto di un / gran corpo di libri rari, e degni della libreria di un Principe. È verissimo. Dunque (ella segue a dire) questa volta non vi son disgrazie. O questo non è vero.</p>
-        <pb n="1v"/>
-        <p>Anzi ve n’è una grandissima. Quantunque io avessi avvertito il Pagliarini che osservasse se era il corpo intiero, ed egli risposto mi avesse che sì, / trovo che vi mancano i libri di Giosuè, de’ Giudici, di Rut, de’ Re, e de’ Paralipomeni. L’inganno credo sia provenuto dall’aver lui letta la serie de’ libri contenuti nel primo Tomo insieme col Pentateuco, dove stanno descritti con questo anco i libri, che mancano, forse dal legatore (come in altri Tomi fece) separati, e legati in distinto volume, overo fin da quel tempo mancati; come assai dubito, perché l’ultima carta del Deuteronomio finisse col supplemento della penna. Sarebbe un gran miracolo, se mai riuscisse trovar ciò, che in questo corpo si desidera. Conviene contentarsi così, perché in verità ogni Tomo ancor separato merita stima; quanto più il corpo tutto benchè mancante di un membro, quando nè pur il ma[n]camento a prima vista si scuopre? Sarebbe stata troppa grassa cuccagna acquistare con permuta di libri di valore di otto doppie in circa, un corpo, che eziandio così imperfetto ne vale ben trenta, e vale quanto si vuol far valere, oltre a venti e più altri pezzi di libri antichi de’ qua[li] scriverò con più agio. Ora intanto mi avvisi Ella la stampa de’ quattro Tomi della Somma di Santo Antonino, se costì è in Libreria, e guardi ogni Tomo distintamente. Altrettanto di bello VP. mi scriva di materie Bibliotecarie, e le farò un’ E viva. Addio. L’abbraccio caramente, e se[…] DVPMR. |Fabriano 17 gennaio 1721 | Cordialissimo servitore e Affezionatissimo Padre nel Signore</p>
-        <p>D. Pietro Canneti</p>
-      </div>
-    </body>
+  <text>
+    <group>
+      <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Gennaio 1721)">
+        <body>
+          <div type="transcription">
+            <pb xml:id="DLCL_CF_E11001_C1R_L" n="1 - Recto" facs=""/>
+            
+            <opener>
+              <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+            </opener>
+            
+            <p>
+              Per rompere il troppo lungo silenzio, e riaprire il commercio delle lettere, 
+              e riprendere il filo dell’Indice de’ nostri libri, ora non altro incomodo reco a VP con questa mia, 
+              che la curiosità anzi dilettevole di leggere nell’annessa copia la lettera del famoso Vescovo di Aleria Custode della Pontificia Biblioteca, 
+              in cui scorgerà i libri dal principio della stampa fino alla primavera dell’anno 1472 impressi in Roma dalli due tedeschi introduttori della nuova arte in casa Massimi. 
+              Stà questa lettera in fronte all’ultimo volume delle Postille del Lirano, che contiene l’epistole di S.Paolo, 
+              e le altre Canoniche con l’Apocalisse. 
+              Un’altra lettera niente meno curiosa del medesimo Vescovo è in fronte a tutta l’Opera, avanti alle Postille sopra la Genesi: 
+              ma questa io stimo infinitamente per la notizia dell’edizioni infino a quell’ora seguite, e col distinto numero delle copie. 
+              Li mille e cento volumi del Lirano, se io non mi appongo fanno 275. esemplari dell’Opera, 
+              la quale parmi riconoscere distinta in quattro grossissimi volumi; 
+              benchè per comodo sia stato ripartito in sei il Corpo da me acquistato, ch’è bello, ben conservato, con grande margine, 
+              e nobilmente rilegato in certa pelle di capra, che qui si lavora, tinta di colore rosso vivo, non facile a scorticarsi. 
+              Sicchè (dirà VP.) noi abbiam fatto acquisto di un / gran corpo di libri rari, e degni della libreria di un Principe. È verissimo. Dunque (ella segue a dire) questa volta non vi son disgrazie. O
+              questo non è vero.
+            </p>
+            
+            <pb xml:id="DLCL_CF_E11001_C1V_L" n="1 - Verso" facs=""/>
+            
+            <p>
+              Anzi ve n’è una grandissima. 
+              Quantunque io avessi avvertito il Pagliarini che osservasse se era il corpo intiero, ed egli risposto mi avesse che sì, / trovo che vi mancano i libri di Giosuè, de’ Giudici, di Rut, de’ Re, e de’ Paralipomeni. 
+              L’inganno credo sia provenuto dall’aver lui letta la serie de’ libri contenuti nel primo Tomo insieme col Pentateuco, dove stanno descritti con questo anco i libri, 
+              che mancano, forse dal legatore (come in altri Tomi fece) separati, e legati in distinto volume, overo fin da quel tempo mancati; come assai dubito, perché l’ultima carta del Deuteronomio finisse col supplemento della penna. 
+              Sarebbe un gran miracolo, se mai riuscisse trovar ciò, che in questo corpo si desidera. Conviene contentarsi così, 
+              perché in verità ogni Tomo ancor separato merita stima; quanto più il corpo tutto benchè mancante di un membro, quando nè pur il ma[n]camento a prima vista si scuopre? 
+              Sarebbe stata troppa grassa cuccagna acquistare con permuta di libri di valore di otto doppie in circa, un corpo, 
+              che eziandio così imperfetto ne vale ben trenta, e vale quanto si vuol far valere, oltre a venti e più altri pezzi di libri antichi de’ qua[li] scriverò con più agio. 
+              Ora intanto mi avvisi Ella la stampa de’ quattro Tomi della Somma di Santo Antonino, se costì è in Libreria, e guardi ogni Tomo distintamente. 
+              Altrettanto di bello VP. mi scriva di materie Bibliotecarie, e le farò un’ E viva. 
+            </p>
+            
+            <closer>
+              <salute>Addio. L’abbraccio caramente, e se[...] DVPMR.</salute> 
+              <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-01-07">7 gennaio 1721</date></dateline>
+              <salute>Cordialissimo servitore e Affezionatissimo Padre nel Signore</salute>
+              <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+            </closer>
+            
+          </div>
+        </body>
+      </text>
+      <text type="attachment" xml:id="DLCL_CF_E11001_A01" n="Canneti a Fiacchi (Fabriano, 17 Gennaio 1721) - Allegato 1">
+        <body>
+          <div type="transcription">
+          </div>
+        </body>
+      </text>
+    </group>
   </text>
+  
 </TEI>

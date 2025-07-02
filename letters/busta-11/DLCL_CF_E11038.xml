@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11038">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 7 Settembre 1722)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">38</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso="1722-09-07"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20931/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 7 Settembre 1722)">
+    <body>
+      <div type="transcription">
+        <pb n="1r" xml:id="DLCL_CF_E11038_C1R_L" facs=""/>
+        
+        <opener>
+          <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Mariangelo</persName> Amatissimo,</salute>
+        </opener>
+        
+        <p>Rispondo a due cordialissime di VP e quanto al successo del Padre Lettore Collina, io lo riguardo come una pittura di due opposte facce, che mi cagiona consolazione insieme, e rammarico, secondo le diverse riflessioni. La provvidenza, che regge tutte le cose, ha disposto, e permesso questa inaspettata novità: a noi giova credere per lo meglio. Così spero, e prego che sia. L’affare di Monte Alboddo non richiedeva prontezza di pecunia, la qual’entrare non doveva in contratto, ma sollecitudine di chi andasse colà a battere il ferro, mentr’era caldo. Il buon Padre Bibliotecario, il quale della colpa vorrebbe farne parte ad altri, tutta la tiri a se, ed alla sua ritrosia. È convenuto rimandare ancora tutti i Manoscritti antichi, de quali un mezzo sacco aveva qua recato il Padre Lettore.</p>
+        <p>Il Rotolo non giunse in tempo a Bologna, perché avendo Il Reverendissimo dell’Avellana negata la proroga al suo Padre Casanova, convenne al Padre Bianconi suo compagno di viaggio anticipar la partenza. Ella non lo disfaccia, ma aspetti mandarlo per occasione sicura, e vi aggiunga il mio Discorso, di cui più ella non parla. Quanto alle notizie da comunicarsi al Padre Orlandi, ho mutato parere, dopo che ho inteso non mostrar lui di curarsene, e creder vanamente di aver raccolto quanto può raccogliersi, né essere stata tralasciata alcuna edizione. Non dubito che il libro non sia per riuscir cattivo: ma pure penso che avrà spaccio, e seco porterà utilità, e comodo. VP stia sull’avviso, e spinga il rotolo ben raccomandato fino, a Pesaro, o a Sinigaglia, o a Foligno.</p>
+        
+        <pb n="1v" xml:id="DLCL_CF_E11038_C1V_L" facs=""/>
+        
+        <p>Ora passiamo alle Materie Rituali: VP. mi favorisce destinarmi i suoi favori nelle stampe delle Lezioni in 12. di S. Pier Damiano, e di S. […]mo Abate; e mi accenna essere uscite le seconde lezioni ritoccate del nostro Santo Isidoro, con quelle del 3° Notturno, non pensando però farmele venir alle mani. Mi figuro ch’ella pensi non doversene servire i Monaci, come né pur si servono di quelle di Santo Anselmo Arcivescovo inserite nel Corpo del Breviario Romano non meno che quello del Monastico. Intendo VP riflette che abbracciandosi le nuove e edizoni, converrebbe che noi tralasciassimo l’antifona O Doctor, nell’Officio e il Credo nella Messa prescritti, e conceduti negli Officj antichi, a parte vaganti fuor dell’Ordinario del Tempo.</p>
+        <p>Non è fondata la maraviglia di VP., la qual credeva doversi fare l’officio […] di prima classe di S. Massimiano in cotesta Chiesa, e Monastero di Sant’Andrea che ivi è il corpo del Santo. Una tal’esistenza non porta altro, secondo le rubriche, che il doppio minore col Credo nella Messa. Il Quintanado venas ne’ suoi singolari insegna potersi elevare il rito ad un grado di più, rispetto alla Chiesa, la quale ha il Corpo, o Insigne Reliquia. Secondo tal dottrina spagnuola, in S. Andrea doverebbe farsi rito di doppio maggiore l’officio del Santo, ch’è nella Chiesa di Ravenna doppio minore. Tutto il di più diasi nella consuetudine già introdotta, e da non esaminare non però mai da stendersi, o alzarsi. Coteste medesime Monache sono immediatamente soggette all’Ordinario, e del Corpo della Chiesa Ravenna</p>
+        
+        <p>[[...] pre tassata paoli 18 in un baratto. A lei rimetto l’arbitrio.]</p>
+        
+        <pb n="2r" xml:id="DLCL_CF_E11038_C2R_L" facs=""/>
+        
+        <p>onde sono far tutti gli Officj di essa Chiesa nella maniera, che li fanno i Preti secolari, aggiungendovi tutti anco gli officj dell’Ordine Monastico. Così fanno le Monache Cistercensi di S. Giuliano di Perugia, le quali da qualche tempo in qua hanno ancor lasciato il proprio Breviario, e usano il Romano, con un libro a parte, ove sono stampati gli officj dell’Ordine Cistercense addattati al Rito Romano.</p>
+        <p>Spero che dentro la corrente settimana le Colonnette saranno in mie mani. Intendo che son dodici, di alabastro orientale, ben fatte, sei lunghe quanto porta dal cubito a tutta la mano, e sei minori. Non so se si adatteranno al disegno e all’idea di chi dovrà rifarlo. Non entrando, in opera, non si spediranno.</p>
+        <p>Riceverò volentieri la ristampa della Scanzia XV. E di buon cuore il nostro Signore Sancassani. Iddio volesse che fosse così di buon giudicio, e applicasse ad altro che alli due impegni Cinelliano, e Magatiano.</p>
+        <p>Le ricordo far fare una bella legatura alla Sfera del Dati in versi Ms., e scritta colla lucida vernice. Il Reverendissimo Ferranti è stato agli estremi del suo vivere: si è rimesso in sicuro. Afferma essergli apparsi il Padre S. Romualdo, e S. Filippo Neri, a quali erasi caldissimamente raccomandato.</p>
+        
+        <closer>
+          <salute>Con che di tutto cuore abbracciandola mi confermo.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-07">7 settembre 1722</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Affettuosissimo Servo Cordialissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+        <postscript>
+          <p>[Veda ne’ due Libretti de’ Santi di Pollonia, e di Moravia, se vi è officio o menzione de’ Santi nostri Giusto, e Barnaba. Stimoli il Reverendissimo Amigoni a mandare costà certi libri per me, in particolare le Opere di Bacone da Verulamio. Farò pagar il danaro richiesto.]</p>
+          <p>[Si ricordi che duplicato è costì il Quaresimale del Licio di antica edizione [...]]</p>      
+        </postscript>
+
+      </div>
+    </body>
+  </text>
+</TEI>

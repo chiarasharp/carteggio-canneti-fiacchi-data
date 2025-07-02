@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 21 Febbraio 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-02-21"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,21 +53,70 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20897/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 21 Febbraio 1721)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Osservandissimo</p>
-        <p>Pienamente risponder non posso alle due compitissime di VPMR; perché mi trovo in angustia di tempo. Qualche cosa, che scriverò, servirà per principio di risposta. Mi son chiarito che il Corpo del Lirano acquistato non contiene opera diversa dalle Postille, che nelle susseguenti edizioni accompagnano il Testo della Bibbia solito congiuntamente stamparsi unitamente colle Postille medesime. Il carattere è simile al Santo Agostino de Civitate Dei impresso nella stampa medesima, e il margine è grande, com’ella giudiciosamente si figura. Or che si è trovato il Tomo, che mancava, io era in disposizione di farlo unire al primo tomo, e similmente congiungere due altri Tomi già rilegati, avendo osservato che in essi l’antico Legatore confuse l’ordine de’ Libri Canonici; affinche nulla resti da desiderare in un Corpo cotanto prezioso. Ma ecco scoperto un altro difetto. Nell’accennato 2° Tomo, ch’è giunto nuovamente, mancavano fin da principio due carte, in luogo del quale stà un foglio bianco. Pensai subito mandarlo a Roma, e farlo supplire colla penna; poiche nella Casanatense stà questa edizione, ed un altro Corpo vè n’è venale, mancante della lettera dell’Aleriense, di cui mandai a VP. la copia. Questo venale stà in mano d’un libraio, che ne chiede sessanta scudi (sarebber pochi, se non fosse difettoso) e lo pagò 32. Il Padre Abate Montanari lo volle pagare 25, avanti fosse comprato dal detto libraio. Ma torniamo al nostro. Ora ho scoperto un</p>
-        <pb n="1v"/>
-        <p>altro corpo del Libro mancante d’un Tomo, che avrò con un poco di destrezza, e servirà per compire il nostro. Di quel, che avvanzerà spero cavarne poi il rimborso di tutti, e due i corpi. Vi voglion due buoni mesi di flemma. E spero pure aver altri libri rari. In Roma un zoccolante ha la Bibbia tradotta dal nostro Malermi della prima edizione 1477. Ne ha potuto avere 10 doppie; persiste in non volersene privare. Veda Ella in qual conto si ha da tenere il Leggendario del medesimo, che abbiamo stampato dal Jenson.</p>
-        <p>La Bibbia col Lirano in gottico del 14689, che ho acquistata, sarebbe da farne conto, se ha Libri de’ Re, mancandovi il rimanente del Vecchio Testamento, non facesse salto al Testamento nuovo. Può servire per copiarne le figure lasciate in bianco nel Corpo della prima edizione. Il volgarizzamento delle Postille del Lirano sopra l’Apocalisse, che ho preso di antichissima, e bella edizione, poco varia da cotesto del Gilberto, del 1520; cioè stampato più di quarant’anni dapoi. Io penso che difficilmente possa con sicurezza dirsi la stessa traduzione, ancora confrontando l’uno, e l’altro, perché era cosa facile che gli stampatori, o i correttori a cappriccio in quella stagione del barbaro volgare alterassero qualche cosa, dovendo per altro stare attaccati al testo latino di Niccolò di Lira. E per ora basta. Mi dica dov’è stampata L’Opera di Traduttori del Marchese Maffei, quanto costa. Aggiunga se nulla dall’Abate da Giudice Casinense Siciliano si è avuto in compenso del Fortunio. Consideri bene se i due volumi in foglio e in 8.vo di Batista Mantovano sian veramente duplicati. Io penso che no. E resto tutto suo. Fabriano 21 Febbraio 1721.</p>
+        <pb xml:id="DLCL_CF_E11004_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          Pienamente risponder non posso alle due compitissime di VPMR; perché mi trovo in angustia di tempo. 
+          Qualche cosa, che scriverò, servirà per principio di risposta. 
+          Mi son chiarito che il Corpo del Lirano acquistato non contiene opera diversa dalle Postille, 
+          che nelle susseguenti edizioni accompagnano il Testo della Bibbia solito congiuntamente stamparsi unitamente colle Postille medesime. 
+          Il carattere è simile al Santo Agostino de Civitate Dei impresso nella stampa medesima, e il margine è grande, com’ella giudiciosamente si figura. 
+          Or che si è trovato il Tomo, che mancava, io era in disposizione di farlo unire al primo tomo, 
+          e similmente congiungere due altri Tomi già rilegati, avendo osservato che in essi l’antico Legatore confuse l’ordine de’ Libri Canonici; 
+          affinche nulla resti da desiderare in un Corpo cotanto prezioso. Ma ecco scoperto un altro difetto. 
+          Nell’accennato 2° Tomo, ch’è giunto nuovamente, mancavano fin da principio due carte, in luogo del quale stà un foglio bianco. 
+          Pensai subito mandarlo a Roma, e farlo supplire colla penna; poiche nella Casanatense stà questa edizione, 
+          ed un altro Corpo vè n’è venale, mancante della lettera dell’Aleriense, di cui mandai a VP. la copia. 
+          Questo venale stà in mano d’un libraio, che ne chiede sessanta scudi (sarebber pochi, se non fosse difettoso) e lo pagò 32. 
+          Il Padre Abate Montanari lo volle pagare 25, avanti fosse comprato dal detto libraio. 
+          Ma torniamo al nostro. Ora ho scoperto un
+        </p>
+        
+        <pb xml:id="DLCL_CF_E11004_C1V_L" n="1 - Verso" facs=""/>
+        
+        <p>
+          altro corpo del Libro mancante d’un Tomo, che avrò con un poco di destrezza, e servirà per compire il nostro. 
+          Di quel, che avvanzerà spero cavarne poi il rimborso di tutti, e due i corpi. 
+          Vi voglion due buoni mesi di flemma. E spero pure aver altri libri rari. 
+          In Roma un zoccolante ha la Bibbia tradotta dal nostro Malermi della prima edizione 1477. 
+          Ne ha potuto avere 10 doppie; persiste in non volersene privare. 
+          Veda Ella in qual conto si ha da tenere il Leggendario del medesimo, che abbiamo stampato dal Jenson.
+        </p>
+        
+        <p>
+          La Bibbia col Lirano in gottico del 14689, che ho acquistata, sarebbe da farne conto, se ha Libri de’ Re, 
+          mancandovi il rimanente del Vecchio Testamento, non facesse salto al Testamento nuovo. 
+          Può servire per copiarne le figure lasciate in bianco nel Corpo della prima edizione. 
+          Il volgarizzamento delle Postille del Lirano sopra l’Apocalisse, 
+          che ho preso di antichissima, e bella edizione, poco varia da cotesto del Gilberto, del 1520; 
+          cioè stampato più di quarant’anni dapoi. 
+          Io penso che difficilmente possa con sicurezza dirsi la stessa traduzione, ancora confrontando l’uno, e l’altro, 
+          perché era cosa facile che gli stampatori, o i correttori a cappriccio in quella stagione del barbaro volgare alterassero qualche cosa, 
+          dovendo per altro stare attaccati al testo latino di Niccolò di Lira. 
+          E per ora basta. Mi dica dov’è stampata L’Opera di Traduttori del Marchese Maffei, quanto costa. 
+          Aggiunga se nulla dall’Abate da Giudice Casinense Siciliano si è avuto in compenso del Fortunio. 
+          Consideri bene se i due volumi in foglio e in 8.vo di Batista Mantovano sian veramente duplicati. 
+          Io penso che no. 
+         </p>
+        
+          <closer>
+            <salute>E resto tutto suo.</salute>
+            <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-02-21">21 Febbraio 1721</date>.</dateline>
+          </closer>
+        
       </div>
     </body>
   </text>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11039">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 14 Settembre 1722)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">39</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso="1722-09-14"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20932/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 14 Settembre 1722)">
+    <body>
+      <div type="transcription">
+        <pb n="1r" xml:id="DLCL_CF_E11039_C1R_L" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>Sto con impazienza aspettando tuttavia le Colonnette, se pure più speditamente non sono state inviate a Sinigaglia. Io le vidi trent’anni fa incirca. Chi le vide nel mese scorso, mi conferma la specie, che ho conservata, della loro nobiltà e bellezza. Ringrazio il padre Don Leandro dell’avviso dell’ordinazione della roba già fatta, e dell’arrivo in breve.</p>
+        <p>Replico oggi a Perugia le premure per quel consaputo Calendario. Quantunque essendosi stabilito l’ordine da tenersi per cotesto di Sant’Andrea, l’altro è superfluo. Benissimo ha VP pensato che in concorrenza di due Officj, dell’Ordine, e della Chiesa Ravennate, il primo si debba preferire, e trasportar l’altro.</p>
+        <p>Ed io con buona pace di Monsignore Gamberucci dico che può farsi nuova Rubrica per l’Officio de’ Sette Dolori, e comandarne la traslazione dopo la Pasqua, in caso che non possa celebrarsi dentro Quaresima: ma non può trasferirsi secondo la Rubrica, che in oggi abbiamo, o sia di precetto, o no.</p>
+        <p>Fuori degli otto Dottori Latini, e Greci, e delli due aggiunti San Tommaso, e San Bonaventura, a nessun’altro la Chiesa aveva determinata l’antif.a O Doctor col Credo. Non avrei mai creduto che ciò si concedesse per S. Isidoro. Appena il Padre Mier Benedettino Spagnuolo, attual Consultore de’ Sacri Riti in Roma potè ottenere che per</p>
+        <pb n="1v" xml:id="DLCL_CF_E11039_C1V_L" facs=""/>
+        <p>S. Anselmo col rito semidoppio si concedesse la Messa, e l’officio ad instar di S. Ilario. Così egli mi raccontò in diebus illis.</p>
+        <p>Del Padre Priore Conti non sento altra nuova, che quella mi dà VP della sua venuta. Riceverò la Scanzia Cinelliana XV. Non si scusi di non aver attitudine a contrattare. È ciò vero, quanto è vero ch’ella, come scusavasi una volta, non ha me[…]ria.</p>
+        <p>La spesa della dozina in questo Monastero di S. Sebastiano è di sedici scudi l’anno: la dote è di 300 scudi. Con altri cento scudi si esce di tutte le altre spese, dell’acconcio, o arredi e delle Sagra. A momenti si aspetta una zittella Nobile da Bergamo, di Casa Soardi, della quale vestij due anni fa la sorella. Il luogo vi sarà per la Figlia del Landi, ogni volta che si determini a venire. L’Abadessa che fu eletta li 29. dello scorso mese, è da Bertinoro.</p>
+        <p>Mi riverisca divotissimamente il Signor Canonico Teologo, e gli dica che rinnoverò le istanze per aver’io la risposta da comunicargli, che non ho mai avuta.</p>
+        <p>Aspetto nuove de’ libri di Faenza, e di Bologna. Ricordi al Reverendissimo Amigoni quei pochi, che furono contrattati. Osservi se il Verulamio è intiero. Si paghino: lo stesso facciano del Libro del Niccoli al</p>
+        <pb n="2r" xml:id="DLCL_CF_E11039_C2R_L" facs=""/>
+        <p>Padre Amici. Parmi che il prezzo sia di undici paoli, e mezzo. Egli lo dirà. Godo che il Luciano abbia occupato il suo quartiere. 
+        </p>
+        
+        <closer>
+          <salute>Con che resto <foreign xml:lang="la">toto cordis affectu</foreign>.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-14">14 settembre 1722</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Parz.mo Cordialissimo Servo Vero</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

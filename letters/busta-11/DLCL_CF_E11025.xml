@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 13 Aprile 1722)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1722-04-13"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,20 +53,26 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20918/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 13 Aprile 1722)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Padre Bibliotecario Amatissimo</p>
+        <pb xml:id="DLCL_CF_E11025_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Bibliotecario Amatissimo</rs></salute>
+        </opener>
+        
         <p>Ricevei ier l’altro le tre cassette da Sinigaglia ben condizionate, dentro le quali non mi pare che altro manchi, se non il mio Discorso. Quando fosse questo andato a male, e passato anzi tra le cose, che non sono state mai, poco, o nulla importerebbe. Io considero un altro pericolo, che mi affligge, ancora perché è possibile. Alla fede di VP, cui troppo facile lo lasciai, tocca liberarmene, con tenerlo lontano da tutti gli occhi, e poi mandarmelo insieme co’ libri di Padova.</p>
         <p>Mi persuado che il Padre Priore di S. Damiano abbia a lei rimesso certo residuo del denaro ritratto dalla vendita delli due Tomi de’ Mirandolani: con esso credo che avrà ella soddisfatto alla spesa delle legature, e del porto degli accennati libri spediti già dal Sig. Volpi. Per qual soprapiù, che occorra, preghi il Padre Lettore Guiccioli, al quale io venderò prontamente lo sborso. Il Marozzi mi dà speranza di potere per sei scudi esitar i due Tomi della Musurgia, gli replico che approvo il prezzo. Del Uvillis mi vien concordemente asserito essere troppo alto il prezzo di trenta paoli, che dal Casolari fu tassato. Diasi pertanto con quella diminuzione, che all’arbitrio di VP parerà propria, per disfarsene. Così della medesima autorità si vaglia per qualche agevolezza nel Lessico del Vitali, e nell’Efemeridi del Manfredi. Suppongo avere a lei data la nota de’ prezzi, che a me furono prescritti</p>
-        <pb n="1v"/>
+        
+        <pb xml:id="DLCL_CF_E11025_C1V_L" n="1 - Verso" facs=""/>
+        
         <p>Se io avessi avuto presso di me gli Annali Tipografici del Maittaire, avanzi far legare il Lirano, avrei con qualche diversità regolata la divisione de’ Tomi ecco quel, che ne scrive costui alle pagg. 94 e 95.</p>
         <p>Nicol de’ Lyra in Bibl. per Cnr Svveynh. et Arn. Pann., fol. Roma, 1472.</p>
         <p>Hic liber distinguitur quique voluminibus.</p>
@@ -82,15 +82,32 @@
         <p>4) Quattor Evangelia</p>
         <p>5) Act. Epistol. et Apocalyps. cum  prefat. Jo. Andr. Ad Xyst. IIII et in fine Aspicis illustres &amp;  in domo Petri de Maximis MCCCCLXXII.X.III. Mart.</p>
         <p>Benchè l’intenzione di chi stampò pare sia stata di far soliti quattro volumi, posciachè i quattro Evangeli non hanno infine la nota del tempo, del luogo, e della stampa, come gli altri. Lo che se è vero, può condonarsi anco al legatore l’abritrio di separare ed accrescere un altro Tomo. Anco nel corpo, che tengo qui imperfetto, il Salterio, forse per qualche maggior comodo, è separato da ogni altro volume.</p>
-        <pb n="2r"/>
+        
+        <pb xml:id="DLCL_CF_E11025_C2R_L" n="2 - Recto" facs=""/>
+        
         <p>Si va disponendo l’acquisto de tre Codici in pergamena Mss. Missale Cisterciensium, Missale Silvestrinorum, et Breviarium Monasticum.</p>
-        <p>Ho pagato per le cartapecore n° 25, ch’ebbe Paolino, sc. due bai. 50. Ora mi avvisi VP quante ne vuol delle grandi da due libri in foglio. Penso poterle aver già fatte, o le farò far subito. Ma ho bisogno di un servizio da lui. Si erano fatti venire da Roma 39 cartepecore per farne il libro degli Inni, che sarà un famoso lavoro del Padre Bianconi. Ma chi ne aveva l’incombenza, benchè supposto persona pratica, capace, e dalla professione ha mandata roba che non serve all’intento, per alcune macchiette. Le cartepecore son per altro belle, e buone, e son riquadrate. L’innocente Paolino si prenderà la penitenza di rimetterle ne’ lavori della sua bottega. Intanto VP mi mandi i conti dandomi, credito, delli 25 paoli per le cartepecore. Se vuol la pelle rossa del caprone, vale qui 35 bai. Son pure da valutare qualche cosa gli avvanzi dell’altre, che possono darsi almeno al Calzolaro; se pur non vogliamo farne impiego per noi. Ma di questa mercanzia non manca dell’altra da mandarne, occorrendo. Dal Sig. Landi sento la nuova del Discorso del Padre Lettore Collina. Ma da quanto è goffo non accennando qual papa Innocenzo fosse il Breviario donato al Papa dal Prevosto di Anagni! Al Padre Lettore medesimo i miei cordialissimi rispetti. Resto con tutto il cuore abbracciandola</p>
-        <p>Cordialissimo Servitore e Padre Affezionatissimo nel Signore</p>
-        <p>D. Pietro Canneti</p>
-        <p>DVPMR | Fabriano 13 aprile 1722.</p>
-        <p>[A lato] Le cartepecore di Roma sono in oltre pulite, raschiate, e bellissime. Nel prezzo vi perderò qualche cosa. Mi mandi la Nota de’ libri antichi nostri e della Libreria, nè tardi. Raccomando alle orazioni di lei e di tutti gli altri […]</p>
-        <pb n="2v"/>
-        <p>Se ella può sollecitamente andar a Cesena, seco portando la nota di tutti cotesti libri nostri, che sono nel Catalogo Fontanini, vada con piena autorità a far contratto col Padre Reggente Pugnetti facendo baratto co’i manoscritti, particolarmente col Virgilio, che dice a lui costare una doppia co’ i libri di antiche edizioni, e con quei del suddetto Catalogo, che noi non abbiamo, tra quali vi son le Prediche del Seripando. A me fece ample offerte. Se ne vaglia. Lo riverisca. infinitamente per mia parte col di lui collega. Operi con la libertà piena. Riverisco il Padre Lettore Collina oh, quanto goderei venisse a dar mano. Nel tempo della Dieta non si suole leggere. Si dice che in Parigi si fa una ristampa delle Lettere del Delfino con un’aggiunta di 300. Io non lo credo. L’Ovidio imperfetto antico, non fa per noi. Aspetto le Rime del Bentivoglio legate. Sono in trattato per l’esito de’ libri del Casolari, con lo sciagurato Marozzi. Occorrendo, se l’intenda con esso in  modo che non ci buttiamo affatto a pericolo!</p>
+        <p>
+          Ho pagato per le cartapecore n° 25, ch’ebbe Paolino, sc. due bai. 50. Ora mi avvisi VP quante ne vuol delle grandi da due libri in foglio. Penso poterle aver già fatte, o le farò far subito. Ma ho bisogno di un servizio da lui. Si erano fatti venire da Roma 39 cartepecore per farne il libro degli Inni, che sarà un famoso lavoro del Padre Bianconi. Ma chi ne aveva l’incombenza, benchè supposto persona pratica, capace, e dalla professione ha mandata roba che non serve all’intento, per alcune macchiette. Le cartepecore son per altro belle, e buone, e son riquadrate. L’innocente Paolino si prenderà la penitenza di rimetterle ne’ lavori della sua bottega. Intanto VP mi mandi i conti dandomi, credito, delli 25 paoli per le cartepecore. Se vuol la pelle rossa del caprone, vale qui 35 bai. Son pure da valutare qualche cosa gli avvanzi dell’altre, che possono darsi almeno al Calzolaro; se pur non vogliamo farne impiego per noi. Ma di questa mercanzia non manca dell’altra da mandarne, occorrendo. Dal Sig. Landi sento la nuova del Discorso del Padre Lettore Collina. Ma da quanto è goffo non accennando qual papa Innocenzo fosse il Breviario donato al Papa dal Prevosto di Anagni! Al Padre Lettore medesimo i miei cordialissimi rispetti. 
+        </p>
+        
+        <closer>
+          <salute>Resto con tutto il cuore abbracciandola</salute>
+          <salute>Cordialissimo Servitore e Padre Affezionatissimo nel Signore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <salute>DVPMR</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-04-13">13 aprile 1722</date>.</dateline>
+        </closer>
+        
+        <postscript>
+          <p>[Le cartepecore di Roma sono in oltre pulite, raschiate, e bellissime. Nel prezzo vi perderò qualche cosa. Mi mandi la Nota de’ libri antichi nostri e della Libreria, nè tardi. Raccomando alle orazioni di lei e di tutti gli altri [...]]</p>
+        </postscript>
+
+        <pb xml:id="DLCL_CF_E11025_C2V_L" n="2 - Verso" facs=""/>
+        
+        <postscript>
+          <p>Se ella può sollecitamente andar a Cesena, seco portando la nota di tutti cotesti libri nostri, che sono nel Catalogo Fontanini, vada con piena autorità a far contratto col Padre Reggente Pugnetti facendo baratto co’i manoscritti, particolarmente col Virgilio, che dice a lui costare una doppia co’ i libri di antiche edizioni, e con quei del suddetto Catalogo, che noi non abbiamo, tra quali vi son le Prediche del Seripando. A me fece ample offerte. Se ne vaglia. Lo riverisca. infinitamente per mia parte col di lui collega. Operi con la libertà piena. Riverisco il Padre Lettore Collina oh, quanto goderei venisse a dar mano. Nel tempo della Dieta non si suole leggere. Si dice che in Parigi si fa una ristampa delle Lettere del Delfino con un’aggiunta di 300. Io non lo credo. L’Ovidio imperfetto antico, non fa per noi. Aspetto le Rime del Bentivoglio legate. Sono in trattato per l’esito de’ libri del Casolari, con lo sciagurato Marozzi. Occorrendo, se l’intenda con esso in  modo che non ci buttiamo affatto a pericolo!</p>
+        </postscript>
+        
       </div>
     </body>
   </text>

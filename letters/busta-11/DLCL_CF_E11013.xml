@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 1 Agosto 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-08-01"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,31 +53,53 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20906/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 1 Agosto 1721)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <pb xml:id="DLCL_CF_E11013_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
         <p>Benchè moltissime siano le lettere, e alcune importanti, che ricercano da me in quest’ordinario la risposta, comincio dalla carissima di VP con esprimerle il godimento provato per essere stimata plausibile l’interpretazione mia delle lettere greche sovrapposte alla luce del Musaico nostro, corrispondente alli caratteri latini dell’iscrizione situata a piè della stessa Croce. Noi adunque così leggeremo, finchè altri legga meglio di noi, col vantaggio di avere finora corretti gli abbagli dell’Acquedotti, di Ciampini, e di qualunque altro interprete di quelle lettere. Ma il contento mi cresce dalla speranza datami di poter avere l’intero, esatto disegno. Né dubito punto che la premura di VP non possa ottenerlo, e disporre in oltre le cose in maniera che se ne faccia anco per Classe un altro in pittura, co’ suoi colori. Questo vivo desiderio non mi toglie però la gelosia della salute di VP e del Pittore, che può in questi mesi, e nell’autunno correre grave pericolo. Badi a me, che l’anno passato previdi la malattia del nostro D. Leandro. Non differisca più oltre mandarmi i nomi de quattro Arcivescovi, che stanno in faccia alla tribuna tra le finestre. Noi gli scoprimmo quella mattina, quando mi pareva altresì che sopra il capo di Melchisedecco si fosse scoperto il di lui nome. Quando in quel sito non siano dapoi cadute le pietruzze, bisogna dire che non vi si vedendo ora il detto nome, né pur vi si vedesse in quella scoperta,</p>
-        <pb n="1v"/>
+        
+        <pb xml:id="DLCL_CF_E11013_C1V_L" n="1 - Verso" facs=""/>
+        
         <p>e che la memoria mia siasi in ciò confusa. L’Agnello adunque allora osservato fu quel, che mi diede il lume per l’interpretazione la quale tenni, e tengo per sola, e incontrovertibile: massimamente che osservo la tavola, il vaso, e i pani essere nella stessa maniera figurati nel musaico di S. Vitale, ove sta il nome Melchisedec sopra la di Lui figura. Mi sappia anco dire VP se in quel quadro nostro siavi dal lato destro una mano da alto: mi par di sì, onde da principio dubitai fosse quella mano che scrisse sul muro Mene thecel Vi sta nel disegno cattivo di Ciampini.</p>
         <p>Quanto alle pecore, mi è cara la notizia che nell’arco al di fuori se ne veggano sei anco a mano destra, e in tutto siano dodici. Rifletto a l’interpretazione di Ciampini sopra le pecore è fatta al rovescio. Egli riconobbe nelle dodici dentro alla tribuna i dodici Appostoli, e i fedeli nelle altre effigiate nell’arco fuor d’essa tribuna. Ma io più tosto di parere che tra pini le dodici esprimano il gregge de Fedeli di Ravenna rivolto a seguire, ed ascoltare il suo Santo Pastore Apollinare venuto a predicare costì Gesù Cristo manifestato per Messia dall’Eterno Padre, singolarmente nel misterio della Trasfigurazione parte istoricamente, parte simbolicamente rappresentato. Le altre dodici Pecore di sopra, e al di fuori espresse più acconciamente potrebbe dirsi simboli de’ dodici Appostoli, che da Gerusalemme, e Betlemme</p>
-        <pb n="2r"/>
+        
+        <pb xml:id="DLCL_CF_E11013_C2R_L" n="2 - Recto" facs=""/>
+        
         <p>escono ad unirsi a Cristo, di cui rendono testimonianza i quattro Evangeli dimostrati in cotesto musaico coll’immagine notissima de quattro animali di Ezechiello. Nell’altro quadro al corno dell’Evangelio la memoria confusamente mi rappresentava che le figure in parte fossero di Cherici vestiti di cotta lunga talare, e simile a nostri camici: ma se sono di donne diademate, converrà applicare la mente al misterio, che alla fine non può essere altro che la decantata concessione de’ privilegi. Mi pare che una delle figure tenga in mano certo istrumento, ch’è dubbio se sia un turibolo, oppure un vaso di acqua benedetta. Ottimo consiglio è distinguere agli occhi eruditi l’antico sincero dal supplimento conghietturale aggiunto per conservare l’antico stesso, e per appagare la vista del volgo.</p>
         <p>Sento con particolar consolazione adempiti i comuni voti colla restituzione del sepolcro di Teodoro. Gran fato di quel sasso! Alla storia segreta de sepolcri appartiene sapere se nell’ultima mossa sieno stati aperti, e che vi sia stato trovato.</p>
         <p>Aspetto con impazienza la risposta del Padre Maestro Greco, anco per mia regola in una nuova scoperta d’altri libri antichi, delli quali ho la nota in mano, e di altre, che sono in buona speranza: ho bisogno che riscaldi l’attenzione con quell’oro, che mostrava essere pronto.</p>
-        <pb n="2v"/>
+        
+        <pb xml:id="DLCL_CF_E11013_C2V_L" n="2 - Verso" facs=""/>
+        
         <p>Il Florido Sabino da me acquistato e di perfetta conservazione e di marg.. sufficiente, e intierissimo. Torni a vedere se cotesto comprende tutto pienamente quel, che nel titolo promette. Primo ha de Iuris Civilis Interpretabus pagine in tutto 206 poscia con distinta cartolazione de Iul. Cęs. Pr. tantia, et succisivarum lectionum pagine 314. E finalmente senza numeri di pagine un Iuno Greco e latino di Callimaco, con l’Indice diffuso nell’ultimo.</p>
-        <p>Mando in quest’ordinario la fede delle messe al Padre Amici. Raccomando la spedizione del Vossio. Arrivederci, P.D. Mariangelo mio. L’abbraccio caramente.</p>
-        <p>DVPMR | Fabriano primo Agosto 1721.</p>
-        <p>Or. linguę latinę calumniatores pag. 209</p>
-        <p>D. Pietro Canneti</p>
+        <p>
+          Mando in quest’ordinario la fede delle messe al Padre Amici. 
+          Raccomando la spedizione del Vossio. 
+        </p>
+        
+        <closer>
+          <salute>Arrivederci, P.D. Mariangelo mio. L’abbraccio caramente.</salute>
+          <salute>DVPMR</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-08-01">primo Agosto 1721</date>.</dateline>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+        <postscript>
+          <p>Or. linguę latinę calumniatores pag. 209</p>
+        </postscript>
+        
       </div>
     </body>
   </text>

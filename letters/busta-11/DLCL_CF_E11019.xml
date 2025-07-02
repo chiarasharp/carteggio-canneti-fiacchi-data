@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 6 Ottobre 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-10-06"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,37 +53,55 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20912/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 6 Ottobre 1721)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <pb xml:id="DLCL_CF_E11019_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
         <p>Come io previdi quasi certo, e indubitato l’incomodo delle febbri, che VP. mi significa aver patito; così probabilmente temo che non sia pienamente uscito nel suo sfogo tutto quel di cattivo, che la continuata applicazione in un’aria pessima ha potuto cagionarle. Si abbia cura in tutto ciò, che abbia attività a fermentare il male concepito. Mi rallegro delle febbri superate e più me ne rallegrerò, se non torneranno. La mutazione dell’aria sarebbe in avvenire a lei proficua: ma dubito non potervi contribuire colla venuta mia in coteste parti, potendo facilmente cambiare il sistema delle cose, che mi pareva fosse per mettermi in necessità di fare un giro. Conserviamo la speranza di rivederci presto, lasciando che la provvidenza disponga quel chè par essere il meglio.</p>
         <p>Caro mi è l’avviso dei due involti a lei recapitati. Il Padre Abate Tassis spasima per la tardanza. I libri che gli spedisco, ritrorneranno accompagnati da altri, e con essi averò l’intiera Biblioteca Critica in quattro Tomi. Delli primi due, ch’erano appresso di me, ne ho fatto esito, ricavandone il costo di tredici paoli e perdendovi la legatura. Un’altra copia se ne trova costì del primo e 2° tomo, de quali sarà bene sbrigarsene, con dargli a persona, la qual ne abbia la licenza. Appresso a Cingoli già arrivati giungeranno le Cinte, che stanno pronte per essere secondo l’ordine di VP consegnate al Padre Lettore Guiccioli. Per gli uni e per le altre servirà intieramente lo sborso degli sc. due bai. 44, o sia di lire 24 e</p>
-        <pb n="1v"/>
+        
+        <pb xml:id="DLCL_CF_E11019_C1V_L" n="1 - Verso" facs=""/>
+        
         <p>sol. 8. La spesa de’ libretti recati dal padre Cancelliere è stata rimborsata qui a lui medesimo.</p>
         <p>Il Padre Amici mi scrive che il Vossio era finito di legare, e che quanto prima mi sarebbe stato inviato. Tempo fa ebbi avviso da Bologna per merito del Padre Lettore Collina intorno al Ms, ch’era stato comprato dai Padri di S. Francesco per la loro Libreria a prezzo più alto di quel che VP mi scrisse. Il concetto che il Padre Lettore stesso mi ha fatto formare di quell’Opera inedita, originale, non può non cagionarmi del rammarico, e dell’invidia. Il Sig. Casolari mi vorrebbe dare tutti in corpo alcuni libri rimasi in mano: donde arguisco ch’è non sia professore di tal mercanzia. Io son lontano da fare il contratto, quantunque la maggior parte sieno in cotesta Libreria, o presso di me. Penso però non vi si trovino l’Efemeridi. del Manfredi. Da lei bramo sopra ciò notizia, com’anco se vi si stiano Vignola Prospettiva col Danti fol. Bologna. Kircker Musurgia fol. Vol. 2 Grammatica Hebraica. Patavij in 8.</p>
         <p>Del Padre Maestro Greco è possibile che sia perita la memoria. Io ho il Plinio del Jenson tanto da lui bramato: e presto avrò la Bibbia del Jenson medesimo, in carta, simile a cotesta, è con una miniaturina sul principio assai buona, benchè non tanto come cotesta. Se egli è vivo, e dell’istesso umore, e pronto a spendere, io lo servirò, purche non sia prevenuto da altri, co’ i quali si tratta in Roma e per il Plinio, e per quattro Tomi del Lirano domo Petri de Maximo.</p>
-        <pb n="2r"/>
+        
+        <pb xml:id="DLCL_CF_E11019_C2R_L" n="2 - Recto" facs=""/>
+        
         <p>Compiango il funesto caso, che nella morte del Sig. Teseo dal Corno levò a Ravenna un buon gentiluomo, un buon sacerdote, non un buon letterato. Sarebbe stato vantaggio della Patria ch’egli fosse stato ignorante affatto, e non tinto sì malamente del diletto dell’Istoria. Qualunque scritto esca di costà non meriterà risposta da Discepoli, e buoni amici del Bacchini.</p>
         <p>Le favole di S. Maria in Campo stanno nella 2° parte pag. 138 e seguenti; e sono cotanto scempiate, che per conoscerle tali bastò la Critica del Fortunio, il quale come un’apocrifa tradizione le riferisce. Ma non sono alla fine di sì bassa lega i motivi del quadro, e dell’iscrizione consaputi. Per il Monacato Camaldolese di Graziano stà il Sabellico; il Tritemio ^ con S. Antonino, e il Panzirolo lo riconoscono monaco di Classe; la Cronologia sua vi si oppone, avendo esso toccato i tempi, ne’ quali furono i Camaldolesi introdotti in Classe. Laonde, se non è certo, almeno è probabile, ch’è sia stato de’ nostri: e non è evidente l’opposto, non togliendosi che in altro tempo sia stato in Bologna, ed anco vi sia morto. La maggior difficoltà è per conto di Gregorio Nono, il quale si fa de’ nostri, non già per la dimora in Camaldoli, e nella cella di quel sacro eremo, ma per essere stato Abate di S. Silvestro del Monte Subasio non lungi da Assisi. Vegga il Iacobilli e il Grandi nostro, il quale fu che mi persuase aggiunger nella pittura a Graziano il Papa Gregorio Nono. La prudenza voleva non esporre alla Critica il pensiero in una tela, la quale del pensiero</p>
-        <pb n="2v"/>
+        
+        <pb xml:id="DLCL_CF_E11019_C2V_L" n="2 - Verso" facs=""/>
+        
         <p>non puo vendere a riguardanti la ragione non trita. Se VP. vorrà imbeversene, troverà da farsi onore, e da mantener la reputazione.</p>
         <p>Ignoto è il Padre di Melchisedecco, ma non quel nome, che io pur mi ricordava di avervi letto, e di aver da que’ caratteri unicamente appreso il misteroivi rappresentato. Ora VP con Sig. Carlo pensi il modo di rendere i caratteri ben visibili, perche non fuggano un’altra volta, e non diano luogo a false interpretazioni. Cavino bene gli avanzi delle lettere poste ai piedi. Sopra il quadro opposto dirò quanto prima il mio parere più distinto, poco avendo potuto nelle scorse settimane applicarmi per un intenso dolor di capo.</p>
         <p>Accennai quell’iscrizione Ursus Letita et Abbas per rilevare ch’essa, ed altre simili antichità meritano esser conservate. Per cagion di esempio quella del Altare di S. Eleucadio ci faceva intendere che quella capella era sotto l’indicazione del medesimo Santo Arcivescovo, non di Santa Felicola, come impropriamente la chiamavano.</p>
         <p>La ringrazio delle lapidi osservate in S. Zaccaria, e comunicatemi con tanta diligenza. Concorro con lei in credere cosa rara la lapide di marmo. Ultimamente mi capitò con altri l’opuscolo del Marchese Maffei, il quale ho letto e riletto, spiacendomi che non si legga da chi potrebbe ritrarne incitamento e profitto. L’espediente avvertirlo del V. operato da lei nelle voci Eu[…] et Martyris. Ritorno all’Ursus, per confessar lo sbaglio, che mi fece credere durata, e passata ai tempi nostri quell’iscrizione, di cui solo abbiamo</p>
-        <pb n="3r"/>
+        
+        <pb xml:id="DLCL_CF_E11019_C3R_L" n="3 - Recto" facs=""/>
         <p>ne’ libri la memoria. Poco, o nulla giova, rinnovarla col pennello, o con l’intaglio di ferro in pietra. Converrebbe imitar il carattere antico, la qual cosa è impossibile, ed aggiungervi il Restio. Importerebbe conservar la memoria dell’Altare di S. Eleucadio, quando gia non sia a quest’ora perita.</p>
-        <p>Non mi ricordo se io le abbia scritto che la famosa Libreria d’Isoldi impinguata molto in Bologna, mentr’era quivi Uditore del Cardinale Grimaldi Legato, è stata ultimamente dal padrone ancor vivente venduta al Papa per undici mila scudi, rimanendone finchè vive custode lo stesso Isoldi. Si contrattava un corpo del Lirano in Domo Petri de Maximo da aggiungervi. Il libraio si contentava di 60 scudi, se glien’esibivano 55. Quello è il corpo più numeroso tra gli antichi. Il Reverendissimo Tassis, ed io siamo richiesti dell’epistole del Delfino con l’offerta di 50 scudi. Io mi son fissato sulli centocinquant. Finisco abbracciandola caramente.</p>
-        <p>DVPMR | Fabriano 6 ottobre 1721.</p>
-        <p>Cordialissimo Servitore e Padre nel Signore Affettuosissimo</p>
-        <p>D. Pietro Canneti</p>
+        <p>Non mi ricordo se io le abbia scritto che la famosa Libreria d’Isoldi impinguata molto in Bologna, mentr’era quivi Uditore del Cardinale Grimaldi Legato, è stata ultimamente dal padrone ancor vivente venduta al Papa per undici mila scudi, rimanendone finchè vive custode lo stesso Isoldi. Si contrattava un corpo del Lirano in Domo Petri de Maximo da aggiungervi. Il libraio si contentava di 60 scudi, se glien’esibivano 55. Quello è il corpo più numeroso tra gli antichi. Il Reverendissimo Tassis, ed io siamo richiesti dell’epistole del Delfino con l’offerta di 50 scudi. Io mi son fissato sulli centocinquant. 
+        </p>
+        
+        <closer>
+          <salute>Finisco abbracciandola caramente.</salute>
+          <salute>DVPMR</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-10-06">6 ottobre 1721</date>.</dateline>
+          <salute>Cordialissimo Servitore e Padre nel Signore Affettuosissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
       </div>
     </body>
   </text>

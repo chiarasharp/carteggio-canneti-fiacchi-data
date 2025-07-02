@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 13 Ottobre 1721)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -22,12 +22,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -36,8 +30,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1721-10-13"/>
+          <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -59,27 +53,39 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="">
+  <facsimile sameAs="https://classense.unibo.it/iiif/20913/manifest">
     <graphic n="1r" url=""/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 13 Ottobre 1721)">
     <body>
       <div type="transcription">
-        <pb n="1r"/>
-        <p>Molto Reverendo Padre mio Osservandissimo</p>
+        <pb xml:id="DLCL_CF_E11020_C1R_L" n="1 - Recto" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
         <p>Mi scordai nell’ultima mia soggiungere il gradimento e la stima, con cui ho ricevuto i favori del Sig. Dottor Sancassani1 mio pregiatissimo Prone, non meno che la memoria di me suo buon Amico, e antico servitore. Prego VP. portare al medesimo queste sincerissime mie espressioni, e ringraziarlo in nome mio dell’Opuscoletto Boccacciniano da aggiungersi alla serie delle Vindicie Magatesche, le quali non sono state infruttuose.</p>
         <p>Con tal occasione procuri insinuargli il comune nostro desiderio di accrescere a prezzi agevoli la raccolta de’ libri stampati nell’infanzia dell’Arte Tipografica.</p>
         <p>Mi comunicò tempo fa VP un’iscrizione, o frammento, in cui era la voce Orrearius scorrettamente intagliata in vece di Horrearius, voce per altro fuor di Ravenna ignota anco nella barbara latinità. Or ella la legga nella par. 2 dell’Agnello pag. 49 et 61, com’esprimere un oficio peculiare di cotesta Chiesa, forse, a parer del dottissimo Bacchini per la gran</p>
-        <pb n="1v"/>
-        <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni in Sicilia. Un carissimo saluto al Padre Lettore Collina. Resto abbracciandola caramente.</p>
-        <p>Fabriano 13 ottobre 1721.</p>
-        <p>DVPMR</p>
-        <p>Affettuosissimo Servitore Cordialissimo Padre nel Signore</p>
-        <p>D. Pietro Canneti</p>
-      </div>
+        
+        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs=""/>
+        
+        <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni in Sicilia. 
+          Un carissimo saluto al Padre Lettore Collina. 
+        </p>
+        
+        <closer>
+          <salute>Resto abbracciandola caramente.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-10-13">13 ottobre 1721</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+       </div>
     </body>
   </text>
 </TEI>

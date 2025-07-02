@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11036">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="it">Canneti a Fiacchi (Valdicastro, 23 Luglio 1722)</title>
+        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main">Carteggio Canneti Fiacchi</title>
+        <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
+        <biblScope unit="letter">36</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country key="IT">Italia</country>
+            <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
+            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <date when-iso="1722-07-23"/>
+          <placeName ref="#DLCL_CF_L0004">Valdicastro, Fabriano</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+        </correspAction>
+      </correspDesc>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+      <settingDesc>
+        <xi:include href="../../entities/places.xml"/>
+      </settingDesc>
+      <particDesc>
+        <xi:include href="../../entities/people/cited-people.xml"/>
+        <xi:include href="../../entities/people/staff.xml"/>
+        <xi:include href="../../entities/orgs.xml"/>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc status="created">
+      <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile sameAs="https://classense.unibo.it/iiif/20929/manifest">
+    <graphic n="1r" url=""/>
+    <graphic n="1v" url=""/>
+    <graphic n="2r" url=""/>
+    <graphic n="2v" url=""/>
+  </facsimile>
+  <text type="letter" n="Canneti a Fiacchi (Valdicastro, 23 Luglio 1722)">
+    <body>
+      <div type="transcription">
+        
+        <pb n="1r" xml:id="DLCL_CF_E11036_C1R_L" facs=""/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>E egli possibile che nella gran turba di pensieri, che la solitudine avrà mossi nella mente di VP non siasi mai fatto vedere il pentimento di non essere venuto in queste parti a soddisfare al desiderio di chi ve l’aspettava, e a godere delle applicazioni più geniali? Non accade ch’ella s’incomodi per rispondermi si, o no. Starò osservando se abbraccia la congiuntura di venirsene al ritorno del Padre Bianconi in compagnia del medesimo. E quando ciò non segua, mi sottoscriverò all’opinione del Padre Tinti, che non sapeva compatir l’ostinazione negli altri, e la detestava al pari dell’eresia. Or via non abbia timore di quel ineguale, e spaventevole guardatura. Intanto mi dia avviso se ha ricevuto il libro, e se per entro vi ha osservata cosa degna di riflessione. Quanto al Padre Lettore Grilli, egli è di sentimento che tutto bene stia a VP in pena di non averlo voluto accompagnare in queste parti: è pronto a far con lei la pace: ma vuol farla non altrove che nella visita della Santa Casa, ove pensa portarsi nel prossimo Autunno. Egli sta qui meco, e col Padre Bruno nella solitudine di Valdicastro, donde ritorneremo dimani a Fabriano, per ripassare poi in breve con una nomerosa comitiva al Massaccio per la festa di S. Lorenzo, che si celebrerà più solennemente del solito coll’esposizione per la prima volta di alcune Reliquie del Santo Levita. Ho colà ne’ giorni addietro intese grandi querele del Reverendissimo Ferranti. Scriva a chi là ama.</p>
+        <pb n="1v" xml:id="DLCL_CF_E11036_C1V_L" facs=""/>
+        <p>Subito che avrà risposte da Padova intorno al Lessico Matematico, me le partecipi e si compiaccia fare il medesimo intorno alla risoluzione del Signore Zanotti di Faenza. Attendo pure avviso della Musurgia e dell’Opera del Zahn, dell’Occhio Artificiale. Se il Padre Reggente Pugnetti và a Fano, non si accosta a me in modo che più comodo riesca il trattar seco; anzi si allontanerà da lei, e da cotesti libri. Ora risolva a pensar modo di seco abboccarsi con sollecitudine.</p>
+        <p>Il mio Padre Camerlengo non è andato alla fiera di Sinigaglia. Lunedì avanti partire dal Muscaccio consegnai un ordine in scritto a persona doveva portarsi colà il giorno appresso perché si facesse consegnare il danaro, e l’involto dal Brocchi, o da chi l’avesse avuto da […]. Ieri poi doveva andarvi il Padre Abate Ferranti, il quale in pass[…] e fermandosi in Monte Alboddo, aveva animo di concludere l’acquisto di tutti quei libri, de’ quali già ho avuto un bel pezzo, in cui siano legati un Giustino, e un Floro. Occorrendo al Brocchi, altre Cartepecore, me ne scriva per tempo anticipatamente. Ho trovato chi da i capretti per quattro bai. Crederei a proporzione poter godere de [van]taggi nelle pelli più più grandi ancora. Non mi ricordo che cosa rimanesse costì delle pelli rosse di capra, che recai meco. Me lo avvisi. Quanto al danaro, non s’intende la prontezza col sommo rigore mandarlo unitamente alla commissione. Il Pomatelli stampatore di Ferrara mi scrive aver finalmente dato fuori il libro del Negri degli Scrittori Fiorentini.</p>
+        <pb n="2r" xml:id="DLCL_CF_E11036_C2R_L" facs=""/>
+        <p>Con quest’ordinario nuovamente scrivo a Perugia perché costà sia per la posta mandato il Calendario del Monastero di S. Giuliana. A noi quest’anno occorre appunto il caso da V.P. accennatomi una volta. Il dì 18 Ottobre cadono S. Luca, e la Dedicazione della Cattedrale di Camerino, l’uno e l’altra feste di rito doppio di 2.a classe. Faremo della 2.a, trasferiremo la prima.</p>
+        
+        <closer>
+          <salute>L’abbraccio caramente, e resto</salute>
+          <salute>DVPMR</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Valdicastro</placeName> <date when-iso="1722-07-23">23 luglio 1722</date></dateline>
+          <salute>Cordialissimo Servitore e Affezionatissimo Padre nel Signore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+        </closer>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
