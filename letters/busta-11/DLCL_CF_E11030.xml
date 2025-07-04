@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11030">
   <teiHeader>
     <fileDesc>
@@ -54,37 +55,34 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20923/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20923/6448.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20923/6449.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 11 Maggio 1722)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11030_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11030_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20923/6448.jpg"/>
         <opener>
           <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Michelangelo</persName> Carissimo</salute>
         </opener>
-        
         <p>Con l’occasione della venuta di Frate Giovanni Battista in coteste parti, mando a VP. La dozina de’ Cingoli ordinata. Ho per essi pagato scudo uno bai:44 i quali potrà Ella contare, a defalco di mio debito, a cotesto Libraio Brocchi. Non mi si offeriscono occasioni per le Cartepecore, se non fino a Sinigaglia. Io colà le spedirò ogni volta che VP mi avvisi a chi debbo indirizzarle per ricapito. Trasmetto altresì i due Tometti del Gelli, co’ i quali, e con l’acquisto di certi altri accennatissimi, goderò sommamente si possa compire l’intiero corpo delle Lezioni, e delle Letture di costui. Per la posta farò sopraggiungere la nota intiera delle sue Opere, per maggiore lume di VP.</p>
         <p>Tenga conto di alcune poche carte mal conservate, che vi stanno appresso. Le confronti con quel Ms. da me costì lasciato, scritto con certa tinta lucida, che a buon lume pare poco meno che di argento, e ornato di miniature di rozza geografia. Troverà ch’è la stessa Opera nella stampa, e a penna; se non che la stampa ci dà il nome dell’Autore, e l’aggiunta fatta un altro. Quantunque siano mal conci i pochi fogli, meritano</p>
-        
-        <pb xml:id="DLCL_CF_E11030_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11030_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20923/6449.jpg"/>
         <p>esser conservati. Non tralasci di farsi prontamente rilegare il Ms e con diligenza, per ovviare al pericolo che tante carte staccate non vadano a male. Potrà Ella confrontarlo con la stampa per vedere se sia intiero, e se stiano a lor luogo le carte.</p>
         <p>Ho finita ieri la nota de’ libri antichi, i quali stanno appresso di me. Le mando questa prima, e unica copia, che desidero mi sia rimandata, insieme colla nota degli altri di nostro uso, e che sono in Libreria. Mi sono steso fino al 1500 col metodo del Maittaire, facendo anco riflessione che molti libri riguardevoli sono stati la prima volta stampati dopo il 1480 o dopo quel torno, e avanti; né in quel torno medesimo era cominciata la stampa del Greco. 
         </p>
-        
         <closer>
           <salute>Resto abbracciandola caramente.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-05-11">11 maggio 1722</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1722-05-11">11 maggio 1722</date>
+          </dateline>
           <salute>DVPMR</salute>
           <salute>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

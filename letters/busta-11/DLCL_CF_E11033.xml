@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11033">
   <teiHeader>
     <fileDesc>
@@ -54,21 +55,15 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20926/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20926/6461.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 1 Giugno 1722)">
     <body>
       <div type="transcription">
-        
-        <pb n="1r" xml:id="DLCL_CF_E11033_C1R_L" facs=""/>
-        
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11033_C1R_L" facs="https://classense.unibo.it/files/large/20926/6461.jpg"/>
         <opener>
           <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Mariangelo</persName> Amatissimo</salute>
         </opener>
-        
         <p>
           Ecco servita VP della licenza de’ libri proibiti confermata. 
           Al ritorno di Frate Giovanni Batista, se non avrò la di lei persona, spero almeno i suoi caratteri colla risposta a diverse mie lettere, delle quali per la distanza del tempo non mi ricordo il numero. 
@@ -77,15 +72,15 @@
           Mi avvisi se in Libreria siano le Opere del Martello Bolognese, anco le ultime. Un caro saluto al Padre Calogerà. 
           Il Canone del Salvioni sta per uscire, se non anche è uscito, del torchio. 
         </p>
-        
         <closer>
           <salute>Resto abbracciandola caramente.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-06-01">primo giugno 1722</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-06-01">primo giugno 1722</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Cordialissimo Servitore e Padre Affettuosissimo nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

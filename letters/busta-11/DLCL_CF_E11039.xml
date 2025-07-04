@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11039">
   <teiHeader>
     <fileDesc>
@@ -54,42 +55,41 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20932/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20932/6498.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20932/6499.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20932/6500.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 14 Settembre 1722)">
     <body>
       <div type="transcription">
-        <pb n="1r" xml:id="DLCL_CF_E11039_C1R_L" facs=""/>
-        
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11039_C1R_L" facs="https://classense.unibo.it/files/large/20932/6498.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Sto con impazienza aspettando tuttavia le Colonnette, se pure più speditamente non sono state inviate a Sinigaglia. Io le vidi trent’anni fa incirca. Chi le vide nel mese scorso, mi conferma la specie, che ho conservata, della loro nobiltà e bellezza. Ringrazio il padre Don Leandro dell’avviso dell’ordinazione della roba già fatta, e dell’arrivo in breve.</p>
         <p>Replico oggi a Perugia le premure per quel consaputo Calendario. Quantunque essendosi stabilito l’ordine da tenersi per cotesto di Sant’Andrea, l’altro è superfluo. Benissimo ha VP pensato che in concorrenza di due Officj, dell’Ordine, e della Chiesa Ravennate, il primo si debba preferire, e trasportar l’altro.</p>
         <p>Ed io con buona pace di Monsignore Gamberucci dico che può farsi nuova Rubrica per l’Officio de’ Sette Dolori, e comandarne la traslazione dopo la Pasqua, in caso che non possa celebrarsi dentro Quaresima: ma non può trasferirsi secondo la Rubrica, che in oggi abbiamo, o sia di precetto, o no.</p>
         <p>Fuori degli otto Dottori Latini, e Greci, e delli due aggiunti San Tommaso, e San Bonaventura, a nessun’altro la Chiesa aveva determinata l’antif.a O Doctor col Credo. Non avrei mai creduto che ciò si concedesse per S. Isidoro. Appena il Padre Mier Benedettino Spagnuolo, attual Consultore de’ Sacri Riti in Roma potè ottenere che per</p>
-        <pb n="1v" xml:id="DLCL_CF_E11039_C1V_L" facs=""/>
+        <pb n="1 - Verso" xml:id="DLCL_CF_E11039_C1V_L" facs="https://classense.unibo.it/files/large/20932/6499.jpg"/>
         <p>S. Anselmo col rito semidoppio si concedesse la Messa, e l’officio ad instar di S. Ilario. Così egli mi raccontò in diebus illis.</p>
         <p>Del Padre Priore Conti non sento altra nuova, che quella mi dà VP della sua venuta. Riceverò la Scanzia Cinelliana XV. Non si scusi di non aver attitudine a contrattare. È ciò vero, quanto è vero ch’ella, come scusavasi una volta, non ha me[…]ria.</p>
         <p>La spesa della dozina in questo Monastero di S. Sebastiano è di sedici scudi l’anno: la dote è di 300 scudi. Con altri cento scudi si esce di tutte le altre spese, dell’acconcio, o arredi e delle Sagra. A momenti si aspetta una zittella Nobile da Bergamo, di Casa Soardi, della quale vestij due anni fa la sorella. Il luogo vi sarà per la Figlia del Landi, ogni volta che si determini a venire. L’Abadessa che fu eletta li 29. dello scorso mese, è da Bertinoro.</p>
         <p>Mi riverisca divotissimamente il Signor Canonico Teologo, e gli dica che rinnoverò le istanze per aver’io la risposta da comunicargli, che non ho mai avuta.</p>
         <p>Aspetto nuove de’ libri di Faenza, e di Bologna. Ricordi al Reverendissimo Amigoni quei pochi, che furono contrattati. Osservi se il Verulamio è intiero. Si paghino: lo stesso facciano del Libro del Niccoli al</p>
-        <pb n="2r" xml:id="DLCL_CF_E11039_C2R_L" facs=""/>
+        <pb n="2 - Recto" xml:id="DLCL_CF_E11039_C2R_L" facs="https://classense.unibo.it/files/large/20932/6500.jpg"/>
         <p>Padre Amici. Parmi che il prezzo sia di undici paoli, e mezzo. Egli lo dirà. Godo che il Luciano abbia occupato il suo quartiere. 
         </p>
-        
         <closer>
           <salute>Con che resto <foreign xml:lang="la">toto cordis affectu</foreign>.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-14">14 settembre 1722</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-09-14">14 settembre 1722</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Parz.mo Cordialissimo Servo Vero</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

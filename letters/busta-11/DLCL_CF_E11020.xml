@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11020">
   <teiHeader>
     <fileDesc>
@@ -54,38 +55,35 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20913/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20913/6407.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20913/6408.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 13 Ottobre 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11020_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11020_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20913/6407.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Mi scordai nell’ultima mia soggiungere il gradimento e la stima, con cui ho ricevuto i favori del Sig. Dottor Sancassani1 mio pregiatissimo Prone, non meno che la memoria di me suo buon Amico, e antico servitore. Prego VP. portare al medesimo queste sincerissime mie espressioni, e ringraziarlo in nome mio dell’Opuscoletto Boccacciniano da aggiungersi alla serie delle Vindicie Magatesche, le quali non sono state infruttuose.</p>
         <p>Con tal occasione procuri insinuargli il comune nostro desiderio di accrescere a prezzi agevoli la raccolta de’ libri stampati nell’infanzia dell’Arte Tipografica.</p>
         <p>Mi comunicò tempo fa VP un’iscrizione, o frammento, in cui era la voce Orrearius scorrettamente intagliata in vece di Horrearius, voce per altro fuor di Ravenna ignota anco nella barbara latinità. Or ella la legga nella par. 2 dell’Agnello pag. 49 et 61, com’esprimere un oficio peculiare di cotesta Chiesa, forse, a parer del dottissimo Bacchini per la gran</p>
-        
-        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20913/6408.jpg"/>
         <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni in Sicilia. 
           Un carissimo saluto al Padre Lettore Collina. 
         </p>
-        
         <closer>
           <salute>Resto abbracciandola caramente.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-10-13">13 ottobre 1721</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-10-13">13 ottobre 1721</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-       </div>
+      </div>
     </body>
   </text>
 </TEI>

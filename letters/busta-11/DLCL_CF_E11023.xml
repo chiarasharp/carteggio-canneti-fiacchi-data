@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11023">
   <teiHeader>
     <fileDesc>
@@ -54,33 +55,29 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20916/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20916/6421.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20916/6422.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 27 Marzo 1722)">
     <body>
       <div type="transcription">
-        
-        <pb xml:id="DLCL_CF_E11023_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11023_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20916/6421.jpg"/>
         <opener>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-03-27">27 marzo 1722</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1722-03-27">27 marzo 1722</date>
+          </dateline>
         </opener>
-        
         <p>Dal P. Priore di S. Damiano intendo l’esito, che prontamente la vostra industria ha dato a due Tomi delle Opere de’ Pichi; del che vi ringrazio ben vivamente. Il medesimo mi avvisa averne ricevuto per prezzo scudi sette, secondo il concordato. Ancor’io ho avvertito più volte che la cartolazione non cammina nell’unir le Opere del Mirandolano colla Cabala del Reuchino: ma non ho mai saputo indovinar la cagione dello sbaglio. Io mi son’acquietato sulla riflessione che tutto è intiero, e in sostanza nulla vi manca. Se vi dà l’animo di vendere la Musurgia del Kirker per 65 paoli, tutto il di più, che ne potiate ritrarre, sia vostro. Di più ho da esitare = Manfredij Ephemerides 4° vol. 2 cum fig. in rustico paoli 26 = Zahn Oculus artificialis fol. Norimbergę cum figur. In pergam. paoli 40 = Grammatica Hebraica 8. Patavij paoli 4. in pergam. = Farnabij Index Rhetoricus Amstelod 12. pergam. paoli 2 = Vitali Lexicon Mathematicum 4 Romę pergam. paoli 20 = Valla Elegantię 8. Lugduni perg. p. 4 = Uvillis Opera Omnia 4. vol. 2 Genevę figur. p. 30 = Una nota piena si va fruendo di altri molti libri, che son parte qui, parte in Ravenna</p>
-        
-        <pb xml:id="DLCL_CF_E11023_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11023_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20916/6422.jpg"/>
         <p>– La Musurgia è della buona stampa, cioè di Roma in pergamena usata, ben tenuta. Attenderò altre notizie del Libro Satirico, per averne la chiave, e desidero saper il nome del Sig. Marchese Montalbani Autor del medesimo.</p>
-        
         <closer>
           <salute>Io resto sempre più</salute>
           <salute>Vostro e Affezionatissimo di cuore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

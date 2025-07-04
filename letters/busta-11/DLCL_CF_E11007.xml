@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11007">
   <teiHeader>
     <fileDesc>
@@ -54,34 +55,33 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20900/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20900/6350.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20900/6351.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 19 Maggio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11007_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11007_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20900/6350.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Sarò breve, perche stà la posta sul partire. Il Padre Bibliotecario è divenuto in verità un de’ capitelli della Basilica di Classe; ed io il provo, per cui non ha egli più cuore, né pensiero alcuno, dopo avermi mossa la scialiva colla prima notizia della ritrovazione delle Antichità. Iddio gli perdoni la sua barbarie inumana. Almeno per mezzo di VPMR mi dia contezza della legatura del Vossio a lui commessa. Non vi è tempo da perdere, volendolo io ricevere per la fiera di Sinigaglia. Quanto alla nota de’ libri descritti nel Catalogo di Fontanini, basta mi si additi la pagina di detto Catalogo; e de’ libri da segnarsi col fregio si accenni tanto che basti a me per intendere quali sieno gli aggiunti. Talvolta basterà il solo cognome dell’Autore, se una sola Opera di esso stà descritta in quella pagina. La facilità, che addito, non tolga a me la chiarezza; e basta. A lei rimetto l’affare della permuta delle Memorie del Cardinale Bentivoglio. Si serva secondo la mente mia, e’ a suo piacere. Se l’elezione del Padre D. Abondio è necessaria, o almeno spediente, la lodo, e l’approvo. L’idea del secolo non poetico, non è mia: l’ho presa dal Buon Gusto del Muratori, e lei non ha presa di mira; e se l’avesse mirata, non sarebbe stata</p>
-        
-        <pb xml:id="DLCL_CF_E11007_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11007_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20900/6351.jpg"/>
         <p>guidata la mossa che da vero, e sincero Amore, il quale vorrebbe in due Fratelli vedere il lume di due Castori. Se poi ha peccato la Critica dell’Autore del Buon Gusto, e della Moderazione degli ingegni nelle Cause della religione, e di tante altre opere, il Furlano con l’ultima scritturetta gli ha riveduto le bucce, non contentandosi di lavargli il capo con sale, e aceto, ma tormentandolo con ferro, e fuoco in guisa, che lo lascia comè un Marsia scorticato.</p>
-        
         <closer>
           <salute>Resto in fretta con tutto ‘l cuore.</salute>
           <salute>DVPMR</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-05-19">19 Maggio 1721</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1721-05-19">19 Maggio 1721</date>
+          </dateline>
           <salute>Parz.mo Cordialissimo Servitore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-      
       </div>
     </body>
   </text>

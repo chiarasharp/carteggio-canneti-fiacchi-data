@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11005">
   <teiHeader>
     <fileDesc>
@@ -54,20 +55,21 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20898/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20898/6336.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20898/6337.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20898/6338.jpg"/>
+    <graphic n="2v" url="https://classense.unibo.it/files/large/20898/6339.jpg"/>
+    <graphic n="3r" url="https://classense.unibo.it/files/large/20898/6340.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 24 Febbraio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11005_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11005_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20898/6336.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>
           Ripiglio le due ultime lettere di VP., e proseguisco la risposta ad esse, premettendo prima, e fuor d’ordine, la notizia dell’onore, 
           in cui finalmente è stata messa l’antica iscrizione da lei scoperta tra l’obbrobrio affumicato della cucina di S. Damiano. 
@@ -82,16 +84,13 @@
           come a vindicatore erudito della più antica memoria, che in sasso veggasi scolpita, delle cose nostre. 
           Ma ritorniamo alle due lettere.
         </p>
-        
         <p>
           Parmi averle già significato che si è trovato un altro Corpo del Lirano mancante di un tomo, 
           che servirà a perfezionare compitissimamente quello venuto da Foligno, e acquistato mercè l’amore, applicazione, 
           e disinvoltura del Signor Giustiniano Pagliarini, 
           il quale cinque giorni qui è stato a favorirmi nella scorsa settimana col Signor Boccolini.
         </p>
-        
-        <pb xml:id="DLCL_CF_E11005_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11005_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20898/6337.jpg"/>
         <p>
           Si è conferito, e lavorato intorno alla ristampa del Quadriregio del Frezzi ^di Venezia. 
           Col Lirano si avrà il S. Atanasio tradotto da Cristoforo Persona, di cui il Giornale, al tomo 19; 
@@ -101,11 +100,9 @@
           Questo Corpo non comprende che la Postilla Letterale; né vi stà punto la Postilla Morale, che manca altresì nella Bibbia del 1489; 
           e nel Lirano del Gadolo del 1495 com’Ella mi scrive.
         </p>
-        
         <p>
           Ritornando poi alla Traduzione dell’Apocalisse; se quella, ch’è in Libreria, è del Gilberto, e questa del Lirano, convien dire che in latino uno di essi sia stato plagiato dell’altro.
         </p>
-        
         <p>
           In proposito dell’opuscolo intitolato Speculum Monachorum; 
           mi occorre in primo luogo interrogare qual delle due edizioni di S. Bernardo del Mabillon sia la nostra. 
@@ -113,15 +110,12 @@
           quando cinque scudi almeno sono stati pagati gli altri Tomi de’ Santi Padri de’ Monaci di S. Mauro. 
           Ma io penso che l’agevolezza provenisse dall’esser cotesta l’edizione più antica, e meno considerata in paragone della seconda.
         </p>
-        
         <p>
           Essendo sciolto il Vossio, VP, dia ordine che sia legato in quella maniera, ch’ella come bravo bibliotecario giudica spediente, 
           avvertendo che si abbia tutta l’attenzione a non diminuire il margine. 
           Se si lega con oro, vi faccia mettere sul corpo la marca di Classe. Per isfuggire le
         </p>
-        
-        <pb xml:id="DLCL_CF_E11005_C2R_L" n="2 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11005_C2R_L" n="2 - Recto" facs="https://classense.unibo.it/files/large/20898/6338.jpg"/>
         <p>
           spese superflue, potrà differirsi alla Fiera di Sinigaglia il mandarlo qua. 
           Sarà frattanto appresso di lei. 
@@ -131,12 +125,10 @@
           Si prenda questo pensiero; mentre io mi adopro per esitare i due altri, che ho duplicati. 
           Quel Signore Casolari è libraio?
         </p>
-        
         <p>
           Sul cominciar della Quaresima si ripiglierà la nota de’ libri. 
           Farò che il Padre Camerlengo nostro si rimborsi degli otto paoli. Fin qui alla prima. Passo alla seconda.
         </p>
-        
         <p>
           Ho ricevuto per F. Biagio l’Indice degli Arcadi, e la vita di S. Carlo del Bascapè, 
           con la mappa di cotesti fiumi, e il Panegirico del Padre Grassi Agostiniano. 
@@ -151,13 +143,10 @@
           perche si accompagnino quanto si può, essendo impossibile far’ esattamente le due legature eguali. 
           Il Latino è raro, il Volgare rarissimo.
         </p>
-        
         <p>
           Appresso troverà una copia della Vita del Beato Michele, la quale in mio nome
         </p>
-        
-        <pb xml:id="DLCL_CF_E11005_C2V_L" n="2 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11005_C2V_L" n="2 - Verso" facs="https://classense.unibo.it/files/large/20898/6339.jpg"/>
         <p>
           mandi in dono al Padre Amici nostro buon Amico. 
           In oltre dal Padre Lettore Guiccioli riceverà due copie dell’Opera stravagante del Polifilo. 
@@ -170,7 +159,6 @@
           Una copia, che feci compire a penna, mi costò otto paoli, ma era imperfetta: l’altra intiera ho pagata quindici paoli. 
           Stà bene in una Libreria.
         </p>
-        
         <p>
           Se potrà mai avere una copia della lettera Pastorale di Monsignor Crispi, la vederò volentieri. 
           Quando sarà in Ravenna, pensi il modo di avere da esso due libri, uno da lui composto in nome del Capitolo di Ferrara, 
@@ -180,9 +168,7 @@
           Monsignore ne mandò in dono una copia a Monsignor Vescovo di Perugia, un’altra a Monsignor Lercari di quel tempo Governatore, 
           e parmi anco uno alla Libreria Pubblica di Perugia.
         </p>
-        
-        <pb xml:id="DLCL_CF_E11005_C3R_L" n="3 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11005_C3R_L" n="3 - Recto" facs="https://classense.unibo.it/files/large/20898/6340.jpg"/>
         <p>
           Ricevei i fogli della nota de’ libri, di cui aspetto il compimento. 
           Ripiglierò la faccenda presto, come ho accennato di sopra. 
@@ -198,30 +184,30 @@
           Mi han detto diversi ch’è un tesoro stato finora nascosto. 
           Ora stà lavorando intorno al Panegirico di S.Filippo S.Giuseppe per gli stessi Padri dell’Oratorio.
         </p>
-        
         <p>
           Le fatiche da F. Biagio impiegato in servizio della Libreria, 
           e l’amore officioso di VP. sono due titoli di merito a favore di esso, 
           che mi terranno attento al bene del medesimo con amorevolezza, e carità. 
           Ne spero bene. Resto con tutto lo spirito abbracciandola strettamente, e mi confermo senza fine. 
         </p>
-        
         <closer>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-02-24">24 febbraio 1721</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1721-02-24">24 febbraio 1721</date>
+          </dateline>
           <salute>DVPMR.</salute>
         </closer>
-        
         <postscript>
           <p>
             Al Padre Lettore Collina, al Padre D. Leandro e al Padre Grilli i miei cordialissimi rispetti. 
           </p>
         </postscript>
-        
         <closer>
           <salute>Affezionatissimo Servitore Cordialissimo Padre nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-          
       </div>
     </body>
   </text>

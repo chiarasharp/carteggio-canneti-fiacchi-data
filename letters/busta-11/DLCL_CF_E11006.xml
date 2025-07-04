@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11006">
   <teiHeader>
     <fileDesc>
@@ -54,20 +55,19 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20899/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20899/6346.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20899/6347.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20899/6348.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Marzo 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11006_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11006_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20899/6346.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>
           Ricevo con sommo piacere l’iscrizione di nuovo scoperta, la quale sul principio leggo: ex naufragio. 
           Manca il principio col nome del Marito, che a se, ed alla moglie stabilì in cotesto Porto di Classe la sepoltura, 
@@ -86,9 +86,7 @@
           Nelle catacombe è cosa frequente trovare su una lapida stessa, al di fuori la rozza iscrizione posta ad un Cristiano, 
           e dalla parte di dentro un’altra di un’Etnico.
         </p>
-        
-        <pb xml:id="DLCL_CF_E11006_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11006_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20899/6347.jpg"/>
         <p>
           Nasceva di ciò la ragione dalla povertà, e dalla miseria, che accompagnavano i poveri Cristiani nelle persecuzioni,
           appigliandosi a quelle pietre, che potevano avere, per conservar le memorie de’ nomi de’ Martiri, e de’ Confessori. 
@@ -108,9 +106,7 @@
           tornerebbe conto segare i bassi rilievi, che vi sono, e mettergli fissi nel muro di detta Basilica, 
           donde è probabile fosse levata l’arca intiera, come anco quella ch’è in S. Maria in Orto, e più altre, che certo vi erano.
         </p>
-        
-        <pb xml:id="DLCL_CF_E11006_C2R_L" n="2 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11006_C2R_L" n="2 - Recto" facs="https://classense.unibo.it/files/large/20899/6348.jpg"/>
         <p>
           E’ più indegna la memoria della semplicità d’uno de’ nostri Abati di Bertinoro, 
           il quale dal portico della Chiesa levò il sepolcro di Teodoro Arcivescovo, e lo condannò a conservare l’olio, facendone due vasi, 
@@ -131,14 +127,17 @@
           Aspetto le altre risposte. 
           E con vero cuore abbracciandola resto.
         </p>
-        
         <closer>
           <salute>DVPMR.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-03-17">17 Marzo 1721</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1721-03-17">17 Marzo 1721</date>
+          </dateline>
           <salute>Affettuosissimo Servitore Cordialissimo</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

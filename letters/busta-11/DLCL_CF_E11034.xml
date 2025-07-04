@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11034">
   <teiHeader>
     <fileDesc>
@@ -54,30 +55,30 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20927/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20927/6467.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 8 Giugno 1722)">
     <body>
       <div type="transcription">
-        <pb n="1r" xml:id="DLCL_CF_E11034_C1R_L" facs=""/>
-        
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11034_C1R_L" facs="https://classense.unibo.it/files/large/20927/6467.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Ricevei col penultimo ordinario la copia di quanto io bramava copiato dal libretto dell’Armanni. La ringrazio: benche stimo non abbia a servire, per essermi ritirato, e disimpegnato con Monsignor Vescovo di Nocera, il quale avea invitato precedentemente altri quattro Abati Silvestrini e poi pensava ripartir tra essi, e i nostri egualmente la funzione. Noi non abbiamo infinadora mai convenuto con quella Congregazione in occasione di comparire mitrati; né mi par bene dar mano ad una novità poco onorevole.</p>
         <p>Questa mattina è stato da me il Mercante delle Cartepecore per gli scudi dodici, essendomi avere riscontro dal suo Corrispondente di Sinigaglia, che fu sollecitamente spedito l’involto costà al Signore Matteo Munghini. Altro io non ho potuto replicare, se non che ancora di ciò non ho avuto ancora l’avviso. Dimani ch’è giorno di posta, farà ritorno, premendogli aver’il pagamento di tal mercanzia, per cui non suole darsi respiro. De’ capi, sopra i quali scrissi colle passate, alcuni potevano ricevere subito la risposta, altri nò: ora può essere per tutti già matura la replica: onde più che mai l’attendo. E pregandola confermare al Padre Lettore Guiccioli i miei rispetti con promessa in breve, di risposta, resto in abbraccio cordiale.</p>
-        
         <closer>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-10-06">8 giugno 1722</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1721-10-06">8 giugno 1722</date>
+          </dateline>
           <salute>DVPMR</salute>
           <salute>Cordialissimo Servitore e Padre Affezionatissimo nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

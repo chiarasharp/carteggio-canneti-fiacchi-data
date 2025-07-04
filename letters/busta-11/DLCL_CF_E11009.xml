@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11009">
   <teiHeader>
     <fileDesc>
@@ -22,12 +23,6 @@
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
             <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-            <repository/>
-            <collection/>
-            <idno/>
-            <altIdentifier>
-              <idno/>
-            </altIdentifier>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -60,36 +55,37 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20902/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20902/6356.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20902/6357.jpg"/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11009_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11009_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20902/6356.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Lettore Amatissimo, e Stimatissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Lettore Amatissimo, e Stimatissimo</rs>
+          </salute>
         </opener>
-        
         <p>Ieri terminò il terzo mese da che il nostro Padre Bibliotecario mi scrisse l’ultima lettera. Siano quanto si voglia grandi, e continue le applicazioni del medesimo, non posso persuadermi ch’egli resti privo dell’uso di pochi momenti per rispondere a tre lettere, che dopo gli ho scritte, almeno in succinto, o per dire a qualcheduno che da parte sua soddisfaccia alle mie richieste. Quindi confesso che ho motivo di sospettare siasi fraposto altro morale impedimento per trattenere il commercio per altro non solo immeritevole di simili ombre, ma profittevole a lui, ed a cotesta Libreria pur troppo messa tra le cose inutili, e scordate. Comunque sia, desidero intender la verità, che resterà in me rinchiusa, e servirà solo per prender’ altre misure, essendo io in verità disposto, e pronto ad ogni più strano avvenimento.</p>
         <p>Quel che ora mi preme, si è intendere se il Padre suddetto possa far esitare al Padre Maestro Greco, o ad altre persone alcuni Libri antichi, i quali mi saranno duplicati in caso che mi riesca stringere un contratto che ho per le mani. Vi è un Plinio del 1472 della stampa del Jenson, per quanto si è riconosciuto, intiero, senza miniatura con gran margine; ma sfasciato, e che ha molte carte staccate. E similmente vi sono quattro Tomi (un de’ quali equivale nella mole a due) del Corpo della Postilla del Lirano, in domo Petri de</p>
-        
-        <pb xml:id="DLCL_CF_E11009_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11009_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20902/6357.jpg"/>
         <p>Maximo 1471 et 1472. Il Padrone conosce la rarità de’ libri, e li tiene alti di prezzo, benchè il Lirano non sia Corpo intiero, mancandovi due Tomi, cioè uno de Profeti Maggiori, e Minori, l’altro dell’Epistole di S. Paolo, e degli altri Apostoli, de gli Atti Apostolici, e dell’Apocalisse. Ma se fosse intiero il Corpo (come io l’ho) non vi sarebbe prezzo, che ne determinasse il valore. Basta dire che in Parigi, ove son tante vastissime, e insigni Librerie, un solo intiero Corpo se ne trova in quella de’ Celestini, come non da molto mi scrisse Monsignor Passionei in simili materie versatissimo; ed io prima lo seppi da Istoria de’ Celestini di Francia l’anno scorso data in luce. Io non posso reggere alle spese; e perciò vorrei sapere se quel Padre Greco vuole questi libri, e quanto dà ordine, e ha volontà di pagargli. Se poi, come si può dar il caso, mi capiteranno gli altri due Tomi, mi ricorderò di provvederlo de medesimi. Intanto non è da lasciar fuggir l’occasione per chi cerca simili rarità. Scriva pertanto subito esiggendone pronta, e risoluta risposta, e me la faccia giungere senza indugio.</p>
         <p>Stò in attenzione della Ricevuta dè frutti del Censo conseguiti, e molto più di nuove del Signor Abate, e dell’arrivo suo. 
           Compatisca l’incomodo, mentre di tutto cuore mi confermo.</p>
-        
         <closer>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721">1721</date></dateline>
+          <dateline>
+            <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+            <date when-iso="1721">1721</date>
+          </dateline>
           <salute>DVPMR</salute>
           <salute>Suo Parz.mo Affezionatissimo Servitore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

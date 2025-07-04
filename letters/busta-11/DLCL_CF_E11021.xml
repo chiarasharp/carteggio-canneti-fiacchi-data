@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11021">
   <teiHeader>
     <fileDesc>
@@ -54,43 +55,38 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20914/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20914/6409.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20914/6410.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20914/6411.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Ottobre 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11021_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11021_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20914/6409.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Se non fossero effetti di amore, ch’è passione di natura timida, e sollecita, VP averebbe motivo di abominare i miei pronostici, ed io vorrei seco gareggiare in detestarli. Perché non sempre possono esser felici, e purtroppo si vanno avverando, lasciamoli da parte. Questo è indubitato ch’è necessaria a lei tuttavia una buona, e continua cautela per un pezzo avvenire, non fermandosi né pur l’inverno intiere le giornate nell’aria micidiale di Classe, ove basterà di quando in quando, ed anche ogni giorno dare, senza fermarvisi un’occhiata, e lasciarvi la direzione di quanto anderà occorrendo fino al compimento dell’opera.</p>
         <p>Ebbi lettera da Pesaro del Padre Lettore Guiccioli, che altri avvisi mi prometteva del suo avvicinamento, con dubbio però che la stagione fosse per impedire il progresso oltre a Fossombrone. Quest’ultimo ordinario nulla più mi ha recato di nuovo; e lunedì ho necessità di partire indispensabilmente da Fabriano. Temo pertanto di non rivedere il Reverendissimo Galamini, né il Padre Lettore, se essi almeno giunti qua non si prendono l’incomodo di passare a Valdicastro, ove alcuni affari mi terranno confinato.</p>
         <p>La ringrazio della spedizione fatta al Reverendissimo Tassis. Si faccia rimborsare la spesa del porto dal Padre Lettore al di lui ritorno.</p>
-        
-        <pb xml:id="DLCL_CF_E11021_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11021_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20914/6410.jpg"/>
         <p>Per il Padre Maestro Greco, oltre i quattro Tomi del Lirano più volte accennati e il Plinio del Jenson, vi sarà da servirlo della Bibbia del medesimo stampatore Venetijs 1476, che stimo sia della stessa edizione della nostra bellissima in pergamena, se non che questa è in carta, ben conservata, con una miniaturina dell’Eterno Padre in principio, e tutte le lettere iniziali miniate senz’oro, di rosso e azzurro. Così può acquistare il Plinio, e la Bibbia da lui sospirati. Potremo ancor dargli cotesto Quaresimale di Roberto de Licio, avendone io avuto ora un altro dell’istessa stampa di Cremona, alquanto più ornato, e più bello.</p>
         <p>Ho di nuovo acquistato due esemplari del Maestro delle Sentenze, uno stampato da Vendelino de Spira in Venezia 1477 in 4to grande; ed uno Ms. in pergamena in foglio avanti il 1400. Nel Fontanini alla pag. 50, ove del Giraldi si rip[…] la sola Tragedia Orbecche, ho aggiunto in margine: Le Tragedie di Gio. Batt. Giraldi Cintio, cioè Orbecche, Altile, Didone, Antivalomeni, Cleopatra, Arrenopia, Eufimia, Epitia, Selene in Venezia appresso Giulio Cesare Cagnaccini 1582 in 8vo. Martedì mi favorì di questo raro libro il Signore Boccolini venuto qua per dar mano a farmi avere gli accennati libri antichi, ed altri, ch’erano in Fabriano, dove provo la disgrazia, che sempre mi accompagna di non poter trattare da me, ma di dovermi valere del mezzo altrui, mercè del troppo concetto, che hanno, e del sospetto della mia cognizione, la qual pure è pochissima.</p>
-        
-        <pb xml:id="DLCL_CF_E11021_C2R_L" n="2 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11021_C2R_L" n="2 - Recto" facs="https://classense.unibo.it/files/large/20914/6411.jpg"/>
         <p>Per rinforzarla aspetto un Libro nuovo da Amsterdam, motivato dal Marchese Maffei nell’Opuscolo de’ Traduttori (o li quanto scarso, e digiuno!) cioè gli Annali Tipografici del Maittaire. Benchè in Venezia sia insorta una fierissima tempesta contro l’Istoria del Varchi proibita con severissime pene dalla Repubblica, una copia ne ho avuta altrove, e l’attendo in breve.</p>
         <p>Il suddetto Boccolini mi ha letti alcuni pezzi della sua Biblioteca della Marca, e dell’Umbria, di cui è vicino a terminare il primo Tomo. Non mi sovviene che in tale sfera di libri noi abbiamo altrettanto di buono. È opera piena, castigata, ricca di rarissime notizie, distesa con uno stile proprio, dolce, e degno di tutta la lode. Finisco la visita, con cui troppo ho annoiato il Convalescente: ma so che questi discorsi a lui saranno più soavi degli altri. Un abbraccio ben tenero comune al Padre Lettore Collina. 
         </p>
-        
         <closer>
           <salute>Resto senza fine.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-10-17">17 ottobre 1721</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-10-17">17 ottobre 1721</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Affettuosissimo Servitore e Cordialissimo Padre nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

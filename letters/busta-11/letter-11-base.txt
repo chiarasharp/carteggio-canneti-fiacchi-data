@@ -58,6 +58,8 @@
       <graphic n="1v" url=""/>
       <graphic n="2r" url=""/>
       <graphic n="2v" url=""/>
+      <graphic n="3r" url=""/>
+      <graphic n="3v" url=""/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (, )">
       <body>

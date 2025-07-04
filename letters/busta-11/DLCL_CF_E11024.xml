@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11024">
   <teiHeader>
     <fileDesc>
@@ -54,29 +55,26 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20917/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20917/6423.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 30 Marzo 1722)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11024_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11024_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20917/6423.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Non anderà a Roma il Reverendissimo Ferranti prima che andiamo unitamente a veder la massa de’ libri, al cui trasporto non basteranno due some di muli. Mi avvisi se la Storia del Varchi è della Libreria; perché in tal caso mi priverò della nostra. Godo che le tre casse siano state spedite a Sinigaglia, dove sarà pagato il porto anco da Ravenna fino là. Con prima occasione mi mandi i libri di Padova, ma con somma diligenza, perché punto non si guastino. Ed io in prima congiuntura trasmetterò costà i libri, che più ho del Gelli, perché VP gli accompagni; e seco verranno le Cartepecore ordinate, con carte altre venute da Roma, sopra le quali c’intenderemo un’altra volta. Se verrà il famoso Mario, gli sarà consegnato tutto. Ho la licenza de’ Libri proibiti, che farò confermare. È consolandomi colla dolce memoria del dì lieto, e felice, che io la collocai in seno alla Santa Religione, resto abbracciandola toto cordis affectu.</p>
-        
         <closer>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-03-30">30 marzo 1722</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-03-30">30 marzo 1722</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Affezionatissimo Cordialissimo Padre e Servitore nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

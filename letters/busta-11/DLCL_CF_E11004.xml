@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11004">
   <teiHeader>
     <fileDesc>
@@ -54,20 +55,18 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20897/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20897/6334.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20897/6335.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 21 Febbraio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11004_C1R_L" n="1 - Recto" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11004_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20897/6334.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>
           Pienamente risponder non posso alle due compitissime di VPMR; perché mi trovo in angustia di tempo. 
           Qualche cosa, che scriverò, servirà per principio di risposta. 
@@ -84,9 +83,7 @@
           Il Padre Abate Montanari lo volle pagare 25, avanti fosse comprato dal detto libraio. 
           Ma torniamo al nostro. Ora ho scoperto un
         </p>
-        
-        <pb xml:id="DLCL_CF_E11004_C1V_L" n="1 - Verso" facs=""/>
-        
+        <pb xml:id="DLCL_CF_E11004_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20897/6335.jpg"/>
         <p>
           altro corpo del Libro mancante d’un Tomo, che avrò con un poco di destrezza, e servirà per compire il nostro. 
           Di quel, che avvanzerà spero cavarne poi il rimborso di tutti, e due i corpi. 
@@ -95,7 +92,6 @@
           Ne ha potuto avere 10 doppie; persiste in non volersene privare. 
           Veda Ella in qual conto si ha da tenere il Leggendario del medesimo, che abbiamo stampato dal Jenson.
         </p>
-        
         <p>
           La Bibbia col Lirano in gottico del 14689, che ho acquistata, sarebbe da farne conto, se ha Libri de’ Re, 
           mancandovi il rimanente del Vecchio Testamento, non facesse salto al Testamento nuovo. 
@@ -111,12 +107,10 @@
           Consideri bene se i due volumi in foglio e in 8.vo di Batista Mantovano sian veramente duplicati. 
           Io penso che no. 
          </p>
-        
-          <closer>
-            <salute>E resto tutto suo.</salute>
-            <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-02-21">21 Febbraio 1721</date>.</dateline>
-          </closer>
-        
+        <closer>
+          <salute>E resto tutto suo.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-02-21">21 Febbraio 1721</date>.</dateline>
+        </closer>
       </div>
     </body>
   </text>

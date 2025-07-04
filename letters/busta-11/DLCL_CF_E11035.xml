@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11035">
   <teiHeader>
     <fileDesc>
@@ -54,46 +55,46 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20928/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20928/6469.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20928/6470.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20928/6471.jpg"/>
+    <graphic n="2v" url="https://classense.unibo.it/files/large/20928/6473.jpg"/>
+    <graphic n="3r" url="https://classense.unibo.it/files/large/20928/6474.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 3 Luglio 1722)">
     <body>
       <div type="transcription">
-        <pb n="1r" xml:id="DLCL_CF_E11035_C1R_L" facs=""/>
-        
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11035_C1R_L" facs="https://classense.unibo.it/files/large/20928/6469.jpg"/>
         <opener>
-          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+          <salute>
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+          </salute>
         </opener>
-        
         <p>Quanto prima VP averà da Perugia il Calendario delle Monache di S. Giuliana dell’Ordine Cisterciense. Per la fiera di Sinigaglia riceverò la Cassetta de’ libri, insieme colla Nota delle antiche edizioni fatta dal garbatissimo nostro Calogerà, e da lei, e con quelle carte ancora, che contengono quei pochi libri stampati fino al 1500, i quali stanno appresso di me. Altra copia non ne ho. Sommamente mi sarà grato l’uno e l’altro indice. Spero di accrescere quanto prima il mio. È stato qui meco dieci giorni il Reverendissimo Ferranti, che molto ha acquistato di salute in questa dimora, e nella prima uscita dopo il suo pericoloso male. Abbiam concertato di fare insieme il viaggio di Monte Alboddo. Ma per que’ libri, e per altri, de’ quali si contratta in Perugia, e in Ascoli ho bisogno di danaro, massimamente dopo pagate le Cartepecore in somma di scudi dodici, bai. 50, compreso un paolo del porto di esse a Sinigaglia. Il debito mio era di sc. sette bai. 50. Resto pertanto creditore di sc. cinque per conto delle Cartepecore: alla qual somma aggiungansi s. 1:44 prezzo de’ cingoli, sarà il mio avere in tutto s. 6:44 i quali mi sarà caro avere in fiera di Sinigaglia. Che se per conto mio vi fosse qualche altra piccola spesa, non vorrei si defalcasse da detta somma: Avvisato rimetterò prontamente per altra via.</p>
         <p>Le Opere del Gelli, ch’ella desidera sapere, son le seguenti = Dialogi del Gello. In Fiorenza per il Doni 1546 in 4 = Ma son questi compresi, e fanno il principio nel seguente libro = I Capricci del Bottaio. In Fiorenza appresso Lorenzo Torrentino 1551 in 8 = Quinta impressione accresciuta, e riformata = La Circe in Firenze appresso Lorenzo Torrentino 1549 in 8; e. 1550 = Son le migliori edizioni</p>
-        <pb n="1v" xml:id="DLCL_CF_E11035_C1V_L" facs=""/>
+        <pb n="1 - Verso" xml:id="DLCL_CF_E11035_C1V_L" facs="https://classense.unibo.it/files/large/20928/6470.jpg"/>
         <p>= tutte le Lezioni fatte nell’Accademia Fiorentina. in Firenze appresso Lorenzo Torrentino 1551 in 8 = Son dodici Lezioni = Lettura sopra le</p>
         <p>o […] di Dante letta nell’Accademia Fiorentina, nel Consolato di Mes. Guido Guidi e Agnolo Borghini in Firenze appresso Bartolommeo Sermartelli 155[…] in 8 = Dedica il Gelli la suddetta sua prima lettura al Molto Magnifico Mes. Giuseppe Bernardini Gentiluomo Lucchese. Si contiene in essa una Orazione del Gelli fatta nell’Accademia sopra la esposizione di Dante, e dodici sue lezioni sopra lo Inferno, del medesimo Dante = Lettura seconda sopra lo Inferno di Dante letta nel Consolato d’Agnolo Borghini. In Fiorenza appresso Lorenzo Torrentino 1555 in 8 = Dedica questa a Lorenzo Pasquali. Si co[…] in essa l’Orazione in principio della sua seconda lettura, e dieci sue Letture = Lettura terza sopra lo Inferno di Dante, nel Consolato d’Antonio Landi. In[…] senza appresso Lorenzo Torrentino. 1556. in 8. = La dedica al Signore Alvero A[…] croce. Si contiene in essa l’Orazione e nove sue lezioni = Lettura quarta sopra lo Inferno nel Consolato di Mes. Lelio Torelli. In Fiorenza presso Lorenzo Torrentino. 1558. In 8. = La dedica a Filippo del Migliore. […] contengono in essa dieci Lezioni = La sesta lettura sopra lo Inferno Consolato di Mes. Lionardo Tanci. In Fiorenza appresso Lorenzo Torrentino. La dedica a Tommaso Baroncelli; e si contengono in essa dieci Lezioni = […] settima sopra lo Inferno. nel Consolato del Maestro Tommaso Ferrini. Fiorenza appresso Lorenzo Torrentino1565. in 8. = La dedica a Lattanzio […]si; e si contengono in essa dieci Lezioni = Ripongasi a suo luogo la quinta sopra lo Inferno. In Fiorenza. in 8. = L’Ecuba tragedia di Euripide</p>
-        <pb n="2r" xml:id="DLCL_CF_E11035_C2R_L" facs=""/>
+        <pb n="2 - Recto" xml:id="DLCL_CF_E11035_C2R_L" facs="https://classense.unibo.it/files/large/20928/6471.jpg"/>
         <p>tradotta in lingua volgare. in 8. = La sporta commedia. In Firenze appresso Bernardo Giunti 1550. in 8. = Lo Errore. In Firenze nella Stamperia de’ Giunti 1603. In 8.vo = Trattato de’ colori degli occhi di Simone Porzio tradotto in volgare. In Firenze appresso Lorenzo Torrentino1551. in 8. = Se l’Uomo diventa buono o cattivo volontariamente Disputa del Porzio tradotta. In Fiorenza appresso Lorenzo Torrentino1551 in 8vo. = Disputa del Porzio sopra quella Fanciulla della Magna, la quale visse due anni, o più senza mangiare, e senza bere, tradotta. In Firenze in 8. = La vita di Alfonsoda Este Duca di Ferrara scritta dal Vescovo Giovio. Tradotta. In Firenze 1553. in 8.</p>
         <p>Attendo nuova dell’esito della Musurgia, quando segua senza i temuti pericoli. In tal caso può mandarsi ancora il Zahn Oculus Artificialis. Una simile copia ne tiene il Reverendissimo Ferranti, con cui ne ho parlato. La tiene per la Libreria col Corso Matematico del De Chales, e altri libri. Mi avvisi la conclusione dell’affare col Volpi di Padova. Il prezzo del Zahn è di 40 paoli, almeno 38.</p>
         <p>Ho pensato, e penso più che mai avere VP maggior cognizione di me intorno a prezzi, che corrono de’ libri. Io mi son regolato più sul prezzo, che mi costano, che sul valore loro. VP adunque risolva quel, che le pare più spediente. Quando de’ libri della nota mandata vogliano i tre soggetti pagare il prezzo già scritto di scudi sette contanti; li dia; non ostanti le riflessioni in contrario. Se si vuol godere il comodo di farvi entrar le messe, prendano tutti i libri da principio descritti per dieci scudi (se non erro) e per cento messe. Ma risolvano presto, in ordine ad altri, rimetto ogni arbitrio a lei.</p>
-        <pb n="2v" xml:id="DLCL_CF_E11035_C2V_L" facs=""/>
+        <pb n="2 - Verso" xml:id="DLCL_CF_E11035_C2V_L" facs="https://classense.unibo.it/files/large/20928/6473.jpg"/>
         <p>Io non conosco in me abilità, né confidenza per entrare con cotesto Padre Reverendissimo in materie di spese di libri. Quando l’avessi, proporrei che si prendessero da me il Plinio, il Mabillon de Re Diplomatica, e tanti altri libri insigni; affinche col danaro potessi applicare a far altri acquisti d’importanza. Via su VP. si faccia animo; ed entri da se a parlare a favor della Biblioteca di Classe. E delli due Tomi del Bollando che nuova vi è? Si fa un’altra Società per la ristampa in tre Tomi di S. Ambrosio, e per altre opere, del che m’imagino averà a lei scritto il Padre Lettore Onestini. Ella ne parli con franchezza. Io non posso applicarvi. Non si scordi di procurare i tre Tomi del Pedrusi, de’ quali parlai, e scrissi al Signore Co. Vincenzio Piazza, e in oltre pregai il Signore Co. Paolo Bianco che mandasse a levargli, e li facesse venire. Di grazia si attenda a questo interesse. Non è da trascurare l’altro degli Annali del Torelli. Merita anche attenzione il Sinodo di Monsignor Gambi, e molto più i due Tomi manoscritti delle Poesie di Clemente IX con generosità spontanea offerti da Monsignore Arcivescovo.</p>
         <p>Dopo scritto il rimanente, partì ier mattina il Padre Bianconi per Bologna. Gli ho consegnato un Libro in 4to da mandare a lei. Contiene un’Orazione di Girolamo Balbi Vescovo di Gurc, assai diffusa, e in oltre il rarissimo Opuscolo proibito De Coronatione, del quale evvi in cotesta Libreria un’altra edizione in 8vo. di Lione, del G[…] V. P. collazioni le due edizioni dell’Operetta de Coronatione: e quando ne sia differenza, tenga i due Opuscoli del Balbi, facendogli legare uniti, separandosi però dagli altri due, con cui stanno legati. Un di questi è imperfetto: l’altro consideri ella in qual conto debba tenersi.</p>
         <p>La prima fermata del Padre Bianconi doveva essere in Monte Alboddo appresso il Signore Ant[…]</p>
-        <pb n="3r" xml:id="DLCL_CF_E11035_C3R_L" facs=""/>
-        
+        <pb n="3 - Recto" xml:id="DLCL_CF_E11035_C3R_L" facs="https://classense.unibo.it/files/large/20928/6474.jpg"/>
         <p>
           Nipote del Padre Abate Ferranti, da cui dipende l’acquisto dei consaputi libri. Improvvisamente però feci risoluzione di mandare col detto Padre Don Benedetto il Padre Lettore Grilli, che aspetto dimani di ritorno colla nota diligente di quel, che avrà osservato. Ecco il primo incomodo, che ha avuto questo buon Religoso, per supplire le parti dell’Amico suo indocile, il quale però ne paga la pena condannato a fatiche antigeniali. Staremo a vedere se potrà supplire le veci altrui nella compilazione delle Notizie Genealogiche de’ Guiccioli. Io sto male in ordine per cagione de’ caldi, massimamente da che mi trovo in una lunga purga, e dopo fatta una cavata di sangue, il quale da dodici anni in qua non mi era stato toccato. Dell’affare col Padre Reggente Pugnetti, sopra di che scrissi minutamente, rimettendomi a lei, purche si facesse qualche cosa, io non sento altra nuova. L’Opuscolo de Coronatione è una rarità da dargli. L’altro l’ho avuto di fresco col Trattato in fol. De Iubileo del Benzoni, e con una Rettorica di Cicerone in cartapecora manoscritto. A pezzi, e bocconi ho scritta la presente con uno stento non ordinario, e una svogliatezza infinita. Mi riverisca il Padre Lettore Guiccioli, al quale scriverò in tutti i modi ben presto. Rimando la nota de’ libri e resto confermandomi. 
         </p>
-        
         <closer>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-07-03">3 luglio 1722</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-07-03">3 luglio 1722</date>.</dateline>
           <salute>DVPMR</salute>
           <salute>Cordialissimo Servitore e Padre affezionatissimo nel Signore</salute>
-          <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+          <signed>
+            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+          </signed>
         </closer>
-        
       </div>
     </body>
   </text>

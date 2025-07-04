@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11001">
   <teiHeader>
     <fileDesc>
@@ -54,25 +55,25 @@
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://classense.unibo.it/iiif/20893/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20893/6320.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20893/6321.jpg"/>
   </facsimile>
   <facsimile sameAs="https://classense.unibo.it/iiif/20895/manifest">
-    <graphic n="1r" url=""/>
-    <graphic n="1v" url=""/>
-    <graphic n="2r" url=""/>
+    <graphic n="1r" url="https://classense.unibo.it/files/large/20895/6323.jpg"/>
+    <graphic n="1v" url="https://classense.unibo.it/files/large/20895/6324.jpg"/>
+    <graphic n="2r" url="https://classense.unibo.it/files/large/20895/6325.jpg"/>
   </facsimile>
   <text>
     <group>
       <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Gennaio 1721)">
         <body>
           <div type="transcription">
-            <pb xml:id="DLCL_CF_E11001_C1R_L" n="1 - Recto" facs=""/>
-            
+            <pb xml:id="DLCL_CF_E11001_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20893/6320.jpg"/>
             <opener>
-              <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+              <salute>
+                <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+              </salute>
             </opener>
-            
             <p>
               Per rompere il troppo lungo silenzio, e riaprire il commercio delle lettere, 
               e riprendere il filo dell’Indice de’ nostri libri, ora non altro incomodo reco a VP con questa mia, 
@@ -89,9 +90,7 @@
               Sicchè (dirà VP.) noi abbiam fatto acquisto di un / gran corpo di libri rari, e degni della libreria di un Principe. È verissimo. Dunque (ella segue a dire) questa volta non vi son disgrazie. O
               questo non è vero.
             </p>
-            
-            <pb xml:id="DLCL_CF_E11001_C1V_L" n="1 - Verso" facs=""/>
-            
+            <pb xml:id="DLCL_CF_E11001_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20893/6321.jpg"/>
             <p>
               Anzi ve n’è una grandissima. 
               Quantunque io avessi avvertito il Pagliarini che osservasse se era il corpo intiero, ed egli risposto mi avesse che sì, / trovo che vi mancano i libri di Giosuè, de’ Giudici, di Rut, de’ Re, e de’ Paralipomeni. 
@@ -104,24 +103,33 @@
               Ora intanto mi avvisi Ella la stampa de’ quattro Tomi della Somma di Santo Antonino, se costì è in Libreria, e guardi ogni Tomo distintamente. 
               Altrettanto di bello VP. mi scriva di materie Bibliotecarie, e le farò un’ E viva. 
             </p>
-            
             <closer>
-              <salute>Addio. L’abbraccio caramente, e se[...] DVPMR.</salute> 
-              <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-01-07">7 gennaio 1721</date></dateline>
+              <salute>Addio. L’abbraccio caramente, e se[...] DVPMR.</salute>
+              <dateline>
+                <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
+                <date when-iso="1721-01-07">7 gennaio 1721</date>
+              </dateline>
               <salute>Cordialissimo servitore e Affezionatissimo Padre nel Signore</salute>
-              <signed><persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName></signed>
+              <signed>
+                <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+              </signed>
             </closer>
-            
           </div>
         </body>
       </text>
       <text type="attachment" xml:id="DLCL_CF_E11001_A01" n="Canneti a Fiacchi (Fabriano, 17 Gennaio 1721) - Allegato 1">
         <body>
           <div type="transcription">
+            
+            <pb xml:id="DLCL_CF_E11001_C1R_A01" n="1 - Recto" facs="https://classense.unibo.it/files/large/20893/6320.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E11001_C1V_A01" n="1 - Verso" facs="https://classense.unibo.it/files/large/20895/6324.jpg"/>
+            
+            <pb xml:id="DLCL_CF_E11001_C2R_A01" n="2 - Recto" facs="https://classense.unibo.it/files/large/20895/6325.jpg"/>
+            
           </div>
         </body>
       </text>
     </group>
   </text>
-  
 </TEI>
