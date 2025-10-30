@@ -60,18 +60,20 @@
          <change when-iso="2024-01-29" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">nuove trascrizioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20644/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20857/full/581,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20858/full/582,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25069/full/579,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25070/full/571,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20644/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20857/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20858/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/25069/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25070/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 4 Agosto 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10012_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20857/full/581,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10012_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20857/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -98,7 +100,7 @@
                Per non recarle noia, si tralasci il titolo, ovvero intieramente del frontispizio si lascino trattare le due righe= <foreign xml:lang="la">Ubi et ea</foreign> = nulla importando aggiungerle, come si è fatto per l’addietro.              
             </p>
             
-            <pb xml:id="DLCL_CF_E10012_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20858/full/582,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10012_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20858/full/800,/0/default.jpg"/>
             
             <p>
                Il <persName ref="#DLCL_CF_PC0003">Reverendissimo Galamini</persName> mi scrive aver da <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ricevuti alcuni de’ nostri libri e tra gli altri la <bibl type="print">Bibbia</bibl>. 
@@ -118,9 +120,9 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10012_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25069/full/579,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10012_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/25069/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10012_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25070/full/571,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10012_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25070/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

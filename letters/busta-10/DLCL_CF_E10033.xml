@@ -59,16 +59,18 @@
          <change when-iso="2024-02-21" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20665/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21052/full/608,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21053/full/604,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20665/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21052/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21053/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 7 Aprile 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10033_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21052/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10033_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21052/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Carissimo</salute>
@@ -88,7 +90,7 @@
                Senza dubbio è una bellissima rarità, di cui mi fece dono il <persName ref="#DLCL_CF_PC0138">Padre Maestro Burgos</persName> nella lettera manoscritta antica aggiunta all’  
             </p>
             
-            <pb xml:id="DLCL_CF_E10033_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21053/full/604,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10033_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21053/full/800,/0/default.jpg"/>
             
             <p>
                opera stampata del <persName ref="#DLCL_CF_PC0262">Pirovano</persName>. 

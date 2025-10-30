@@ -60,19 +60,21 @@
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20649/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20875/full/580,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20876/full/590,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/20877/full/601,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24799/full/586,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20649/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20875/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20876/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/20877/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24799/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 26 Febbraio 1715)">
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10017_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20875/full/580,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20875/full/800,/0/default.jpg"/>
             
             <opener>
                <salute>Carissimo <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName></salute>
@@ -102,7 +104,7 @@
                Ho bisogno del <bibl type="print">Libro degli Uomini Illustri Vallombrosani</bibl>, e della <bibl type="print" source="#DLCL_CF_BS0074" cert="unknown">Vita di San Giovan Gualberto</bibl>, ch’è tra’ nostri; dovendo io scrivere di d<gap reason="illegible"/>[...]. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10017_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20876/full/590,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20876/full/800,/0/default.jpg"/>
             
             <p>
                Sono altamente in collera col <persName ref="#DLCL_CF_PC0056">Sancassani</persName>, che mi ha stampato un prezzo di lettera ed ha lasciato ciò, ch’era contro di se. 
@@ -155,9 +157,9 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10017_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24798/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/24798/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10017_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24799/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10017_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24799/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

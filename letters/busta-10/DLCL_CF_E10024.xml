@@ -58,18 +58,20 @@
          <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20656/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21020/full/592,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21021/full/607,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21022/full/593,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21023/full/603,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20656/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21020/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21021/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21022/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21023/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10024_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21020/full/592,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10024_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21020/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -97,7 +99,7 @@
                del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10024_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21021/full/607,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10024_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21021/full/800,/0/default.jpg"/>
             
             <p>
                Ma chi dee tessere le quattro seguenti non può compiere l’opera, se non ha sotto agli occhi tutte le sedici precedenti. 
@@ -119,7 +121,7 @@
                e sull’idea delle altre brevis<pc force="inter">-</pc>
             </p>
             
-            <pb xml:id="DLCL_CF_E10024_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21022/full/593,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10024_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21022/full/800,/0/default.jpg"/>
             
             <p>
                <pc force="inter">-</pc>sime notizie d’<placeName ref="#DLCL_CF_L0026">Italia</placeName>; onde fuggasi l’affettazione, la vanità, e l’invidia; 
@@ -160,7 +162,7 @@
                Mentre ne venivano le copie da <placeName ref="#DLCL_CF_L0038">Olanda</placeName> in <placeName ref="#DLCL_CF_L0026">Italia</placeName>, fu predato il legno da 
             </p>
             
-            <pb xml:id="DLCL_CF_E10024_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21023/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10024_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21023/full/800,/0/default.jpg"/>
             
             <p>
                un <rs type="person">Corsaro Franzese</rs>, onde rare mi persuado che siano le Copie. 

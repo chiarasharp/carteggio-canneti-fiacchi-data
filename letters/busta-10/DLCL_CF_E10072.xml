@@ -59,18 +59,20 @@
          <change when-iso="2024-07-11" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20704/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21175/full/594,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21176/full/631,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21177/full/584,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25095/full/601,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20704/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21175/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21176/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21177/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25095/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 19 Febbraio 1718)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10072_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21175/full/594,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10072_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21175/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -108,7 +110,7 @@
                fra i pontificati de’ quali trascorse un secolo di mezzo. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10072_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21176/full/631,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10072_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21176/full/800,/0/default.jpg"/>
             
             <p>
                Convien dire che <rs type="person" ref="#DLCL_CF_PC0542">l’uno</rs>, e l’altro <persName ref="#DLCL_CF_PC0540">Alessandro</persName> abbiano confermata quella Donazione; 
@@ -149,7 +151,7 @@
                Stava per essere messo sotto al torchio il <bibl type="print">Panegirico del Santo Anello</bibl>, che io non ebbi 
             </p>
             
-            <pb xml:id="DLCL_CF_E10072_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21177/full/584,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10072_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21177/full/800,/0/default.jpg"/>
             
             <p>
                pazienza di ascoltar tutto; onde prima del fine me ne andai; e subito fuor di Chiesa, rivolto al <persName ref="#DLCL_CF_PC0043">Padre Don Pietro</persName>: 
@@ -206,7 +208,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
-            <pb xml:id="DLCL_CF_E10072_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25095/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10072_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25095/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

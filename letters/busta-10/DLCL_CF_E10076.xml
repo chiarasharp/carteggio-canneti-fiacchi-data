@@ -59,19 +59,21 @@
          <change when-iso="2024-07-12" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20708/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21186/full/586,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21187/full/617,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21188/full/582,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25098/full/613,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20708/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21186/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21187/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21188/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25098/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 29 Marzo 1718)">
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10076_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21186/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10076_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21186/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -106,7 +108,7 @@
                <persName ref="#DLCL_CF_PC0228">Salvioni</persName>, che tira molto alle cose volgari, intraprenderà volentieri la ristampa anco della traduzione. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10076_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21187/full/617,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10076_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21187/full/800,/0/default.jpg"/>
             
             <p>
                L’<bibl type="print">Opera franzese del Concilio di Costanza</bibl> non conterrà cosa, che non sia nell’<bibl type="print">Istoria</bibl>, 
@@ -139,7 +141,7 @@
                la quale io con premura, ma inutilmente raccoman<pc force="inter">-</pc>
             </p>
             
-            <pb xml:id="DLCL_CF_E10076_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21188/full/582,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10076_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21188/full/800,/0/default.jpg"/>
             
             <p>
                dai fin dal mese di Gennaio che si facesse per sicura occasione arrivare alle di lei mani. 
@@ -174,7 +176,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>           
             
-            <pb xml:id="DLCL_CF_E10076_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25098/full/613,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10076_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25098/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

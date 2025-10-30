@@ -59,18 +59,20 @@
          <change when-iso="2024-01-30" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20647/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20867/full/583,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20868/full/590,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/20869/full/588,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/20870/full/587,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20647/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20867/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20868/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/20869/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/20870/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 15 Dicembre 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10015_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20867/full/583,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10015_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20867/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Amatissimo</salute>
@@ -100,7 +102,7 @@
                In questo <orgName ref="#DLCL_CF_O0019">Monastero di San Pietro</orgName> ha trovate rarità singolari; e particolarmente una carta pecora insigne 
             </p>
             
-            <pb xml:id="DLCL_CF_E10015_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20868/full/590,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10015_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20868/full/800,/0/default.jpg"/>
             
             <p>
                di certo contraddittorio fatto tra il <persName ref="#DLCL_CF_PC0115">Vescovo Conone</persName> di <placeName ref="#DLCL_CF_L0028">Perugia</placeName> 
@@ -120,13 +122,13 @@
             </p>
             
             <p>
-               Il <persName ref="#DLCL_CF_PC0120">Padre Ferranti</persName> mi richiedé che seguitassi a farlo provvedere del <bibl type="print" source="#DLCL_CF_BS0026">Giornale</bibl>. 
+               Il <persName ref="#DLCL_CF_PC0178">Padre Ferranti</persName> mi richiedé che seguitassi a farlo provvedere del <bibl type="print" source="#DLCL_CF_BS0026">Giornale</bibl>. 
                Gli diedi intenzione di farlo, avvisando che alle quattro copie se ne poteva aggiunger un'altra per esso. 
                Ma poscia mi scordai. 
                Ora gli scrivo che se l’intenda con <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>, che avrà modo di far 
             </p>
             
-            <pb xml:id="DLCL_CF_E10015_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20869/full/588,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10015_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20869/full/800,/0/default.jpg"/>
             
             <p>
                venire il quinto esemplare, per mezzo del <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName>. 
@@ -155,7 +157,7 @@
                Desidero Sapere se era 
             </p>
             
-            <pb xml:id="DLCL_CF_E10015_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/20870/full/587,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10015_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20870/full/800,/0/default.jpg"/>
             
             <p>
                l’istromento autentico portato dal <persName ref="#DLCL_CF_PC0126">Ghirardacci</persName> quel che il detto Signore costà recò alla sua venuta. 

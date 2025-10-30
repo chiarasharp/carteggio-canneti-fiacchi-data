@@ -59,18 +59,20 @@
             <change when-iso="2024-09-03" who="#DLCL_CF_PS001">creato</change>
             <change when-iso="2024-09-19" who="#DLCL_CF_PS001">correzioni</change>
             <change when-iso="2024-11-24" who="#DLCL_CF_PS001">correzioni</change>
+            <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
         </revisionDesc>
     </teiHeader>
-    <facsimile sameAs="https://classense.unibo.it/iiif/20759/manifest">
-        <graphic n="1r" url="https://classense.unibo.it/iiif/2/21310/full/531,800/0/default.jpg"/>
-        <graphic n="1v" url="https://classense.unibo.it/iiif/2/21311/full/657,800/0/default.jpg"/>
-        <graphic n="2r" url="https://classense.unibo.it/iiif/2/21312/full/479,800/0/default.jpg"/>
-        <graphic n="2v" url="https://classense.unibo.it/iiif/2/21313/full/658,800/0/default.jpg"/>
+    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20759/manifest">
+        <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21310/full/800,/0/default.jpg"/>
+        <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21311/full/800,/0/default.jpg"/>
+        <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21312/full/800,/0/default.jpg"/>
+        <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21313/full/800,/0/default.jpg"/>
     </facsimile>
     <text type="letter" n="Canneti a Fiacchi (Fabriano, 27 Settembre 1720)">
         <body>
             <div type="transcription">
-                <pb xml:id="DLCL_CF_E10127_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21310/full/531,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10127_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21310/full/800,/0/default.jpg"/>
                 
                 <opener>
                     <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -96,7 +98,7 @@
                     ch’è tornato senza detto <bibl type="print">Catalogo</bibl>, e perciò è piccolissimo in paragone degli altri due. 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10127_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21311/full/657,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10127_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21311/full/800,/0/default.jpg"/>
                 
                 <p>
                     Ch’è dunque stato di quel <bibl type="print">Catalogo</bibl>? 
@@ -128,7 +130,7 @@
                     e quivi nella Città di <placeName ref="#DLCL_CF_L0148">Cosenza</placeName> trattenersi ad insegnar lettere umane. 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10127_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21312/full/479,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10127_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21312/full/800,/0/default.jpg"/>
                 
                 <p>
                     Altronde si ha che fioriva a quella stagione nella <placeName ref="#DLCL_CF_L0149">Terra di S. Elpidio</placeName> 
@@ -160,7 +162,7 @@
                     <hi rend="underline"><foreign xml:lang="la">Parmae Dominus</foreign></hi> 
                 </p>
                 
-                <pb xml:id="DLCL_CF_E10127_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21313/full/658,800/0/default.jpg"/>
+                <pb xml:id="DLCL_CF_E10127_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21313/full/800,/0/default.jpg"/>
                 
                 <p>
                     Mi saluti caramente il <persName ref="#DLCL_CF_PC0121">Padre Lettore Guiccioli</persName>: lo faccia guarire, se non è guarito: e si guardi per sé dall’ammalarsi. 

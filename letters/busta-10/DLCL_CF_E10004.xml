@@ -53,18 +53,20 @@
          <change when-iso="2024-04-16" who="#DLCL_CF_PS001">riferimenti stampe</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-20" who="#DLCL_CF_PS001">nuove trascrizioni buste</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20636/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20821/full/584,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20822/full/570,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24834/full/579,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24835/full/567,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20636/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20821/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20822/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/24834/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24835/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Ribano, 19 Ottobre 1712)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10004_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20821/full/584,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10004_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20821/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -93,7 +95,7 @@
                Se vi rimane carta bianca, ancor essa può aggiungersi dopo il Decreto. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10004_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20822/full/570,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10004_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20822/full/800,/0/default.jpg"/>
             
             <p>
                Riceva il viaggio di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> a <placeName ref="#DLCL_CF_L0016">Bagnacavallo</placeName> il merito della santa ubbidienza, col quale vada pure ad accompagnare <persName ref="#DLCL_CF_PC0028">Don Germano</persName>, al quale senza tal compagnia non gliene darei la licenza. 
@@ -142,9 +144,9 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10004_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24834/full/579,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10004_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/24834/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10004_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24835/full/567,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10004_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24835/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

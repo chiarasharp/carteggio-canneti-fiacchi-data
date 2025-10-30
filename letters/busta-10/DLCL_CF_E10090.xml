@@ -60,24 +60,26 @@
          <change when-iso="2024-07-17" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20722/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21220/full/580,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21221/full/626,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25110/full/570,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25111/full/612,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20722/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21220/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21221/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/25110/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25111/full/800,/0/default.jpg"/>
    </facsimile>
-   <facsimile sameAs="https://classense.unibo.it/iiif/21222/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21223/full/570,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/25112/full/624,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/21222/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21223/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/25112/full/800,/0/default.jpg"/>
    </facsimile>
    <text>
       <group>
          <text type="letter" xml:id="DLCL_CF_E10090_L" n="Canneti a Fiacchi (Perugia, 10 Dicembre 1718) - Lettera">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10090_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21220/full/580,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21220/full/800,/0/default.jpg"/>
                   
                   <opener>
                      <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -107,7 +109,7 @@
                      insieme con cinque altri, che nella relazione si dicevano disperati. 
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10090_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21221/full/626,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21221/full/800,/0/default.jpg"/>
                   
                   <p>
                      Riceverò volentieri la <bibl type="print">Scanzia ultima</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName> col <bibl type="print">Giornale trentesimo</bibl>. 
@@ -159,9 +161,9 @@
                      <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                   </closer>
                   
-                  <pb xml:id="DLCL_CF_E10090_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25110/full/570,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/25110/full/800,/0/default.jpg"/>
                   
-                  <pb xml:id="DLCL_CF_E10090_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25111/full/612,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25111/full/800,/0/default.jpg"/>
                   
                   <postscript>
                      <p>
@@ -176,7 +178,7 @@
             <body>
                <div type="transcription">
                   
-                  <pb xml:id="DLCL_CF_E10090_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21223/full/570,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21223/full/800,/0/default.jpg"/>
                   
                   <p>
                      <handShift scribeRef="#DLCL_CF_PC0002"/>
@@ -191,7 +193,7 @@
                      </foreign>
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10090_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25112/full/624,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10090_A01_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25112/full/800,/0/default.jpg"/>
                   
                </div>
             </body>

@@ -1,3 +1,25 @@
 .DS_Store
 epistolario-canneti-fiacchi-data.xpr
 newProject.xpr
+.ipynb_checkpoints/
+letters/busta-11/.ipynb_checkpoints/*
+transcriptions/.ipynb_checkpoints/*
+transcriptions/*
+
+# Old/deprecated scripts (replaced by update-iiif-urls.py)
+check-url-sources.py
+update_xml_with_iiif.py
+update-pb-iiif-urls.js
+update_facsimile_and_pb.ipynb
+
+# Backup files
+*.backup
+SCRIPTS.md
+
+# Internal workflow files (not for public)
+scripts/
+WORKFLOW.md
+transcriptions/
+UFFICIALE*.docx
+letters/busta-10/iiif-update-report.md
+letters/busta-10/url-sources-report.md

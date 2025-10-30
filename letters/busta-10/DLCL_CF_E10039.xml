@@ -60,20 +60,22 @@
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20671/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21072/full/609,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21073/full/618,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21074/full/603,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21075/full/605,800/0/default.jpg"/>
-      <graphic n="3r" url="https://classense.unibo.it/iiif/2/21076/full/611,800/0/default.jpg"/>
-      <graphic n="3v" url="https://classense.unibo.it/iiif/2/24817/full/614,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20671/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21072/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21073/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21074/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21075/full/800,/0/default.jpg"/>
+      <graphic n="3r" url="https://www.cdc.classense.ra.it/iiif/2/21076/full/800,/0/default.jpg"/>
+      <graphic n="3v" url="https://www.cdc.classense.ra.it/iiif/2/24817/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 7 Novembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10039_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21072/full/609,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21072/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendissimo Padre mio Osservandissimo</rs></salute>
@@ -100,7 +102,7 @@
                si perché è <bibl type="religious">Officio della Beata Vergine</bibl>, si perché questo è doppio maggiore. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10039_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21073/full/618,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21073/full/800,/0/default.jpg"/>
             
             <p>
                Mi persuado adunque che assolutamente, e in termini generali, secondo il suo stile la <orgName ref="#DLCL_CF_O0012">Sacra Congregazione</orgName>  
@@ -130,7 +132,7 @@
                Così potranno soddisfarsi quei, che hanno zelo di fare del Santo Padre, <gap reason="illegible"/>[...] 
             </p>
             
-            <pb xml:id="DLCL_CF_E10039_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21074/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21074/full/800,/0/default.jpg"/>
             
             <p>
                <pc force="inter">-</pc>co in occorrenza de’ semidoppi di precetto: e insieme potran fare di <persName ref="#DLCL_CF_PC0290">San Canuto</persName> quei, 
@@ -162,7 +164,7 @@
                Ma il danaro non compensa ad un’Uomo Insigne la perdita 
             </p>
             
-            <pb xml:id="DLCL_CF_E10039_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21075/full/605,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21075/full/800,/0/default.jpg"/>
             
             <p>
                del tempo destinato alle Opere, che aspetta il mondo, e la posterità. 
@@ -198,7 +200,7 @@
                Confido che per me pregherà, e per gli suoi Confratelli in luogo di salute. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10039_L_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21076/full/611,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C3R" n="3 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21076/full/800,/0/default.jpg"/>
             
             <p>
                Il <persName ref="#DLCL_CF_PC0006">Padre Amici</persName> in quest’ordinario mi scrive essere uscito <bibl type="religious">Decreto</bibl> 
@@ -258,7 +260,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10039_L_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/24817/full/614,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10039_L_C3V" n="3 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24817/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

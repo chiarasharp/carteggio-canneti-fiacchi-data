@@ -60,20 +60,22 @@
          <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20658/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21027/full/598,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21028/full/593,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21029/full/590,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21030/full/598,800/0/default.jpg"/>
-      <graphic n="3r" url="https://classense.unibo.it/iiif/2/21031/full/570,800/0/default.jpg"/>
-      <graphic n="3v" url="https://classense.unibo.it/iiif/2/24806/full/592,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20658/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21027/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21028/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21029/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21030/full/800,/0/default.jpg"/>
+      <graphic n="3r" url="https://www.cdc.classense.ra.it/iiif/2/21031/full/800,/0/default.jpg"/>
+      <graphic n="3v" url="https://www.cdc.classense.ra.it/iiif/2/24806/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 16 Novembre 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10026_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21027/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21027/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Amatissimo</salute>
@@ -106,7 +108,7 @@
                (che perciò sono <foreign xml:lang="la">ad libitum</foreign>, e il libito qui è ragionevole, ed è 
             </p>
             
-            <pb xml:id="DLCL_CF_E10026_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21028/full/593,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21028/full/800,/0/default.jpg"/>
             
             <p>
                anzi necessità) e lasciar’ancora per tal motivo qualche volta l’<bibl type="religious">officio del Santo Padre</bibl> fer. 3a. 
@@ -143,7 +145,7 @@
                Riceverò, quando che sia, la <bibl type="print" source="#DLCL_CF_BS0101">Scanzia XVII</bibl> regalatami dal <persName ref="#DLCL_CF_PC0056">Signor Sancassani</persName> 
             </p>
             
-            <pb xml:id="DLCL_CF_E10026_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21029/full/590,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21029/full/800,/0/default.jpg"/>
             
             <p>
                * Immagatito. 
@@ -182,7 +184,7 @@
                perché anticamente nelle Chiese non si riponevano i cadaveri de’ fedeli; ma ne’ cimiteri, o conditorj, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10026_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21030/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21030/full/800,/0/default.jpg"/>
             
             <p>
                o al di più ne’ Saccelli, o Capelle contigue al corpo della Chiesa, che l’<persName ref="#DLCL_CF_PC0206">Agnello</persName> 
@@ -227,7 +229,7 @@
                Con un poco poi di comodo aspetto copia dell’
             </p>
             
-            <pb xml:id="DLCL_CF_E10026_L_C3R" n="3 - Recto" facs="https://classense.unibo.it/iiif/2/21031/full/570,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C3R" n="3 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21031/full/800,/0/default.jpg"/>
             
             <p>
                <bibl type="religious">Istromento della donazione dello Spedale della Misericordia</bibl>, da cotesto nostro <orgName ref="#DLCL_CF_O0001">Archivio</orgName>. 
@@ -258,7 +260,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
           
-            <pb xml:id="DLCL_CF_E10026_L_C3V" n="3 - Verso" facs="https://classense.unibo.it/iiif/2/24806/full/592,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10026_L_C3V" n="3 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24806/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

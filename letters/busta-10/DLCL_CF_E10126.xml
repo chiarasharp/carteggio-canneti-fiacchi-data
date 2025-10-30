@@ -59,24 +59,26 @@
             <change when-iso="2024-09-03" who="#DLCL_CF_PS001">creato</change>
             <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
             <change when-iso="2024-11-24" who="#DLCL_CF_PS001">nuove trascrizioni</change>
+            <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
         </revisionDesc>
     </teiHeader>
-    <facsimile sameAs="https://classense.unibo.it/iiif/20758/manifest">
-        <graphic n="1r" url="https://classense.unibo.it/iiif/2/21307/full/531,800/0/default.jpg"/>
-        <graphic n="1v" url="https://classense.unibo.it/iiif/2/25239/full/616,800/0/default.jpg"/>
-        <graphic n="2r" url="https://classense.unibo.it/iiif/2/25240/full/475,800/0/default.jpg"/>
-        <graphic n="2v" url="https://classense.unibo.it/iiif/2/25241/full/617,800/0/default.jpg"/>
+    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20758/manifest">
+        <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21307/full/800,/0/default.jpg"/>
+        <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/25239/full/800,/0/default.jpg"/>
+        <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/25240/full/800,/0/default.jpg"/>
+        <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25241/full/800,/0/default.jpg"/>
     </facsimile>
-    <facsimile sameAs="https://classense.unibo.it/iiif/21308/manifest">
-        <graphic n="1r" url="https://classense.unibo.it/iiif/2/21309/full/495,800/0/default.jpg"/>
-        <graphic n="1v" url="https://classense.unibo.it/iiif/2/25242/full/607,800/0/default.jpg"/>
+    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/21308/manifest">
+        <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21309/full/800,/0/default.jpg"/>
+        <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/25242/full/800,/0/default.jpg"/>
     </facsimile>
     <text>
         <group>
             <text type="letter" xml:id="DLCL_CF_E10126_L" n="Canneti a Fiacchi (Fabriano, 16 Settembre 1720) - Lettera">
                 <body>
                     <div type="transcription">
-                        <pb xml:id="DLCL_CF_E10126_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21307/full/531,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21307/full/800,/0/default.jpg"/>
                         
                         <opener>
                             <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -114,11 +116,11 @@
                             <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                         </closer>
                         
-                        <pb xml:id="DLCL_CF_E10126_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25239/full/616,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25239/full/800,/0/default.jpg"/>
                         
-                        <pb xml:id="DLCL_CF_E10126_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25240/full/475,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/25240/full/800,/0/default.jpg"/>
                         
-                        <pb xml:id="DLCL_CF_E10126_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25241/full/617,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25241/full/800,/0/default.jpg"/>
                         
                         <postscript>
                             <p>
@@ -134,7 +136,7 @@
                 <body>
                     <div type="transcription">
                         
-                        <pb xml:id="DLCL_CF_E10126_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21309/full/495,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21309/full/800,/0/default.jpg"/>
                         
                         <p>
                             <bibl type="print">Compilazione de’ Privilegi della Casa Meniconi</bibl> fol. 
@@ -185,7 +187,7 @@
                             <bibl type="print">Vita S. Caroli</bibl> da legare, e rimandare.
                         </p>
                         
-                        <pb xml:id="DLCL_CF_E10126_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25242/full/607,800/0/default.jpg"/>
+                        <pb xml:id="DLCL_CF_E10126_A01_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25242/full/800,/0/default.jpg"/>
                         
                     </div>
                 </body>

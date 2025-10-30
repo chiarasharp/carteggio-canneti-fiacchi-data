@@ -59,18 +59,20 @@
          <change when-iso="2024-08-19" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-17" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20735/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21249/full/562,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21250/full/610,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21251/full/571,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21252/full/610,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20735/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21249/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21250/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21251/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21252/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 25 Agosto 1719)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10103_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21249/full/562,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10103_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21249/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -94,7 +96,7 @@
                che mi recherà il <persName ref="#DLCL_CF_PC0259">Padre Bianconi</persName>, Iddio sà quando, da <placeName ref="#DLCL_CF_L0008">Roma</placeName>.
             </p>
             
-            <pb xml:id="DLCL_CF_E10103_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21250/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10103_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21250/full/800,/0/default.jpg"/>
             
             <p>
                
@@ -152,7 +154,7 @@
                colle testimonianze degli autori molti in lode di <persName ref="#DLCL_CF_PC0153">Cicerone</persName>.
             </p>
             
-            <pb xml:id="DLCL_CF_E10103_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21251/full/571,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10103_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21251/full/800,/0/default.jpg"/>
             
             <p>
                Il Tomo è grossissimo, e corredato di annotazioni a penna di un valentuomo. 
@@ -197,7 +199,7 @@
                la quale mi ricordo aver pagata in <placeName ref="#DLCL_CF_L0005">Faenza</placeName> 15 paoli.
             </p>
             
-            <pb xml:id="DLCL_CF_E10103_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21252/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10103_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21252/full/800,/0/default.jpg"/>
             
             <p>
                Ma nel suo genere è stimabilissimo il <bibl type="print">Concilio in folio di stampa</bibl> di <placeName ref="#DLCL_CF_L0133">Lovanio</placeName>, 

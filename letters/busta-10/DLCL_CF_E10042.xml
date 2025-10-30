@@ -60,18 +60,20 @@
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20674/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21082/full/608,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21083/full/601,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21084/full/610,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24819/full/608,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20674/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21082/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21083/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21084/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24819/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 21 Novembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10042_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21082/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10042_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21082/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -101,7 +103,7 @@
                i sentimenti dell’animo, quando con accrescimento di dispiacere ricevei uno pezzo 
             </p>
             
-            <pb xml:id="DLCL_CF_E10042_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21083/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10042_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21083/full/800,/0/default.jpg"/>
             
             <p>
                di lettera dell’Illustrissimo <persName ref="#DLCL_CF_PC0077">Nigrisoli</persName>, che da altri non poteva venirmi che da lui. 
@@ -131,7 +133,7 @@
                sopra il <persName ref="#DLCL_CF_PC0025">Petrarca</persName> (ma mi aveggo non 
             </p>
             
-            <pb xml:id="DLCL_CF_E10042_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21084/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10042_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21084/full/800,/0/default.jpg"/>
             
             <p>
                esser questa nota: segno è che già trovasi in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>).  
@@ -156,7 +158,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>        
             
-            <pb xml:id="DLCL_CF_E10042_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24819/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10042_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24819/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

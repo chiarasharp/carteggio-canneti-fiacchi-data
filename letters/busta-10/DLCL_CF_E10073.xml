@@ -59,18 +59,20 @@
          <change when-iso="2024-07-11" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20705/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21178/full/589,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21179/full/610,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21180/full/596,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25096/full/612,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20705/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21178/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21179/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21180/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25096/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 5 Marzo 1718)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10073_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21178/full/589,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10073_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21178/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -104,7 +106,7 @@
                stà aggiunta l’<bibl type="print">Opera Cabalistica</bibl> del <persName ref="#DLCL_CF_PC0525">Reuclino</persName>, ch’è stimatissima, e rara al maggior segno. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10073_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21179/full/610,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10073_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21179/full/800,/0/default.jpg"/>
             
             <p>
                Quando efficacemente si voglia l’acquisto dell’ultimo <bibl type="print">Tomo Bollandiano</bibl>, 
@@ -145,7 +147,7 @@
                Questa gli concilia credito, e concorso. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10073_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21180/full/596,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10073_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21180/full/800,/0/default.jpg"/>
             
             <p>
                È finita di stampar la <bibl type="print">Dissertazione</bibl> del <persName ref="#DLCL_CF_PC0114">Padre Quirini</persName> = 
@@ -174,7 +176,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
 
-            <pb xml:id="DLCL_CF_E10073_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25096/full/612,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10073_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25096/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

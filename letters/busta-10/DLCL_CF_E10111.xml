@@ -59,16 +59,18 @@
          <change when-iso="2024-08-21" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-18" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20743/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21271/full/539,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21272/full/609,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20743/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21271/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21272/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 5 Febbraio 1720)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10111_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21271/full/539,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10111_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21271/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -105,7 +107,7 @@
                i quali sommamente inquietavano chi era vicino di camera a’ <persName ref="#DLCL_CF_PC0147">Caramelli</persName>; ed io era uno
             </p>
             
-            <pb xml:id="DLCL_CF_E10111_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21272/full/609,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10111_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21272/full/800,/0/default.jpg"/>
             
             <p>
                che visse intorno alla metà del secolo XIII scritta a <persName ref="#DLCL_CF_PC0730">Don Angelo</persName> nostro Generale; e gli dà dell’<hi rend="underline">Altezza</hi>. 

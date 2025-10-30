@@ -59,24 +59,26 @@
          <change when-iso="2024-07-09" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-13" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20699/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21165/full/595,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21166/full/618,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21167/full/595,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25091/full/614,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20699/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21165/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21166/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21167/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25091/full/800,/0/default.jpg"/>
    </facsimile>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20700/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21168/full/590,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/24768/full/618,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20700/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21168/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/24768/full/800,/0/default.jpg"/>
    </facsimile>
    <text>
       <group>
          <text type="letter" xml:id="DLCL_CF_E10067_L" n="Canneti a Fiacchi (31 Gennaio/1 Febbraio 1718) - Lettera">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10067_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21165/full/595,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21165/full/800,/0/default.jpg"/>
                   
                   <opener>
                      <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Carissimo</salute>
@@ -109,7 +111,7 @@
                      </cit>
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10067_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21166/full/618,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21166/full/800,/0/default.jpg"/>
                   
                   <p>
                      <cit>
@@ -146,7 +148,7 @@
                      e per certa <bibl type="print">Operetta di difesa contra i Giornalisti</bibl>. 
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10067_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21167/full/595,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21167/full/800,/0/default.jpg"/>
                   
                   <p>
                      Mi rallegro delli <bibl type="print">due Valemburch</bibl>. 
@@ -187,7 +189,7 @@
                      <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                   </closer>            
                   
-                  <pb xml:id="DLCL_CF_E10067_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25091/full/614,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25091/full/800,/0/default.jpg"/>
                   
                   <postscript>
                      <p>
@@ -201,7 +203,7 @@
          <text type="attachment" xml:id="DLCL_CF_E10067_A01" n="Canneti a Fiacchi (31 Gennaio/1 Febbraio 1718) - Allegato 1">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10067_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21168/full/590,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21168/full/800,/0/default.jpg"/>
                   
                   <p>
                      Casus resolvendi a Reverendis Patribus Theologis
@@ -248,7 +250,7 @@
                      Quaeritur, an contrafecerint piae Testatoris intentioni; et sua Reverentia teneatur ad restitutionem stipendij male percepti.
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10067_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/24768/full/618,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10067_A01_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24768/full/800,/0/default.jpg"/>
                   
                </div>
             </body>

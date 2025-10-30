@@ -60,19 +60,21 @@
          <change when-iso="2024-02-08" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20648/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20871/full/590,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20872/full/581,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/20873/full/572,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24796/full/589,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20648/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20871/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20872/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/20873/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24796/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 1 Gennaio 1715)">
       <body>
          <div type="transcription">
             
-            <pb xml:id="DLCL_CF_E10016_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20871/full/590,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10016_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20871/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -103,7 +105,7 @@
                Ma non so di quanto peso sia, né quanto fondata la conghiettura. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10016_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20872/full/581,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10016_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20872/full/800,/0/default.jpg"/>
             
             <p>
                Mille ringraziamenti per gli annunzi cortesi, e figliali, di buone feste a lei ed al nostro <persName ref="#DLCL_CF_PC0090">Don Leandro</persName>, 
@@ -132,7 +134,7 @@
                Aspetto il <bibl type="print" source="#DLCL_CF_BS0001" cert="unknown">Nigrisoli</bibl> ultimo, e l’altro primo, la <bibl type="print" source="#DLCL_CF_BS0061">Servile Imitazione</bibl> del <persName ref="#DLCL_CF_PC0113">Zapatta</persName>, e 
             </p>
             
-            <pb xml:id="DLCL_CF_E10016_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20873/full/572,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10016_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20873/full/800,/0/default.jpg"/>
             
             <p>
                dica al <persName ref="#DLCL_CF_PC0144">Padre Lettore Fondi</persName> che ricevo oggi una lettera del <persName ref="#DLCL_CF_PC0145">Signore Bartolomeo Castellini</persName> di <placeName ref="#DLCL_CF_L0043">Forlì</placeName>, 
@@ -183,7 +185,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10016_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24796/full/589,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10016_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24796/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

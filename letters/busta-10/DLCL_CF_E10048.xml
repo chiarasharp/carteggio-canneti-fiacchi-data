@@ -60,18 +60,20 @@
          <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20680/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21100/full/583,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21101/full/620,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21102/full/616,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24826/full/636,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20680/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21100/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21101/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21102/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24826/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Gennaio 1717)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10048_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21100/full/583,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10048_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21100/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -103,7 +105,7 @@
                Utile in tal caso sarebbe <del rend="overstrike">più</del> non dispendiosa la stampa del nostro <bibl type="religious">Calendario</bibl>. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10048_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21101/full/620,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10048_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21101/full/800,/0/default.jpg"/>
             
             <p>
                Nessuna copia finora è giunta in <placeName ref="#DLCL_CF_L0028">questa Città</placeName> del <bibl type="print">XXV Giornale</bibl>, che io aspetto con gran desiderio, 
@@ -144,7 +146,7 @@
                Trovata che io l’abbia, prometto che la manderò subito, bastano 
             </p>
             
-            <pb xml:id="DLCL_CF_E10048_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21102/full/616,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10048_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21102/full/800,/0/default.jpg"/>
             
             <p>
                a me ritenerne copia. 
@@ -190,7 +192,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10048_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24826/full/636,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10048_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24826/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

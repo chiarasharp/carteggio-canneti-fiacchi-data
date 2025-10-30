@@ -60,18 +60,20 @@
          <change when-iso="2024-03-20" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20659/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21032/full/593,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21033/full/599,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21034/full/608,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24807/full/608,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20659/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21032/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21033/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21034/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24807/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 23 Novembre 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10027_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21032/full/593,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10027_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21032/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> Amatissimo</salute>
@@ -101,7 +103,7 @@
                che caris<gap reason="illegible"/>[...] cotesti pochi stracci <gap reason="illegible"/>[...] nostri libri, il quale quanto <gap reason="illegible"/>[...]
             </p>
             
-            <pb xml:id="DLCL_CF_E10027_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21033/full/599,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10027_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21033/full/800,/0/default.jpg"/>
             
             <p>
                La ringrazio della testimonianza tratta dall’opera <bibl type="print" source="#DLCL_CF_BS0110" cert="unknown">Cronologia</bibl> di <persName>Seto Calvisio</persName> 
@@ -130,7 +132,7 @@
                e questa emendazione di lui sta nella libreria di S<gap reason="illegible"/>[...]
             </p>
             
-            <pb xml:id="DLCL_CF_E10027_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21034/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10027_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21034/full/800,/0/default.jpg"/>
             
             <p>
                Murano ch’è diversissimo da quella del Laureto, e dall’altra di <persName ref="#DLCL_CF_PC0219">Angelo della Noce</persName> che ambe sono in cotesta <orgName ref="#DLCL_CF_O0001">Biblioteca</orgName>. 
@@ -167,7 +169,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>            
             
-            <pb xml:id="DLCL_CF_E10027_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24807/full/608,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10027_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24807/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>
