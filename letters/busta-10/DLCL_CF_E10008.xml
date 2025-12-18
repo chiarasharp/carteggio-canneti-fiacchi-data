@@ -124,7 +124,7 @@
                Si prenda pur cura <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
                di ricuperare la <bibl type="print" source="#DLCL_CF_BS0011">Scanzia</bibl> del <persName ref="#DLCL_CF_PC0038">Cinelli</persName>, 
                e la unisca alle altre, osservando se ora il Corpo sia intiero, e come possa legarsi con meno deformità possibile. 
-               Godo che i libri del <persName ref="#DLCL_CF_PC0011">Volpi</persName> siano arrivati. 
+               Godo che i libri del <persName ref="#DLCL_CF_PC0011 #DLCL_CF_PC518">Volpi</persName> siano arrivati. 
                <bibl type="print" source="#DLCL_CF_BS0020">Le Satire</bibl> del <persName ref="#DLCL_CF_PC0045">Duca di Bracciano</persName> (se non erro) dovranno segnarsi alla lettera O; 
                essendo l’Autor di Casa Orsini. 
                Vegga nell’<bibl type="print" source="#DLCL_CF_BS0021" cert="unknown">Indice Imperialense</bibl>. 
@@ -140,7 +140,7 @@
             <pb xml:id="DLCL_CF_E1E10008_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20841/full/800,/0/default.jpg"/>
             
             <p>
-               ticolare il <bibl type="print">Tomai</bibl>, anzi il <persName ref="#DLCL_CF_PC0011">Signor Volpi</persName> ne fece a me dono. 
+               ticolare il <bibl type="print">Tomai</bibl>, anzi il <persName ref="#DLCL_CF_PC0011 #DLCL_CF_PC0518">Signor Volpi</persName> ne fece a me dono. 
                Mi favorisca pertanto riporlo, com’è dovere, tra’ nostri libri. 
                Anzi avrei caro averlo presso di me. 
                Lo mandi dunque co’ i tre tomi del <bibl type="print" source="#DLCL_CF_BS0012">Giornale XVI</bibl>, che già lessi in <placeName ref="#DLCL_CF_L0029">Loreto</placeName>. 
