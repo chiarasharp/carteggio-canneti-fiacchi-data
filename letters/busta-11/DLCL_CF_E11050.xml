@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 6. 9bre 1722.)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt>
@@ -14,7 +14,7 @@
          <seriesStmt>
             <title type="main">Carteggio Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
-            <biblScope unit="letter"></biblScope>
+            <biblScope unit="letter">50</biblScope>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
@@ -22,7 +22,18 @@
                   <country key="IT">Italia</country>
                   <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+                  <repository></repository>
+                  <collection></collection>
+                  <idno></idno>
+                  <altIdentifier>
+                     <idno></idno>
+                  </altIdentifier>
                </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <incipit>Puntualmente ho fatto riconoscere il conto tra i due Padri Camerlenghi...</incipit>
+                  </msItem>
+               </msContents>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -30,8 +41,8 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-               <date when-iso=""/>
-               <placeName ref="" key=""></placeName>
+               <date when-iso="1722-11-06"/>
+               <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -50,59 +61,35 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="">
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
       <graphic n="1r" url=""/>
       <graphic n="1v" url=""/>
-      <graphic n="2r" url=""/>
-      <graphic n="2v" url=""/>
-      <graphic n="3r" url=""/>
-      <graphic n="3v" url=""/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (, )">
+   <text type="letter" n="Canneti a Fiacchi (Fabriano, 6. 9bre 1722.)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E11._C1R" n="1 - Recto" facs=""/>
-            
+            <pb xml:id="DLCL_CF_E11050_C1R" n="1 - Recto" facs=""/>
             <opener>
-               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
+               <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
             </opener>
-            
-            <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>
-            <rs type="person" ref="#DLCL_CF_PC0002">Paternità Vostra</rs>
-            <bibl type="manuscript"></bibl>
-            <pc force="inter">-</pc>
-            <foreign xml:lang="la"></foreign>
-            <hi rend="underline"></hi>
-            <del rend="overstrike"></del>
-            <gap reason="illegible"/>
-            <cit>
-                  <quote>
-                  </quote>
-            </cit>
-            
-           
-            <pb xml:id="DLCL_CF_E11._C1V" n="1 - Verso" facs=""/>
-            
+            <p>Puntualmente ho fatto riconoscere il conto tra i due <rs type="person" ref="#DLCL_CF_PC0971"><rs type="person" ref="">Padri Camerlenghi</rs></rs>; ed è questo. Debito del <persName ref="#DLCL_CF_PC0971">Padre Bolognetti</persName></p>
+            <p>Per <rs type="print">Calendari</rs> 24. dell’anno 1721. a bai. 6. – 1:44</p>
+            <p>Per <rs type="print">Detti</rs> n. 24. dell’anno 1722. a bai. 4 – -:96</p>
+            <p>                     Credito del medesimo	– 2:40</p>
+            <p>Per <rs type="print">Tarantello</rs> mandato a <persName ref="#DLCL_CF_PC0704">Frate Marino</persName> – 1:82</p>
+            <p>                  Resta il debito 		– -:58</p>
+            <p>La qual somma di bai. 58. favorisca, se ha alcun danaro de nostra ragione contarla a cotesto <rs type="person" ref="">Padre Camerlengo</rs> per saldo del soprascritto conto, riverendolo caramente in mio nome. Alle lettere di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ho risposto con altra mia, che le sarà recata dal <rs type="person" ref="#">Padre Priore</rs> partito di quà Lunedì mattina: onde non avendo che aggiungere, resto confermandomi di tutto cuore.</p>
             <closer>
-               <salute>DVP</salute>
-               <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
-               <salute>Affettuosissimo Padre nel Signore</salute> 
+                <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-11-06">6. 9bre 1722.</date></dateline>
+                <salute>DVPMR</salute>,<p>la qual mi mandi subito il nome del <persName ref="#DLCL_CF_PC1011">Von den Hart</persName>, il Tomo, il cap. e pag. dell’Iscrizione, o per meglio dire sottoscrizione. Volti carta</p>
+                <salute>Cordialissimo Servo Vero</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
-            
-            <pb xml:id="DLCL_CF_E11.._C2R" n="2 - Recto" facs=""/>
-            
-            <pb xml:id="DLCL_CF_E11..._C2V" n="2 - Verso" facs=""/>
-            
-           <postscript>
-               <p>
-                  Al molto Reverendo Padre mio Osservandissimo il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                  <placeName ref="#DLCL_CF_L0020">Classe</placeName> <placeName ref="#DLCL_CF_L0002">Ravenna</placeName>
-               </p>
-            </postscript>
+            <pb xml:id="DLCL_CF_E11050_C1V" n="1 - Verso" facs=""/>
+            <p>Tra i Manoscritti ve n’hà uno (parmi in 4.to, e in pergamena) con una <bibl type="manuscript">Lettera Dedicatoria</bibl> al <persName ref="#DLCL_CF_PC0972">Bambagiuoli Bolognese</persName> e parmi sia di un <rs type="person" ref="#">Domenicano Riminese</rs>. Ne troverà forse notizia nel mio <bibl type="manuscript">Catalogo de’ Manoscritti</bibl> che mandai imperfetto. Ne vorrei notizia, o copia di essa lette[ra] come stima Ella meglio.</p>
          </div>
       </body>
    </text>
