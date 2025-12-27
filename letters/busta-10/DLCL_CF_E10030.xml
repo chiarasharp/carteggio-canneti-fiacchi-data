@@ -59,18 +59,20 @@
          <change when-iso="2024-02-15" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20662/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21042/full/601,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21043/full/605,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21044/full/597,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/21045/full/602,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20662/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21042/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21043/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21044/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21045/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 21 Gennaio 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10030_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21042/full/601,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21042/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -105,7 +107,7 @@
                né mi ricordo in quali sentimenti precisamente prorompesse il mio lamento, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21043/full/605,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21043/full/800,/0/default.jpg"/>
             
             <p>
                che so di certo essere stato breve, e non caricato, tale in somma, che non mi dispiacerebbe fosse pubblicato eziandio colle stampe. 
@@ -135,7 +137,7 @@
                ch’era giustissimo, stimo spediente, e necessario astenersi 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21044/full/597,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21044/full/800,/0/default.jpg"/>
             
             <p>
                dal comunicar seco per via di lettere, e di confidenza. 
@@ -169,7 +171,7 @@
                Sabbato risponderò, e penserò il modo di soddisfare alle sue richieste. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10030_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/21045/full/602,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10030_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21045/full/800,/0/default.jpg"/>
             
             <p>
                Veda un poco se nell’<bibl type="manuscript">Istoria manoscritta</bibl> del <persName ref="#DLCL_CF_PC0176">Carrari</persName> 

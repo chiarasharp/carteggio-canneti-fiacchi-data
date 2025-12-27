@@ -6,3 +6,14 @@ letters/busta-11/*
 transcriptions/*
 txt2tei-base.ipynb
 update_facsimile_and_pb.ipynb
+
+# Backup files
+*.backup
+
+# Documentation and raw materials
+docs/
+raw-materials/
+scripts/
+
+# Report files
+*-report.md

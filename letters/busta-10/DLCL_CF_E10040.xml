@@ -60,18 +60,20 @@
          <change when-iso="2024-04-03" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20672/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21077/full/604,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21078/full/607,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21079/full/595,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24818/full/592,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20672/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21077/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21078/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21079/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24818/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 9 Novembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10040_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21077/full/604,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10040_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21077/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -102,7 +104,7 @@
                e comunicar’ad alcuni Professori bravi di Cirugia, che quì aderiscono al Magatismo. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10040_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21078/full/607,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10040_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21078/full/800,/0/default.jpg"/>
             
             <p>
                Si può egli sapere chi scriva la <bibl type="print">Vita di Santa Sabina</bibl>? 
@@ -134,7 +136,7 @@
                L’etimologia di questo significato deriva 
             </p>
             
-            <pb xml:id="DLCL_CF_E10040_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21079/full/595,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10040_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21079/full/800,/0/default.jpg"/>
             
             <p>
                dagli abiti bianchi, i quali a proprie spese erano in tali giuochi pubblici distribuiti a coloro, 
@@ -188,7 +190,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>         
             
-            <pb xml:id="DLCL_CF_E10040_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24818/full/592,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10040_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24818/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

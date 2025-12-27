@@ -60,18 +60,20 @@
          <change when-iso="2024-03-21" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20661/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21039/full/600,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21040/full/612,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21041/full/604,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24808/full/604,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20661/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21039/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21040/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21041/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24808/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 10 Dicembre 1715)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10029_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21039/full/600,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10029_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21039/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -105,7 +107,7 @@
                Se egli, che ha l’occhio 
             </p>
             
-            <pb xml:id="DLCL_CF_E10029_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21040/full/612,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10029_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21040/full/800,/0/default.jpg"/>
             
             <p>
                avvezzo a <placeName ref="#DLCL_CF_L0008">Roma</placeName>, e a <placeName ref="#DLCL_CF_L0007">Bologna</placeName> 
@@ -137,7 +139,7 @@
                Il <persName ref="#DLCL_CF_PC0163">padre Mastri</persName> ride, ed io piango sopra la nuova di <orgName ref="#DLCL_CF_O0040">San Petronio</orgName>. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10029_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21041/full/604,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10029_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21041/full/800,/0/default.jpg"/>
             
             <p>
                L’esito mostrerà se siano ragionevoli tali dimostrazioni. 
@@ -159,7 +161,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10029_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24808/full/604,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10029_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24808/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

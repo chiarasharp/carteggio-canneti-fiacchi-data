@@ -58,18 +58,20 @@
       <revisionDesc status="created">
          <change when-iso="2024-08-20" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">nuove trascrizioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20737/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21256/full/567,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21257/full/605,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25200/full/557,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25201/full/618,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20737/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21256/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21257/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/25200/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25201/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Fabriano, 18 Settembre 1719)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10105_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21256/full/567,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10105_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21256/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -105,7 +107,7 @@
                Del <bibl type="print">S. Ambrogio</bibl>, e del <bibl type="print">5° Tomo</bibl> ne parli al <rs type="person">Padre Abate</rs>.
             </p>
             
-            <pb xml:id="DLCL_CF_E10105_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21257/full/605,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10105_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21257/full/800,/0/default.jpg"/>
             
             <p>
                In <placeName ref="#DLCL_CF_L0135">Cagli</placeName> è ancor da vendere la <orgName ref="#DLCL_CF_O0111">Libreria de’ Luperti</orgName>, 
@@ -125,9 +127,9 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10105_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25200/full/557,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10105_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/25200/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10105_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25201/full/618,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10105_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25201/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

@@ -60,18 +60,20 @@
          <change when-iso="2024-02-07" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-21" who="#DLCL_CF_PS001">stampe</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20645/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20859/full/598,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20860/full/575,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/20861/full/585,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24794/full/569,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20645/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20859/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20860/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/20861/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24794/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 14 Agosto 1714)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10013_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20859/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20859/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -97,7 +99,7 @@
                Ella si appigli a qual giudica 
             </p>
             
-            <pb xml:id="DLCL_CF_E10013_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20860/full/575,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20860/full/800,/0/default.jpg"/>
             
             <p>
                meglio. 
@@ -129,7 +131,7 @@
                Per non moltiplicar lettere, 
             </p>
             
-            <pb xml:id="DLCL_CF_E10013_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/20861/full/585,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20861/full/800,/0/default.jpg"/>
             
             <p>
                mandai, alcuni ordinari sono un viglietto a lui, in una lettera del <persName ref="#DLCL_CF_PC0043">Padre Don Pietro</persName>; ma non ne veggo risposta. 
@@ -149,7 +151,7 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10013_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24794/full/569,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10013_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24794/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

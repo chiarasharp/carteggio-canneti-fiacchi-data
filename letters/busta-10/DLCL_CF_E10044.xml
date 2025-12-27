@@ -60,18 +60,20 @@
          <change when-iso="2024-04-04" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">nuove trascrizioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20676/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21088/full/603,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/24821/full/617,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/25073/full/613,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25074/full/623,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20676/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21088/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/24821/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/25073/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25074/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 28 Novembre 1716)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10044_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21088/full/603,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10044_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21088/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -90,7 +92,7 @@
             <p>
                Desidera sapere se in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName> siano i due Volumi in 12. delle <bibl type="print">Rime scelte di Diversi Autori</bibl>. 
                <persName ref="#DLCL_CF_PC0161">Giolito</persName> 1563. Raccolte dal <bibl type="print">Dolce</bibl> = 
-               e le <bibl type="print">Vite de’ Santi e Beati di Todi</bibl> di <persName ref="#DLCL_CF_PC0323">Giovanni Battista Possevino</persName>, in 4to. 
+               e le <bibl type="print">Vite de’ Santi e Beati di Todi</bibl> di <persName ref="#DLCL_CF_PC0830">Giovanni Battista Possevino</persName>, in 4to. 
             </p>
             
             <p>
@@ -108,11 +110,11 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10044_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/24821/full/617,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10044_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24821/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10044_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/25073/full/613,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10044_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/25073/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10044_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25074/full/623,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10044_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25074/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

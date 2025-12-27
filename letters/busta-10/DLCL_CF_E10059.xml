@@ -60,24 +60,26 @@
          <change when-iso="2024-09-11" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20691/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21138/full/595,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21139/full/612,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21146/full/603,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/25085/full/612,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20691/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21138/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21139/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21146/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/25085/full/800,/0/default.jpg"/>
    </facsimile>
-   <facsimile sameAs="https://classense.unibo.it/iiif/21140/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21141/full/587,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21142/full/612,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/21140/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21141/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21142/full/800,/0/default.jpg"/>
    </facsimile>
    <text>
       <group>
          <text type="letter" xml:id="DLCL_CF_E10059_L" n="Canneti a Fiacchi (Perugia, 6 Luglio 1717) - Lettera">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10059_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21138/full/595,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21138/full/800,/0/default.jpg"/>
                   
                   <opener>
                      <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -113,7 +115,7 @@
                      Non per me solo ne ho necessità, ma per servire il <persName ref="#DLCL_CF_PC0318">Signor Apostolo Zeno</persName>, e per corrispondere a’ favori, ch’egli cortesemente 
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10059_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21139/full/612,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21139/full/800,/0/default.jpg"/>
                   
                   <p>   
                      mi và compartendo. 
@@ -166,7 +168,7 @@
                      </p>
                   </postscript>
                   
-                  <pb xml:id="DLCL_CF_E10059_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21146/full/603,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21146/full/800,/0/default.jpg"/>
                   
                   <postscript>
                      <p>
@@ -176,7 +178,7 @@
                      </p>
                   </postscript>
                   
-                  <pb xml:id="DLCL_CF_E10059_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/25085/full/612,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25085/full/800,/0/default.jpg"/>
                   
                   <postscript>
                      <p>
@@ -190,7 +192,7 @@
          <text type="attachment" xml:id="DLCL_CF_E10059_A01" n="Canneti a Fiacchi (Perugia, 6 Luglio 1717) - Allegato 1">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10059_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21141/full/587,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21141/full/800,/0/default.jpg"/>
                   
                   <p>
                      <placeName ref="#DLCL_CF_L0101">Europa Orientale</placeName>  
@@ -211,7 +213,7 @@
                      </foreign>
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10059_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21142/full/612,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10059_A01_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21142/full/800,/0/default.jpg"/>
                   
                </div>
             </body>

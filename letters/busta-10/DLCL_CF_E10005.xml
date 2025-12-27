@@ -61,18 +61,20 @@
          <change when-iso="2024-04-17" who="#DLCL_CF_PS001">riferimenti stampe</change>
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-20" who="#DLCL_CF_PS001">nuove trascrizioni buste</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20637/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/20823/full/581,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/20824/full/568,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/24836/full/568,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24837/full/573,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20637/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20823/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20824/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/24836/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24837/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Ravenna, 6 Agosto 1713)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10005_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/20823/full/581,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20823/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -105,7 +107,7 @@
                Son’ arrivati i libri di <placeName ref="#DLCL_CF_L0023">Foligno</placeName>; e vi ho trovate di belle cose. 
             </p>
             
-            <pb xml:id="DLCL_CF_E10005_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/20824/full/568,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/20824/full/800,/0/default.jpg"/>
             
             <p>
                Ieri, dovendosi consegnare al <persName ref="#DLCL_CF_PC0034">Signor Veratti</persName> la sua porzione de’ libri 
@@ -122,9 +124,9 @@
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             
-            <pb xml:id="DLCL_CF_E10005_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/24836/full/568,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/24836/full/800,/0/default.jpg"/>
             
-            <pb xml:id="DLCL_CF_E10005_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24837/full/573,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10005_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24837/full/800,/0/default.jpg"/>
             
             <postscript>
                <p>

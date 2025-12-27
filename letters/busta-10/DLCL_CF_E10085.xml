@@ -59,16 +59,18 @@
          <change when-iso="2024-07-15" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2024-09-16" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20717/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21211/full/586,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/25107/full/598,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20717/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21211/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/25107/full/800,/0/default.jpg"/>
    </facsimile>
    <text type="letter" n="Canneti a Fiacchi (Perugia, 26 Luglio 1718)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E10085_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21211/full/586,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10085_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21211/full/800,/0/default.jpg"/>
             
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -117,7 +119,7 @@
                </p>
             </postscript>
             
-            <pb xml:id="DLCL_CF_E10085_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/25107/full/598,800/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E10085_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/25107/full/800,/0/default.jpg"/>
          </div>
       </body>
    </text>

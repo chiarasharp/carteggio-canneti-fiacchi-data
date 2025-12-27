@@ -60,24 +60,26 @@
          <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
+         <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://classense.unibo.it/iiif/20682/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21108/full/613,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21109/full/618,800/0/default.jpg"/>
-      <graphic n="2r" url="https://classense.unibo.it/iiif/2/21110/full/614,800/0/default.jpg"/>
-      <graphic n="2v" url="https://classense.unibo.it/iiif/2/24827/full/638,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20682/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21108/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21109/full/800,/0/default.jpg"/>
+      <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21110/full/800,/0/default.jpg"/>
+      <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/24827/full/800,/0/default.jpg"/>
    </facsimile>
-   <facsimile sameAs="https://classense.unibo.it/iiif/21105/manifest">
-      <graphic n="1r" url="https://classense.unibo.it/iiif/2/21106/full/631,800/0/default.jpg"/>
-      <graphic n="1v" url="https://classense.unibo.it/iiif/2/21107/full/618,800/0/default.jpg"/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/21105/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21106/full/800,/0/default.jpg"/>
+      <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21107/full/800,/0/default.jpg"/>
    </facsimile>
    <text>
       <group>
          <text type="letter" xml:id="DLCL_CF_E10050_L" n="Canneti a Fiacchi (Perugia, 20 Febbraio 1717) - Lettera">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10050_L_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21108/full/613,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_L_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21108/full/800,/0/default.jpg"/>
                   
                   <opener>
                      <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs></salute>
@@ -110,7 +112,7 @@
                      Inoltre possono darsi via <persName ref="#DLCL_CF_PC0141">Bembi</persName> <bibl type="print">Epistolae</bibl> in 8. Mureti Tom. 
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10050_L_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21109/full/618,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_L_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21109/full/800,/0/default.jpg"/>
                   
                   <p>
                      [Si ricordi di quel, che le scrissi dell’Iscrizione di <orgName ref="#DLCL_CF_O0029">San Vitale</orgName>. 
@@ -152,7 +154,7 @@
                      Abbiamo in Duomo Predicatore il <persName ref="#DLCL_CF_PC0402">Padre Avogadro</persName> Barnabita forte, e zelante oratore]
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10050_L_C2R" n="2 - Recto" facs="https://classense.unibo.it/iiif/2/21110/full/614,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_L_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21110/full/800,/0/default.jpg"/>
                   
                   <p>
                      [P.S. Mentre stò per mandar la lettera alla Posta, ricevo la gratissima sua, coll’Iscrizione sopra la quale farò attenta riflessione. 
@@ -221,7 +223,7 @@
                      </p>
                   </postscript>
                   
-                  <pb xml:id="DLCL_CF_E10050_L_C2V" n="2 - Verso" facs="https://classense.unibo.it/iiif/2/24827/full/638,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_L_C2V" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/24827/full/800,/0/default.jpg"/>
                   
                   <postscript>
                      <p>
@@ -253,7 +255,7 @@
          <text type="attachment" xml:id="DLCL_CF_E10050_A01" n="Canneti a Fiacchi (Perugia, 20 Febbraio 1717) - Allegato 1">
             <body>
                <div type="transcription">
-                  <pb xml:id="DLCL_CF_E10050_A01_C1R" n="1 - Recto" facs="https://classense.unibo.it/iiif/2/21106/full/631,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21106/full/800,/0/default.jpg"/>
                   
                   <p>   
                      Ecco l’Iscrizione nel vero suo senso 
@@ -280,7 +282,7 @@
                      <foreign xml:lang="la">Anno Domini MVII</foreign> 
                   </p>
                   
-                  <pb xml:id="DLCL_CF_E10050_A01_C1V" n="1 - Verso" facs="https://classense.unibo.it/iiif/2/21107/full/618,800/0/default.jpg"/>
+                  <pb xml:id="DLCL_CF_E10050_A01_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21107/full/800,/0/default.jpg"/>
                   
                   <p>   
                      quel AM, che pare possa leggersi <hi rend="underline">Amen</hi> non entra nel verso per altro intiero, come sono gli altri cinque. 
