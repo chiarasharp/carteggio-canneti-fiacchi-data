@@ -52,15 +52,17 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20927/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20927/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20927/6467.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 8 Giugno 1722)">
     <body>
       <div type="transcription">
-        <pb n="1 - Recto" xml:id="DLCL_CF_E11034_C1R_L" facs="https://classense.unibo.it/files/large/20927/6467.jpg"/>
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11034_C1R_L" facs="https://www.cdc.classense.ra.it/iiif/2/21417/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>

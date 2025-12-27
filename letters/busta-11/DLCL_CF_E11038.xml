@@ -52,9 +52,11 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20931/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20931/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20931/6486.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20931/6487.jpg"/>
     <graphic n="2r" url="https://classense.unibo.it/files/large/20931/6488.jpg"/>
@@ -62,17 +64,17 @@
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 7 Settembre 1722)">
     <body>
       <div type="transcription">
-        <pb n="1 - Recto" xml:id="DLCL_CF_E11038_C1R_L" facs="https://classense.unibo.it/files/large/20931/6486.jpg"/>
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11038_C1R_L" facs="https://www.cdc.classense.ra.it/iiif/2/21429/full/800,/0/default.jpg"/>
         <opener>
           <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Mariangelo</persName> Amatissimo,</salute>
         </opener>
         <p>Rispondo a due cordialissime di VP e quanto al successo del Padre Lettore Collina, io lo riguardo come una pittura di due opposte facce, che mi cagiona consolazione insieme, e rammarico, secondo le diverse riflessioni. La provvidenza, che regge tutte le cose, ha disposto, e permesso questa inaspettata novità: a noi giova credere per lo meglio. Così spero, e prego che sia. L’affare di Monte Alboddo non richiedeva prontezza di pecunia, la qual’entrare non doveva in contratto, ma sollecitudine di chi andasse colà a battere il ferro, mentr’era caldo. Il buon Padre Bibliotecario, il quale della colpa vorrebbe farne parte ad altri, tutta la tiri a se, ed alla sua ritrosia. È convenuto rimandare ancora tutti i Manoscritti antichi, de quali un mezzo sacco aveva qua recato il Padre Lettore.</p>
         <p>Il Rotolo non giunse in tempo a Bologna, perché avendo Il Reverendissimo dell’Avellana negata la proroga al suo Padre Casanova, convenne al Padre Bianconi suo compagno di viaggio anticipar la partenza. Ella non lo disfaccia, ma aspetti mandarlo per occasione sicura, e vi aggiunga il mio Discorso, di cui più ella non parla. Quanto alle notizie da comunicarsi al Padre Orlandi, ho mutato parere, dopo che ho inteso non mostrar lui di curarsene, e creder vanamente di aver raccolto quanto può raccogliersi, né essere stata tralasciata alcuna edizione. Non dubito che il libro non sia per riuscir cattivo: ma pure penso che avrà spaccio, e seco porterà utilità, e comodo. VP stia sull’avviso, e spinga il rotolo ben raccomandato fino, a Pesaro, o a Sinigaglia, o a Foligno.</p>
-        <pb n="1 - Verso" xml:id="DLCL_CF_E11038_C1V_L" facs="https://classense.unibo.it/files/large/20931/6487.jpg"/>
+        <pb n="1 - Verso" xml:id="DLCL_CF_E11038_C1V_L" facs="https://www.cdc.classense.ra.it/iiif/2/21430/full/800,/0/default.jpg"/>
         <p>Ora passiamo alle Materie Rituali: VP. mi favorisce destinarmi i suoi favori nelle stampe delle Lezioni in 12. di S. Pier Damiano, e di S. […]mo Abate; e mi accenna essere uscite le seconde lezioni ritoccate del nostro Santo Isidoro, con quelle del 3° Notturno, non pensando però farmele venir alle mani. Mi figuro ch’ella pensi non doversene servire i Monaci, come né pur si servono di quelle di Santo Anselmo Arcivescovo inserite nel Corpo del Breviario Romano non meno che quello del Monastico. Intendo VP riflette che abbracciandosi le nuove e edizoni, converrebbe che noi tralasciassimo l’antifona O Doctor, nell’Officio e il Credo nella Messa prescritti, e conceduti negli Officj antichi, a parte vaganti fuor dell’Ordinario del Tempo.</p>
         <p>Non è fondata la maraviglia di VP., la qual credeva doversi fare l’officio […] di prima classe di S. Massimiano in cotesta Chiesa, e Monastero di Sant’Andrea che ivi è il corpo del Santo. Una tal’esistenza non porta altro, secondo le rubriche, che il doppio minore col Credo nella Messa. Il Quintanado venas ne’ suoi singolari insegna potersi elevare il rito ad un grado di più, rispetto alla Chiesa, la quale ha il Corpo, o Insigne Reliquia. Secondo tal dottrina spagnuola, in S. Andrea doverebbe farsi rito di doppio maggiore l’officio del Santo, ch’è nella Chiesa di Ravenna doppio minore. Tutto il di più diasi nella consuetudine già introdotta, e da non esaminare non però mai da stendersi, o alzarsi. Coteste medesime Monache sono immediatamente soggette all’Ordinario, e del Corpo della Chiesa Ravenna</p>
         <p>[[...] pre tassata paoli 18 in un baratto. A lei rimetto l’arbitrio.]</p>
-        <pb n="2 - Recto" xml:id="DLCL_CF_E11038_C2R_L" facs="https://classense.unibo.it/files/large/20931/6488.jpg"/>
+        <pb n="2 - Recto" xml:id="DLCL_CF_E11038_C2R_L" facs="https://www.cdc.classense.ra.it/iiif/2/21431/full/800,/0/default.jpg"/>
         <p>onde sono far tutti gli Officj di essa Chiesa nella maniera, che li fanno i Preti secolari, aggiungendovi tutti anco gli officj dell’Ordine Monastico. Così fanno le Monache Cistercensi di S. Giuliano di Perugia, le quali da qualche tempo in qua hanno ancor lasciato il proprio Breviario, e usano il Romano, con un libro a parte, ove sono stampati gli officj dell’Ordine Cistercense addattati al Rito Romano.</p>
         <p>Spero che dentro la corrente settimana le Colonnette saranno in mie mani. Intendo che son dodici, di alabastro orientale, ben fatte, sei lunghe quanto porta dal cubito a tutta la mano, e sei minori. Non so se si adatteranno al disegno e all’idea di chi dovrà rifarlo. Non entrando, in opera, non si spediranno.</p>
         <p>Riceverò volentieri la ristampa della Scanzia XV. E di buon cuore il nostro Signore Sancassani. Iddio volesse che fosse così di buon giudicio, e applicasse ad altro che alli due impegni Cinelliano, e Magatiano.</p>

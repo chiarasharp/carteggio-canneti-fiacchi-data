@@ -52,9 +52,11 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20902/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20902/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20902/6356.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20902/6357.jpg"/>
     <graphic n="2r" url=""/>
@@ -62,7 +64,7 @@
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 23 Maggio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11008_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20902/6356.jpg"/>
+        <pb xml:id="DLCL_CF_E11008_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21349/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs>
@@ -75,7 +77,7 @@
         <p>Pag. 141 I tredici libri della Preparazione Evangelica.</p>
         <p>Pag. 144 Opere Spirituali di Tommaso Malleolo da Chempis, in fine a penna e prima l’anno 1568 appresso Gasparo, e Domenico della Speranza.</p>
         <p>Se altro di tempo in tempo si accrescerà, io non tralascio di prontamente darne avviso, quando con egual corrispondenza venga notificato a me ciò, che costì si accresce. La qual vicendevole notizia è necessaria per non moltiplicare il superfluo, ove manca il necessario.</p>
-        <pb xml:id="DLCL_CF_E11008_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20902/6357.jpg"/>
+        <pb xml:id="DLCL_CF_E11008_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21350/full/800,/0/default.jpg"/>
         <p>Presi anco ultimamente le Rime di Ascanio Pignattello, le quali non so se costì siano in Libreria, oltre al Quadriregio della prima edizione di Perugia per Maestro Stefano Arns Alemano 1481 fol. Sopra tutti è raro l’acquisto di Andreę Baccij Historia Vinorum fogl., che và nella serie della Storia Naturale. Ed è pregiabile l’altra delle Opere di Sinesio Gr. Lat. della versione del Petavio, con le note del medesimo, che vanno fra Santi Padri in fol.</p>
         <p>Con l’ordinario ultimo mi è giunto sotto una sola sopracoperta il Catalogo stampato de’ libri dell’Argelati, che non so se tuttavia si trattenga in Modena, o ritornato sia a Bologna. 
           A nulla ciò serve, che a darmi la spesa di quattro baiocchi. 

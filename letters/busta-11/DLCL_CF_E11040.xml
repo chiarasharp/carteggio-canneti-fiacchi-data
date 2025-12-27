@@ -52,16 +52,18 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20933/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20933/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20933/6502.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20933/6503.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 17 Settembre 1722)">
     <body>
       <div type="transcription">
-        <pb n="1 - Recto" xml:id="DLCL_CF_E11040_C1R_L" facs="https://classense.unibo.it/files/large/20933/6502.jpg"/>
+        <pb n="1 - Recto" xml:id="DLCL_CF_E11040_C1R_L" facs="https://www.cdc.classense.ra.it/iiif/2/21435/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
@@ -70,7 +72,7 @@
         <p>Iersera ricevei la Scanzia Cinelliana fatta ristampare dal nostro Signore Sancassani, il quale seguita a mirabilmente imitare e contraffare il primo Autore, nelle aggiunte, che vi ha appiccate. Averebbe mostrata prudenza, se astenuto si fosse dal rammemorare l’Opuscolo contra Magliabechi, del quale è spediente se ne perda la memoria. È raro, ed a pochissimi noto; ed io ebbi a caso la copia, lasciata in cotesta Libreria: il farne più menzione non serve che a ravvivare il vituperio. Comunque operi il cervello del Sancassani, ringrazio VP, che mi ha favorito.</p>
         <p>Un gran favore mi han fatto i Moderni Giornalisti, facendo autore del Libro genealogico di sua casa il Signore Filippo Meniconi. Così mi han liberato dal render conto delle tante aggiunte, con cui egli accrebbe il libro, e delle tante alterazioni di ortografia. Ma se dicono sempre il vero nella maniera, che han fatto nel riferire quel libro, e l’Autore, poco meritano di fede.</p>
         <p>Tempo fa mandai due esemplari de Il Polifilo libro rarissimo, perché si tenesse l’intiero, tra i nostri libri, e l’altro, compito che fosse colla penna si esitasse a prezzo competente. Ultimamente poi trasmisi due Copie di diverse edizioni dell’Opera del Balbi, per trattenere l’intiero, e vendere il solo Opuscolo de Coronatione (ch’è proibito). Ricordisi dell’uno e dell’altro.</p>
-        <pb n="1 - Verso" xml:id="DLCL_CF_E11040_C1V_L" facs="https://classense.unibo.it/files/large/20933/6503.jpg"/>
+        <pb n="1 - Verso" xml:id="DLCL_CF_E11040_C1V_L" facs="https://www.cdc.classense.ra.it/iiif/2/21436/full/800,/0/default.jpg"/>
         <p>Stampate che siano le nuove lezioni di S. Isidoro in 12., me le [...] di con alcune ancora in 4to.</p>
         <p>Il Signore Baruffaldi mi scrive aver costà mandate varie copie de’ suoi Baccanali, tra le quali giurerebbe esservene stata una per me. Credo che abbia preso errore. Gli rescrivo che davero la mandi a lei, con una certa Bibbia antica: anzi ne manderà due copie, dovendo l’altra essere per questo Monsignor Ercolani. Una ne faccia legar per me e la mandi. </p>
         <closer>

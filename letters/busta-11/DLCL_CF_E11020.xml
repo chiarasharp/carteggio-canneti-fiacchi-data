@@ -52,16 +52,18 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20913/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20913/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20913/6407.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20913/6408.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 13 Ottobre 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11020_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20913/6407.jpg"/>
+        <pb xml:id="DLCL_CF_E11020_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21382/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
@@ -70,7 +72,7 @@
         <p>Mi scordai nell’ultima mia soggiungere il gradimento e la stima, con cui ho ricevuto i favori del Sig. Dottor Sancassani1 mio pregiatissimo Prone, non meno che la memoria di me suo buon Amico, e antico servitore. Prego VP. portare al medesimo queste sincerissime mie espressioni, e ringraziarlo in nome mio dell’Opuscoletto Boccacciniano da aggiungersi alla serie delle Vindicie Magatesche, le quali non sono state infruttuose.</p>
         <p>Con tal occasione procuri insinuargli il comune nostro desiderio di accrescere a prezzi agevoli la raccolta de’ libri stampati nell’infanzia dell’Arte Tipografica.</p>
         <p>Mi comunicò tempo fa VP un’iscrizione, o frammento, in cui era la voce Orrearius scorrettamente intagliata in vece di Horrearius, voce per altro fuor di Ravenna ignota anco nella barbara latinità. Or ella la legga nella par. 2 dell’Agnello pag. 49 et 61, com’esprimere un oficio peculiare di cotesta Chiesa, forse, a parer del dottissimo Bacchini per la gran</p>
-        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20913/6408.jpg"/>
+        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21383/full/800,/0/default.jpg"/>
         <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni in Sicilia. 
           Un carissimo saluto al Padre Lettore Collina. 
         </p>

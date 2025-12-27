@@ -52,9 +52,11 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20904/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20904/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20904/6364.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20904/6365.jpg"/>
     <graphic n="2r" url="https://classense.unibo.it/files/large/20904/6366.jpg"/>
@@ -62,7 +64,7 @@
   <text type="letter" n="Canneti a Fiacchi (Valdicastro, 2 Luglio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11010_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20904/6364.jpg"/>
+        <pb xml:id="DLCL_CF_E11010_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21354/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
@@ -73,7 +75,7 @@
         <p>Parmi altresì che noi non possiamo segnare a pag. 85 Le Rime, e Prose della Matraini, né a pag. 92. la Fiammetta, e il Filocolo, né a pag. 93 gli Asolani; per non essere tali libri delle buone edizioni dal Fontanini, e da altri molti accreditate.</p>
         <p>Se io abbia il Commento di Jerocle volgarizzato non me ne ricordo: ciò avviserò al mio ritorno. Delle Opere di Plutarco non mi sovviene avere in Fabriano altrochè gli Opuscoli Morali in due Tomi in 4to che da VP mi furono mandati in cambio di altri libri.</p>
         <p>Venghiamo ora ad un’altra piccola aggiunta di libri acquistati da me in un breve viaggetto.</p>
-        <pb xml:id="DLCL_CF_E11011_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20904/6365.jpg"/>
+        <pb xml:id="DLCL_CF_E11011_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21355/full/800,/0/default.jpg"/>
         <p>Pag. 49 L’Atamante Tragedia degli Accademici Catenati. In Macerata appresso Sebastiano Martellini 1579 in 4to.</p>
         <p>Pag 50 da aggiungersi con la penna Quintia Tragedia del Cav. Vincenzio Panciatichi. In Fiorenza per Cosimo Giunti 1600 in 8vo.</p>
         <p>Pag. 65 La Matrigna. Commedia di Giovanfrancesco Loredano il Vecchio. In Venezia alla Libreria via della Speranza 1601. In 8vo.</p>
@@ -82,7 +84,7 @@
         <p>La Pastorella Regia Favola Tragica Pastorale di Giovanmaria Guicciardi da Bagnacavallo. In Ferrara per Vittorio Baldini 1602 in 8.</p>
         <p>In fine del S-7. L’insidiata Nisa. Favola Pescatoria di GiovanPaolo Pocobelli. In Venezia per Angelo Salvatori 1623 in 12. Molte altre Opere Dramaiche si tralasciano, perché non può capirle il libro. Pag. 83 Lagrime di S. Pietro. In Vinezia appresso Barezzo Barezzi 1606 in 4to.</p>
         <p>Pag. 116 Sopra l’Impresa degli Accademici Umoristi Discorso di Girolamo Aleandro. Son questi libri, che meco porto a casa, di nuovo acquisto insieme con un Codice di cartapecora ben miniato, in cui stanno i cinque libri delle Selve di Stazio scritte a penna, con infine</p>
-        <pb xml:id="DLCL_CF_E11011_C2R_L" n="2 - Recto" facs="https://classense.unibo.it/files/large/20904/6366.jpg"/>
+        <pb xml:id="DLCL_CF_E11011_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21356/full/800,/0/default.jpg"/>
         <p>aggiuntavi di mano diversa, e di un secolo più giovane un’Elegia a Pio Secondo di Gregorio da Città di Castello, la quale ho però anco stampata dentro il libro rarissimo de’ versi latini dello stesso Autore.</p>
         <p>Quanto alla ristampa degl’Istorici Greci e Latini tradotti in volgar lingua, io loderei il generoso pensiero, se quelle traduzioni fossero tutte buone. Ma essendo esse, almeno per la maggior parte, io dubito fortemente che non solo inutile, e di poco applauso, e di niuno spaccio sarebbe l’edizione, ma pregiudicherebbe a quella qualunque siasi stima, in essi ora sono con tanto guadagno de librai que’ volgarizzamenti e quelli massimamente, che convergono la Collana ideata dal Porcacchi. Nulladimeno, quando a mente eminentissima paia diversamente, non mi ritiro da darvi mano. E della stampa del Tasso che si fa in Firenze, che si pensa in Bologna? Sommamente loderei che si applicasse a formare il Corpo de’ Critici Italiani, il quale con un giudicioso Indice servirebbe a darci una compita Poetica esattamente disputata.</p>
         <closer>

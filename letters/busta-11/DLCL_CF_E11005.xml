@@ -52,9 +52,11 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
+      <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+
     </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://classense.unibo.it/iiif/20898/manifest">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20898/manifest">
     <graphic n="1r" url="https://classense.unibo.it/files/large/20898/6336.jpg"/>
     <graphic n="1v" url="https://classense.unibo.it/files/large/20898/6337.jpg"/>
     <graphic n="2r" url="https://classense.unibo.it/files/large/20898/6338.jpg"/>
@@ -64,7 +66,7 @@
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 24 Febbraio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11005_C1R_L" n="1 - Recto" facs="https://classense.unibo.it/files/large/20898/6336.jpg"/>
+        <pb xml:id="DLCL_CF_E11005_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21335/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
@@ -90,7 +92,7 @@
           e disinvoltura del Signor Giustiniano Pagliarini, 
           il quale cinque giorni qui è stato a favorirmi nella scorsa settimana col Signor Boccolini.
         </p>
-        <pb xml:id="DLCL_CF_E11005_C1V_L" n="1 - Verso" facs="https://classense.unibo.it/files/large/20898/6337.jpg"/>
+        <pb xml:id="DLCL_CF_E11005_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21336/full/800,/0/default.jpg"/>
         <p>
           Si è conferito, e lavorato intorno alla ristampa del Quadriregio del Frezzi ^di Venezia. 
           Col Lirano si avrà il S. Atanasio tradotto da Cristoforo Persona, di cui il Giornale, al tomo 19; 
@@ -115,7 +117,7 @@
           avvertendo che si abbia tutta l’attenzione a non diminuire il margine. 
           Se si lega con oro, vi faccia mettere sul corpo la marca di Classe. Per isfuggire le
         </p>
-        <pb xml:id="DLCL_CF_E11005_C2R_L" n="2 - Recto" facs="https://classense.unibo.it/files/large/20898/6338.jpg"/>
+        <pb xml:id="DLCL_CF_E11005_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21337/full/800,/0/default.jpg"/>
         <p>
           spese superflue, potrà differirsi alla Fiera di Sinigaglia il mandarlo qua. 
           Sarà frattanto appresso di lei. 
@@ -146,7 +148,7 @@
         <p>
           Appresso troverà una copia della Vita del Beato Michele, la quale in mio nome
         </p>
-        <pb xml:id="DLCL_CF_E11005_C2V_L" n="2 - Verso" facs="https://classense.unibo.it/files/large/20898/6339.jpg"/>
+        <pb xml:id="DLCL_CF_E11005_C2V_L" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21338/full/800,/0/default.jpg"/>
         <p>
           mandi in dono al Padre Amici nostro buon Amico. 
           In oltre dal Padre Lettore Guiccioli riceverà due copie dell’Opera stravagante del Polifilo. 
@@ -168,7 +170,7 @@
           Monsignore ne mandò in dono una copia a Monsignor Vescovo di Perugia, un’altra a Monsignor Lercari di quel tempo Governatore, 
           e parmi anco uno alla Libreria Pubblica di Perugia.
         </p>
-        <pb xml:id="DLCL_CF_E11005_C3R_L" n="3 - Recto" facs="https://classense.unibo.it/files/large/20898/6340.jpg"/>
+        <pb xml:id="DLCL_CF_E11005_C3R_L" n="3 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21339/full/800,/0/default.jpg"/>
         <p>
           Ricevei i fogli della nota de’ libri, di cui aspetto il compimento. 
           Ripiglierò la faccenda presto, come ho accennato di sopra. 
