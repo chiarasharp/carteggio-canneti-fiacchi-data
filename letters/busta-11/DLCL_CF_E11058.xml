@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11053">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E1100.">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 7. Dicembre 1722.)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 25. Gennaio 1723.)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt>
@@ -14,7 +14,7 @@
          <seriesStmt>
             <title type="main">Carteggio Canneti Fiacchi</title>
             <title type="subseries" ref="#DLCL_CF_E11" key="DLCL_CF_E11">Busta 11</title>
-            <biblScope unit="letter">53</biblScope>
+            <biblScope unit="letter">58</biblScope>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
@@ -22,7 +22,7 @@
                   <country key="IT">Italia</country>
                   <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-                  <repository></repository>
+               <repository></repository>
                   <collection></collection>
                   <idno></idno>
                   <altIdentifier>
@@ -31,7 +31,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <incipit>Non bene intesi quel, che Vostra Paternità mi scrisse del primo Tomo del Tasso...</incipit>
+                     <incipit>Dalla Vita di Santa Francesca Romana, che sarà nel Bollando...</incipit>
                   </msItem>
                </msContents>
             </msDesc>
@@ -41,7 +41,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-               <date when-iso="1722-12-07"/>
+               <date when-iso="1723-01-25"/>
                <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
             </correspAction>
             <correspAction type="received">
@@ -67,19 +67,22 @@
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
       <graphic n="1r" url=""/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (, )">
+   <text type="letter" n="Canneti a Fiacchi (Fabriano, 25. Gennaio 1723.)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E11._C1R" n="1 - Recto" facs=""/>
+            <pb xml:id="DLCL_CF_E11058_C1R" n="1 - Recto" facs=""/>
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
             </opener>
-            <p>Non bene intesi quel, che <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> mi scrisse del primo Tomo del <bibl type="print">Tasso</bibl>. Dal <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> ho notizia del nobile regalo, ch’egli mi fà. Ella non me lo mandi sciolto, né legato bene, ma alla rustica, perché poi possa in ultimo legarsi unitamente tutto il corpo. Ma quando verrà accompagnato dagli altri libri? E de’ Calendarj che si risolve, e de’ conti mandati?</p>
-            <p>Una persona molto degna desidera un’esemplare delle <bibl type="print">Memorie Sacre di Ravenna</bibl> del <persName ref="#DLCL_CF_PC0205">Fabri</persName>. La prego usar diligenza per averlo, e comprarlo. Si ricordi delle altre faccende, mi conservi l’amor suo, massimamente nel <hi rend="underline">Memento</hi>; e creda che sempre più sono.</p>
+            <p>Dalla <bibl type="print">Vita di Santa Francesca Romana</bibl>, che sarà nel <persName ref="#DLCL_CF_PC0562">Bollando</persName>, mi bisogna avere un passo, cioè di una visione concernente le turbolenze di <placeName ref="#DLCL_CF_L0008">Roma</placeName>, e di <persName ref="#DLCL_CF_PC0254">Eugenio IIII.</persName>, nella quale fu comandato alla <rs type="person" ref="#DLCL_CF_PC0987">Santa</rs> che parlasse al <rs type="person" ref="#DLCL_CF_PC0254">Papa</rs>, e distintamente lo avvertisse aver’ umiltà. Prego <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> trascriverlo, notando l’<rs type="person" ref="">Autor degli Atti</rs>, e il capo, o paragrafo, o numero.</p>
+            <p>Io tengo necessità del libro di <persName ref="#DLCL_CF_PC0988">Angelo Decembio</persName> intitolato <bibl type="print"><hi rend="underline"><foreign xml:lang="la">Politię Litterarię Libri VII.</foreign></hi></bibl> ch’è stampato in foglio, ed è anco in 8.vo. Ella faccia cercarlo, e prenderlo o in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, o in <placeName ref="#DLCL_CF_L0007">Bologna</placeName> trà libri vecchi. Gliel raccomando; e con tutto ‘l cuore in fretta mi confermo.</p>
             <closer>
-               <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-12-07">7. Dicembre 1722.</date></dateline>
-               <salute>DVPMR</salute>, <p>che prego mandarmi quel, che il <persName ref="#DLCL_CF_PC1005">Vanderlinden o sia Lindenio</persName> Rinnovato (non mi ricordo da chi) scrive di <persName ref="#DLCL_CF_PC1006"><hi rend="underline">Gentile da Foligno</hi></persName>, e di <persName ref="#DLCL_CF_PC1007"><hi rend="underline">Niccolo Fava</hi> (latinè <hi rend="underline"><foreign xml:lang="la">Fabius</foreign></hi>) Bolognese</persName>, se pure scrive di questo secondo. E ciò si […] subito.</p>
-               <salute>Par Cordialissimo Servo Vostro</salute> 
+               <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-01-25">25. Gennaio 1723.</date></dateline>
+               <salute>DVPMR</salute>
+               <p>pag. x95. ed. 2.</p>
+               <p>      x143. ed. 2.</p>
+               <p>      x201. ed. 1.</p>
+               <salute>Cordialissimo Servitore Affezionatissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
          </div>

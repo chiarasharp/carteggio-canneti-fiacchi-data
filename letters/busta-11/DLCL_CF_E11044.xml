@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E1100.">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11044">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 5. Ottobre 1722.)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 05 Ottobre 1722)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt>
@@ -65,21 +65,25 @@
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
-      <graphic n="1r" url=""/>
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21444/full/800,/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (Fabriano, 5. Ottobre 1722.)">
+   <text type="letter" n="Canneti a Fiacchi (Fabriano, 05 Ottobre 1722)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E11044_C1R" n="1 - Recto" facs=""/>
+            <pb xml:id="DLCL_CF_E11044_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21444/full/800,/0/default.jpg"/>
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Bibliotecario Carissimo</rs></salute>
             </opener>
-            <dateline><placeName ref="#DLCL_CF_"></placeName> <date when-iso=""></date></dateline>
-            <p>Non posso credere che sia andato a male il <bibl type="print">Libretto degli Officj de’ Santi di Pollonia</bibl> stampato in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, e legato in cartone. Forse sarà tra gli Opuscoli confuso. Mi ricordo che il <persName ref="#DLCL_CF_PC0959">Padre Giampè Procuratore Generale</persName> in oggi de’ <orgName ref="#DLCL_CF_O0034">Romiti di Monte Corona</orgName>, stato Priore in quelle parti mi disse una volta che si chiamavano i Santi sette Fratelli colà, i nostri Santi Eremiti, compresivi di <persName ref="#DLCL_CF_PC0949">Santi Giusto</persName>, e <persName ref="#DLCL_CF_PC0950">Barnaba</persName>.</p>
+            <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-10-05">5. Ottobre 1722.</date></dateline>
+            <p>Non posso credere che sia andato a male il <bibl type="print">Libretto degli Officj de’ Santi di Pollonia</bibl> stampato in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, e legato in cartone. 
+               Forse sarà tra gli Opuscoli confuso. 
+               Mi ricordo che il <persName ref="#DLCL_CF_PC0959">Padre Giampè Procuratore Generale</persName> in oggi de’ <orgName ref="#DLCL_CF_O0034">Romiti di Monte Corona</orgName>, stato Priore in quelle parti mi disse una volta che si chiamavano i Santi sette Fratelli colà, i nostri Santi Eremiti, compresivi di <persName ref="#DLCL_CF_PC0949">Santi Giusto</persName>, e <persName ref="#DLCL_CF_PC0950">Barnaba</persName>.</p>
             <p>Non si scordi di far vedere nella <bibl type="print">Collezione de’ Concili</bibl> del <persName ref="#DLCL_CF_PC0728">Bini</persName> se vi sia alla Sessione XX. la sottoscrizione del <persName ref="#DLCL_CF_PC0823">Vescovo di Foligno Federico</persName>.</p>
             <p>Mi provvegga de’ Tometti del <bibl type="print">Giornale</bibl> tradotto usciti finora, legati insieme alla rustica.</p>
-            <p>Avvisi il <persName ref="#DLCL_CF_PC1014">Landi</persName> che non si richiede, di necessità, il <bibl type="print">Livello</bibl>. Per l’acconcio, che chiamano, o corredo si tassano (come scrissi) cento scudi: ma con risparmio si possono far da se in casa le biancherie.</p>
-            <p>Uscito che sia in 12. l’<bibl type="print">Officio</bibl> di <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName>, l’aspetto. Intanto caramente l’abbraccio, ringraziandola della nuova de’ Tometti, e altri simili inviti Letterari.</p>
+            <p>Avvisi il <persName ref="#DLCL_CF_PC1014">Landi</persName> che non si richiede, di necessità, il <bibl type="print">Livello</bibl>. 
+               Per l’acconcio, che chiamano, o corredo si tassano (come scrissi) cento scudi: ma con risparmio si possono far da se in casa le biancherie.</p>
+            <p>Uscito che sia in 12. l’<bibl type="print">Officio</bibl> di <persName ref="#DLCL_CF_PC0364">Sant’Isidoro</persName>, l’aspetto. 
+               Intanto caramente l’abbraccio, ringraziandola della nuova de’ Tometti, e altri simili inviti Letterari.</p>
             <closer>
                <salute>DVPMR</salute>
                <salute>Cordialissimo Servo Vostro</salute> 
