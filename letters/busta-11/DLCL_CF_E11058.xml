@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E1100.">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11058">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 25. Gennaio 1723.)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 25 Gennaio 1723)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt>
@@ -62,28 +62,55 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
-      <graphic n="1r" url=""/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20951/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21474/full/800,/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (Fabriano, 25. Gennaio 1723.)">
+   <text type="letter" n="Canneti a Fiacchi (Fabriano, 25 Gennaio 1723)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E11058_C1R" n="1 - Recto" facs=""/>
+            <pb xml:id="DLCL_CF_E11058_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21474/full/800,/0/default.jpg"/>
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
             </opener>
-            <p>Dalla <bibl type="print">Vita di Santa Francesca Romana</bibl>, che sarà nel <persName ref="#DLCL_CF_PC0562">Bollando</persName>, mi bisogna avere un passo, cioè di una visione concernente le turbolenze di <placeName ref="#DLCL_CF_L0008">Roma</placeName>, e di <persName ref="#DLCL_CF_PC0254">Eugenio IIII.</persName>, nella quale fu comandato alla <rs type="person" ref="#DLCL_CF_PC0987">Santa</rs> che parlasse al <rs type="person" ref="#DLCL_CF_PC0254">Papa</rs>, e distintamente lo avvertisse aver’ umiltà. Prego <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> trascriverlo, notando l’<rs type="person" ref="">Autor degli Atti</rs>, e il capo, o paragrafo, o numero.</p>
-            <p>Io tengo necessità del libro di <persName ref="#DLCL_CF_PC0988">Angelo Decembio</persName> intitolato <bibl type="print"><hi rend="underline"><foreign xml:lang="la">Politię Litterarię Libri VII.</foreign></hi></bibl> ch’è stampato in foglio, ed è anco in 8.vo. Ella faccia cercarlo, e prenderlo o in <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, o in <placeName ref="#DLCL_CF_L0007">Bologna</placeName> trà libri vecchi. Gliel raccomando; e con tutto ‘l cuore in fretta mi confermo.</p>
+            <p>Dalla 
+               <bibl type="print">Vita di Santa Francesca Romana</bibl>, 
+               che sarà nel 
+               <persName ref="#DLCL_CF_PC0562">Bollando</persName>, 
+               mi bisogna avere un passo, cioè di una visione concernente le turbolenze di 
+               <placeName ref="#DLCL_CF_L0008">Roma</placeName>, 
+               e di 
+               <persName ref="#DLCL_CF_PC0254">Eugenio IIII.</persName>, 
+               nella quale fu comandato alla 
+               <rs type="person" ref="#DLCL_CF_PC0987">Santa</rs> 
+               che parlasse al 
+               <rs type="person" ref="#DLCL_CF_PC0254">Papa</rs>, 
+               e distintamente lo avvertisse aver’ umiltà. Prego 
+               <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
+               trascriverlo, notando l’
+               <rs type="person" ref="#">Autor degli Atti</rs>, 
+               e il capo, o paragrafo, o numero.</p>
+            <p>Io tengo necessità del libro di 
+               <persName ref="#DLCL_CF_PC0988">Angelo Decembio</persName> 
+               intitolato 
+               <hi rend="underline">
+                  <foreign xml:lang="la">
+                     <bibl type="print">Politię Litterarię Libri VII.</bibl></foreign></hi> 
+               ch’è stampato in foglio, ed è anco in 8.vo. Ella faccia cercarlo, e prenderlo o in 
+               <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, 
+               o in 
+               <placeName ref="#DLCL_CF_L0007">Bologna</placeName> 
+               trà libri vecchi. Gliel raccomando; e con tutto ‘l cuore in fretta mi confermo.</p>
             <closer>
-               <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-01-25">25. Gennaio 1723.</date></dateline>
+               <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-01-25">25. Gennaio 1723.</date></dateline>
                <salute>DVPMR</salute>
                <p>pag. x95. ed. 2.</p>
-               <p>      x143. ed. 2.</p>
-               <p>      x201. ed. 1.</p>
+               <p>x143. ed. 2.</p>
+               <p>x201. ed. 1.</p>
                <salute>Cordialissimo Servitore Affezionatissimo</salute> 
-               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+               <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
          </div>
       </body>

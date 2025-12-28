@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 7. Dicembre 1722.)</title>
+            <title xml:lang="it">Canneti a Fiacchi (Fabriano, 07 Dicembre 1722)</title>
             <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
          </titleStmt>
          <publicationStmt>
@@ -31,7 +31,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <incipit>Non bene intesi quel, che Vostra Paternità mi scrisse del primo Tomo del Tasso...</incipit>
+                     <incipit>Non bene intesi quel, che Vostra Paternità mi scrisse del...</incipit>
                   </msItem>
                </msContents>
             </msDesc>
@@ -62,25 +62,50 @@
       </profileDesc>
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2025-12-28" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
-      <graphic n="1r" url=""/>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20946/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21462/full/800,/0/default.jpg"/>
    </facsimile>
-   <text type="letter" n="Canneti a Fiacchi (, )">
+   <text type="letter" n="Canneti a Fiacchi (Fabriano, 07 Dicembre 1722)">
       <body>
          <div type="transcription">
-            <pb xml:id="DLCL_CF_E11._C1R" n="1 - Recto" facs=""/>
+            <pb xml:id="DLCL_CF_E11._C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21462/full/800,/0/default.jpg"/>
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
             </opener>
-            <p>Non bene intesi quel, che <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> mi scrisse del primo Tomo del <bibl type="print">Tasso</bibl>. Dal <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> ho notizia del nobile regalo, ch’egli mi fà. Ella non me lo mandi sciolto, né legato bene, ma alla rustica, perché poi possa in ultimo legarsi unitamente tutto il corpo. Ma quando verrà accompagnato dagli altri libri? E de’ Calendarj che si risolve, e de’ conti mandati?</p>
-            <p>Una persona molto degna desidera un’esemplare delle <bibl type="print">Memorie Sacre di Ravenna</bibl> del <persName ref="#DLCL_CF_PC0205">Fabri</persName>. La prego usar diligenza per averlo, e comprarlo. Si ricordi delle altre faccende, mi conservi l’amor suo, massimamente nel <hi rend="underline">Memento</hi>; e creda che sempre più sono.</p>
+            <p>Non bene intesi quel, che 
+               <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
+               mi scrisse del primo Tomo del 
+               <bibl type="print">Tasso</bibl>. 
+               Dal 
+               <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> 
+               ho notizia del nobile regalo, ch’egli mi fà. Ella non me lo mandi sciolto, né legato bene, ma alla rustica, perché poi possa in ultimo legarsi unitamente tutto il corpo. Ma quando verrà accompagnato dagli altri libri? E de’ Calendarj che si risolve, e de’ conti mandati?</p>
+            <p>Una persona molto degna desidera un’esemplare delle 
+               <bibl type="print">Memorie Sacre di Ravenna</bibl> 
+               del 
+               <persName ref="#DLCL_CF_PC0205">Fabri</persName>. 
+               La prego usar diligenza per averlo, e comprarlo. Si ricordi delle altre faccende, mi conservi l’amor suo, massimamente nel 
+               <hi rend="underline">Memento</hi>; 
+               e creda che sempre più sono.</p>
             <closer>
-               <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-12-07">7. Dicembre 1722.</date></dateline>
-               <salute>DVPMR</salute>, <p>che prego mandarmi quel, che il <persName ref="#DLCL_CF_PC1005">Vanderlinden o sia Lindenio</persName> Rinnovato (non mi ricordo da chi) scrive di <persName ref="#DLCL_CF_PC1006"><hi rend="underline">Gentile da Foligno</hi></persName>, e di <persName ref="#DLCL_CF_PC1007"><hi rend="underline">Niccolo Fava</hi> (latinè <hi rend="underline"><foreign xml:lang="la">Fabius</foreign></hi>) Bolognese</persName>, se pure scrive di questo secondo. E ciò si […] subito.</p>
+               <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-12-07">7. Dicembre 1722.</date></dateline>
+               <salute>DVPMR</salute>
+               <p>che prego mandarmi quel, che il 
+                  <persName ref="#DLCL_CF_PC1005">Vanderlinden o sia Lindenio</persName> 
+                  Rinnovato (non mi ricordo da chi) scrive di 
+                  <hi rend="underline">
+                     <persName ref="#DLCL_CF_PC1006">Gentile da Foligno</persName></hi>, 
+                  e di 
+                  <hi rend="underline"><persName ref="#DLCL_CF_PC1007">Niccolo Fava</persName></hi> 
+                  (latinè 
+                  <hi rend="underline"><foreign xml:lang="la">Fabius</foreign></hi>) 
+                  Bolognese, se pure scrive di questo secondo. E ciò si 
+                  <gap reason="illegible"/> 
+                  subito.</p>
                <salute>Par Cordialissimo Servo Vostro</salute> 
-               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+               <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
          </div>
       </body>

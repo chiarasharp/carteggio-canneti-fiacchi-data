@@ -31,7 +31,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <incipit>Puntualmente ho fatto riconoscere il conto tra i due Padri Camerlenghi...</incipit>
+                     <incipit>Puntualmente ho fatto riconoscere il conto tra i due Padri...</incipit>
                   </msItem>
                </msContents>
             </msDesc>
@@ -65,7 +65,7 @@
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20633/manifest">
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20943/manifest">
       <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21455/full/800,/0/default.jpg"/>
       <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21456/full/800,/0/default.jpg"/>
    </facsimile>
@@ -76,26 +76,49 @@
             <opener>
                <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
             </opener>
-            <p>Puntualmente ho fatto riconoscere il conto tra i due <rs type="person" ref="#DLCL_CF_PC0971"><rs type="person" ref="#DLCL_CF_PC0971 #">Padri Camerlenghi</rs></rs>; ed è questo. 
-               Debito del <persName ref="#DLCL_CF_PC0971">Padre Bolognetti</persName></p>
-            <p>Per <rs type="print">Calendari</rs> 24. dell’anno 1721. a bai. 6. – 1:44</p>
-            <p>Per <rs type="print">Detti</rs> n. 24. dell’anno 1722. a bai. 4 – -:96</p>
-            <p>                     Credito del medesimo	– 2:40</p>
-            <p>Per <rs type="print">Tarantello</rs> mandato a <persName ref="#DLCL_CF_PC0704">Frate Marino</persName> – 1:82</p>
-            <p>                  Resta il debito 		– -:58</p>
-            <p>La qual somma di bai. 58. favorisca, se ha alcun danaro de nostra ragione contarla a cotesto <rs type="person" ref="">Padre Camerlengo</rs> per saldo del soprascritto conto, riverendolo caramente in mio nome. 
-               Alle lettere di <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> ho risposto con altra mia, che le sarà recata dal <rs type="person" ref="#">Padre Priore</rs> partito di quà Lunedì mattina: onde non avendo che aggiungere, resto confermandomi di tutto cuore.</p>
+            <p>Puntualmente ho fatto riconoscere il conto tra i due 
+               <rs type="person" ref="#DLCL_CF_PC0971 #">Padri Camerlenghi</rs>; 
+               ed è questo. Debito del 
+               <persName ref="#DLCL_CF_PC0971">Padre Bolognetti</persName></p>
+            <p>Per 
+               <rs type="print">Calendari</rs> 
+               24. dell’anno 1721. a bai. 6. – 1:44</p>
+            <p>Per 
+               <rs type="print">Detti</rs> 
+               n. 24. dell’anno 1722. a bai. 4 – -:96</p>
+            <p>Credito del medesimo	– 2:40</p>
+            <p>Per 
+               <rs type="print">Tarantello</rs> 
+               mandato a 
+               <persName ref="#DLCL_CF_PC0704">Frate Marino</persName> 
+               – 1:82</p>
+            <p>Resta il debito – -:58</p>
+            <p>La qual somma di bai. 58. favorisca, se ha alcun danaro de nostra ragione contarla a cotesto 
+               <rs type="person" ref="#">Padre Camerlengo</rs> 
+               per saldo del soprascritto conto, riverendolo caramente in mio nome. Alle lettere di 
+               <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
+               ho risposto con altra mia, che le sarà recata dal 
+               <rs type="person" ref="#">Padre Priore</rs> 
+               partito di quà Lunedì mattina: onde non avendo che aggiungere, resto confermandomi di tutto cuore.</p>
             <closer>
-                <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-11-06">6. 9bre 1722.</date></dateline>
+                <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-11-06">6. 9bre 1722.</date></dateline>
                 <salute>DVPMR</salute>
-                <p>la qual mi mandi subito il nome del <persName ref="#DLCL_CF_PC1011">Von den Hart</persName>, il Tomo, il cap. e pag. dell’Iscrizione, o per meglio dire sottoscrizione. Volti carta</p>
+                <p>la qual mi mandi subito il nome del 
+                  <persName ref="#DLCL_CF_PC1011">Von den Hart</persName>, 
+                  il Tomo, il cap. e pag. dell’Iscrizione, o per meglio dire sottoscrizione. Volti carta</p>
                 <salute>Cordialissimo Servo Vero</salute> 
-               <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+               <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
             <pb xml:id="DLCL_CF_E11050_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21456/full/800,/0/default.jpg"/>
-            <p>Tra i Manoscritti ve n’hà uno (parmi in 4.to, e in pergamena) con una <bibl type="manuscript">Lettera Dedicatoria</bibl> al <persName ref="#DLCL_CF_PC0972">Bambagiuoli Bolognese</persName> e parmi sia di un <rs type="person" ref="#">Domenicano Riminese</rs>. 
-               Ne troverà forse notizia nel mio <bibl type="manuscript">Catalogo de’ Manoscritti</bibl> che mandai imperfetto. 
-               Ne vorrei notizia, o copia di essa lette[ra] come stima Ella meglio.</p>
+            <p>Tra i Manoscritti ve n’hà uno (parmi in 4.to, e in pergamena) con una 
+               <bibl type="manuscript">Lettera Dedicatoria</bibl> 
+               al 
+               <persName ref="#DLCL_CF_PC0972">Bambagiuoli Bolognese</persName> 
+               e parmi sia di un 
+               <rs type="person" ref="#">Domenicano Riminese</rs>. 
+               Ne troverà forse notizia nel mio 
+               <bibl type="manuscript">Catalogo de’ Manoscritti</bibl> 
+               che mandai imperfetto. Ne vorrei notizia, o copia di essa lette[ra] come stima Ella meglio.</p>
          </div>
       </body>
    </text>
