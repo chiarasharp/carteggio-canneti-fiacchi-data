@@ -61,7 +61,7 @@
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
-
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni riferimenti entità</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20682/manifest">
@@ -170,7 +170,7 @@
                      [Il sesto verso va altresì bene. 
                      Nel quinto nasce difficoltà. 
                      Dov’era prima quel verso. 
-                     Interroghi il <persName ref="#DLCL_CF_PC0404">Reverendissimo Dondi</persName>] 
+                     Interroghi il <persName ref="#DLCL_CF_PC0799">Reverendissimo Dondi</persName>] 
                   </p>
                   
                   <p>

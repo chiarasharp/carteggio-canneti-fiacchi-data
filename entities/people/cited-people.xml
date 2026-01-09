@@ -3470,13 +3470,26 @@
       </persName>
       <sex value="f" />
    </person>
-   <person xml:id="DLCL_CF_PC0248">
-      <persName>
-         <roleName type="religious">Padre Abate</roleName>
-         <surname>Pasolini</surname>
+   <person xml:id="DLCL_CF_PC0248" sameAs="http://viaf.org/viaf/79024744" source="https://it.wikipedia.org/wiki/Henri_Estienne">
+      <persName xml:lang="fr">
+         <forename>Henri</forename>
+         <surname>Estienne</surname>
       </persName>
+      <persName xml:lang="it" type="alternative">
+         <forename>Enrico</forename>
+         <surname>Stefano</surname>
+      </persName>
+      <idno type="VIAF">79024744</idno>
+      <birth>
+         <date when-iso="1528" cert="unknown"/>
+         <placeName ref="https://www.geonames.org/2988507/">Parigi</placeName>
+      </birth>
+      <death>
+         <date when-iso="1598" />
+         <placeName ref="https://www.geonames.org/2996944/">Lione</placeName>
+      </death>
       <sex value="m" />
-      <occupation>abate</occupation>
+      <occupation>editore</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0249" sameAs="http://viaf.org/viaf/348396" source="https://de.wikipedia.org/wiki/Christian_Becmann">
       <persName xml:lang="de">
@@ -5666,11 +5679,26 @@
       <sex value="m" />
       <occupation>abate</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0404">
-      <persName xml:lang="it">
-         <surname>Dondi</surname>
+   <person xml:id="DLCL_CF_PC0404" sameAs="http://viaf.org/viaf/4972902" source="https://it.wikipedia.org/wiki/Pierre-Daniel_Huet">
+      <persName xml:lang="fr">
+         <forename>Pierre-Daniel</forename>
+         <surname>Huet</surname>
       </persName>
+      <persName xml:lang="it" type="alternative">
+         <forename>Uezio</forename>
+      </persName>
+      <idno type="VIAF">4972902</idno>
+      <birth>
+         <date when-iso="1630-02-08" />
+         <placeName ref="https://www.geonames.org/3029241/">Caen</placeName>
+      </birth>
+      <death>
+         <date when-iso="1721-01-26" />
+         <placeName ref="https://www.geonames.org/2988507/">Parigi</placeName>
+      </death>
       <sex value="m" />
+      <occupation>filosofo</occupation>
+      <occupation>storico</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0405" sameAs="http://viaf.org/viaf/173430120" source="https://www.treccani.it/enciclopedia/marco-polo/">
       <persName xml:lang="it">
@@ -8658,11 +8686,23 @@
       <sex value="m" />
       <occupation>papa</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0610">
+   <person xml:id="DLCL_CF_PC0610" sameAs="http://viaf.org/viaf/45255159" source="https://www.storiaememoriadibologna.it/archivio/persone/grimaldi-nicolo">
       <persName xml:lang="it">
-         <surname>Massaccio</surname>
+         <roleName type="religious">Cardinale</roleName>
+         <forename>Nicola</forename>
+         <forename type="alternative">Nicolò</forename>
+         <surname>Grimaldi</surname>
       </persName>
+      <birth>
+         <date when-iso="1645-12-06" />
+         <placeName ref="https://www.geonames.org/3165926/">Teano</placeName>
+      </birth>
+      <death>
+         <date when-iso="1717-10-25" />
+         <placeName ref="https://www.geonames.org/3169070/">Roma</placeName>
+      </death>
       <sex value="m" />
+      <occupation>cardinale</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0611" sameAs="http://viaf.org/viaf/22294451" source="https://it.wikipedia.org/wiki/Fran%C3%A7ois_Duchesne">
       <persName xml:lang="fr">
@@ -8828,7 +8868,8 @@
    </person>
    <person xml:id="DLCL_CF_PC0627">
       <persName xml:lang="it">
-         <surname>Macchiarelli</surname>
+         <roleName type="religious">Padre Don</roleName>
+         <forename>Marino</forename>
       </persName>
       <sex value="m" />
    </person>
@@ -10323,8 +10364,24 @@
       <sex value="m" />
       <occupation>arcivescovo</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0740" sameAs="http://viaf.org/viaf/">
-      
+   <person xml:id="DLCL_CF_PC0740" sameAs="http://viaf.org/viaf/2501524" source="https://it.wikipedia.org/wiki/Papa_Alessandro_VI">
+      <persName xml:lang="it">
+         <roleName type="religious">Papa</roleName>
+         <forename>Alessandro</forename>
+         <surname>Borgia</surname>
+         <genName>VI</genName>
+      </persName>
+      <idno type="VIAF">2501524</idno>
+      <birth>
+         <date when-iso="1431-01-01"/>
+         <placeName ref="https://www.geonames.org/2516345/">Xàtiva</placeName>
+      </birth>
+      <death>
+         <date when-iso="1503-08-18" />
+         <placeName ref="#DLCL_CF_L0008">Roma</placeName>
+      </death>
+      <sex value="m" />
+      <occupation>papa</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0741">
       <persName xml:lang="it">
@@ -11464,23 +11521,15 @@
       <occupation>storico</occupation>
       <occupation>canonico</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0835" source="https://www.catholic-hierarchy.org/bishop/bdbuoi.html">
+   <person xml:id="DLCL_CF_PC0835" source="https://www.treccani.it/enciclopedia/olivetani_(Enciclopedia-Italiana)/">
       <persName xml:lang="it">
-         <roleName type="religious">Monsignor</roleName>
-         <forename>Vitale</forename>
-         <forename>Giuseppe</forename>
-         <addName type="geographic">de Buoi</addName>
+         <roleName type="religious">Abate</roleName>
+         <forename>Andrea</forename>
+         <genName>I</genName>
+         <addName type="geographic">da Faenza</addName>
       </persName>
-      <birth>
-         <date when-iso="1656" />
-         <placeName ref="#DLCL_CF_L0007">Bologna</placeName>
-      </birth>
-      <death>
-         <date when-iso="1726" />
-      </death>
       <sex value="m" />
-      <occupation>vescovo</occupation>
-      <note>Vescovo di Perugia</note>
+      <occupation>abate</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0836" sameAs="http://viaf.org/viaf/20486495" source="https://www.treccani.it/enciclopedia/guido-bentivoglio_(Dizionario-Biografico)/">
       <persName xml:lang="it">
@@ -14011,23 +14060,12 @@
       <sex value="m" />
       <occupation>tipografo</occupation>
    </person>
-   <person xml:id="DLCL_CF_PC0991" sameAs="http://viaf.org/viaf/47059936" source="https://www.treccani.it/enciclopedia/guido-panciroli/">
+   <person xml:id="DLCL_CF_PC0991">
       <persName xml:lang="it">
-         <forename>Guido</forename>
-         <surname>Panciroli</surname>
+         <forename>Pietro</forename>
+         <surname>d'Arborea</surname>
       </persName>
-      <idno type="VIAF">47059936</idno>
-      <birth>
-         <date when-iso="1523-04-17" />
-         <placeName ref="https://www.geonames.org/3169522/reggio-nell-emilia.html">Reggio Emilia</placeName>
-      </birth>
-      <death>
-         <date when-iso="1599-06-01" />
-         <placeName ref="#DLCL_CF_L0010">Padova</placeName>
-      </death>
       <sex value="m" />
-      <occupation>giurista</occupation>
-      <occupation>antiquario</occupation>
    </person>
    <person xml:id="DLCL_CF_PC0992" sameAs="http://viaf.org/viaf/76355446" source="https://www.treccani.it/enciclopedia/alberico-gentili/">
       <persName xml:lang="it">

@@ -61,7 +61,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc status="created">
-         <change when-iso="" who="#DLCL_CF_PS001">creato</change>
+         <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-28" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       </revisionDesc>
    </teiHeader>
@@ -122,9 +122,9 @@
                <persName ref="#DLCL_CF_PC0954">Signor Zanotti</persName>. 
                Merita qualche stima per le particolarità, che lo distinguono. Per altro i Libri Italiani di altre edizioni né meritano, né hanno stima, per essere di barbara ortografia. Ora mi è capitato un’antico 
                <persName ref="#DLCL_CF_PC1013">Crescenzio</persName>
-               <bibl ref="print">dell’Agricoltura</bibl>: 
+               <bibl type="print">dell'Agricoltura</bibl>: 
                non l’ho voluto: aspetto che mi capiti il 
-               <bibl ref="print">buono della stampa</bibl> 
+               <bibl type="print">buono della stampa</bibl> 
                di 
                <persName ref="#DLCL_CF_PC0954">Cosimo Giunti</persName> 
                1605. (se non erro nell’anno)</p>
