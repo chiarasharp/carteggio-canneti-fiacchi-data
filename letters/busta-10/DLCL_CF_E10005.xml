@@ -62,7 +62,7 @@
          <change when-iso="2024-09-26" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-20" who="#DLCL_CF_PS001">nuove trascrizioni buste</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
-
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni errori markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20637/manifest">
@@ -101,7 +101,7 @@
                Quando potrà andare alla <orgName ref="#DLCL_CF_O0009">Libreria di S. Salvatore</orgName>, 
                si ricordi vedere nell’<bibl type="manuscript">Epistole manoscritte</bibl> del <persName ref="#DLCL_CF_PC0031">Candido</persName> 
                se vi è menzione del nostro <persName ref="#DLCL_CF_PC0032">Ambrogio</persName>. 
-               Mi riverisca il <persName ref="DLCL_CF_PC0006">Padre Amici</persName>; 
+               Mi riverisca il <persName ref="#DLCL_CF_PC0006">Padre Amici</persName>; 
                e gli dica che in quest’ordinario mando a <placeName ref="#DLCL_CF_L0008">Roma</placeName> al <persName ref="#DLCL_CF_PC0033">Signore Crescimbeni</persName> 
                un’esemplare del <bibl type="print">Sonetto di San Filippo</bibl> nobilissimamente stampato costì, essendomi stato chiesto con grande istanza. 
                Son’ arrivati i libri di <placeName ref="#DLCL_CF_L0023">Foligno</placeName>; e vi ho trovate di belle cose. 

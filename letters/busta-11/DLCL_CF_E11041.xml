@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-20" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20934/manifest">
@@ -98,12 +99,12 @@
                <bibl type="print">Vignuola</bibl>, 
                e degli altri pochi libri intieri (quanto al 
                <bibl type="manuscript">Manoscritto</bibl> 
-               rimetto a lei) col cambio d’altri libri, che vorrei fossero de’ meno pregiabili, e più minuti §amp.</p>
+               rimetto a lei) col cambio d’altri libri, che vorrei fossero de’ meno pregiabili, e più minuti §.</p>
             <p>Mi mandi copia della 
                <bibl type="print">Vita de’ Santi Giusto, e Barnaba</bibl>. 
                Ma adagio; scuopro l’equivoco. Non cerco quel, che scriva quel Prete Pollacco 
                <persName ref="#DLCL_CF_PC0958">Martino Baronio</persName>, 
-               Autor moderno §amp. Cerco le notizie, se vi sono, nel 
+               Autor moderno §. Cerco le notizie, se vi sono, nel 
                <bibl type="print">Libretto degli Officj de’ Santi Pollacchi</bibl> 
                esistente nella Scanzia de’ Rituali cucito in cartone. Ivi troverà l’
                <bibl type="print">altro de’ Santi di Moravia</bibl> 
@@ -135,7 +136,7 @@
                po<gap reason="illegible"/>. 
                Mandi quel Rotolo a 
                <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> 
-               con prima occasione, raccomandandolo §amp. Resto confermandomi di tutto cuore.</p>
+               con prima occasione, raccomandandolo §. Resto confermandomi di tutto cuore.</p>
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-21">21. 7bre 1722.</date></dateline>
                <salute>DVPMR</salute>

@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-20" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20936/manifest">
@@ -138,9 +139,9 @@
             <pb xml:id="DLCL_CF_E11043_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21443/full/800,/0/default.jpg"/>
             <p>Benché tutti e tre non siano dell’ottima edizione i Volumi delle 
                <bibl type="print">Lettere de’ Principi</bibl>, 
-               non è da lasciar la congiuntura di prendergli, tanto meno valutandogli §amp. A 
+               non è da lasciar la congiuntura di prendergli, tanto meno valutandogli §. A 
                <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
-               rimetto §amp come per gli altri.</p>
+               rimetto § come per gli altri.</p>
             <p>I Tomi del 
                <bibl type="print">Lirano</bibl>, 
                simili a cotesti della 
@@ -148,14 +149,14 @@
                che ho io da esitare sono i seguenti: 
                <hi rend="underline">
                   <foreign xml:lang="la">
-                     I. 
-                     <bibl type="print">Genesis. Exodus. Levitic. Numer. Deuteron. Iosue. Iudic. Ruth. Regum 1. 2. 3. 4. Paralipomenon 1. et 2.</bibl> 
-                     II. 
-                     <bibl type="print">Esdr. 1. et 2. Tobias. Iudith. Esther. Iob. Proverbia. Ecclesiaste. Cantica Canticorum. Liber Sapientiȩ. Ecclesiastic.</bibl> 
-                     III. 
-                     <bibl type="print">Psalterium.</bibl> 
-                     IV. 
-                     <bibl type="print">Mattheus, et alij Evangelista</bibl></foreign></hi>. 
+                     I. </foreign>
+                  <bibl type="print"><foreign xml:lang="la">Genesis. Exodus. Levitic. Numer. Deuteron. Iosue. Iudic. Ruth. Regum 1. 2. 3. 4. Paralipomenon 1. et 2.</foreign></bibl> 
+                  <foreign xml:lang="la">II. </foreign>
+                     <bibl type="print"><foreign xml:lang="la">Esdr. 1. et 2. Tobias. Iudith. Esther. Iob. Proverbia. Ecclesiaste. Cantica Canticorum. Liber Sapientiȩ. Ecclesiastic.</foreign></bibl> 
+                     <foreign xml:lang="la">III. </foreign>
+                        <bibl type="print"><foreign xml:lang="la">Psalterium.</foreign></bibl> 
+                        <foreign xml:lang="la">IV. </foreign>
+                           <bibl type="print"><foreign xml:lang="la">Mattheus, et alij Evangelista</foreign></bibl></hi>. 
                Prenderei ancora qualche libro buono in cambio per una parte del prezzo, computandogli con agevole proporzionata a quella del valore, in cui si facilita l’esito del 
                <bibl type="print">Lirano</bibl>.</p>
             <p>Mi consola l’avviso de’ libri arrivati da 
@@ -186,7 +187,7 @@
                per mandarmela, venendo occasione col 
                <bibl type="print">Petrarca</bibl>, 
                e gli altri due Libretti. Un cordialissimo saluto al 
-               <persName ref="DLCL_CF_PC0873">Padre Calogerà</persName>, 
+               <persName ref="#DLCL_CF_PC0873">Padre Calogerà</persName>, 
                e un altro a [lei] col quale chiudo la lettera, confermandomi.</p>     
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-28">28. 7bre 1722</date></dateline>

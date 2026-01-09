@@ -62,7 +62,7 @@
          <change when-iso="2024-11-04" who="#DLCL_CF_PS001">group element</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
-
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni errori markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20688/manifest">
@@ -287,7 +287,7 @@
                   </p>
                
                   <p>
-                     <persName ref="DLCL_CF_PC0451">Mogl. Barbara</persName><space quantity="4" unit="chars"/>di <persName ref="#DLCL_CF_PC0457">Leonello</persName> di 
+                     <persName ref="#DLCL_CF_PC0451">Mogl. Barbara</persName><space quantity="4" unit="chars"/>di <persName ref="#DLCL_CF_PC0457">Leonello</persName> di 
                   </p>
       
                   <p>

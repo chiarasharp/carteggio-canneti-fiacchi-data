@@ -61,7 +61,7 @@
          <change when-iso="2024-10-01" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
-
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni errori markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20677/manifest">
@@ -241,7 +241,7 @@
             
             <postscript>
                <p>
-                  [De’ <orgName ref="#DLCL_CF_O0065">Catanei</orgName> si veda il <persName ref="DLCL_CF_PC0049">Gamurrini</persName>, 
+                  [De’ <orgName ref="#DLCL_CF_O0065">Catanei</orgName> si veda il <persName ref="#DLCL_CF_PC0049">Gamurrini</persName>, 
                   e <persName ref="#DLCL_CF_PC0346">Cosimo della Rena</persName>, serie de’ Duchi di <placeName ref="#DLCL_CF_L0079">Toscana</placeName> e altri]           
                </p>
             </postscript>

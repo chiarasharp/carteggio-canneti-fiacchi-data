@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20951/manifest">
@@ -95,20 +96,25 @@
             <p>Io tengo necessità del libro di 
                <persName ref="#DLCL_CF_PC0988">Angelo Decembio</persName> 
                intitolato 
-               <hi rend="underline">
-                  <foreign xml:lang="la">
-                     <bibl type="print">Politię Litterarię Libri VII.</bibl></foreign></hi> 
+               <hi rend="underline"><bibl type="print"><foreign xml:lang="la">Politię Litterarię Libri VII.</foreign></bibl></hi> 
                ch’è stampato in foglio, ed è anco in 8.vo. Ella faccia cercarlo, e prenderlo o in 
                <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, 
                o in 
                <placeName ref="#DLCL_CF_L0007">Bologna</placeName> 
                trà libri vecchi. Gliel raccomando; e con tutto ‘l cuore in fretta mi confermo.</p>
+            
             <closer>
                <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-01-25">25. Gennaio 1723.</date></dateline>
                <salute>DVPMR</salute>
+            </closer>
+            
+            <postscript>
                <p>pag. x95. ed. 2.</p>
                <p>x143. ed. 2.</p>
                <p>x201. ed. 1.</p>
+            </postscript>
+            
+            <closer>  
                <salute>Cordialissimo Servitore Affezionatissimo</salute> 
                <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>

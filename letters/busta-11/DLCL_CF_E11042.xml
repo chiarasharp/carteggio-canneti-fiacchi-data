@@ -64,10 +64,14 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-20" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20935/manifest">
       <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21439/full/800,/0/default.jpg"/>
+   </facsimile>
+   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/21440/manifest">
+      <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21441/full/578,800/0/default.jpg"/>
    </facsimile>
    <text>
       <group>
@@ -94,13 +98,16 @@
                <closer>
                   <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-09-25">25. 7bre 1722</date></dateline>
                   <salute>DVPMR</salute>
-                  <p>Presto avremo fuor de’ torchi il 
-                     <bibl type="print">Quadriregio</bibl>.</p>
-                  <p>Nell’
-                     <bibl type="print">Istoria del Concilio di Costanza</bibl> 
-                     vegga se vi è memoria di 
+               </closer>
+               
+               <postscript>
+                  <p>Presto avremo fuor de’ torchi il <bibl type="print">Quadriregio</bibl>.</p>
+                  <p>Nell’<bibl type="print">Istoria del Concilio di Costanza</bibl> vegga se vi è memoria di 
                      <persName ref="#DLCL_CF_PC0823">Fr. Federico Vescovo di Foligno</persName>, 
-                     di sua sottoscrizione, di sua accesso, discesso, morte arme §amp. Risponda subito.</p>
+                     di sua sottoscrizione, di sua accesso, discesso, morte arme §. Risponda subito.</p>
+               </postscript>
+               
+               <closer>
                   <salute>Parz. Cordialissimo Servo Vero</salute> 
                   <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
                </closer>
@@ -110,7 +117,7 @@
          <text type="attachment" xml:id="DLCL_CF_E11042_A01" n="Canneti a Fiacchi (Fabriano, 25 Settembre 1722) - Allegato 1 (Amigoni a Canneti)">
          <body>
             <div type="transcription">
-               <pb xml:id="DLCL_CF_E11042_A01_C1R" n="1 - Recto" facs=""/>
+               <pb xml:id="DLCL_CF_E11042_A01_C1R" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21441/full/578,800/0/default.jpg"/>
                <p><gap reason="illegible"/></p>
                <p>Siigue</p>
                <p><bibl type="print">Bacconiago</bibl> – 8o</p>

@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20942/manifest">
@@ -83,7 +84,7 @@
                <persName ref="#DLCL_CF_PC0969">Uguccione dalla Fagiuola</persName>. 
                Copiosissime grazie ne rendo al suo amore. 
                Io pensava che niuno degli 
-               <rs type="" ref="#">Autori</rs>, 
+               <rs type="person" ref="#">Autori</rs>, 
                i quali stanno presso di me, ne parlasse: ma ho poi trovato farsene menzione da 
                <persName ref="#DLCL_CF_PC0975">Raffaello Volterrano</persName> 
                ne’ 
@@ -142,7 +143,7 @@
                di aver avuto i 
                <bibl type="print">Calendarj</bibl>, 
                né ricusa pagargli: anzi tiene il danaro a</p>
-            <pb xml:id="DLCL_CF_E11049.._C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21454/full/800,/0/default.jpg"/>
+            <pb xml:id="DLCL_CF_E11049_C2R" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21454/full/800,/0/default.jpg"/>
             <p>parte di quei dell’anno 1721. prossimo passato.</p>
             <p>Il 
                <persName ref="#DLCL_CF_PC0193">Reverendissimo Amigoni</persName> 

@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20943/manifest">
@@ -103,14 +104,23 @@
             <closer>
                 <dateline><placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-11-06">6. 9bre 1722.</date></dateline>
                 <salute>DVPMR</salute>
-                <p>la qual mi mandi subito il nome del 
+            </closer>
+            
+            <postscript>
+               <p>la qual mi mandi subito il nome del 
                   <persName ref="#DLCL_CF_PC1011">Von den Hart</persName>, 
                   il Tomo, il cap. e pag. dell’Iscrizione, o per meglio dire sottoscrizione. Volti carta</p>
+            </postscript>
+            
+            <closer> 
                 <salute>Cordialissimo Servo Vero</salute> 
                <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
             </closer>
+            
             <pb xml:id="DLCL_CF_E11050_C1V" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21456/full/800,/0/default.jpg"/>
-            <p>Tra i Manoscritti ve n’hà uno (parmi in 4.to, e in pergamena) con una 
+            
+            <postscript>
+               <p>Tra i Manoscritti ve n’hà uno (parmi in 4.to, e in pergamena) con una 
                <bibl type="manuscript">Lettera Dedicatoria</bibl> 
                al 
                <persName ref="#DLCL_CF_PC0972">Bambagiuoli Bolognese</persName> 
@@ -119,6 +129,8 @@
                Ne troverà forse notizia nel mio 
                <bibl type="manuscript">Catalogo de’ Manoscritti</bibl> 
                che mandai imperfetto. Ne vorrei notizia, o copia di essa lette[ra] come stima Ella meglio.</p>
+            </postscript>
+            
          </div>
       </body>
    </text>

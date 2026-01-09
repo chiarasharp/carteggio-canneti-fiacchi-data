@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-21" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20938/manifest">
@@ -90,11 +91,11 @@
                ma non riflette che io sono in paese; che applica ad ogni altra sorte di merci. Un caro saluto al 
                <persName ref="#DLCL_CF_PC0090">Don Leandro</persName>. 
                Aspetterò l’arrivo della tela, e del fustagno, il quale ora sarebbe tempo di impiegare in vestiti.</p>
-            <p>Quando s’inseriscano gli Officj de’ Monasteri particolari, non è già da farne una distesa lunga delle lezioni, della Messa, §amp. Basterebbe accennargli, come fanno quei di 
+            <p>Quando s’inseriscano gli Officj de’ Monasteri particolari, non è già da farne una distesa lunga delle lezioni, della Messa, §. Basterebbe accennargli, come fanno quei di 
                <orgName ref="#DLCL_CF_O0013">Monte Corona</orgName>. 
                Tanto, e non più. Anco il rimanente del Calendario potrebbe abbreviarsi, ora che i nostri sono abbastanza istruiti. Preveggo difficile potere introdur novità in questa angustia di tempo. In tal caso starebbe anco bene inserir gli Officj particolari al fin de mesi. Nel frontespizio basta lasciare 
                <hi rend="underline">Ubi et ea</hi> 
-               §amp così si esce di tutti gli impegni. Aspetto qui presto le Colonnette: subito ne manderò il disegno colorito. Mi duole l’infermità del 
+               § così si esce di tutti gli impegni. Aspetto qui presto le Colonnette: subito ne manderò il disegno colorito. Mi duole l’infermità del 
                <persName ref="#DLCL_CF_PC0973">Padre Don Eugenio</persName>. 
                Al 
                <rs type="person" ref="#">Padre Reverendissimo</rs> 

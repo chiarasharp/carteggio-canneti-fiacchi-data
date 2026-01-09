@@ -63,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-21" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20939/manifest">
@@ -117,7 +118,7 @@
                <bibl type="print"><hi rend="underline">La Gelosia</hi> Commedia</bibl> 
                del 
                <persName ref="#DLCL_CF_PC0964">Grazini</persName> 
-               §amp car. 61. L’
+               § car. 61. L’
                <bibl type="print">Erofilomachia</bibl> 
                di 
                <persName ref="#DLCL_CF_PC0965">Sforza</persName></p>
@@ -152,7 +153,7 @@
                   <bibl type="print">Istorie</bibl> 
                   d’
                   <persName ref="#DLCL_CF_PC0968">Eliodoro</persName></hi> 
-               §amp si corregga 
+               § si corregga 
                <hi rend="underline">
                   <persName ref="#DLCL_CF_PC1016">Ghini</persName></hi>; 
                dove 

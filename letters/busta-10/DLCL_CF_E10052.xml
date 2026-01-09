@@ -60,7 +60,7 @@
          <change when-iso="2024-09-10" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2024-11-22" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
-
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni errori markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20684/manifest">
@@ -163,7 +163,7 @@
                
                <p>
                   <foreign xml:lang="la">De <persName ref="#DLCL_CF_PC0414">Petro Quirino</persName>. 
-                     <persName ref="DLCL_CF_PC0412">Ciacconius</persName></foreign> 
+                     <persName ref="#DLCL_CF_PC0412">Ciacconius</persName></foreign> 
                   <bibl type="print"><foreign xml:lang="la">editionis ultimae Vol. 3</foreign></bibl> col. 421<gap reason="illegible"/>[...]
                </p>
                

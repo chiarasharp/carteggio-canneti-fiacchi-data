@@ -61,6 +61,7 @@
             <change when-iso="2024-11-24" who="#DLCL_CF_PS001">nuove trascrizioni</change>
 <change when-iso="2025-08-22" who="#DLCL_CF_PS001">correzioni</change>
          <change when-iso="2025-10-30" who="#DLCL_CF_PS001">aggiornamento URL IIIF da Unibo a CDC</change>
+         <change when-iso="2026-01-09" who="#DLCL_CF_PS001">correzioni errori markup</change>
         </revisionDesc>
     </teiHeader>
     <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20758/manifest">
@@ -125,7 +126,7 @@
                         <postscript>
                             <p>
                                 Al Molto Reverendo Padre mio Osservandissimo Il <persName ref="#DLCL_CF_PC0002">Padre Don Mariangelo Fiacchi</persName> Monaco Camaldolese 
-                                 <placeName ref="DLCL_CF_L0006">Ribano</placeName>
+                                 <placeName ref="#DLCL_CF_L0006">Ribano</placeName>
                             </p>
                         </postscript>
                         

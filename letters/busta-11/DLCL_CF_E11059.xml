@@ -22,7 +22,6 @@
                   <country key="IT">Italia</country>
                   <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
                   <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
-                <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
                   <repository></repository>
                   <collection></collection>
                   <idno></idno>
@@ -64,6 +63,7 @@
       <revisionDesc status="created">
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-28" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+         <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
       </revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20952/manifest">
@@ -107,8 +107,8 @@
                sono stampate 
                <hi rend="undeline"><foreign xml:lang="la">MCCCCLXXIIII. <persName ref="#DLCL_CF_PC0989">Nicolao Marcello</persName> Duce Venetiarum regnate</foreign></hi> 
                E avanti questa indicazione dell’anno leggonsi i sei versi 
-               <cit><quote><hi rend="undeline"><foreign xml:lang="la">Quem legis impressus</foreign></hi></quote></cit> 
-               §amp i quali sono altresì stampati in fine delle prediche latine di 
+               <cit><quote><hi rend="undeline"><foreign xml:lang="la">Quem legis impressus</foreign></hi></quote></cit>
+               § i quali sono altresì stampati in fine delle prediche latine di 
                <persName ref="#DLCL_CF_PC0887">Roberto da Lecce</persName>, 
                e accennano essere stati da un 
                <persName ref="#DLCL_CF_PC0990">Bartolommeo</persName> 
@@ -153,8 +153,8 @@
                <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> 
                mi faccia provvedere del 
                <bibl type="print">Tomo</bibl> 
-               <hi rend="undeline"><persName ref="#DLCL_CF_PC0991">Guidi Panciroli</persName></hi> 
-               §amp riferito sull’ultimo del Tometto 6.°, e del primo volume del 
+               <hi rend="undeline"><persName ref="#DLCL_CF_PC0991">Guidi Panciroli</persName></hi>
+               § riferito sull'ultimo del Tometto 6.°, e del primo volume del 
                <bibl type="print">Giornale Oltramontano</bibl>; 
                e non si scordi. Raro era dianzi il 
                <bibl type="print">detto libro</bibl> 
