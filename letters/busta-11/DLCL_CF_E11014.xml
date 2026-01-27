@@ -53,12 +53,12 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20907/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20907/6379.jpg"/>
-    <graphic n="1v" url="https://classense.unibo.it/files/large/20907/6380.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21366/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21367/full/800,/0/default.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 18 Agosto 1721)">
     <body>
@@ -69,25 +69,43 @@
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
           </salute>
         </opener>
-        <p>Anche in un quartuccio di foglio scriva VP., purché mi scriva. Godo sommamente che all’antico sito sia ritornata l’urna dell’Arcivescovo di Ravenna Teodoro. Cotesto marmo goda l’onore di star nel comune Conditorio (mi servo della voce latina, non avendola pronta nella lingua nostra) de’ Pontefici Ravennati, ove molto più meriterebbero riposare le sue ossa per la santa ed eroica azione, con cui sottomise cotesta gran Chiesa, dopo non breve scisma, alla Santa Sedia Romana. Io dubitavo che il marmo greco, per essere assai poroso, non potesse facilmente purgarsi dal sudiciume penetrante dell’olio, di cui è stato per tanti anni sporcamente intriso.</p>
-        <p>Resto persuaso sempre più che egualmente siano perfette, e intiere le due nostre copie del Florido, con questa differenza che sia deformata dal tarlo cotesta della Libreria. Se potesse vendersi almeno per dodici paoli, sostituirei l’altra poc’anzi da me acquistata.</p>
-        <p>Ho fatta riflessione a quattro Arcivescovi del Musaico: e attesa la brevità del pontificato di Ursicino, al quale si attribuisce la fabbrica della Basilica Classense, tengo ch’essa fosse cominciata, e tirata avanti a tempi d’Ecclesio, poscia di ordine d’esso Ursicino finita da Giuliano detto l’Argentario, e insieme ornata del musaico, senza apporsi il titolo di Santo ad ambidue gli Arcivescovi o vivi, poco prima defonti; siccome Santi s’intitolano Severo, di cui era grande, e speciale il culto nella città di Classe, ad Orso venerato distintamente per la memoria</p>
-        <pb xml:id="DLCL_CF_E11014_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21367/full/800,/0/default.jpg"/>
-        <p>della Basilica Orsiana da lui edificata. Osservo che, secondo il costume di quell’età né Santo Ecclesio, né Santo Ursicino si rappresentano con la Chiesa di Classe in mano; perché (credo io) né l’uno, né l’altro la compì, ma comune ad ambi fu il pregio dell’averla fabbricata. In pochi giorni con queste, ed altre operazioni posso mettere in ordine una dissertazione, che tutti corregga gli errori di Ciampini, e degli altri scrittori che d’esso musaico han fatto menzione, e pongo in lume buono, e proprio la verità delle cose rappresentate. Nulla però si può fare senza il disegno intiero, ed esatto delle figure, poco importando una rigo[…] misura geometrica: poscia che non si ha a trattare di architettura, ma d’interpretazione iconologica. E ciò basti per ora, con caramente salutarla di cuore.</p>
+        <p>
+          Anche in un quartuccio di foglio scriva Vostra Paternità, purché mi scriva.
+          Godo sommamente che all’antico sito sia ritornata l’Urna dell’Arcivescovo di Ravenna Teodoro.
+          Cotesto marmo goda l’onore di star nel comune Conditorio (mi servo della voce latina, non avendola pronta nella lingua nostra) de’ Pontefici Ravennati, ove molto più meriterebbono riposare le sue ossa per la santa ed eroica azione, con cui sottomise cotesta gran Chiesa, dopo non breve scisma, alla Santa Sedia Romana.
+          Io dubitavo che il marmo greco, per essere assai poroso, non potesse facilmente purgarsi dal sudiciume penetrante dell’olio, di cui è stato per tanti anni sporcamente intriso.
+          Resto persuaso sempre più che egualmente siano perfette, e intiere le due nostre copie del Florido, con questa differenza che sia deformata dal tarlo cotesta della Libreria.
+          Se potesse vendersi almeno per dodici paoli, sostituirei l’altra poc’anzi da me acquistata.
+          Ho fatta riflessione a quattro Arcivescovi del Musaico: e attesa la brevità del pontificato di Ursicino, al quale si attribuisce la fabbrica della Basilica Classense, tengo ch’essa fosse cominciata, e tirata avanti a tempi d’Ecclesio, poscia di ordine d’esso Ursicino finita da Giuliano detto l’Argentario, e insieme ornata del musaico, senza apporsi il titolo di Santo ad ambidue gli Arcivescovi o vivi, o poco prima defonti; siccome Santi s’intitolano Severo, di cui era grande, e speciale il culto nella città di Classe, ad Orso venerato distintamente per la memoria
+        </p><pb xml:id="DLCL_CF_E11014_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21367/full/800,/0/default.jpg"/>
+        <p>
+          della Basilica Orsiana da lui edificata.
+          Osservo che, secondo il costume di quell’età né Santo Ecclesio, né Santo Ursicino si rappresentano con la Chiesa di Classe in mano; perché (credo io) né l’uno, né l’altro la compì; ma comune ad ambi fù il pregio dell’averla fabbricata.
+          In pochi giorni con queste, ed altre operazioni posso mettere in ordine una Dissertazione, che tutti corregga gli errori di Ciampini, e degli altri Scrittori, che d’esso musaico han fatta menzione, e pongo in lume buono, e proprio la verità delle cose rappresentate.
+          Nulla però si può fare senza il disegno intiero, ed esatto delle figure, poco importando una rigo[…] misura geometrica: poscia che non si ha a trattare di architettura, ma d’interpretazione iconologica.
+        </p>
+        
         <closer>
+          <salute>E ciò basti per ora, con caramente salutarla di cuore.</salute>
           <salute>DVPMR</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-08-18">18 agosto 1721</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-08-18">18. Agosto 1721</date>.</dateline>
         </closer>
+        
         <postscript>
-          <p>Il titolo del libretto in dodici copie da mandarsi per prima occasione è il seguente Della Maniera di conversare con Dio. Faenza per l’Archi. 1718 in 12 = Il danaro si levi dal Padre Lettore Guiccioli.</p>
+          <p>
+            Il titolo del libretto in dodici copie da mandarsi per prima occasione è il seguente Della Maniera di conversare con Dio.
+            Faenza per l’Archi. 1718. in 12. = Il danaro si levi dal Padre Lettore Guiccioli.
+          </p>
         </postscript>
+        
         <closer>
-          <salute>Affettuosissimo Servo e Padre [...]</salute>
+          <salute>Affettuosissimo Servo e Padre […]</salute>
           <signed>
-            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+            <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
           </signed>
         </closer>
-      </div>
+        
+        </div>
     </body>
   </text>
 </TEI>

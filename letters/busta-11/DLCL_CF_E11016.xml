@@ -31,7 +31,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso="1712-08-29"/>
+          <date when-iso="1721-08-29"/>
           <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
@@ -53,11 +53,11 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20909/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20909/6387.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21371/full/800,/0/default.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 29 Agosto 1721)">
     <body>
@@ -69,15 +69,24 @@
           </salute>
         </opener>
         <p>
-          Mercoledì il Padre D. Deodato Pedroni nel partire di qua per la sua nuova stanza di Bertinoro seco portò due involti diretti a VP., uno con dodici Cingoli l’altro con quattro libri, che alla diligenza di lei raccomando perché con prima occasione siano spediti a Venezia al Reverendissimo Abate D. Giovanni Benedetto Tassis, senza spesa di porto, il quale farà VP pagare a mio conto, facendo fare nel soprascritto Franco di porto. Potrà soddisfare alla erudita curiosità con vedere il Tomo 8 e 9 Della Biblioteca greca di Gio. Alberto Fabricio, e il Tomo primo e 2° dell’Istoria Bibliotecaria di Giovanni Fabricio, ch’è Autor diverso dall’altro Fabricio sopramenzionato. I primi due Tomi li mando perché il Tomo IX si renda più conforme all’ottavo nel cartello, e ambi ritornino col Tomo X già comprato. Parimenti gli altri due ritorneranno col Tomo 3° e 4to, già usciti, e nel cartello migliorati. Ora in Roma non si usano più i cartelli di pelle, ma si tragono i libri con un colore di durata, e vi si fanno in quel sito le lettere d’oro. Posso mostrar qui qualche libro così finito egregiamente da’ famosi Librai Pagliarini Aretini. Sarà opportuna la congiuntura della venuta del Padre Cancelliere qua per mandarmi i dodici libretti di Faenza col libro di S. Maria in Cosmedin. Mille cose avrei da dirle: ma temo che il moltiplicar queste specie in tempo d’altra applicazione, riesca a lei di tedio, non di sollievo. 
+          Mercoledì il Padre Don Deodato Pedroni nel partire di qua’ per la sua nuova stanza di Bertinoro seco’ portò due Involti diretti a Vostra Paternità, uno con dodici Cingoli l’altro con quattro libri, che alla diligenza di lei raccomando perché con prima occasione siano spediti a Venezia al Reverendissimo Abate Don Giovanni Benedetto Tassis, senza spesa di porto, il quale farà Vostra Paternità pagare a mio conto, facendo fare nel soprascritto Franco di porto.
+          Potrà soddisfare alla erudita curiosità con vedere il Tomo 8. e 9.
+          Della Biblioteca greca di Gio.
+          Alberto Fabricio, e il Tomo p.° e 2.° dell’Istoria Bibliotecaria di Giovanni Fabricio, ch’è Autor diverso dall’altro Fabricio sopramentovato.
+          I primi due Tomi li mando perché il Tomo IX. si renda più conforme all’ottavo nel cartello, e ambi ritornino col Tomo X. già comprato.
+          Parimenti gli altri due ritorneranno col Tomo 3.° e 4.to, già usciti, e nel cartello migliorati.
+          Ora in Roma non si usano più i cartelli di pelle, ma si tingono i libri con un colore di durata, e vi si fanno in quel sito le lettere d’oro.
+          Posso mostrar quì qualche libro così finito egregiamente da’ famosi Libraj Pagliarini Aretini.
+          Sarà opportuna la congiuntura della venuta del Padre Cancelliere quà per mandarmi i dodici libretti di Faenza col libro di Santa Maria in Cosmodin.
+          Mille cose avrei da dirle: ma temo che il moltiplicar queste specie in tempo d’altra applicazione, riesca a lei di tedio, non di sollievo.
         </p>
         <closer>
-          <salute>Resto pertanto confermandomi di mio cuore.</salute>
+          <salute>Resto pertanto confermandomi di tutto cuore.</salute>
           <salute>DVPMR la qual procuri da Bertinoro i due involti</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-08-29"> 29 agosto 1721</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-08-29">29 Agosto 1721</date>.</dateline>
           <salute>Affettuosissimo Servitore e Padre Cor. nel Signore</salute>
           <signed>
-            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+            <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
           </signed>
         </closer>
       </div>

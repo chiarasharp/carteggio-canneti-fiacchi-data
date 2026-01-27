@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="it">Canneti a Fiacchi (Fabriano, 17 Gennaio 1721)</title>
-        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+        <author ref="#DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
         <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
@@ -22,7 +22,7 @@
           <msIdentifier>
             <country key="IT">Italia</country>
             <settlement ref="#DLCL_CF_L0002" key="DLCL_CF_L0002">Ravenna</settlement>
-            <institution ref="#DLCL_CF_O0001" key="DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
+            <institution ref="#DLCL_CF_O0001">Istituzione Biblioteca Classense</institution>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -30,12 +30,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
+          <persName ref="#DLCL_CF_PC0001">Pietro Canneti</persName>
           <date when-iso="1721-01-17"/>
           <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
+          <persName ref="#DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
         </correspAction>
       </correspDesc>
       <langUsage>
@@ -53,17 +53,17 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">markup</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20893/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20893/6320.jpg"/>
-    <graphic n="1v" url="https://classense.unibo.it/files/large/20893/6321.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21327/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21328/full/800,/0/default.jpg"/>
   </facsimile>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20895/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20895/6323.jpg"/>
-    <graphic n="1v" url="https://classense.unibo.it/files/large/20895/6324.jpg"/>
-    <graphic n="2r" url="https://classense.unibo.it/files/large/20895/6325.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21327/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21328/full/800,/0/default.jpg"/>
+    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21329/full/800,/0/default.jpg"/>
   </facsimile>
   <text>
     <group>
@@ -73,47 +73,56 @@
             <pb xml:id="DLCL_CF_E11001_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21325/full/800,/0/default.jpg"/>
             <opener>
               <salute>
-                <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
+                <rs type="person" ref="#DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
               </salute>
             </opener>
-            <p>
-              Per rompere il troppo lungo silenzio, e riaprire il commercio delle lettere, 
-              e riprendere il filo dell’Indice de’ nostri libri, ora non altro incomodo reco a VP con questa mia, 
-              che la curiosità anzi dilettevole di leggere nell’annessa copia la lettera del famoso Vescovo di Aleria Custode della Pontificia Biblioteca, 
-              in cui scorgerà i libri dal principio della stampa fino alla primavera dell’anno 1472 impressi in Roma dalli due tedeschi introduttori della nuova arte in casa Massimi. 
-              Stà questa lettera in fronte all’ultimo volume delle Postille del Lirano, che contiene l’epistole di S.Paolo, 
-              e le altre Canoniche con l’Apocalisse. 
-              Un’altra lettera niente meno curiosa del medesimo Vescovo è in fronte a tutta l’Opera, avanti alle Postille sopra la Genesi: 
-              ma questa io stimo infinitamente per la notizia dell’edizioni infino a quell’ora seguite, e col distinto numero delle copie. 
-              Li mille e cento volumi del Lirano, se io non mi appongo fanno 275. esemplari dell’Opera, 
-              la quale parmi riconoscere distinta in quattro grossissimi volumi; 
-              benchè per comodo sia stato ripartito in sei il Corpo da me acquistato, ch’è bello, ben conservato, con grande margine, 
-              e nobilmente rilegato in certa pelle di capra, che qui si lavora, tinta di colore rosso vivo, non facile a scorticarsi. 
-              Sicchè (dirà VP.) noi abbiam fatto acquisto di un / gran corpo di libri rari, e degni della libreria di un Principe. È verissimo. Dunque (ella segue a dire) questa volta non vi son disgrazie. O
-              questo non è vero.
-            </p>
+            <p> Per rompere il troppo lungo silenzio, e riaprire il commercio delle lettere, e
+              riprendere il filo dell'<bibl type="manuscript">Indice de' nostri libri</bibl>, ora
+              non altro incomodo reco a <rs type="person" ref="#DLCL_CF_PC0002">Vostra
+                Paternità</rs> con questa mia, che la curiosità anzi dilettevole di leggere
+              nell'annessa copia la <bibl type="print">lettera</bibl> del famoso <persName ref="#DLCL_CF_PC0637">Vescovo di Aleria</persName> Custode della <orgName ref="#DLCL_CF_O0025">Pontificia Biblioteca</orgName>, in cui scorgerà i libri dal
+              principio della stampa fino alla primavera dell'anno 1472 impressi in <placeName ref="#DLCL_CF_L0008">Roma</placeName> dalli <persName ref="#DLCL_CF_PC0685">due</persName>
+              <persName ref="#DLCL_CF_PC0684 #DLCL_CF_PC0685">Tedeschi</persName> introduttori della
+              nuova arte in <orgName ref="#DLCL_CF_O0109">casa Massimi</orgName>. Stà questa lettera
+              in fronte all'ultimo Volume delle <bibl type="print">Postille</bibl> del <persName ref="#DLCL_CF_PC0655">Lirano</persName>, che contiene l'<bibl type="print">Epistole</bibl> di <persName ref="#DLCL_CF_PC0826">San Paolo</persName>, e le altre
+                <bibl type="print">Canoniche con l'Apocalisse</bibl>. Un'altra lettera niente meno
+              curiosa del medesimo <persName ref="#DLCL_CF_PC0637">Vescovo</persName> è in fronte a
+              tutta l'Opera, avanti alle <bibl type="print">Postille</bibl> sopra la <bibl type="print">Genesi</bibl>: ma questa io stimo infinitamente per la notizia
+              dell'edizioni infino a quell'ora seguite, e col distinto numero delle copie. Li mille
+              e cento volumi del <bibl type="print">Lirano</bibl>, se io non mi appongo fanno 275.
+              esemplari dell'Opera, la quale parmi riconoscere distinta in quattro grossissimi
+              Volumi; benché per comodo sia stato ripartito in sei il Corpo da me acquistato, ch'è
+              bello, ben conservato, con grande margine, e nobilmente rilegato in certa pelle di
+              Capra, che quì si lavora, tinta di colore rosso vivo, non facile a scorticarsi. Sicché
+              (dirà <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>.) noi abbiam fatto
+              acquisto di un gran Corpo di libri rari, e degni della Libreria di un Principe. È
+              verissimo. Dunque (Ella segue a dire) questa volta non vi son disgrazie. O questo non
+              è vero. </p>
             <pb xml:id="DLCL_CF_E11001_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21326/full/800,/0/default.jpg"/>
-            <p>
-              Anzi ve n’è una grandissima. 
-              Quantunque io avessi avvertito il Pagliarini che osservasse se era il corpo intiero, ed egli risposto mi avesse che sì, / trovo che vi mancano i libri di Giosuè, de’ Giudici, di Rut, de’ Re, e de’ Paralipomeni. 
-              L’inganno credo sia provenuto dall’aver lui letta la serie de’ libri contenuti nel primo Tomo insieme col Pentateuco, dove stanno descritti con questo anco i libri, 
-              che mancano, forse dal legatore (come in altri Tomi fece) separati, e legati in distinto volume, overo fin da quel tempo mancati; come assai dubito, perché l’ultima carta del Deuteronomio finisse col supplemento della penna. 
-              Sarebbe un gran miracolo, se mai riuscisse trovar ciò, che in questo corpo si desidera. Conviene contentarsi così, 
-              perché in verità ogni Tomo ancor separato merita stima; quanto più il corpo tutto benchè mancante di un membro, quando nè pur il ma[n]camento a prima vista si scuopre? 
-              Sarebbe stata troppa grassa cuccagna acquistare con permuta di libri di valore di otto doppie in circa, un corpo, 
-              che eziandio così imperfetto ne vale ben trenta, e vale quanto si vuol far valere, oltre a venti e più altri pezzi di libri antichi de’ qua[li] scriverò con più agio. 
-              Ora intanto mi avvisi Ella la stampa de’ quattro Tomi della Somma di Santo Antonino, se costì è in Libreria, e guardi ogni Tomo distintamente. 
-              Altrettanto di bello VP. mi scriva di materie Bibliotecarie, e le farò un’ E viva. 
-            </p>
+            <p> Anzi ve n'è una grandissima. Quantunque io avessi avvertito il <persName ref="#DLCL_CF_PC0015">Signor Pagliarini</persName> che osservasse se era il corpo
+              intiero, ed egli risposto mi avesse che sì, trovo che vi mancano i <bibl type="print">libri di Giosuè</bibl>, <bibl type="print">de' Giudici</bibl>, <bibl type="print">di Rut</bibl>, <bibl type="print">de' Re</bibl>, e <bibl type="print">de'
+                Paralipomeni</bibl>. L'inganno credo sia provenuto dall'aver lui letta la serie de'
+              libri contenuti nel primo Tomo insieme col <bibl type="print">Pentateuco</bibl>, dove
+              stanno descritti con questo anco i libri, che mancano, forse dal <rs type="person">Legatore</rs> (come in altri Tomi fece) separati, e legati in distinto Volume,
+              overo fin da quel tempo mancati; come assai dubito, perché l'ultima carta del <bibl type="print">Deuteronomio</bibl> finisse col supplemento della penna. Sarebbe un
+              gran miracolo, se mai riuscisse trovar ciò, che in questo corpo si desidera. Conviene
+              contentarsi così, perché in verità ogni Tomo ancor separato merita stima; quanto più
+              il corpo tutto benchè mancante di un membro, quando nè pur il ma[n]camento a prima
+              vista si scuopre? Sarebbe stata troppa grassa cuccagna acquistare con permuta di libri
+              di valore di otto doppie in circa, un corpo, che eziandio così imperfetto ne vale ben
+              trenta, e vale quanto si vuol far valere, oltre a venti e più altri pezzi di libri
+              antichi, de' quali scriverò con più agio. Ma intanto mi avvisi Ella la stampa de'
+              quattro Tomi della <bibl type="print">Somma</bibl> di <persName ref="#DLCL_CF_PC0819">Santo Antonino</persName>, se costì è in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, e guardi ogni Tomo distintamente. Altrettanto di bello <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi scriva di materie
+              Bibliotecarie, e le farò un'<hi rend="ul">E viva</hi>. </p>
             <closer>
-              <salute>Addio. L’abbraccio caramente, e se[...] DVPMR.</salute>
+              <salute>Addio. L'abbraccio caramente, e sono <gap reason="illegible"/>[...] DVPMR.</salute>
               <dateline>
                 <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
-                <date when-iso="1721-01-07">7 gennaio 1721</date>
+                <date when-iso="1721-01-17">17 Gennaio 1721</date>
               </dateline>
               <salute>Cordialissimo servitore e Affezionatissimo Padre nel Signore</salute>
               <signed>
-                <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+                <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
               </signed>
             </closer>
           </div>

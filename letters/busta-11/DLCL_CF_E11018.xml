@@ -53,11 +53,11 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20911/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20911/6397.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21376/full/800,/0/default.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 19 Settembre 1721)">
     <body>
@@ -68,16 +68,19 @@
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
           </salute>
         </opener>
-        <p>Ricevei ieri il libro del Grassi con l’involto de’ dodici libretti di Faenza, che sollecitamente dal Massaccio mi ha spedito avanti il di lui arrivo il Cancelliere. Accennandomi esso avere per di lei ordine comprati questi libriccini, farò a lui il rimborso dello speso, per minore incomodo di VP, dalla quale aspetto con impazienza avviso del ricapito degl’involtini consegnati al P.D. Deodato, e della spedizione di uno d’essi a Venezia al Reverendissimo Tassis, Uomo, che essendo di sommissima puntualità, altrettanta ne esigge da chi tratta seco: quantunque egli in ciò costituisca nel genere umano una specie distinta, e unica.</p>
-        <p>Non mi scordo dello studio da farsi sopra il Disegno dell’antico frammento. Preveggo di non poter altro concludere se non che nel risarcirlo, una qualche volta sia stato guastato. Ma se ciò si ammette, qual fede me[...] tutta quanta essa è l’anticaglia? Che è stato di quello Ursus Levita et Abbas? Se è stato scartato, e obbligato a cedere luogo a nuovi pensieri, è gran male. Mi è venuto il Libretto de’ Traduttori del Marchese Scipione Maffei. L’aggiunta intorno alle Iscrizione, ove attentamente si legga, può fare innamorare un cuor di sasso. Ed è possibile che quando anco sia di pietra il cuore, non si accenda allo scritto, al parlare, all’esempio di sì erudito Cavaliere venuto costà per vedere que’ marmi?</p>
+        <p>
+          Ricevei ieri il libro del Grassi con l’involto de’ dodici libretti di Faenza, che sollecitamente dal Massaccio mi ha spedito, avanti il di lui arrivo il Padre Cancelliere.
+          Accennandomi esso avere per di lei ordine comprati questi libriccini, farò a lui il rimborso dello speso, per minore incomodo di Vostra Paternità, dalla quale aspetto con impazienza avviso del ricapito degl’involtini consegnati al Padre Don Deodato, e della spedizione di uno d’essi a Venezia al Reverendissimo Tassis, Uomo, che essendo di sommissima puntualità, altrettanta ne esigge da chi tratta seco: quantunque egli in ciò costituisca nel genere umano una specie distinta, e unica.
+          Non mi scordo dello studio da farsi sopra il Disegno dell’antico frammento.
+          Preveggo di non poter’ altro concludere se non che nel risarcirlo, una qualche volta sia stato guastato.
+          Ma se ciò si ammette, qual fede me[...] tutta quanta essa è l’anticaglia? Che è stato di quello Ursus Levita et Abbas? Se è stato scartato, e obbligato a ceder luogo a nuovi pensieri, è gran male.
+          Mi è venuto il Libretto de’ Traduttori del Marchese Scipione Maffei.
+          L’aggiunta intorno alle Iscrizione, ove attentamente si legga, può farne innamorare un cuor di sasso.
+          Ed è possibile che quando anco sia di pietra il cuore, non si accenda allo scritto, al parlare, all’esempio di sì erudito Cavaliere venuto costà per vedere que’ Marmi?</p>
         <closer>
           <salute>Resto abbracciandola caramente.</salute>
-          <salute>DVPME</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-08-18">19 settembre 1721</date>.</dateline>
-          <salute>Affezionatissimo Servitore Cordialissimo Padre nel Signore</salute>
-          <signed>
-            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
-          </signed>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1721-09-19">19. 7bre 1721</date>.</dateline>
+          <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
         </closer>
       </div>
     </body>

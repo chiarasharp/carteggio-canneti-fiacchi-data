@@ -53,55 +53,94 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20904/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20904/6364.jpg"/>
-    <graphic n="1v" url="https://classense.unibo.it/files/large/20904/6365.jpg"/>
-    <graphic n="2r" url="https://classense.unibo.it/files/large/20904/6366.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21354/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21355/full/800,/0/default.jpg"/>
+    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21356/full/800,/0/default.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Valdicastro, 2 Luglio 1721)">
     <body>
       <div type="transcription">
-        <pb xml:id="DLCL_CF_E11010_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21354/full/800,/0/default.jpg"/>
+        <pb xml:id="DLCL_CF_E11011_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21354/full/800,/0/default.jpg"/>
         <opener>
           <salute>
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
           </salute>
         </opener>
-        <p>Con felice vantaggio tentando di risvegliare un addormentato, ricevo ad un tempo stesso due risposte egualmente care. Di chi già che il buon esempio vicino avrebbe giovato più della mia voce. Mille grazie all’uno, e all’altro. Ho ricevuta adunque la nota de’ libri da segnarsi nel Catalogo Fontaniniano. Sopra di essa mi occorre un dubbio che il Trattato dello Stile del Pallavicino a carta 29 non sia dell’edizione 3za ivi descritta: e che parimenti noi non abbiamo costì l’edizione accresciuta delle Orazioni raccolte dal Sansovino, e notata a carta 34 che però io mi sono ritenuto da segnare l’uno, e l’altro de sopradetti libri. Simil dubbio mi nasce sopra i due Orlandi Innamorati alla pag. 48.</p>
-        <p>Io per lo stesso riguardo non aveva segnato a pag. 83 le Lagrime di S. Pietro del Tansillo, perché a noi mancava l’edizione buona intiera ivi addotta. Ma questa appunto ora mi è venuta alle mani. Che però, senza veruno scrupolo può farsi il segno a quel libro, che sta presso di me poco fa acquistato.</p>
-        <p>Parmi altresì che noi non possiamo segnare a pag. 85 Le Rime, e Prose della Matraini, né a pag. 92. la Fiammetta, e il Filocolo, né a pag. 93 gli Asolani; per non essere tali libri delle buone edizioni dal Fontanini, e da altri molti accreditate.</p>
-        <p>Se io abbia il Commento di Jerocle volgarizzato non me ne ricordo: ciò avviserò al mio ritorno. Delle Opere di Plutarco non mi sovviene avere in Fabriano altrochè gli Opuscoli Morali in due Tomi in 4to che da VP mi furono mandati in cambio di altri libri.</p>
-        <p>Venghiamo ora ad un’altra piccola aggiunta di libri acquistati da me in un breve viaggetto.</p>
-        <pb xml:id="DLCL_CF_E11011_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21355/full/800,/0/default.jpg"/>
-        <p>Pag. 49 L’Atamante Tragedia degli Accademici Catenati. In Macerata appresso Sebastiano Martellini 1579 in 4to.</p>
-        <p>Pag 50 da aggiungersi con la penna Quintia Tragedia del Cav. Vincenzio Panciatichi. In Fiorenza per Cosimo Giunti 1600 in 8vo.</p>
-        <p>Pag. 65 La Matrigna. Commedia di Giovanfrancesco Loredano il Vecchio. In Venezia alla Libreria via della Speranza 1601. In 8vo.</p>
-        <p>Pag. 68 Difesa del Pastorfido da quanto gli è stato scritto contro dal Summo, e dal Malacreta con una risoluzione de’ dubbi del Beni, per Orlando Pescetti. Verona per Angelo Tamo 1601 in 4to.</p>
-        <p>Pag. 70 in fine delle Poesie Pastorali da aggiungersi colla penna. L’esilio amoroso Favola Boschereccia di Alessandro Calderoni da Faenza. In Ferrara per Vittorio Baldini 1607 in 12.</p>
-        <p>La Pastorella Regia Favola Tragica Pastorale di Giovanmaria Guicciardi da Bagnacavallo. In Ferrara per Vittorio Baldini 1602 in 8.</p>
-        <p>In fine del S-7. L’insidiata Nisa. Favola Pescatoria di GiovanPaolo Pocobelli. In Venezia per Angelo Salvatori 1623 in 12. Molte altre Opere Dramaiche si tralasciano, perché non può capirle il libro. Pag. 83 Lagrime di S. Pietro. In Vinezia appresso Barezzo Barezzi 1606 in 4to.</p>
-        <p>Pag. 116 Sopra l’Impresa degli Accademici Umoristi Discorso di Girolamo Aleandro. Son questi libri, che meco porto a casa, di nuovo acquisto insieme con un Codice di cartapecora ben miniato, in cui stanno i cinque libri delle Selve di Stazio scritte a penna, con infine</p>
-        <pb xml:id="DLCL_CF_E11011_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21356/full/800,/0/default.jpg"/>
-        <p>aggiuntavi di mano diversa, e di un secolo più giovane un’Elegia a Pio Secondo di Gregorio da Città di Castello, la quale ho però anco stampata dentro il libro rarissimo de’ versi latini dello stesso Autore.</p>
-        <p>Quanto alla ristampa degl’Istorici Greci e Latini tradotti in volgar lingua, io loderei il generoso pensiero, se quelle traduzioni fossero tutte buone. Ma essendo esse, almeno per la maggior parte, io dubito fortemente che non solo inutile, e di poco applauso, e di niuno spaccio sarebbe l’edizione, ma pregiudicherebbe a quella qualunque siasi stima, in essi ora sono con tanto guadagno de librai que’ volgarizzamenti e quelli massimamente, che convergono la Collana ideata dal Porcacchi. Nulladimeno, quando a mente eminentissima paia diversamente, non mi ritiro da darvi mano. E della stampa del Tasso che si fa in Firenze, che si pensa in Bologna? Sommamente loderei che si applicasse a formare il Corpo de’ Critici Italiani, il quale con un giudicioso Indice servirebbe a darci una compita Poetica esattamente disputata.</p>
+        <p>
+          Con felice vantaggio tentando di risvegliare un’addormentato, ricevo ad un tempo stesso due risposte egualmente care.
+          Dissi già che il buon’esempio vicino avrebbe giovato più della mia voce.
+          Mille grazie all’uno, e all’altro.
+          Ho ricevuta adunque la nota de’ libri da segnarsi nel Catalogo Fontaniniano.
+          Sopra di essa mi occorre un dubbio che il Trattato dello Stile del Pallavicino a car. 29. non sia dell’edizione 3.za ivi descritta: e che parimenti noi non abbiamo costì l’edizione accresciuta delle Orazioni raccolte dal Sansovino, e notata a car. 34.
+          Che però io mi sono ritenuto da segnare l’uno, e l’altro de sopradetti libri.
+          Simil dubbio mi nasce sopra i due Orlandi Innamorati alla pag. 48.
+          Io per lo stesso riguardo non aveva segnato a pag. 83. le Lagrime di San Pietro del Tansillo, perché a noi mancava l’edizione buona intiera ivi addotta.
+          Ma questa appunto ora mi è venuta alle mani.
+          Che però, senza veruno scrupolo può farsi il segno a quel libro; che stà presso di me’ poco fà acquistato.
+          Parmi altresì che noi non potiamo segnare a pag. 85. le Rime, e Prose della Matraini, né a pag. 92. la Fiammetta, e il Filocopo, né a pag. 93. gli Asolani; per non essere tali libri delle buone edizioni dal Fontanini, e da altri molti accreditate.
+          Se io abbia il Commento di Jerocle volgarizzato non me ne ricordo: ciò avviserò al mio ritorno.
+          Delle Opere di Plutarco non mi sovviene avere in Fabriano altro che gli Opuscoli Morali in due Tomi in 4.to che da Vostra Paternità mi furono mandati in cambio di altri libri.
+          Venghiamo ora ad un’altra piccola aggiunta di libri acquistati da me in un breve viaggetto..
+        </p><pb xml:id="DLCL_CF_E11011_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21355/full/800,/0/default.jpg"/>
+        <p>
+          Pag. 49.
+          L’Atamante Tragedia degli Accademici Catenati.
+          In Macerata appresso Sebastiano Martellini 1579. in 4.to Pag. 50. da aggiungersi con la penna.
+          Quintia Tragedia del Cavaliere Vincenzio Panciatichi.
+          In Fiorenza per Cosimo Giunti. 1600. in 8.vo Pag. 65.
+          La Matrigna.
+          Commedia di Giovanfrancesco Loredano il Vecchio.
+          In Venezia alla Libreria via della Speranza 1601. in 8vo Pag. 68.
+          Difesa del Pastorfido da quanto gli è stato scritto contro dal Summo, e dal Malacreta con una risoluzione de’ dubbi del Beni, per Orlando Pescetti.
+          Verona per Angelo Tamo 1601. in 4.to Pag. 70. in fine delle Poesie Pastorali da aggiungersi colla penna.
+          L’esilio amoroso Favola Boschereccia di Alessandro Calderoni da Faenza.
+          In Ferrara per Vittorio Baldini 1607. in 12.
+          La Pastorella Regia Favola Tragica Pastorale di Giovanmaria Guicciardi da Bagnacavallo.
+          In Ferrara per Vittorio Baldini 1602. in 8.
+          In fine del S.7.
+          L’insidiata Nisa.
+          Favola Pescatoria di GiovanPaolo Pocobelli.
+          In Venezia per Angelo Salvatori 1623. in 12.
+          Molte altre Opere Dramatiche si tralasciano, perché non può capirle il libro.
+          Pag. 83.
+          Lagrime di San Pietro §.
+          In Vinegia appresso Barezzo Barezzi 1606. in 4.to Pag. 116.
+          Sopra l’Impresa degli Accademici Umoristi Discorso di Girolamo Aleandro §.
+          Son questi libri, che meco porto a Casa, di nuovo acquisto insieme con un Codice di cartapecora ben miniato, in cui stanno i cinque libri delle Selve di Stazio scritte a penna, con infine
+        </p><pb xml:id="DLCL_CF_E11011_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21356/full/800,/0/default.jpg"/>
+        <p>
+          aggiuntavi da mano diversa, e di un secolo più giovane un’Elegia a Pio Secondo di Gregorio da Città di Castello, la quale ho però anco stampata dentro il libro rarissimo de’ versi latini dello stesso Autore.
+          Quanto alla ristampa degl’Istorici Greci, e Latini tradotti in volgar lingua, io loderei il generoso pensiero, se quelle traduzioni fossero tutte buone.
+          Ma essendo esse, almeno per la maggior parte, io dubito fortemente che non solo inutile, e di poco applauso, e di niuno spaccio sarebbe l’edizione, ma pregiudicherebbe a quella qualunque siasi stima, in cui ora sono con tanto guadagno de’ Librai que’ volgarizzamenti, e quelli massimamente, che con[tengo]no la Collana ideata dal Porcacchi.
+          Nulladimeno, quando a mente eminentissima paia diversamente, non mi ritiro da darvi mano.
+          E della stampa del Tasso che si fà in Firenze, che si pensa in Bologna? Sommamente loderei che si applicasse a formare il Corpo de’ Critici Italiani, il quale con un giudicioso Indice servirebbe a darci una compita Poetica esattamente disputata.
+        </p>
+        
         <closer>
           <salute>L’abbraccio caramente confermandomi.</salute>
           <salute>DVPMR</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Valdicastro</placeName><date when-iso="1721-07-02">2 luglio 1721</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Valdicastro</placeName><date when-iso="1721-07-02">2. Luglio 1721</date>.</dateline>
         </closer>
+        
         <postscript>
-          <p>In confidenza Il Padre Ferranti anderà per Ottobre a Roma. Rifletto che, se siamo in tempo, potrebbesi avere da Monsignor Elemosiniere qualche liberale aiuto per la sorella del PD.M.A. nostro.</p>
+          <p>
+            In confidenza Il Padre Ferranti anderà per Ottobre a Roma.
+            Rifletto che, se siamo in tempo, potrebbesi avere da Monsignor Elemosiniere qualche liberale aiuto per la Sorella del PD.M.A. nostro.
+          </p>
         </postscript>
+        
         <closer>
           <salute>Par. Cordialissimo Servitore Vero</salute>
           <signed>
-            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+            <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
           </signed>
         </closer>
-      </div>
+        
+        </div>
     </body>
   </text>
 </TEI>

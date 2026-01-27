@@ -31,7 +31,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso="1722-03-17"/>
+          <date when-iso="1722-03-20"/>
           <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
@@ -53,13 +53,13 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
     </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20915/manifest">
-    <graphic n="1r" url="https://classense.unibo.it/files/large/20915/6417.jpg"/>
-    <graphic n="1v" url="https://classense.unibo.it/files/large/20915/6418.jpg"/>
-    <graphic n="2r" url="https://classense.unibo.it/files/large/20915/6419.jpg"/>
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21390/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21391/full/800,/0/default.jpg"/>
+    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21392/full/800,/0/default.jpg"/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (Fabriano, 20 Marzo 1722)">
     <body>
@@ -69,38 +69,57 @@
           <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> carissimo</salute>
         </opener>
         <p>
-          Ma più che Car.mo sarebbe stato, se fosse venuto meco in questo paese, ove, come negli altri, muore chi ha da morire, e campa chi ha da vivere. 
-          Oh egli stiasi pure a cà so, che viverà immortale. VP. era qui con giubilo aspettata da tutti questi Monaci, che sono rimasti turbati, e scandalezati delle di lei apprensioni. Con tutto ciò, aspettando ch’Ella risolva di correggere l’errore, la ringrazio di tutto cuore per gli offici cordialissimi, co’ i quali ha prevenuto l’arrivo nostro seguito felicemente Lunedì a sera; e con esso lei ringrazio tutti i buoni Amici, e Figliuoli, e unitamente il Padre Calogerà garbatissimo. Qui ho trovato il bel Tomo della Storia del Varchi. Ieri giunse la cassa de’ libri di Venezia spedita da Monte Alboddo, dove chi anderà a vedere i Codici Mss, e stampati? Io voleva portarmici; ma non vi acconsentì l’apprensione del Calessante. O bestial forza dell’apprensione! Ora ho compita la Biblioteca Greca del Fabricio in X Tomi, la Biblioteca Critica in 4 e tengo i primi quattro Tomi della Istoria Bibliotecaria dell’altro Fabricio stampata in Volfembuttel. Tre grossi tomi sono gli Anecdoti del Pez.</p>
-        <p>Attendo le cassette per Sinigaglia, non vorrei che le forme infettassero</p>
-        <pb xml:id="DLCL_CF_E11022_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21391/full/800,/0/default.jpg"/>
-        <p>di mal’odore i libri. Sarà bene che vengano unitamente i libri di Padova.</p>
-        <p>Del Gelli ho qui la Prima Lettione fatta da lui l’anno 1541 – s&lt;opra&gt; un luogo di Dante nel XXVI capitolo del Paradiso in Firenze 1549 senza stampatore. Inoltre la Lettura Prima sopra lo Inferno di Dante in Fiorenza appresso Lorenzo Torrentino 1562 e seguitano appresso altre undici Lezioni; se p[...] non dobbiam dire che in dodici Lezioni sia divisa la prima Lettura. VP. mi mandi la distinta notizia, co’ i principi &lt;delle&gt; letture, che son tra nostri libri, e di quelle, che pensa poter &lt;aver&gt; e ne formeremo più fermo giudicio, ancora colla scorta di Fontanini, e delle Notizie dell’Accademia Fiorentina.</p>
-        <p>Cercherò, e troverò presto i fogli de’ duplicati: Intanto se può trovare chi prenda il primo e 2° Tomo della Biblioteque Critique 13 paoli, li dia, e se gli condoni la legatura.</p>
-        <p>Mi rallegro dell’ordinazione fatta di Famiano in fol., ove stanno le piante, e le figure delle battaglie. E’ necessario tener anco il piccolo che ha i Ritratti.</p>
-        <p>Mi consola la nuova de’ disegni; e spero sarà scelto il migliore. Monsignore Arcivescovo disse che desiderava servire il Padre Reverendissimo di A</p>
-        <pb xml:id="DLCL_CF_E11022_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21392/full/800,/0/default.jpg"/>
+          Ma più che Carissimo sarebbe stato, se fosse venuto meco in questo paese, ove, come negli altri, muore chi ha da morire, e campa chi ha da vivere.
+          Oh egli stiasi pure a cà sò; che viverà immortale.
+          Vostra Paternità era qui con giubilo aspettata da tutti questi Monaci, che sono rimasi turbati, e scandalezati delle di lei apprensioni.
+          Con tuttociò, aspettando ch’Ella risolva di corregger l’errore, la ringrazio di tutto cuore per gli offici cordialissimi, co’ i quali ha prevenuto l’arrivo nostro seguito felicemente Lunedì a sera; e con esso lei ringrazio tutti i buoni Amici, e Figliuoli, e unitamente il Padre Calogerà garbatissimo.
+          Qui ho trovato il bel Tomo della Storia del Varchi.
+          Ieri giunse la Cassa de’ libri di Venezia spedita da Monte Alboddo, dove chi anderà a vedere i Codici Manoscritti; e stampati? Io voleva portarmici; ma non vi acconsentì l’apprensione del Calessante.
+          O bestial forza dell’apprensione! Ora ho compita la Biblioteca Greca del Fabricio in X.
+          Tomi, la Biblioteca Critica in 4. e tengo i primi quattro Tomi della Istoria Bibliotecaria dell’altro Fabricio stampata in Volfembuttel.
+          Tre grossi tomi sono gli Anecdoti del Pez.
+          Attendo le Cassette per Sinigaglia.
+          Non vorrei che le forme infettassero
+        </p><pb xml:id="DLCL_CF_E11022_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21391/full/800,/0/default.jpg"/>
         <p>
-          chitetto. Il giudicio del Prelato Principe non uscirà de’ limiti del buon gusto. 
-          A Padri Lettori Collina, e Giorgini, a tutti gli altri i miei cordialissimi rispetti. 
-          Mi riverisca il Priore. Scriverò l’ord.o venturo.
-        </p>
+          di mal’odore i libri.
+          Sarà bene che vengano unitame[nte] i libri di Padova.
+          Del Gelli ho qui la Prima Lettione fatta da lui l’anno 1541. sop[ra] un luogo di Dante nel XXVI.
+          Capitolo del Paradiso. in Firen[ze] 1549. senza stampatore.
+          In oltre la Lettura Prima sopr[a] lo Inferno di Dante. in Fiorenza appresso Lorenzo Torrentino 1562. e seguitano appresso altre undici Lezioni; se p[...] non dobbiam dire che in dodici Lezioni sia divisa la prima Lettura.
+          Vostra Paternità mi mandi la distinta notizia, co’ i principj d[...] letture, che son trà nostri libri, e di quelle, che pensa poter’ ave[re] e ne formeremo più fermo giudicio, ancora colla scorta di Fontanini, e delle Notizie dell’Accademia Fiorentina.
+          Cercherò, e troverò presto i fogli de’ duplicati.
+          Intanto se può trova[re] chi prenda il primo e 2.° Tomo della Biblioteque Critique [per] 13. paoli, li dia, e se gli condoni la legatura.
+          Mi rallegro dell’ordinazione fatta di Famiano in fol., ove stanno le piante, e le figure delle battaglie.
+          È necessario tener’anco il piccolo, che ha i Ritratti.
+          Mi consola la nuova de’ Disegni; e spero sarà scelto il migliore.
+          Monsignor Arcivescovo disse che desiderava servire il Padre Reverendissimo di A[...]
+        </p><pb xml:id="DLCL_CF_E11022_C2R_L" n="2 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21392/full/800,/0/default.jpg"/>
+        <p>
+          chitetto.
+          Il giudicio del Prelato Principe non uscirà de’ limiti del buon gusto.
+          A Padri Lettori Collina, e Giorgini, a tutti gli altri i miei cordialissimi rispetti.
+          Mi riverisca il Padre Priore.
+          Scriverò l’ord.o venturo.</p>
+        
         <closer>
           <salute>Intanto resto con tutto ‘l cuore.</salute>
-          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-03-20">20 marzo 1722</date>.</dateline>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-03-20">20. Marzo 1722</date>.</dateline>
           <salute>DVPMR</salute>
         </closer>
+        
         <postscript>
-          <p>
-            In Firenze si stampa una Raccolta degli Autori in materia d’acque, ove saranno le Relazioni del nostro Padre Abate Grandi, e un suo lungo trattato diviso in due libri, che comprende le cose più belle e più necessarie. 
-            Ne dia notizia al Sig. Iacomo Tassinari, e me lo riverisca con l’altro Sig. Iacomo Anziani.
-          </p>
+          <p>In Firenze si stampa una Raccolta degli Autori in materia d’acque, ove saranno le Relazioni del nostro Padre Abate Grandi, e un suo lungo trattato diviso in due libri, che comprende le cose più belle, e più necessarie.
+            Ne dia notizia al Signor Iacomo Tassinari, e me lo riverisca con l’altro Signor Iacomo Anziani.</p>
         </postscript>
+        
         <closer>
           <salute>Cordialissimo Servitore e Padre Affezionatissimo nel Signore</salute>
           <signed>
-            <persName ref="#DLCL_CF_PC0001">D. Pietro Canneti</persName>
+            <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>
           </signed>
         </closer>
+        
       </div>
     </body>
   </text>
