@@ -58,6 +58,7 @@
     
       <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
   <change when-iso="2026-04-27" who="#DLCL_CF_PS001">conversione lacune in gap</change>
+  <change when-iso="2026-04-27" who="#DLCL_CF_PS001">correzione entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20925/manifest">
@@ -114,7 +115,7 @@
           Vegga il libretto in 8.vo della <bibl type="print">Traslazione di San Giovanni di Lodi</bibl> dell’<persName ref="#DLCL_CF_PC0927">Armanni</persName>; e mi trascriva e mandi subito quel, che ivi stà scritto degli Abati, che furono a quella funzione, affinche serva di regola.
         </p>
         <p>
-          Il nostro <persName>Don</persName> <persName ref="#DLCL_CF_PC0673">Giovanni</persName> è perfettamente guarito, essendosi sgravato dalle materie, ed impurità di cotesta aria più grossa.
+          Il nostro <persName ref="#DLCL_CF_PC0673">Don Giovanni</persName> è perfettamente guarito, essendosi sgravato dalle materie, ed impurità di cotesta aria più grossa.
           Tutto si rinvigorì, e fi<gap reason="lost"/>i di star male al sentir cessato il pericolo di dover partire di quà, ove stà così volentieri, che non può esprimersi la sua soddisfazione.
           In questo luogo, che pare un’angolo del mondo egli ha veduto una copia grande delle antiche edizioni appresso i Domenicani, e tanti bellissimi <bibl type="manuscript">Manoscritti appresso i Silvestrini</bibl>, che basterebbono ad accreditare in tal genere qualunque delle Città di <placeName ref="#DLCL_CF_L0008">Roma</placeName>gna.
           Gli restano da vedere i libri pare stimabili de’ <rs type="person">Minori Osservanti</rs>.

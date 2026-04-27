@@ -58,6 +58,7 @@
     
       <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
   <change when-iso="2026-04-27" who="#DLCL_CF_PS001">conversione lacune in gap</change>
+  <change when-iso="2026-04-27" who="#DLCL_CF_PS001">correzione entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20922/manifest">
@@ -116,10 +117,10 @@
           O per obbligo, o per consuetudine noi la celebriamo: ciò posto, devesi antiporre, come festa particolare, alle feste universali di rito eguale.
         </p>
         <p>
-          Le <rs type="person">Monache Cisterciensi</rs> di <orgName>Sa</orgName><orgName ref="#DLCL_CF_O0169">nta Giuliana di Perugia</orgName> sono soggette al <rs type="person">Vescovo</rs>: procurerò copia del <bibl type="print">loro Calendario</bibl>, al ritorno da <placeName ref="#DLCL_CF_L0008">Roma</placeName> del <persName>Padre</persName> <persName ref="#DLCL_CF_PC0163">Mastri</persName>.
+          Le <rs type="person">Monache Cisterciensi</rs> di <orgName ref="#DLCL_CF_O0169">Santa Giuliana di Perugia</orgName> sono soggette al <rs type="person">Vescovo</rs>: procurerò copia del <bibl type="print">loro Calendario</bibl>, al ritorno da <placeName ref="#DLCL_CF_L0008">Roma</placeName> del <persName ref="#DLCL_CF_PC0163">Padre Mastri</persName>.
           I <rs type="person">loro Capellani</rs> recitano le messe conformi all’officio delle Monache: così fan quì i Confessori di quattro Monasteri Benedettini dipendenti dall’Ordinario, ma tutti col <bibl type="print">Messale Romano</bibl>, e perciò quasi sempre celebrando la Messa de’ communi.
           Serva allegramente le <rs type="person">Monache di Sant’Andrea</rs>.
-          Ritornato che sia a <placeName ref="#DLCL_CF_L0008">Roma</placeName> il <persName>Reverendissimo</persName> <persName ref="#DLCL_CF_PC0925">Valmori</persName>, manderò la licenza da confermare.
+          Ritornato che sia a <placeName ref="#DLCL_CF_L0008">Roma</placeName> il <persName ref="#DLCL_CF_PC0925">Reverendissimo Valmori</persName>, manderò la licenza da confermare.
           Il <persName ref="#DLCL_CF_PC0676">Padre Grilli</persName> è incomodato da mossa di bile con dolori, che l’obbligano al letto, ma senza febbre, ed io sento lo stesso incomodo, ma più mite.
         </p>
         

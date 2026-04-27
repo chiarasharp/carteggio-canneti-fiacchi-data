@@ -57,6 +57,7 @@
       <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
     
       <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+  <change when-iso="2026-04-27" who="#DLCL_CF_PS001">correzione entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20931/manifest">
@@ -118,7 +119,7 @@
           Non è fondata la maraviglia di <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs>, la qual credeva doversi fare l’officio d[oppio] di prima classe di <persName ref="#DLCL_CF_PC0937">San Massimiano</persName> in <orgName ref="#DLCL_CF_O0158">cotesta Chiesa</orgName>, e <orgName ref="#DLCL_CF_O0031">Monastero di Sant’Andrea</orgName>, p[er]ché ivi è il corpo del <rs type="person" ref="#DLCL_CF_PC0937">Santo</rs>.
           Una tal’ esistenza non porta altro, secon[do] le rubriche, che il doppio minore col Credo nella Messa.
           Il <persName ref="#DLCL_CF_PC0938">Quintanad venas</persName> ne’ suoi <bibl type="print">Singolari</bibl> insegna potersi elevare il rito ad un grado d[i] più, rispetto alla Chiesa, la quale ha il Corpo, o Insigne Reliquia.
-          Secon[do] tal dottrina spagnuola, in <orgName>Sant’</orgName><orgName ref="#DLCL_CF_O0031">Andrea</orgName> doverebbe farsi rito di doppio magg[i]ore l’officio del <rs type="person" ref="#DLCL_CF_PC0937">Santo</rs>, ch’è nella <orgName>Chiesa di</orgName> <orgName ref="#DLCL_CF_O0158">Ravenna</orgName> doppio minore.
+          Secon[do] tal dottrina spagnuola, in <orgName ref="#DLCL_CF_O0031">Sant’Andrea</orgName> doverebbe farsi rito di doppio magg[i]ore l’officio del <rs type="person" ref="#DLCL_CF_PC0937">Santo</rs>, ch’è nella <orgName ref="#DLCL_CF_O0158">Chiesa di Ravenna</orgName> doppio minore.
           Tu[tto] il di più diasi nella consuetudine già introdotta, e da non esamina[re] non però mai da stendersi, o alzarsi.
           Coteste medesime Monache sono immediatamente soggette all’Ordinario, e del Corpo della Chiesa <orgName ref="#DLCL_CF_O0158">Ravenna</orgName>te
         </p><p>
