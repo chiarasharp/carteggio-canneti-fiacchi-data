@@ -54,7 +54,11 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">markup</change>
-    </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+    
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+  <change when-iso="2026-04-27" who="#DLCL_CF_PS001">conversione lacune in gap</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20893/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21327/full/800,/0/default.jpg"/>
@@ -83,9 +87,9 @@
               nell'annessa copia la <bibl type="print">lettera</bibl> del famoso <persName ref="#DLCL_CF_PC0637">Vescovo di Aleria</persName> Custode della <orgName ref="#DLCL_CF_O0025">Pontificia Biblioteca</orgName>, in cui scorgerà i libri dal
               principio della stampa fino alla primavera dell'anno 1472 impressi in <placeName ref="#DLCL_CF_L0008">Roma</placeName> dalli <persName ref="#DLCL_CF_PC0685">due</persName>
               <persName ref="#DLCL_CF_PC0684 #DLCL_CF_PC0685">Tedeschi</persName> introduttori della
-              nuova arte in <orgName ref="#DLCL_CF_O0109">casa Massimi</orgName>. Stà questa lettera
+              nuova arte in <orgName ref="#DLCL_CF_O0109">casa Massimi</orgName>. Stà questa <bibl type="print">lettera</bibl>
               in fronte all'ultimo Volume delle <bibl type="print">Postille</bibl> del <persName ref="#DLCL_CF_PC0655">Lirano</persName>, che contiene l'<bibl type="print">Epistole</bibl> di <persName ref="#DLCL_CF_PC0826">San Paolo</persName>, e le altre
-                <bibl type="print">Canoniche con l'Apocalisse</bibl>. Un'altra lettera niente meno
+                <bibl type="print">Canoniche con l'Apocalisse</bibl>. Un'altra <bibl type="print">lettera</bibl> niente meno
               curiosa del medesimo <persName ref="#DLCL_CF_PC0637">Vescovo</persName> è in fronte a
               tutta l'Opera, avanti alle <bibl type="print">Postille</bibl> sopra la <bibl type="print">Genesi</bibl>: ma questa io stimo infinitamente per la notizia
               dell'edizioni infino a quell'ora seguite, e col distinto numero delle copie. Li mille
@@ -95,7 +99,7 @@
               bello, ben conservato, con grande margine, e nobilmente rilegato in certa pelle di
               Capra, che quì si lavora, tinta di colore rosso vivo, non facile a scorticarsi. Sicché
               (dirà <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs>.) noi abbiam fatto
-              acquisto di un gran Corpo di libri rari, e degni della Libreria di un Principe. È
+              acquisto di un gran Corpo di libri rari, e degni della <orgName ref="#DLCL_CF_O0001">Libreria</orgName> di un Principe. È
               verissimo. Dunque (Ella segue a dire) questa volta non vi son disgrazie. O questo non
               è vero. </p>
             <pb xml:id="DLCL_CF_E11001_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21326/full/800,/0/default.jpg"/>
@@ -115,7 +119,7 @@
               quattro Tomi della <bibl type="print">Somma</bibl> di <persName ref="#DLCL_CF_PC0819">Santo Antonino</persName>, se costì è in <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, e guardi ogni Tomo distintamente. Altrettanto di bello <rs type="person" ref="#DLCL_CF_PC0002">Vostra Paternità</rs> mi scriva di materie
               Bibliotecarie, e le farò un'<hi rend="ul">E viva</hi>. </p>
             <closer>
-              <salute>Addio. L'abbraccio caramente, e sono <gap reason="illegible"/>[...] DVPMR.</salute>
+              <salute>Addio. L'abbraccio caramente, e sono <gap reason="illegible"/><gap reason="lost"/> DVPMR.</salute>
               <dateline>
                 <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>
                 <date when-iso="1721-01-17">17 Gennaio 1721</date>

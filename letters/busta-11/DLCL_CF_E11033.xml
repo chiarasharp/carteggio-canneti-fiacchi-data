@@ -54,7 +54,10 @@
       <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-    </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+    
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20926/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21416/full/800,/0/default.jpg"/>
@@ -66,13 +69,13 @@
         <opener>
           <salute><persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre D. Mariangelo</persName> Amatissimo</salute>
         </opener>
-        <p>Ecco servita Vostra Paternità della licenza de’ libri proibiti confermata.
-          Al ritorno di Frate Giovanni Batista, se non avrò la di lei persona, spero almeno i suoi caratteri colla risposta a diverse mie lettere, delle quali per la distanza del tempo non mi ricordo il numero.
-          Dal Reverendissimo Magni ritornato a Pesaro non ho nuova della Cassetta de’ libri di Padova: gli tenga fino al tempo della fiera di Sinigaglia; allora li riceverò.
+        <p>Ecco servita <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> della licenza de’ libri proibiti confermata.
+          Al ritorno di <persName ref="#DLCL_CF_PC1008">Frate Giovanni Batista</persName>, se non avrò la di lei persona, spero almeno i suoi caratteri colla risposta a diverse mie lettere, delle quali per la distanza del tempo non mi ricordo il numero.
+          Dal <persName ref="#DLCL_CF_PC0154">Reverendissimo Magni</persName> ritornato a <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> non ho nuova della Cassetta de’ libri di <placeName ref="#DLCL_CF_L0010">Padova</placeName>: gli tenga fino al tempo della fiera di <placeName ref="#DLCL_CF_L0030">Sinigaglia</placeName>; allora li riceverò.
           Ma prima, e quanto prima desidero sentire arrivate le Cartepecore.
-          Mi avvisi se in Libreria siano le Opere del Martello Bolognese, anco le ultime.
-          Un caro saluto al Padre Calogerà.
-          Il Canone del Salvioni stà per uscire, se non anche è uscito, del torchio.</p>
+          Mi avvisi se in <orgName ref="#DLCL_CF_O0001">Libreria</orgName> siano le <bibl type="print">Opere</bibl> del <persName ref="#DLCL_CF_PC0008">Martello Bolognese</persName>, anco le ultime.
+          Un caro saluto al <persName ref="#DLCL_CF_PC0873">Padre Calogerà</persName>.
+          Il <bibl type="print">Canone</bibl> del <persName ref="#DLCL_CF_PC0228">Salvioni</persName> stà per uscire, se non anche è uscito, del torchio.</p>
         
         <closer>
           <salute>Resto abbracciandola caramente.</salute>

@@ -53,7 +53,8 @@
     <revisionDesc status="created">
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change></revisionDesc>
+      <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>  <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>  <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20919/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21400/full/800,/0/default.jpg"/>
@@ -69,12 +70,18 @@
           </dateline>
         </opener>
         <p>
-          [I] libri della nota trasmessavi stanno nelle mani del Padre Don Mariangelo, il quale pure è attento per l’esito de medesimi.
-          Occorrendovi trovar’ occasione approposito, potete intendervi col medesimo, o col Padre Priore di San Damiano, facendo venire quei, che accorrono secondo le congiunture.
-          Il Kircker Musurgia mi accomoderò di darlo per sei scudi; siccome lascerò qualche paolo nel Vuillis.
-          Così in altro negozio non si ha da guastare per bagattelle. [Le] Cartepecore grandi da due libri in fogl.o scelte si pagano 14. baiocchi.
-          Vi ringrazio della notizia del soggetto della Satira, di cui goderò aver’il nome preciso dell’Autore.
-          Con che di cuore mi confermo. [Ho] avuto da Amsterdam gli Annali Tipografici del Maittaire: e intendo si stampi la 2.a parte.
+          [I] libri della nota trasmessavi stanno nelle mani del <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName>, il quale pure è attento per l’esito de medesimi.
+          Occorrendovi trovar’ occasione approposito, potete intendervi col medesimo, o col <rs type="person">Padre Priore</rs> di <orgName ref="#DLCL_CF_O0165">San Damiano</orgName>, facendo venire quei, che accorrono secondo le congiunture.
+          Il <persName ref="#DLCL_CF_PC0891">Kircker</persName> <bibl type="print">Musurgia</bibl> mi accomoderò di darlo per sei scudi; siccome lascerò qualche paolo nel <bibl type="print">Vuillis</bibl>.
+          Così in altro negozio non si ha da guastare per bagattelle.
+        </p>
+        <p>
+          [Le] Cartepecore grandi da due libri in fogl.o scelte si pagano 14. baiocchi.
+          Vi ringrazio della notizia del soggetto della <bibl type="print">Satira</bibl>, di cui goderò aver’il nome preciso dell’Autore.
+          Con che di cuore mi confermo.
+        </p>
+        <p>
+          [Ho] avuto da <placeName ref="#DLCL_CF_L0065">Amsterdam</placeName> gli <bibl type="print">Annali Tipografici</bibl> del <persName ref="#DLCL_CF_PC0901">Maittaire</persName>: e intendo si stampi la 2.a parte.
         </p>
         
         <closer>

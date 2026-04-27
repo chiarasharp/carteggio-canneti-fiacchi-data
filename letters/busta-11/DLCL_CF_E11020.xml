@@ -54,7 +54,9 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-     </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+  </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20913/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21382/full/800,/0/default.jpg"/>
@@ -70,18 +72,29 @@
           </salute>
         </opener>
         <p>
-          Mi scordai nell’ultima mia soggiungere il gradimento, e la stima, con cui ho ricevuto i favori del Signor Dottor Sancassani mio Pregiatissimo Prone’, non meno che la memoria di me suo buon’Amico, e antico servitore.
-          Prego Vostra Paternità portare al medesimo queste sincerissime mie espressioni, e ringraziarlo in nome mio dell’Opuscoletto Boccacciniano da aggiungersi alla serie delle Vindicie Magatesche, le quali non sono state infruttuose.
+          Mi scordai nell’ultima mia soggiungere il gradimento, e la stima, con cui ho ricevuto i favori del <persName ref="#DLCL_CF_PC0056">Signor Dottor Sancassani</persName> mio Pregiatissimo Prone’, non meno che la memoria di me suo buon’Amico, e antico servitore.
+          Prego <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> portare al medesimo queste sincerissime mie espressioni, e ringraziarlo in nome mio dell’<bibl type="print">Opuscoletto Boccacciniano</bibl> da aggiungersi alla serie delle <bibl type="print">Vindicie Magatesche</bibl>, le quali non sono state infruttuose.
+        </p>
+        <p>
           Con tal’occasione procuri insinuargli il comune nostro desiderio di accrescere a prezzi agevoli la raccolta de’ libri stampati nell’infanzia dell’Arte Tipografica.
-          Mi comunicò tempo fa Vostra Paternità un’Iscrizione, o frammento, in cui era la voce Orrearius scorrettamente intagliata in vece di Horrearius, voce per altro fuor di Ravenna ignota anco nella barbara latinità.
-          Or’ella la legga nella par. 2. dell’Agnello pag. 49. et 61., come esprimere un’oficio peculiare di cotesta Chiesa, forse, a parer del dottissimo Bacchini per la gran
-        </p><pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21383/full/800,/0/default.jpg"/>
-        <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni do Sicilia.
-          Un cortesissimoo saluto al Padre Lettore Collina.</p>
+        </p>
+        <p> Mi comunicò tempo fa <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra
+            Paternità</rs> un’Iscrizione, o frammento, in cui era la voce <foreign xml:lang="la"><hi
+              rend="ul">Orrearius</hi></foreign> scorrettamente intagliata in vece di <foreign
+            xml:lang="la"><hi rend="ul">Horrearius</hi></foreign>, voce per altro fuor di <placeName
+            ref="#DLCL_CF_L0002">Ravenna</placeName> ignota anco nella barbara latinità. Or’ella la
+          legga nella par. 2. dell’<bibl type="print">Agnello</bibl> pag. 49. et 61., come esprimere
+          un’oficio peculiare di cotesta Chiesa, forse, a parer del dottissimo <persName
+            ref="#DLCL_CF_PC0009">Bacchini</persName> per la gran </p>
+        <pb xml:id="DLCL_CF_E11020_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21383/full/800,/0/default.jpg"/>
+        <p>quantità di frumento, ch’essa raccoglieva ne’ suoi beni do <placeName ref="#DLCL_CF_L0056">Sicilia</placeName>.
+          Un cortesissimoo saluto al <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>.</p>
         
         <closer>
           <salute>Resto abbracciandola caramente.</salute>
           <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1721-10-13">13. Ottobre 1721</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Affettuosissimo Servitore Cordialissimo Padre nel Signore</salute>
           <signed><persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
         </closer>
       </div>

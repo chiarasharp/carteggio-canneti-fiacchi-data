@@ -64,7 +64,9 @@
          <change when-iso="2025-12-22" who="#DLCL_CF_PS001">creato</change>
          <change when-iso="2025-12-28" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
          <change when-iso="2025-12-31" who="#DLCL_CF_PS001">markup</change>
-      </revisionDesc>
+      
+         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
    </teiHeader>
    <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20949/manifest">
       <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21469/full/800,/0/default.jpg"/>
@@ -195,7 +197,7 @@
                Mi rallegro con 
                <persName ref="#DLCL_CF_PC1035">Frate Sebastiano</persName>, 
                e 
-               <persName ref="#DLCL_CF_PC0103">Frate Pantaleone</persName> 
+               <persName ref="#DLCL_CF_PC1036">Frate Pantaleone</persName> 
                a quali prego tutte le benedizioni del Signore. Al 
                <persName ref="#DLCL_CF_PC0056">Signor Dottor Sancassani</persName> 
                voglio risponder’ io colla posta di Venerdì prossimo. Resto abbracciandola, e confermandomi senza fine.</p>

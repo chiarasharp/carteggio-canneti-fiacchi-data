@@ -54,7 +54,9 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-    </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20917/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21395/full/800,/0/default.jpg"/>
@@ -68,16 +70,25 @@
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Osservandissimo</rs>
           </salute>
         </opener>
-        <p>
-          Non anderà a Roma il Reverendissimo Ferranti prima che andiamo unitamente a veder la massa de’ libri, al cui trasporto non basteranno due some di muli.
-          Mi avvisi se la Storia del Varchi è della Libreria; perché in tal caso mi priverò della nostra.
-          Godo che le tre casse siano state spedite a Sinigaglia, dove sarà pagato il porto anco da Ravenna fino là.
-          Con prima occasione mi mandi i libri di Padova, ma con somma diligenza, perché punto non si guastino.
-          Ed io in prima congiuntura trasmetterò costà i libri, che più ho del Gelli, perché Vostra Paternità gli accompagni; e seco verranno le Cartepecore ordinate, con certe altre venute da Roma, sopra le quali c’intenderemo un’altra volta.
-          Se verrà il famoso Mario, gli sarà consegnato tutto.
-          Ho la licenza de’ Libri proibiti, che farò confermare.
-          È consolandomi colla dolce memoria del dì lieto, e felice, che io la collocai in seno alla Santa Religione, resto abbracciandola toto cordis affectu.
-        </p>
+        <p> Non anderà a <placeName ref="#DLCL_CF_L0008">Roma</placeName> il <persName
+            ref="#DLCL_CF_PC0178">Reverendissimo Ferranti</persName> prima che andiamo unitamente a
+          veder la massa de’ libri, al cui trasporto non basteranno due some di muli. Mi avvisi se
+          la <bibl type="print">Storia</bibl> del <persName ref="#DLCL_CF_PC0886">Varchi</persName>
+          è della <orgName ref="#DLCL_CF_O0001">Libreria</orgName>; perché in tal caso mi priverò
+          della nostra. Godo che le tre casse siano state spedite a <placeName ref="#DLCL_CF_L0030"
+            >Sinigaglia</placeName>, dove sarà pagato il porto anco da <placeName
+            ref="#DLCL_CF_L0002">Ravenna</placeName> fino là. Con prima occasione mi mandi i libri
+          di <placeName ref="#DLCL_CF_L0010">Padova</placeName>, ma con somma diligenza, perché
+          punto non si guastino. Ed io in prima congiuntura trasmetterò costà i libri, che più ho
+          del <persName ref="#DLCL_CF_PC0900">Gelli</persName>, perché <rs type="person"
+            ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> gli accompagni; e seco
+          verranno le Cartepecore ordinate, con certe altre venute da <placeName
+            ref="#DLCL_CF_L0008">Roma</placeName>, sopra le quali c’intenderemo un’altra volta. Se
+          verrà il <persName ref="#DLCL_CF_PC0770">famoso Mario</persName>, gli sarà consegnato
+          tutto. Ho la licenza de’ <bibl type="print">Libri proibiti</bibl>, che farò confermare. È
+          consolandomi colla dolce memoria del dì lieto, e felice, che io la collocai in seno alla
+          Santa Religione, resto abbracciandola <foreign xml:lang="la">toto cordis
+          affectu</foreign>. </p>
         <closer>
           <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName><date when-iso="1722-03-30">30. Marzo 1722</date>.</dateline>
           <salute>DVPMR</salute>

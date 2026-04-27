@@ -54,7 +54,11 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-    </revisionDesc>
+      <change when-iso="2026-02-03" who="#DLCL_CF_PS001">markup testo</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+    
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20902/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21349/full/800,/0/default.jpg"/>
@@ -69,29 +73,59 @@
             <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Lettore Amatissimo, e Stimatissimo</rs>
           </salute>
         </opener>
-        <p>
-          Ieri terminò il terzo mese da che il nostro Padre Bibliotecario mi scrisse l’ultima lettera.
-          Siano quanto si voglia grandi, e continue le applicazioni del medesimo, non posso persuadermi ch’egli resti privo dell’uso di pochi momenti per rispondere a tre lettere, che dopo gli ho scritte, almeno in succinto, o per dire a qualcheduno che da parte sua soddisfaccia alle mie richieste.
-          Quindi confesso che ho motivo di sospettare siasi fraposto altro morale impedimento per trattenere il commercio per altro non solo immeritevole di simili ombre, ma profittevole a lui, ed a cotesta Libreria pur troppo messa tra le cose inutili, e scordate.
-          Comunque sia, desidero intender la verità, che resterà in me rinchiusa, e servirà solo per prender’ altre misure, essendo io in verità disposto, e pronto ad ogni più strano avvenimento.
-          Quel, che ora mi preme, si è intendere se il Padre suddetto possa far’esitare al Padre Maestro Greco, o ad altre persone alcuni Libri antichi, i quali mi saranno duplicati in caso che mi riesca stringere un Contratto, che ho per le mani.
-          Vi è un Plinio del 1472. della stampa del Jenson, per quanto si è riconosciuto, intiero, senza miniature, con gran margine; ma sfasciato, e che ha molte carte staccate.
-          E similmente vi sono quattro Tomi (un de’ quali equivale nella mole a due) del Corpo della Postilla del Lirano, in domo Petri de
+        <p> Ieri terminò il terzo mese da che il nostro <rs type="person" ref="#DLCL_CF_PC0002"
+            >Padre Bibliotecario</rs> mi scrisse l’ultima lettera. Siano quanto si voglia grandi, e
+          continue le applicazioni del medesimo, non posso persuadermi ch’egli resti privo dell’uso
+          di pochi momenti per rispondere a tre lettere, che dopo gli ho scritte, almeno in
+          succinto, o per dire a qualcheduno che da parte sua soddisfaccia alle mie richieste.
+          Quindi confesso che ho motivo di sospettare siasi fraposto altro morale impedimento per
+          trattenere il commercio per altro non solo immeritevole di simili ombre, ma profittevole a
+          lui, ed a <orgName ref="#DLCL_CF_O0001">cotesta Libreria</orgName> pur troppo messa tra le
+          cose inutili, e scordate. Comunque sia, desidero intender la verità, che resterà in me
+          rinchiusa, e servirà solo per prender’ altre misure, essendo io in verità disposto, e
+          pronto ad ogni più strano avvenimento. 
         </p>
+        
+        <p>
+          Quel, che ora mi preme, si è intendere se il <rs
+            type="person" ref="#DLCL_CF_PC0002">Padre suddetto</rs> possa far’esitare al <persName
+            ref="#DLCL_CF_PC0646">Padre Maestro Greco</persName>, o ad altre persone alcuni Libri
+          antichi, i quali mi saranno duplicati in caso che mi riesca stringere un Contratto, che ho
+          per le mani. Vi è un <bibl type="print">Plinio</bibl> del 1472. della stampa del <persName
+            ref="#DLCL_CF_PC0636">Jenson</persName>, per quanto si è riconosciuto, intiero, senza
+          miniature, con gran margine; ma sfasciato, e che ha molte carte staccate. E similmente vi
+          sono quattro Tomi (un de’ quali equivale nella mole a due) del <bibl type="print">Corpo
+            della Postilla</bibl> del <persName ref="#DLCL_CF_PC0655">Lirano</persName>,<hi
+            rend="ul"><foreign xml:lang="la"> in domo </foreign></hi><orgName ref="#DLCL_CF_O0109"
+              ><foreign xml:lang="la"><hi rend="ul">Petri de Maximo</hi></foreign></orgName></p>
         
         <pb xml:id="DLCL_CF_E11009_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21350/full/800,/0/default.jpg"/>
         
+        <p> 1471. et 1472. Il <rs type="person">Padrone</rs> conosce la rarità de’ libri, e li tiene
+          alti di prezzo, benché il <bibl type="print">Lirano</bibl> non sia Corpo intiero,
+          mancandovi due Tomi, cioè uno de <bibl type="print">Profeti Maggiori, e Minori</bibl>,
+          l’altro dell’<bibl type="print">Epistole di San Paolo</bibl>, e <bibl type="print">degli
+            altri Apostoli</bibl>, <bibl type="print">^de gli Atti Apostolici</bibl>, e <bibl
+            type="print">dell’Apocalisse</bibl>. Ma se fosse intiero il Corpo (come io l’hò) non vi
+          sarebbe prezzo, che ne determinasse il valore. Basta dire che in <placeName
+            ref="#DLCL_CF_L0017">Parigi</placeName>, ove son tante vastissime, e insigni Librerie,
+          un solo intiero Corpo se ne trova in <orgName ref="#DLCL_CF_O0153" cert="medium">quella
+            de’ Celestini</orgName>, come non ha molto mi scrisse <persName ref="#DLCL_CF_PC0689"
+            >Monsignor Passionei</persName> in simili materie versatissimo; ed io prima lo seppi
+            dall’<bibl type="print">Istoria de’ Celestini di Francia</bibl> l’anno scorso data in
+          luce. Io non posso reggere alle spese; e perciò vorrei sapere se quel <persName
+            ref="#DLCL_CF_PC0646">Padre Greco</persName> vuole questi libri, e quanto dà ordine, e
+          ha volontà di pagargli. Se poi, come si può dar il caso, mi capiteranno gli altri due
+          Tomi, mi ricorderò di provvederlo de medesimi. Intanto non è da lasciar fuggir l’occasione
+          per chi cerca simili rarità. Scriva pertanto subito esiggendone pronta, e risoluta
+          risposta, e me la faccia giungere senza indugio.
+        </p>
+        
         <p>
-          Maximo 1471. et 1472.
-          Il Padrone conosce la rarità de’ libri, e li tiene alti di prezzo, benché il Lirano non sia Corpo intiero, mancandovi due Tomi, cioè uno de Profeti Maggiori, e Minori, l’altro dell’Epistole di San Paolo, e degli altri Apostoli, ^de gli Atti Apostolici, e dell’Apocalisse.
-          Ma se fosse intiero il Corpo (come io l’hò) non vi sarebbe prezzo, che ne determinasse il valore.
-          Basta dire che in Parigi, ove son tante vastissime, e insigni Librerie, un solo intiero Corpo se ne trova in quella de’ Celestini, come non ha molto mi scrisse Monsignor Passionei in simili materie versatissimo; ed io prima lo seppi dall’Istoria de’ Celestini di Francia l’anno scorso data in luce.
-          Io non posso reggere alle spese; e perciò vorrei sapere se quel Padre Greco vuole questi libri, e quanto dà ordine, e ha volontà di pagargli.
-          Se poi, come si può dar il caso, mi capiteranno gli altri due Tomi, mi ricorderò di provvederlo de medesimi.
-          Intanto non è da lasciar fuggir l’occasione per chi cerca simili rarità.
-          Scriva pertanto subito esiggendone pronta, e risoluta risposta, e me la faccia giungere senza indugio.
-          Stò in attenzione della Ricevuta dè frutti del Censo conseguiti, e molto più di nuove del Signor Abate, e dell’arrivo suo.
-          Compatisca l’incomodo; mentre di tutto cuore mi confermo.
+          Stò in attenzione della Ricevuta dè
+          frutti del <bibl type="print">Censo</bibl> conseguiti, e molto più di nuove del <rs
+            type="person">Signor Abate</rs>, e dell’arrivo suo. Compatisca l’incomodo; mentre di
+          tutto cuore mi confermo.
         </p>
         
         <closer>

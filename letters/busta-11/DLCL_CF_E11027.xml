@@ -54,7 +54,10 @@
       <change when-iso="2025-06-18" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-    </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+    
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20920/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21401/full/800,/0/default.jpg"/>
@@ -69,20 +72,22 @@
           </salute>
         </opener>
         <p>
-          Trà i libri nostri, che costi lasciai ultimamente, alcuni altri vi erano che io aveva destinato dovessero venirmi appresso a trovare in Fabriano.
-          Ora mi ricordo di un Manoscritto in carta, ove stanno certe nostre Costituzioni, o Decreti Capitolari, e in oltre della Seconda parte delle nostre Storie Camaldolesi.
+          Trà i libri nostri, che costi lasciai ultimamente, alcuni altri vi erano che io aveva destinato dovessero venirmi appresso a trovare in <placeName ref="#DLCL_CF_L0004">Fabriano</placeName>.
+          Ora mi ricordo di un <bibl type="manuscript">Manoscritto in carta</bibl>, ove stanno certe nostre <bibl type="manuscript">Costituzioni</bibl>, o <bibl type="manuscript">Decreti Capitolari</bibl>, e in oltre della Seconda parte delle nostre <bibl type="manuscript">Storie Camaldolesi.</bibl>
           L’uno, e l’altro si compiaccia mandarmi con prima occasione.
-          Ringrazj il Signore Iddio che ha messa in sicuro la salute del Padre Bianconi, non essendo degenerata in vera punta la spuria, come temeva il Medico, o non essendosi scoperta peggiore di quel, che apparve sul principio.
-          Appunto mi manda a dire che solleciti a far venire la roba per vestirlo da estate, pensando di trovarsi in Bologna per la Pentecoste alla messa novella del suo Fratello minore.
-          Ieri fu stabilito il contratto de due Messali, un Breviario, e un Lezionario antichi in pergamena.
-          Ma chi anderà a Montalboddo? Ah cattivo!
+        </p>
+        <p>
+          Ringrazj il Signore Iddio che ha messa in sicuro la salute del <persName ref="#DLCL_CF_PC0259">Padre Bianconi</persName>, non essendo degenerata in vera punta la spuria, come temeva il <rs type="person">Medico</rs>, o non essendosi scoperta peggiore di quel, che apparve sul principio.
+          Appunto mi manda a dire che solleciti a far venire la roba per vestirlo da estate, pensando di trovarsi in <placeName ref="#DLCL_CF_L0007">Bologna</placeName> per la Pentecoste alla messa novella del suo <rs type="person">Fratello minore</rs>.
+          Ieri fu stabilito il contratto de <bibl type="manuscript">due Messali</bibl>, <bibl type="manuscript">un Breviario</bibl>, e <bibl type="manuscript">un Lezionario antichi in pergamena</bibl>.
+          Ma chi anderà a <placeName ref="#DLCL_CF_L0165">Montalboddo</placeName>? Ah cattivo!
         </p>
         
         <closer>
           <salute>Con tuttociò mi confermo, e di cuore.</salute>
           <salute>DVPMR</salute>
           <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-04-20">20. Aprile 1722</date>.</dateline>
-          <salute>Al Padre Lettore Collina i miei teneri rispetti.</salute>
+          <salute>Al <persName ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName> i miei teneri rispetti.</salute>
           <salute>Cordialissimo servitore e Padre Affezionatissimo nel Signore</salute>
           <signed>
             <persName ref="#DLCL_CF_PC0001">Don Pietro Canneti</persName>

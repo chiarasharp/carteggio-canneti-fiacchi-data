@@ -54,7 +54,10 @@
       <change when-iso="2025-06-30" who="#DLCL_CF_PS001">creato</change>
       <change when-iso="2025-12-19" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
       <change when-iso="2026-01-23" who="#DLCL_CF_PS001">aggiornamento testo da Word</change>
-    </revisionDesc>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">markup entità</change>
+    
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+</revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20927/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21417/full/800,/0/default.jpg"/>
@@ -69,15 +72,19 @@
           </salute>
         </opener>
         <p>
-          Ricevei col penultimo ordinario la copia di quanto io bramava copiato dal libretto dell’Armanni.
-          La ringrazio: benché stimo non abbia a servire, per essermi ritirato, e disimpegnato con Monsignor Vescovo di Nocera, il quale avea invitato precedentemente altri quattro Abati Silvestrini e poi pensava ripartir tra essi, e i nostri egualmente la funzione.
+          Ricevei col penultimo ordinario la copia di quanto io bramava copiato dal <bibl type="print">libretto</bibl> dell’<persName ref="#DLCL_CF_PC0927">Armanni</persName>.
+          La ringrazio: benché stimo non abbia a servire, per essermi ritirato, e disimpegnato con <rs type="person" ref="#DLCL_CF_PC0931">Monsignor Vescovo di Nocera</rs>, il quale avea invitato precedentemente altri <rs type="person">quattro Abati Silvestrini</rs> e poi pensava ripartir tra essi, e i nostri egualmente la funzione.
           Noi non abbiamo infinadora mai convenuto con quella Congregazione in occasione di comparire Mitrati; né mi par bene dar mano ad una novità poco onorevole.
-          Questa mattina è stato da me il Mercante delle Cartepecore per gli scudi dodici, asserendomi avere riscontro dal suo Corrispondente di Sinigaglia, che fu sollecitamente spedito l’involto costà al Signore Matteo Munghini.
+        </p>
+        <p>
+          Questa mattina è stato da me il <rs type="person">Mercante delle Cartepecore</rs> per gli scudi dodici, asserendomi avere riscontro dal suo <rs type="person">Corrispondente</rs> di <placeName ref="#DLCL_CF_L0030">Sinigaglia</placeName>, che fu sollecitamente spedito l’involto costà al <persName ref="#DLCL_CF_PC0194">Signore Matteo Munghini</persName>.
           Altro io non ho potuto replicare, se non che ancora di ciò non ho avuto l’avviso.
           Dimani, ch’è giorno di posta, farà ritorno, premendogli aver’ il pagamento di tal mercanzia, per cui non suole darsi respiro.
+        </p>
+        <p>
           De’ capi, sopra i quali scrissi colle passate, alcuni potevano ricevere subito la risposta, altri nò: ora può essere per tutti già matura la replica: onde più che mai l’attendo.
-          E pregandola confermare al Padre Lettore Guiccioli i miei rispetti con promessa in breve, di risposta, resto in abbraccio cordiale.
-         </p>
+          E pregandola confermare al <persName ref="#DLCL_CF_PC0121">Padre Lettore Guiccioli</persName> i miei rispetti con promessa in breve, di risposta, resto in abbraccio cordiale.
+        </p>
         
         <closer>
           <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1722-06-08">8. Giugno 1722</date>.</dateline>
