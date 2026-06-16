@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11076">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 10 Maggio 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-05-10"/>
+          <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,62 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-27" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20969/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21515/full/800,/0/default.jpg"/>
     <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21516/full/800,/0/default.jpg"/>
-    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21515/full/800,/0/default.jpg"/>
-    <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21516/full/800,/0/default.jpg"/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 10 Maggio 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11076_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21515/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre Signore Mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          Quanto mi ha riferito <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> intorno a <persName ref="#DLCL_CF_PC1047">Sordello</persName> basta: nè accade ch’Ella più oltre s’incomodi per darmi le parole, o l’estratto del <bibl type="print">Platina</bibl> né del <bibl type="print">Lambecio</bibl>. La ringrazio. Quell’<persName ref="#DLCL_CF_PC0127">Orlandi</persName> vitupera la <placeName ref="#DLCL_CF_L0026">Nazione Italiana</placeName>; e la vitupera in materie, delle quali assai più sono curiosi gli Oltramontani. Vederò la sua nuova infilzatura. Benché pessimo sia il libro degli <bibl type="print">Scrittori Bolognesi</bibl>, ho avuta fortuna di ricavarne considerevole profitto. Con tutto ciò l’ho trattato come merita; e penso che i buoni Letterati di <placeName ref="#DLCL_CF_L0007">Bologna</placeName> ne rideranno.
+        </p>
+        
+        <p>
+          Non mi era nota la disgrazia accaduta al <persName ref="#DLCL_CF_PC0391">Reverendissimo Gasparini</persName> per l’ultimo Tomo del <bibl type="print">Vossio</bibl>. Signor sì l’altra disgrazia percuote l’edizione dell’<bibl type="print">Epistole Ambrosiane</bibl>: ma non mi perdo d’animo; e spero vincere la difficoltà in <placeName ref="#DLCL_CF_L0026">Italia</placeName>, e fuori insorte, e vincerle presto.
+        </p>
+        
+        <p>
+          I <bibl type="manuscript">Manuscritti in pergamena</bibl> con tutta sollecitudine rimandati erano (se ben mi ricordo) nel bauletto. Nuovamente raccomando la diligenza necessaria.
+        </p>
+        
+        <p> Il <persName ref="#DLCL_CF_PC1049">Lioni Copista</persName> del <bibl type="manuscript"
+            >Libro de Regni</bibl>, o del <bibl type="manuscript">Quadriregio</bibl> da lui
+          capricciosamente attribuito al <persName ref="#DLCL_CF_PC1050">Malpigli</persName> scrive
+          in fine di averlo finito di scrivere il dì 8. Agosto 1430. <foreign xml:lang="la"><hi
+              rend="ul">in tempore populi</hi></foreign>. Con pochissime parole vorrei spiegare
+            quell’<foreign xml:lang="la"><hi rend="ul">in tempore populi</hi></foreign>. Ella </p>
+        
+        <pb xml:id="DLCL_CF_E11076_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21516/full/800,/0/default.jpg"/>
+        
+        <p>
+          ne cavi il modo dagl’<bibl type="print">Istorici della Patria</bibl>, ma in pochissime righe.
+        </p>
+        
+        <p>
+          Godo che siano in pronto per passare i danari consaputi a <placeName ref="#DLCL_CF_L0001">Cremona</placeName>: ed io lo troverò per la rimessa a <placeName ref="#DLCL_CF_L0008">Roma</placeName>. 
+        </p>
+        
+        <closer>
+          <salute>Frattanto caramente l’abbraccio, confermandomi.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-05-10">10. Maggio 1723</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+        
+      </div>
     </body>
   </text>
 </TEI>

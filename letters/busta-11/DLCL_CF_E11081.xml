@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11081">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +57,34 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-27" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20974/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21527/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21527/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11081_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21527/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre Signore Mio Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          La salute da <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> recuperata, e avvisatami nel suo vigliettino mi da motivo di rallegrarmene con lei di tutto cuore; come per simile ragione mi congratulo col <persName ref="#DLCL_CF_PC0730">Padre Don Angelo</persName>. Quanto prima scriverò al <persName ref="#DLCL_CF_PC0088">Signore Dottor Calbi</persName>, dopo scorso il suo librò; ciò che non ho potuto ancora fare, per essere tutto applicato alla <bibl type="print">Dissertazione intorno al Quadriregio</bibl> cresciuta ad un’intiero quinterno di carta franzese, che ora stò trascrivendo per la stampa. Raccomando per la copia delle strisce della pianeta dittica antica, usar sopra tutto diligenza nel formare, quali sono, esattamente le lettere antiche de’ nomi de’ Vescovi. Si crede sia veramente un dittico, e singolare, perché i dittici si facevano colle tavolette. Nuovamente insisto che le sia a cuore l’affare de’ libri di <placeName ref="#DLCL_CF_L0054">Parma</placeName>. Aspetto i <bibl type="print">Tassi</bibl> col rimanente. <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> vorrebbe la continuazione della Storia del <persName ref="#DLCL_CF_PC0436">PseudoCardinale Laderchi</persName>: ma vi sarà tempo un’altra volta. Mi dà altresì pena l’espettazione dell’esito di quel bauletto, entro cui furono mandati i <bibl type="manuscript">due Manoscritti membranacei</bibl>, e il Tomo X. della <bibl type="print">Biblioteca Greca</bibl> impazientemente aspettato dal <persName ref="#DLCL_CF_PC0547">Reverendissimo Tassis</persName>. Riveda le mie lettere, se altro vi è, nel rispondere. 
+        </p>
+        
+        <closer>
+          <salute>Con che l’abbraccio caramente.</salute>
+          <salute>DVPMR.</salute>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
   </text>
 </TEI>

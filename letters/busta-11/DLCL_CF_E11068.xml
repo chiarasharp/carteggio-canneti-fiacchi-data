@@ -1,9 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11068">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
-        <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
+        <title xml:lang="it">Piazza a Fiacchi (Parma, 10 Marzo 1723)</title>
+        <author ref="#DLCL_CF_PC0529" key="DLCL_CF_PC0529">Vincenzo Piazza</author>
       </titleStmt>
       <publicationStmt>
         <publisher>LUDI: Laboratorio di Documentazione e Informazione</publisher>
@@ -35,9 +36,9 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <persName ref="#DLCL_CF_PC0529" key="DLCL_CF_PC0529">Vincenzo Piazza</persName>
+          <date when-iso="1723-03-10"/>
+          <placeName ref="#DLCL_CF_L0054" key="#DLCL_CF_L0054">Parma</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,31 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20961/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21497/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21497/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Piazza a Fiacchi (Parma, 10 Marzo 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11068_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21497/full/800,/0/default.jpg"/>
+        
+        <p>
+          Rispondo assai tardi alla compitissima di <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> Reverendissima, perché mi capitò in tempo, che il <rs type="person">Serenissimo Priore</rs> si trova in <placeName ref="#DLCL_CF_L0181">Piacenza</placeName>: onde ho dovuto avanzar colà le mie umilissime suppliche. Avendomi dunque S.A. fatto sperare di graziarmi de’ consaputi Tomi al suo ritorno a <placeName ref="#DLCL_CF_L0054">Parma</placeName>, che sarà per Pasqua, non mancherò di consegnarli al <persName ref="#DLCL_CF_PC1038">Signor Melerio</persName>, con cui già mi sono inteso; e resto col solito ossequio.
+        </p>
+        
+        <closer>
+          <salute>DV.P.Reverendissima</salute>
+          <dateline><placeName ref="#DLCL_CF_L0054">Parma</placeName> li <date when-iso="1723-03-17">10 marzo 1723</date></dateline>
+          <salute>Devotissimo e Affezionatissimo Servo Vostro</salute>
+          <signed><persName ref="#DLCL_CF_PC0529">Vincenzo Piazza</persName></signed>
+        </closer>
+        
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11094">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Padova, 24 Settembre 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-09-24"/>
+          <placeName ref="#DLCL_CF_L0010" key="DLCL_CF_L0010">Padova</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,49 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
-</revisionDesc>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
+      <change when-iso="2026-05-28" who="#DLCL_CF_PS001">aggiornamento IIIF</change>
+    </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20987/manifest">
-    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20988/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20988/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/21589/manifest">
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21590/full/800,/0/default.jpg"/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Padova, 24 Settembre 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11094_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/20988/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
+        <p> Dal <rs type="person">Padre Cancelliere</rs> ricevo l’involto delle due copie del <bibl
+            type="print">Giornale 34.</bibl> co’ i fogli di <placeName ref="#DLCL_CF_L0010"
+            >Padova</placeName> recati dal <persName ref="#DLCL_CF_PC0730">Padre Don
+            Angelo</persName>, e i due frontispizi. Caramente la ringrazio della spedizione fatta da
+            <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> Ho
+          necessità di avere sollecitamente copia di quel, che il <persName ref="#DLCL_CF_PC1077"
+            >Padre Burlamacchi</persName> ha scritto sopra la <bibl type="print">lettera di Santa
+            Caterina da Siena a Madonna Iacoma di Messer Trinci da Foligno</bibl>, o sia <hi
+            rend="ul">argomento</hi>, o sia <hi rend="ul">annotazione</hi>. <rs type="person"
+            ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> ne scriva, e procuri
+          senza indugio da <placeName ref="#DLCL_CF_L0002">Ravenna</placeName> quanto mi occorre,
+          non avendo io il libro di dette lettere, dato fuori dal <persName ref="#DLCL_CF_PC0643"
+            >Gigli</persName>; siccome penso che lo abbiano il <rs type="person">Signore Cardinale
+            Legato</rs>, e il <persName ref="#DLCL_CF_PC0713">Signore Abate Busetti</persName>. Del
+          2.° Tomo del <bibl type="print">Supplemento</bibl> io ho una copia di più. Che debbo
+          farne? E qual nuova mi dà Ella del <bibl type="print">Fabelli</bibl>? </p>
+        
+        <closer>
+          <salute>Addio.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-09-24">24. Settembre 1723</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
   </text>
 </TEI>

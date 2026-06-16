@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11063">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 1 Marzo 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-03-01"/>
+          <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,64 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20956/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21489/full/800,/0/default.jpg"/>
     <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21490/full/800,/0/default.jpg"/>
-    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21489/full/800,/0/default.jpg"/>
-    <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21490/full/800,/0/default.jpg"/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 1 Marzo 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11063_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21489/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
+        <p> Raccomando alla diligenza affettuosa di <rs type="person" ref="#DLCL_CF_PC0002"
+            key="DLCL_CF_PC0002">Vostra Paternità</rs> l’annessa da trasmettersi con prima occasione
+          al <rs type="person">Padre Predicatore</rs> di <orgName ref="#DLCL_CF_O0141"
+            >Sant’Alberto</orgName>. Tra le altre cose lo ringrazio della scoperta da lui fattami di
+          tre Manuscritti, che ora ho avuti da <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>,
+          uno cartaceo, che contiene <bibl type="manuscript"><foreign xml:lang="la">Flores S.
+              Hieronymi</foreign></bibl>, non sò da chi compilati, perché è mancante della prima
+          pagina; l’altro in pergamena de’ <bibl type="manuscript">Trionfi del Petrarca</bibl>; il
+          terzo bellissimo, e corretto de’ <bibl type="manuscript">Commentarj di Cesare, altresì in
+            Cartapecora, scritto nel 1435.</bibl> di buon carattere. Sul principio di ogni libro sta
+          scritto <persName ref="#DLCL_CF_PC1039"><foreign xml:lang="la"><hi rend="underline">Iul.
+                Celsus Constantinus</hi></foreign></persName>
+          <hi rend="ul"><foreign xml:lang="la">V.C. emendavit</foreign></hi>. Fu questa correzione
+          fatta nel secolo ottavo, o in quel torno da un <persName ref="#DLCL_CF_PC1039">Giulio
+            Cesare Costantinopolitano</persName>, di cui fà menzione in più luoghi il <persName
+            ref="#DLCL_CF_PC0679">Fabricio</persName> nella <bibl type="print">Biblioteca
+            Latina</bibl>. Così si spende. <rs type="person" ref="#DLCL_CF_PC0002"
+            key="DLCL_CF_PC0002">Vostra Paternità</rs> si aiuti per ricavare il rimborso da cotesti
+          duplicati. Spero che un giorno, calmato che sia, potrà il <persName ref="#DLCL_CF_PC0146"
+            >Mauro</persName> darvi mano: ma io non ho di lui lettere. Oggi otto gli scrissi
+          nuovamente, per vedere se l’importunità può vincere la sua ritrosia. </p>
+        
+        <p>
+          Le <bibl type="print">Gazzette di Ravenna</bibl> dell’ultimo ordinario cominciano dal chiarissimo nome del <persName ref="#DLCL_CF_PC0088">Signor Dottor Calbi</persName>, che riverisco divotamente, seco rallegrandomi del parto uscito alla luce. Gli dica che subito scrissi al <persName ref="#DLCL_CF_PC0318">Signor Apostolo Zeno</persName>;
+        </p>
+        
+        <pb xml:id="DLCL_CF_E11063_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21490/full/800,/0/default.jpg"/>
+        
+        <p>
+          ma non ho poi avuta risposta, onde né pur posso giustificare l’attenzione, e pronteza mia in servirlo. Si potrebbe replicargli un tocco per mezzo del <persName ref="#DLCL_CF_PC0873">Padre Don Angelo Calogerà</persName>, che saluto ben distintamente. Anco il nome del gran <persName ref="#DLCL_CF_PC0923">Paolo Brocchi</persName> và sulle stampe; e non ha tanta rip<gap reason="illegible"/>[…]enza, quanta ne mostrò lo scrupoloso <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Bibliotecario</rs> suo Dire<gap reason="illegible"/>[…]. 
+        </p>
+        
+        <closer>
+          <salute>Resto di tutto cuore confermandomi.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-03-01">primo Marzo 1723.</date></dateline>
+          <salute>DVPMR</salute>
+          <salute>Par. Cordialissimo Servitore</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
   </text>
 </TEI>

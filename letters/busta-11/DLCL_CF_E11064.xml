@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11064">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 8 Marzo 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-03-08"/>
+          <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,35 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20957/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21491/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21491/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 8 Marzo 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11064_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21491/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          Avendo io per canale col <persName ref="#DLCL_CF_PC0146">Signor Giuseppe Mauro</persName> l’amore del mio <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName>, affine di ottenere il riscontro del <bibl type="print">Quadriregio</bibl>, ritorno ad importunarlo, ora che da <placeName ref="#DLCL_CF_L0023">Foligno</placeName> mi si prescrive l’ultimo, e perentorio termine della mia <bibl type="print">Prefazione</bibl> da terminarsi col suddetto riscontro. E quando mai (come vado sospettando) non si stimi spediente l’adempir le promesse fattemi, questo medesimo non mi dispiacerà, almeno pel motivo di scaricarmi di questo pensiero, e di questa pena fatta per l’ostinato, ed invincibile silenzio troppo dura, e più non soffribile. Attendo adunque risposta con tutta sollecitudine per mio governo. Un cordialissimo saluto al <persName ref="#DLCL_CF_PC0730">Padre Don Angelo</persName> nostro Amatissimo. 
+        </p>
+        
+        <closer>
+          <salute>Con che senza fine mi confermo.</salute>
+          <salute>DVPMR.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-03-08">8. Marzo 1723</date>.</dateline>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
   </text>
 </TEI>

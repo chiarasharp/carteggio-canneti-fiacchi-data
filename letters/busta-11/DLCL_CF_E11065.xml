@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11065">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 5 Marzo 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-03-05"/>
+          <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,47 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
 </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20958/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21492/full/800,/0/default.jpg"/>
     <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21493/full/800,/0/default.jpg"/>
-    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21492/full/800,/0/default.jpg"/>
-    <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21493/full/800,/0/default.jpg"/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <text type="letter" n="Canneti a Fiacchi (Fabriano, 5 Marzo 1723)">
     <body>
       <div type="transcription">
-         </div>
+        
+        <pb xml:id="DLCL_CF_E11065_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21492/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          Abbiamo <rs type="person">un’altro Associato</rs> per il <bibl type="print">Corpo delle Opere</bibl> del <persName ref="#DLCL_CF_PC0979">Tasso</persName> preso a stampare dal <persName ref="#DLCL_CF_PC0986">Buonarrigo</persName>. Egli è <persName ref="#DLCL_CF_PC1040">Monsignore Torregiani</persName>. Si prenda <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> il pensiero di farlo ascrivere collo sborso di paoli, o lire sedici, che so rimetterò insieme col residuo del conto, tosto ch’Ella me ne darà notizia. Mi mandi altra Copia dell’Invito all’Associazione, mercè cui spero far aggiungere un’altro gran Prelato della stessa nazione Fiorentina. Potrà far legare similmente il primo Tomo per <rs type="person" ref="#DLCL_CF_PC1040">detto Monsignore</rs>, cui lo manderò io a <placeName ref="#DLCL_CF_L0124">Città di Castello</placeName>, dov’è Governatore. E del Tomo 2° che nuova abbiamo? Quando uscirà in luce? Dopo che mi raccomandai a <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> per avere risposta dal <persName ref="#DLCL_CF_PC0146">Mauro</persName>, scrissi poscia a lui medesimo: ma se non vi s’impiega l’efficacia d’un fiacco rimprovero, che mi figuro abbia la virtù della verga mosaica, non averemo acqua da quel sasso. E tal sia di chi si muore di sete.
+        </p>
+        
+        <pb xml:id="DLCL_CF_E11065_C1V_L" n="1 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21493/full/800,/0/default.jpg"/>
+        
+        <p>
+          E pur non sarebbe che di profitto all’Opera il continuato carteggio. Un <rs type="person">Cavalier Fiorentino, de’ primi Cruscanti</rs>, disse non ha molto che alla <bibl type="print">Raccolta di Venezia</bibl> sarebbe mancato il <bibl type="print">Processo</bibl>. Che cosa intendasi sotto questo nome, io no ‘l so; e pure il saperlo gioverebbe, per procurarlo, e far sì che non vi manchi.
+        </p>
+        
+        <p>
+          Del Testo degli <bibl type="print">Anecdoti</bibl> del <persName ref="#DLCL_CF_PC1041">Martene</persName> in sette Tomi, intendo che tre ne usciranno dopo Pasqua. Vorrei sapere se si vende quest’Opera per Associazione.
+        </p>
+        
+        <closer>
+          <salute>Resto confermandomi di tutto cuore.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-03-05">5. Marzo 1723</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
   </text>
 </TEI>

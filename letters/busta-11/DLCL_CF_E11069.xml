@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11069">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="it">Canneti a Fiacchi (...luogo, ...anno)</title>
+        <title xml:lang="it">Canneti a Fiacchi (Fabriano, 2 Aprile 1723)</title>
         <author ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</author>
       </titleStmt>
       <publicationStmt>
@@ -36,8 +37,8 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Pietro Canneti</persName>
-          <date when-iso=""/>
-          <placeName ref="" key=""/>
+          <date when-iso="1723-04-02"/>
+          <placeName ref="#DLCL_CF_L0004" key="DLCL_CF_L0004">Fabriano</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Mariangelo Fiacchi</persName>
@@ -57,22 +58,138 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-         <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
-   
-         <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
-</revisionDesc>
+      <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
+      <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione, markup struttura e entità</change>
+    </revisionDesc>
   </teiHeader>
   <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20962/manifest">
     <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21498/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21498/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
-    <graphic n="2v" url=""/>
   </facsimile>
-  <text type="letter" n="Canneti a Fiacchi (, )">
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/21499/manifest">
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21500/full/800,/0/default.jpg"/>
+    <graphic n="2v" url="https://www.cdc.classense.ra.it/iiif/2/21501/full/800,/0/default.jpg"/>
+    <graphic n="3r" url="https://www.cdc.classense.ra.it/iiif/2/21502/full/800,/0/default.jpg"/>
+  </facsimile>
+  <text>
+    <group>
+      <text type="letter" n="Canneti a Fiacchi (Fabriano, 2 Aprile 1723)">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11069_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21498/full/800,/0/default.jpg"/>
+        
+        <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        
+        <p>
+          Ancor quando vi è poco tempo, si scrive, e si scrive così: Ho ricevute nel Sabbato Santo congiuntamente due risposte di <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs>, una delle quali (o’ scandalo) a sei mie lettere. Coll’arrivo dell’Alleluia, giunsero le Colonnette: io le manderò dirette al <persName ref="#DLCL_CF_PC0121">Padre Lettore Guiccioli</persName>; e con esse vi sarà lo stame (glielo dica, e lo riverisca). Ma quando si manderanno a <placeName ref="#DLCL_CF_L0003">Pesaro</placeName>, anche per Uomo a posta? Quando il <persName ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Don Mariangelo</persName> mi assicuri che il tal giorno sarà in <placeName ref="#DLCL_CF_L0003">Pesaro</placeName> il <bibl type="manuscript">Manuscritto Bolognese</bibl>, che mi manda il <persName ref="#DLCL_CF_PC0146">Signore Giuseppe Mauro</persName>: questa condizione è indispensabile, perché voglio che il Messo me lo porti; e se nel tempo stesso può avere da <placeName ref="#DLCL_CF_L0024">Venezia</placeName> il <bibl type="print">Decembrio</bibl> di <placeName ref="#DLCL_CF_L0010">Padova</placeName>, che ho dato ordine si consegni al <persName ref="#DLCL_CF_PC0585">Poletti</persName>, e questi a lei lo mandi, più volentieri spedirò la Cassetta delle Colonnette. A lei tocca darsi le mani dattorno. E se altro ha da inviarmi, lo metta in ordine. È disgrazia dello spaccio dell’<bibl type="print">Opera</bibl> del <persName ref="#DLCL_CF_PC0088">Signore Calbi</persName> che io sia in paese, ove né pur’ una copia è possibile trovar da vedere. Resto, rimettendomi ad altr’Ordinario. (e così finisce la lettera)
+        </p>
+        
+        <closer>
+          <salute>DVPMR. <placeName ref="#DLCL_CF_L0004">Fabriano</placeName> 29. Marzo 1723.</salute>
+          <salute>Cordialissimo Servo Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
     </body>
+      </text>
+      <text type="attachment" xml:id="DLCL_CF_E11069_A01" n="Canneti a Fiacchi (Fabriano, 2 Aprile 1723) - Allegato 1">
+    <body>
+      <div type="transcription">
+        
+        <pb xml:id="DLCL_CF_E11069_C1R_A01" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21500/full/800,/0/default.jpg"/>
+        
+        <p> Ripiglio la risposta già interrotta alle ultime due giunte nello stesso tempo, di <rs
+                type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> Con
+              troppa fretta io son corso all’amo, che mi ha preso in <placeName ref="#DLCL_CF_L0010"
+                >Padova</placeName>; posciache <persName ref="#DLCL_CF_PC0216">Monsignore
+                Fontanini</persName> mi scrive che mi averebbe imprestato il suo esemplare del <bibl
+                type="print">Decembrio</bibl>. Il peggio si è che mi avvisa non contener, che
+              pochissimo di notizie intorno a’ Letterati della sua età, e tutto stendersi in
+              pedanteria gramaticale. Il <bibl type="print">Sallustio</bibl>, e lo <bibl
+                type="print">Svetonio</bibl> proposti dallo stesso pescatore son cari. Il primo già
+              l’ho io acquistato con assai minor prezzo. Loderei che si barattassero i quattro
+              nostri Tomi di <bibl type="print">Cicerone</bibl> in quei cinque; tanto più che io
+              diedi al medesimo <persName ref="#DLCL_CF_PC0011">Volpi</persName> il <bibl
+                type="print">Corpo</bibl> in ottavo del <rs type="person" ref="#DLCL_CF_PC0153"
+                >detto Autore</rs> colle <bibl type="print">castigazioni</bibl> di <persName
+                ref="#DLCL_CF_PC1043">Pier Vittorio</persName>, ch’erano anticamente della <orgName
+                ref="#DLCL_CF_O0001">Libreria</orgName>. Per giunta potressimo dargli que’ pochi
+                <bibl type="print">Libercoli</bibl>, che costì sono, di <persName
+                ref="#DLCL_CF_PC0024">Angelo Rocca</persName>, insieme col Tomo in 4.to grande,
+              della <orgName ref="#DLCL_CF_O0025">Biblioteca</orgName> Vaticana: ora che io sono in
+              trattato di prendere tutte le Opere del <persName ref="#DLCL_CF_PC0024"
+                >Rocca</persName> in due Volumi in foglio poco fà usciti in luce. Abbiamo eziandio
+              il duplicato del <persName ref="#DLCL_CF_PC0953">Balbi</persName>
+              <bibl type="print"><foreign xml:lang="la"><hi rend="ul">de
+                Coronatione</hi></foreign></bibl> libro rarissimo, e da tenere in pregio.
+              L’accennato Volume del <persName ref="#DLCL_CF_PC0024">Rocca</persName> intorno la
+              Biblioteca l’ho io quì.</p>
+        <p>Assai mi preme avere la nuova edizione del <bibl type="print">Panciroli</bibl> con gli <rs type="person">altri Autori connessi</rs>. Se è vero che non abbia esito l’<bibl type="print">Opera</bibl> dell’<persName ref="#DLCL_CF_PC0127">Orlandi</persName>, gli converrà scemare il prezzo. Io non ho fretta. Essendo la <bibl type="print">Vita di Sant’Eusebio</bibl> nel <bibl type="print">Marzo Bollandiano</bibl>, può Ella rimandare il libro al <persName ref="#DLCL_CF_PC0193">Padre Abate Amigoni</persName>, insieme con l’altro del <bibl type="print">Romei</bibl>. Nulla di questi mi curo, poiché Egli per se ha trattenuto il <bibl type="print">Verulamio</bibl>. Il motivo è pronto, Essendo vero che l’uno, e l’altro è in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName>, per cui unicamente io cerco accrescimenti di libri. Colle colonnette manderò la copia della <bibl type="print">prima Filosofia</bibl> del <persName ref="#DLCL_CF_PC0088">Signor Calbi</persName>, sciolta, con altre sei, che si potranno far vendere in occasione di esitar la 2.° parte, senza che si penetra da qual mano siano uscite.</p>
+        <p>Godo che finalmente sia stato pagato il <bibl type="print">Nicoli</bibl>. Già da qualche tempo è compita la celebrazione delle Messe per gli Libri datimi dal <persName ref="#DLCL_CF_PC0831">Signor Pietro Casolari</persName>. Son prontissimo a
+        </p>
+        
+        <pb xml:id="DLCL_CF_E11069_C2V_A01" n="2 - Verso" facs="https://www.cdc.classense.ra.it/iiif/2/21501/full/800,/0/default.jpg"/>
+        
+        <p>
+          mandar la fede: ma non sapendo io come metter la mano sull’altra minuta, è necessario che si prenda l’incomodo il <persName ref="#DLCL_CF_PC0831">Signore Casolari</persName> di mandarmi la formula. Ricevuta che io l’abbia, la farò fare, e la trasmetterò coll’autentica §. <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> me la procuri. Mi avvisi se in cotesta <orgName ref="#DLCL_CF_O0001">Libreria</orgName> vi sono i due Tomi dell’<bibl type="print">Arte Oratoria</bibl>, e degli <bibl type="print">Sta<gap reason="illegible"/>[….] Oratorj</bibl> del <persName ref="#DLCL_CF_PC0483">P. Platina</persName>. Di molte copie, le quali ho esitato per l’Autore in <placeName ref="#DLCL_CF_L0028">Perugia</placeName>, a me n’è rimaso un corpo sciolto in certi foglj difettuoso. Vorrei altresì essere informato dell’edizione delle <bibl type="print">Omelie</bibl> di <persName ref="#DLCL_CF_PC0504">Clemente XI.</persName>, e se vi è la traduzione di <persName ref="#DLCL_CF_PC0033">Crescimbeni</persName>, ch’è molto buona, e accurata.
+        </p>
+        
+        <p> La notizia della stampa già seguita di tre Tomi degli <bibl type="print">Storici
+                Italiani</bibl> mi risveglia maggiormente la specie di quel che brama da noi il
+                <persName ref="#DLCL_CF_PC0013">Signor Muratori</persName>, e di ciò, che io gli
+              promisi. <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra
+                Paternità</rs> adunque non differisca di far fare una copia dell’Opuscolo del
+                <persName ref="#DLCL_CF_PC0995">Carranti</persName>
+              <bibl type="print"><foreign xml:lang="la"><hi rend="ul">Belli Veneti
+                  Historia</hi></foreign></bibl> stampato nel 1500., ma non dell’altro <bibl
+                type="print"><foreign xml:lang="la"><hi rend="ul">Ludovici Sfortiae
+                  Captivitas</hi></foreign></bibl>. Parmi che io dassi ordine al <persName
+                ref="#DLCL_CF_PC0007">Padre Lettore Collina</persName>, ed a lei pure di far fare, a
+              spese del <persName ref="#DLCL_CF_PC0013">Signor Muratori</persName>, copia di una
+              parte della <bibl type="manuscript">Storia del Ricobaldo</bibl> costì Manoscritta,
+              esprimendo da qual libro si ha da cominciare. Per sicurezza ne rescrivo nuovamente a
+                <placeName ref="#DLCL_CF_L0012">Modena</placeName>. Considero che tanto cotesto
+              Manoscritto, come l’altro, ch’è presso di me, <bibl type="manuscript"><foreign
+                  xml:lang="la"><hi rend="ul">de Praelijs Tusciae</hi></foreign></bibl>, potrebbero
+              mettersi nelle mani del <rs type="person">Padre Lettore</rs>, il quale da vicino se la
+              potrebbe intendere col <persName ref="#DLCL_CF_PC0013">Muratori</persName>. Questo
+              Codice verrà con le altre cose. Egli è citato la prima volta da <persName
+                ref="#DLCL_CF_PC0216">Fontanini</persName> nella <bibl type="print">Dissertazione
+                  <foreign xml:lang="la">de <hi rend="ul">Corona Ferrea</hi></foreign></bibl>, della
+              seconda edizione di <placeName ref="#DLCL_CF_L0038">Olanda</placeName>. Io aspetto
+              questa da <placeName ref="#DLCL_CF_L0008">Roma</placeName>, insieme con <bibl
+                type="print">l’Apologia in difesa</bibl> del <persName ref="#DLCL_CF_PC0431"
+                >Venerabile Cardinale Tom[masi]</persName> contro l’iniquo <persName
+                ref="#DLCL_CF_PC0436">Laderchi</persName> vituperato fino dagli Olandesi, per avere
+          temera<gap reason="illegible"/>[…] offesa la memoria, e scioccamente criticate le Opere liturgiche di quel
+          Santo Porpo<gap reason="illegible"/>[...]. </p>
+        
+        <p>
+          Tre sono le copie, che io aspetto del primo Tomo del <bibl type="print">Tasso</bibl>. Sarebbe cosa biasimevole se la <gap reason="illegible"/>[…]pa non andasse inanzi. Il <persName ref="#DLCL_CF_PC0146">Mauro</persName> deve far tutto il possibile perché si solleciti; e qua<gap reason="illegible"/>[…] mai fosse astretto a uscir delle mani del <persName ref="#DLCL_CF_PC0986">Buonarrigo</persName>, doverebbe sostituire subito a<gap reason="illegible"/>[…]
+        </p>
+        
+        <pb xml:id="DLCL_CF_E11069_C3R_A01" n="3 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21502/full/800,/0/default.jpg"/>
+        
+        <p>
+          stampatore. E la faccenda è tale che meriterebbe si procurasse impegnarvi l’autorità dell’<persName ref="#DLCL_CF_PC1045">Emerito Bentivogli</persName>, e del <persName ref="#DLCL_CF_PC1044">Signor Marchese Luigi</persName> suo fratello. Mi dispiacerebbe però se lo Stampatore si dolesse della tardanza del <persName ref="#DLCL_CF_PC0431">Mauro</persName> medesimo, come accadeva sul principio dell’anno scorso; ed io n’ebbi riscontri da <placeName ref="#DLCL_CF_L0024">Venezia</placeName>. Oh questo sarebbe male!
+        </p>
+        
+        <p>
+          Non si scordi della <bibl type="print">Poggiana</bibl> del <persName ref="#DLCL_CF_PC0981">Recanati</persName> nel fare la spedizione. 
+        </p>
+        
+        <closer>
+          <salute>Resto confermandomi con tutto lo spirito.</salute>
+          <dateline><placeName ref="#DLCL_CF_L0004">Fabriano</placeName> <date when-iso="1723-04-02">2. Aprile 1723</date>.</dateline>
+          <salute>DVPMR</salute>
+          <salute>Par. Cordialissimo Servitore Vero</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+      </div>
+    </body>
+      </text>
+    </group>
   </text>
 </TEI>

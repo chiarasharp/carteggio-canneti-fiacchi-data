@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="DLCL_CF_E11137">
   <teiHeader>
     <fileDesc>
@@ -57,12 +58,16 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-    
       <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">trascrizione</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">markup entità</change>
+      <change when-iso="2026-05-26" who="#DLCL_CF_PS001">markup struttura</change>
+  <change when-iso="2026-05-28" who="#DLCL_CF_PS001">aggiornamento IIIF</change>
+  <change when-iso="2026-05-29" who="#DLCL_CF_PS001">aggiornamento struttura</change>
 </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/21030/manifest">
-    <graphic n="1r" url=""/>
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/21734/manifest">
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21735/full/800,/0/default.jpg"/>
     <graphic n="1v" url=""/>
     <graphic n="2r" url=""/>
     <graphic n="2v" url=""/>
@@ -70,7 +75,19 @@
   <text type="letter" n="Canneti a Fiacchi (, )">
     <body>
       <div type="transcription">
-         </div>
+        <pb xml:id="DLCL_CF_E11137_C1R_L" n="1 - Recto" facs="https://www.cdc.classense.ra.it/iiif/2/21735/full/800,/0/default.jpg"/>
+                <opener>
+          <salute><rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Molto Reverendo Padre mio Signore Osservandissimo</rs></salute>
+        </opener>
+        <p>Ho già scritto al <persName ref="#DLCL_CF_PC0044">Padre Pancaldi</persName> che per tre scudi mi priverò della <bibl type="print">Storia della Concezione</bibl>. D’ordine del medesimo pagherà per me <rs type="person">cotesto Padre Camerlengo</rs> a <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Vostra Paternità</rs> lire cinquanta da rimettersi a <placeName ref="#DLCL_CF_L0024">Venezia</placeName>, ovvero egli stesso le rimetterà, se Ella glie ne farà istanza. Ho ricevuto l’involtino con la sacchetta, e li paoli 27. da consegnarsi al <rs type="person">mio Padre Camerlengo</rs>, al di lui ritorno da <placeName ref="#DLCL_CF_L0157">Civitella</placeName>, dov’è andato a godersi queste belle giornate. Dal <persName ref="#DLCL_CF_PC0093">Padre Lettore Onestini</persName> mi farò portare la 2.a parte della <bibl type="print">Biblioteca Sicula</bibl> del <persName ref="#DLCL_CF_PC0096">Mongitore</persName>. A <persName ref="#DLCL_CF_PC0313">Paolino</persName> darà l’animo di accompagnarla con l’altra prima nella legatura? Quanto prima saranno celebrate le messe tredici pel <bibl type="print">libro contro al Picenino</bibl>. Detta opera del <persName ref="#DLCL_CF_PC1091">Padre Antonio da Venezia</persName> vi è in <orgName ref="#DLCL_CF_O0001">cotesta Libreria</orgName>? Si sbrighi dall’Indice Cardinalizio, e ne porti poscia quà una copia. Aspettiamo stagione migliore per la mossa del <bibl type="print">Lattanzio</bibl>, e discorriamola ben prima; poi risolveremo. Quanto più vi penso, meno di stimolo sento, a desiderarlo in veste pellegrina con tanti pericoli, che può correre. E il <persName ref="#DLCL_CF_PC0873">Padre Calogerà</persName> hà ancor’egli degl’Indici solenni per le mani? Almeno non arriva ad essere Uomo di corte. Addio <rs type="person" ref="#DLCL_CF_PC0002" key="DLCL_CF_PC0002">Padre Bibliotecario</rs>.</p>
+                <closer>
+          <dateline>ultimo Novembre 1724</dateline>
+          <salute>DVPMR.</salute>
+          <salute>Cordialissimo Servitore Affezionatissimo</salute>
+          <signed><persName ref="#DLCL_CF_PC0001" key="DLCL_CF_PC0001">Don Pietro Canneti</persName></signed>
+        </closer>
+        <p>Nota sul margine interno [dica al <rs type="person">Padre Camerlengo</rs>, che mandi dal <rs type="person">Signor Batista</rs> per una lettera.]</p>
+      </div>
     </body>
   </text>
 </TEI>

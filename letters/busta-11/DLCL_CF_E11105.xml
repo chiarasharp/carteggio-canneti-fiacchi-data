@@ -57,16 +57,16 @@
     </profileDesc>
     <revisionDesc status="created">
       <change when-iso="2025-11-26" who="#DLCL_CF_PS001">creato</change>
-          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
          <change when-iso="2025-11-26" who="#DLCL_CF_PS001">aggiornamento IIIF da Unibo a CDC</change>
    
          <change when-iso="2026-03-17" who="#DLCL_CF_PS001">correzione paragrafi</change>
+  <change when-iso="2026-05-28" who="#DLCL_CF_PS001">aggiornamento IIIF</change>
 </revisionDesc>
   </teiHeader>
-  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/2/20998/manifest">
-    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/20999/full/800,/0/default.jpg"/>
-    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/20999/full/800,/0/default.jpg"/>
-    <graphic n="2r" url=""/>
+  <facsimile sameAs="https://www.cdc.classense.ra.it/iiif/21624/manifest">
+    <graphic n="1r" url="https://www.cdc.classense.ra.it/iiif/2/21625/full/800,/0/default.jpg"/>
+    <graphic n="1v" url="https://www.cdc.classense.ra.it/iiif/2/21626/full/800,/0/default.jpg"/>
+    <graphic n="2r" url="https://www.cdc.classense.ra.it/iiif/2/21627/full/800,/0/default.jpg"/>
     <graphic n="2v" url=""/>
   </facsimile>
   <text type="letter" n="Canneti a Fiacchi (, )">
