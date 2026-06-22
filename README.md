@@ -23,13 +23,6 @@ schema/
 
 I file delle lettere seguono la convenzione `DLCL_CF_EYYXXX.xml`, dove `YY` è il numero della busta ed `XXX` è il numero progressivo della lettera.
 
-## Versioni
-
-| Versione | Data | Contenuto |
-|---|---|---|
-| v1.0.2 | maggio 2025 | busta-10 completa (133 lettere) |
-| v1.2.0 | giugno 2026 | busta-10 + busta-11 (273 lettere) |
-
 Il dataset è pubblicato su Zenodo con DOI permanente: https://doi.org/10.5281/zenodo.15683491
 
 ## Finanziamento
