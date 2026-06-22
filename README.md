@@ -1,24 +1,39 @@
 # Dati edizione digitale Carteggio Canneti Fiacchi
 
-Dataset TEI XML del carteggio fra i monaci camaldolesi Pietro Canneti e Mariangelo Fiacchi, una collaborazione con il laboratorio LUDI del Dipartimento di Beni Culturali dell'Università di Bologna insieme alla Biblioteca Classense di Ravenna.
+Dataset TEI/XML del carteggio fra i monaci camaldolesi Pietro Canneti (1652–1725) e Mariangelo Fiacchi (1686–1766), conservato presso la Biblioteca Classense di Ravenna. Il dataset è prodotto nell’ambito del laboratorio LUDI del Dipartimento di Beni Culturali dell’Università di Bologna in collaborazione con la Biblioteca Classense.
 
-### Struttura del Dataset
-Il dataset è organizzato nelle seguenti directory principali:
-* **entities**: raccoglie i file relativi alle entità identificate nelle lettere e nei loro metadati, tra cui:
-  * le **persone**: file che elencano e descrivono le persone citate, come `cited-people.xml` e risorse di supporto per la generazione di elementi TEI `<person>`;
-  * le **opere**: file per la descrizione di manoscritti (`manuscripts.xml`) e opere a stampa (`prints.xml`), con risorse per la creazione di elementi `<bibl>`;
-  * i **luoghi**: file `places.xml` che documenta i luoghi menzionati, accompagnato da risorse di supporto per la generazione di elementi TEI `<place>`;
-  * le **organizzazioni**: file `orgs.xml` con la lista delle organizzazioni citate, integrato da risorse per la generazione di elementi `<org>`;
-* **letters**: attualmente include solamente la sottodirectory **busta-10**, contenente i file XML delle lettere di questa raccolta, ciascuno nominato secondo lo schema `DLCL_CF_EYYXXX.xml`, dove:
-  * `DLCL`: corrisponde a *Digilet Classense Letters*, il nome del progetto principale;
-  * `CF`: corrisponde al codice del carteggio *Canneti-Fiacchi*;
-  * `EYY`: indica il numero della busta in cui è contenuta la lettera (esempio: E10 per la Busta 10);
-  * `XXX`: è un numero progressivo a tre cifre per ogni lettera (esempio:`DLCL_CF_E10001.xml` è la prima lettera della Busta 10);
-* **schema**: contiene i file che definiscono la struttura del progetto TEI:
-  * `carteggio-cannetifiacchi-odd.odd`: file ODD (One Document Does it All) che descrive il progetto e specifica gli elementi TEI utilizzati;
-  * `carteggio-cannetifiacchi-rng.rng`: schema Relax NG derivato dal file ODD, utilizzato per la validazione dei file XML.
+Il corpus comprende 624 lettere totali (1711–1730). Il dataset include attualmente le lettere delle buste 10 e 11, per un totale di 273 lettere codificate in TEI/XML.
 
- 
-Il progetto è finanziato dall’Unione Europea - NextGenerationEU a valere sul Piano Nazionale di Ripresa e Resilienza (PNRR) – Missione 4 Istruzione e ricerca – Componente 2 Dalla ricerca all’impresa – Investimento Investimento 1.3, Avviso D.D. 341 del 15/03/2022, dal titolo: Cultural Heritage Active Innovation for Sustainable Society, codice proposta PE0000020.
+## Struttura del dataset
 
-![Testata PNRR](testata-pnrr.png "Testata PNRR")
+```
+letters/
+  busta-10/   133 lettere (DLCL_CF_E10001–E10133), 1711–1717
+  busta-11/   140 lettere (DLCL_CF_E11001–E11141), 1721–1724
+entities/
+  people/     persone citate (cited-people.xml, staff.xml)
+  manuscripts.xml
+  prints.xml
+  places.xml
+  orgs.xml
+schema/
+  carteggio-cannetifiacchi-odd.odd
+  carteggio-cannetifiacchi-rng.rng
+```
+
+I file delle lettere seguono la convenzione `DLCL_CF_EYYXXX.xml`, dove `YY` è il numero della busta ed `XXX` è il numero progressivo della lettera.
+
+## Versioni
+
+| Versione | Data | Contenuto |
+|---|---|---|
+| v1.0.2 | maggio 2025 | busta-10 completa (133 lettere) |
+| v1.2.0 | giugno 2026 | busta-10 + busta-11 (273 lettere) |
+
+Il dataset è pubblicato su Zenodo con DOI permanente: https://doi.org/10.5281/zenodo.15683491
+
+## Finanziamento
+
+Il progetto è finanziato dall’Unione Europea — NextGenerationEU, Piano Nazionale di Ripresa e Resilienza (PNRR) — Missione 4, Componente 2, Investimento 1.3, Avviso D.D. 341 del 15/03/2022: Cultural Heritage Active Innovation for Sustainable Society (CHANGES), codice proposta PE0000020.
+
+![Testata PNRR](testata-pnrr.png)
